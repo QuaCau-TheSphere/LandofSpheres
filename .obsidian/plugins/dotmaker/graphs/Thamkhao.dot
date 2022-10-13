@@ -1,0 +1,240 @@
+digraph Thamkhao{
+//splines=ortho;
+		overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Giaiphap nodes
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"j.1a Megan thấy được tại sao việc nuông chiều cảm xúc sẽ gây hại cho mình và những người mình yêu thương" [ label = "j.1a Megan thấy được tại sao\nviệc nuông chiều cảm xúc sẽ gây\nhại cho mình và những người mình\nyêu thương" ] 
+"1b.1 Những người Megan quan tâm cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" [ label = "1b.1 Những người Megan quan tâm\ncũng quan tâm và mong muốn có\nđược câu trả lời thoả đáng về\nmâu thuẫn họ thấy" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ytuongtothon nodes
+
+node [ shape=box, penwidth=1.5 fillcolor="#D1E4DD" ]
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yeutohotro nodes
+
+node [ shape=note fillcolor="#D1D1E4" ]
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan chia sẻ quan điểm này" [ label = "j.1a.i Những người trong các\nlĩnh vực về kích thích giác quan\nchia sẻ quan điểm này" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"0 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "0 Megan sẽ chủ động gặp người cô\ncoi thường để hiểu những gì họ\nnghĩ" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Thamkhao nodes
+
+node [ shape=plain fillcolor=white ]
+"Chủ nghĩa cá nhân vs chủ nghĩa cộng đồng" [ label = "Chủ nghĩa cá nhân vs chủ nghĩa\ncộng đồng" ] 
+"Chức năng của người thân, bạn bè" [ label = "Chức năng của người thân, bạn bè" ] 
+"Tự trị và năng lực ra quyết định" [ label = "Tự trị và năng lực ra quyết định" ] 
+"Hoà giải trong tố tụng" [ label = "Hoà giải trong tố tụng" ] 
+"Hoạch định chính sách" [ label = "Hoạch định chính sách" ] 
+"Công lý phục hồi" [ label = "Công lý phục hồi" ] 
+"Tâm lý học tính cách" [ label = "Tâm lý học tính cách" ] 
+"Đa nguyên giá trị" [ label = "Đa nguyên giá trị" ] 
+"Drama" [ label = "Drama" ] 
+"Cái đẹp, nghệ thuật" [ label = "Cái đẹp, nghệ thuật" ] 
+"Giải trí" [ label = "Giải trí" ] 
+"Tâm lý học tính cách" [ label = "Tâm lý học tính cách" ] 
+"Mối quan hệ giữa cảm xúc và lý trí" [ label = "Mối quan hệ giữa cảm xúc và lý\ntrí" ] 
+"Cai nghiện" [ label = "Cai nghiện" ] 
+"Sự mù mờ" [ label = "Sự mù mờ" ] 
+"New Age" [ label = "New Age" ] 
+"Quảng cáo, vận động bầu cử, truyền đạo, tuyên truyền" [ label = "Quảng cáo, vận động bầu cử,\ntruyền đạo, tuyên truyền" ] 
+"Đa cấp" [ label = "Đa cấp" ] 
+"Phát triển cộng đồng" [ label = "Phát triển cộng đồng" ] 
+"Biểu tình, tẩy chay" [ label = "Biểu tình, tẩy chay" ] 
+"Cảm giác nhẹ nhõm khi nhận ra mình sai nhưng được tự tiêu hóa và không phải xin lỗi" [ label = "Cảm giác nhẹ nhõm khi nhận ra\nmình sai nhưng được tự tiêu hóa\nvà không phải xin lỗi" ] 
+"Quyền được lãng quên" [ label = "Quyền được lãng quên" ] 
+"Cảm giác khó chịu khi phải thừa nhận mình mâu thuẫn" [ label = "Cảm giác khó chịu khi phải thừa\nnhận mình mâu thuẫn" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hanhdong nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+subgraph cluster_branch_1a{
+label = "1a Megan cảm thấy quả thực việc nói chuyện với Cueball sẽ đem lại điều mà mình luôn mong mỏi"
+color="#D1E4DD"
+style="filled, rounded"
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+subgraph cluster_branch_1b{
+label = "1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cuball"
+color="#D1DFE4"
+style="filled, rounded"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+"1b.1 Những người Megan quan tâm cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" [ label = "1b.1 Những người Megan quan tâm\ncũng quan tâm và mong muốn có\nđược câu trả lời thoả đáng về\nmâu thuẫn họ thấy" ] 
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+subgraph cluster_branch_i{
+label = "i Megan dám nói rằng \"tôi sẽ không để nỗi sợ chi phối mình\""
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+subgraph cluster_branch_j{
+label = "j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan chia sẻ quan điểm này" [ label = "j.1a.i Những người trong các\nlĩnh vực về kích thích giác quan\nchia sẻ quan điểm này" ] 
+"j.1a Megan thấy được tại sao việc nuông chiều cảm xúc sẽ gây hại cho mình và những người mình yêu thương" [ label = "j.1a Megan thấy được tại sao\nviệc nuông chiều cảm xúc sẽ gây\nhại cho mình và những người mình\nyêu thương" ] 
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+subgraph cluster_branch_k{
+label = "k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình"
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+subgraph cluster_branch_l{
+label = "l Megan muốn đặt câu hỏi về tất cả những gì mình nghĩ"
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+subgraph cluster_branch_m{
+label = "m Những Megan trong friendlist QC sẽ làm điều tương tự"
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+subgraph cluster_branch_n{
+label = "n Tổ chức thành công cuộc đối thoại giữa những người khác biệt quan điểm"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+subgraph cluster_branch_o{
+label = "o Tổ chức thành công những buổi chia sẻ vòng tròn"
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+subgraph cluster_branch_p{
+label = "p Tổ chức thành công các buổi nói chuyện của người có chuyên môn"
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+subgraph cluster_branch_q{
+label = "q Các chủ doanh nghiệp đồng ý hỗ trợ nhân viên"
+}
+
+node [ shape=plaintext style="filled, rounded" fontname="Lato" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+subgraph cluster_branch_r{
+label = "r Cộng đồng bạn bè QC phát triển"
+}
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Giaiphap edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Dichung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ytuongtothon edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yeutohotro edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Thamkhao edges
+
+edge [ style=dashed  ]
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Chủ nghĩa cá nhân vs chủ nghĩa cộng đồng"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Chức năng của người thân, bạn bè"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Tự trị và năng lực ra quyết định"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Hoà giải trong tố tụng"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Hoạch định chính sách"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Công lý phục hồi"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Tâm lý học tính cách"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Đa nguyên giá trị"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Drama"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan chia sẻ quan điểm này" -> "Cái đẹp, nghệ thuật"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan chia sẻ quan điểm này" -> "Giải trí"
+"j.1a Megan thấy được tại sao việc nuông chiều cảm xúc sẽ gây hại cho mình và những người mình yêu thương" -> "Tâm lý học tính cách"
+"j.1a Megan thấy được tại sao việc nuông chiều cảm xúc sẽ gây hại cho mình và những người mình yêu thương" -> "Mối quan hệ giữa cảm xúc và lý trí"
+"j.1a Megan thấy được tại sao việc nuông chiều cảm xúc sẽ gây hại cho mình và những người mình yêu thương" -> "Cai nghiện"
+"j.1a Megan thấy được tại sao việc nuông chiều cảm xúc sẽ gây hại cho mình và những người mình yêu thương" -> "Sự mù mờ"
+"j.1a Megan thấy được tại sao việc nuông chiều cảm xúc sẽ gây hại cho mình và những người mình yêu thương" -> "New Age"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Quảng cáo, vận động bầu cử, truyền đạo, tuyên truyền"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Đa cấp"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Phát triển cộng đồng"
+"1b.1 Những người Megan quan tâm cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "Biểu tình, tẩy chay"
+"0 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "Cảm giác nhẹ nhõm khi nhận ra mình sai nhưng được tự tiêu hóa và không phải xin lỗi"
+"0 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "Quyền được lãng quên"
+"0 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "Cảm giác khó chịu khi phải thừa nhận mình mâu thuẫn"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hanhdong edges
+
+}

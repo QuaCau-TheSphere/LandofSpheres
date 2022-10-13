@@ -1,0 +1,183 @@
+digraph branch_q{
+splines=ortho;
+			overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_20 nodes
+
+node [ shape=oval margin=0.1 fillcolor="#EEEADD" style="filled, rounded" ]
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Mục tiêu nodes
+"q.i.1 Doanh nghiệp có tinh thần xã hội" [ label = "q.i.1 Doanh nghiệp có tinh thần\nxã hội" ] 
+"q.i.2 Sếp của Megan hoặc Danish thấy việc hỗ trợ nhân viên sẽ làm tăng sự gắn bó của nhân viên" [ label = "q.i.2 Sếp của Megan hoặc Danish\nthấy việc hỗ trợ nhân viên sẽ\nlàm tăng sự gắn bó của nhân viên" ] 
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" [ label = "j.1a Megan thấy được tại sao\nviệc để cảm xúc chi phối mình sẽ\ngây hại cho mình và những người\nmình yêu thương" ] 
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ý tưởng tốt hơn nodes
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yếu tố hỗ trợ nodes
+
+node [ shape=note style=filled ]
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q.i.i Tình hình kinh doanh không quá khó khăn" [ label = "q.i.i Tình hình kinh doanh không\nquá khó khăn" ] 
+"q.i Sếp của Megan hoặc Danish đồng ý hỗ trợ nhân viên" [ label = "q.i Sếp của Megan hoặc Danish\nđồng ý hỗ trợ nhân viên" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc" [ label = "1b.2.1.1b.i Danish hoặc Beret\nkhông cần phải bận rộn với công\nviệc" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Tham khảo nodes
+
+node [ shape=plain fillcolor=white ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hoạt động nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+"Khơi gợi tinh thần xã hội của doanh nghiệp" [ label = "Khơi gợi tinh thần xã hội của\ndoanh nghiệp" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+"1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc" [ label = "1b.2.1.1b.i Danish hoặc Beret\nkhông cần phải bận rộn với công\nviệc" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" [ label = "j.1a Megan thấy được tại sao\nviệc để cảm xúc chi phối mình sẽ\ngây hại cho mình và những người\nmình yêu thương" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q.1 Nội bộ doanh nghiệp có tinh thần xã hội cao" [ label = "q.1 Nội bộ doanh nghiệp có tinh\nthần xã hội cao" ] 
+"q.2 Cho họ thấy điều này sẽ làm tăng sự gắn bó của nhân viên" [ label = "q.2 Cho họ thấy điều này sẽ làm\ntăng sự gắn bó của nhân viên" ] 
+"q.i Tình hình kinh doanh không quá khó khăn" [ label = "q.i Tình hình kinh doanh không\nquá khó khăn" ] 
+"q.i.1 Doanh nghiệp có tinh thần xã hội" [ label = "q.i.1 Doanh nghiệp có tinh thần\nxã hội" ] 
+"q.i.2 Sếp của Megan hoặc Danish thấy việc hỗ trợ nhân viên sẽ làm tăng sự gắn bó của nhân viên" [ label = "q.i.2 Sếp của Megan hoặc Danish\nthấy việc hỗ trợ nhân viên sẽ\nlàm tăng sự gắn bó của nhân viên" ] 
+"q.i.i Tình hình kinh doanh không quá khó khăn" [ label = "q.i.i Tình hình kinh doanh không\nquá khó khăn" ] 
+"q.i Sếp của Megan hoặc Danish đồng ý hỗ trợ nhân viên" [ label = "q.i Sếp của Megan hoặc Danish\nđồng ý hỗ trợ nhân viên" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Mục tiêu edges
+"q Các chủ doanh nghiệp đồng ý hỗ trợ nhân viên" -> "q.1 Nội bộ doanh nghiệp có tinh thần xã hội cao"
+"q Các chủ doanh nghiệp đồng ý hỗ trợ nhân viên" -> "q.2 Cho họ thấy điều này sẽ làm tăng sự gắn bó của nhân viên"
+"q.i Sếp của Megan hoặc Danish đồng ý hỗ trợ nhân viên" -> "q.i.1 Doanh nghiệp có tinh thần xã hội"
+"q.i Sếp của Megan hoặc Danish đồng ý hỗ trợ nhân viên" -> "q.i.2 Sếp của Megan hoặc Danish thấy việc hỗ trợ nhân viên sẽ làm tăng sự gắn bó của nhân viên"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Đi chung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ý tưởng tốt hơn edges
+"1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc" -> "q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yếu tố hỗ trợ edges
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" -> "q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish"
+"q Các chủ doanh nghiệp đồng ý hỗ trợ nhân viên" -> "q.i Tình hình kinh doanh không quá khó khăn"
+"q.i Sếp của Megan hoặc Danish đồng ý hỗ trợ nhân viên" -> "q.i.i Tình hình kinh doanh không quá khó khăn"
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" -> "q.i Sếp của Megan hoặc Danish đồng ý hỗ trợ nhân viên"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish"
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Tham khảo edges
+
+edge [ style=dashed ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hoạt động edges
+"q.1 Nội bộ doanh nghiệp có tinh thần xã hội cao" -> "Khơi gợi tinh thần xã hội của doanh nghiệp"
+
+}

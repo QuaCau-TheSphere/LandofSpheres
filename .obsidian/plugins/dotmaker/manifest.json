@@ -1,0 +1,8 @@
+{
+  "id": "graphvidian",
+  "name": "Graphvidian",
+  "version": "0.0.1",
+  "minAppVersion": "0.11.13",
+  "description": "Generate hierarchical graphs from your notes",
+  "isDesktopOnly": true
+}

@@ -1,0 +1,290 @@
+digraph branch_j{
+splines=ortho;
+			overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_20 nodes
+
+node [ shape=oval margin=0.1 fillcolor="#EEEADD" style="filled, rounded" ]
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Mục tiêu nodes
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"j.1b.1.1 Giới thiệu công cụ phỏng vấn tạo động lực" [ label = "j.1b.1.1 Giới thiệu công cụ\nphỏng vấn tạo động lực" ] 
+"j.1b.1 Megan phân biệt được sự khác nhau giữa trì hoãn và chờ đợi môi trường thích hợp" [ label = "j.1b.1 Megan phân biệt được sự\nkhác nhau giữa trì hoãn và chờ\nđợi môi trường thích hợp" ] 
+"j.1a.k.1 Các clip YouTube, Facebook, Tiktok không giới thiệu những thứ nhảm" [ label = "j.1a.k.1 Các clip YouTube,\nFacebook, Tiktok không giới\nthiệu những thứ nhảm" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"j.1a.1.1.1 Megan nghĩ về sự không khác biệt giữa tâm linh và tâm lý học, tìm hiểu về bản chất của khoa học" [ label = "j.1a.1.1.1 Megan nghĩ về sự\nkhông khác biệt giữa tâm linh và\ntâm lý học, tìm hiểu về bản chất\ncủa khoa học" ] 
+"j.1a.1.1.2 Megan hiểu đúng các khái niệm năng lượng, rung động, quy luật hấp dẫn trong vật lý" [ label = "j.1a.1.1.2 Megan hiểu đúng các\nkhái niệm năng lượng, rung động,\nquy luật hấp dẫn trong vật lý" ] 
+"j.1a.1.1 Megan hiểu rằng mình phải dựa trên khoa học" [ label = "j.1a.1.1 Megan hiểu rằng mình\nphải dựa trên khoa học" ] 
+"j.1a.1.2 Các trí thức Phật giáo nói về sự khác biệt giữa cảm xúc, cảm nhận, trực giác" [ label = "j.1a.1.2 Các trí thức Phật giáo\nnói về sự khác biệt giữa cảm\nxúc, cảm nhận, trực giác" ] 
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" [ label = "j.1a.1 Megan phân biệt được sự\nkhác biệt giữa cảm xúc, cảm\nnhận, trực giác" ] 
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" [ label = "j.1a Megan thấy được tại sao\nviệc để cảm xúc chi phối mình sẽ\ngây hại cho mình và những người\nmình yêu thương" ] 
+"j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi" [ label = "j.1b Megan thấy được rằng sự sẵn\nsàng đã đến rồi" ] 
+"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được lan toả" [ label = "i.1b.i Quan điểm \"Sống đúng với\ncon người thật của mình, sống\nmột cuộc đời không hối tiếc\"\nđược lan toả" ] 
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ý tưởng tốt hơn nodes
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+"j.1a.i+ Các tạp chí thời trang đăng bài về mối quan hệ giữa sự nuông chiều và hạnh phúc" [ label = "j.1a.i+ Các tạp chí thời trang\nđăng bài về mối quan hệ giữa sự\nnuông chiều và hạnh phúc" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yếu tố hỗ trợ nodes
+
+node [ shape=note style=filled ]
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được lan toả" [ label = "i.1b.i Quan điểm \"Sống đúng với\ncon người thật của mình, sống\nmột cuộc đời không hối tiếc\"\nđược lan toả" ] 
+"j.1b.j Quan điểm ❝Mình là người tạo ra sự sẵn sàng. Sự sẵn sàng dành cho những ai đi tìm nó, chứ không phải đợi chờ nó❞ được lan toả" [ label = "j.1b.j Quan điểm \"Mình là người\ntạo ra sự sẵn sàng. Sự sẵn sàng\ndành cho những ai đi tìm nó, chứ\nkhông phải đợi chờ nó\" được lan\ntoả" ] 
+"j.1a.j.1 Có hiểu biết xã hội học về những người quan tâm đến tình yêu" [ label = "j.1a.j.1 Có hiểu biết xã hội học\nvề những người quan tâm đến tình\nyêu" ] 
+"j.1a.i+.i Các tạp chí thời trang đăng bài về Frankfurt trong thời trang" [ label = "j.1a.i+.i Các tạp chí thời trang\nđăng bài về Frankfurt trong thời\ntrang" ] 
+"j.1a.i+.j Các tạp chí học thuật đăng bài về mối quan hệ giữa nuông chiều và hạnh phúc, và nuông chiều và thời trang" [ label = "j.1a.i+.j Các tạp chí học thuật\nđăng bài về mối quan hệ giữa\nnuông chiều và hạnh phúc, và\nnuông chiều và thời trang" ] 
+"j.1a.i.1 Có hiểu biết xã hội học về những người quan tâm đến sự kích thích giác quan" [ label = "j.1a.i.1 Có hiểu biết xã hội học\nvề những người quan tâm đến sự\nkích thích giác quan" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" [ label = "j.1a.i Những người trong các\nlĩnh vực về kích thích giác quan\n(F&B, Beauty and fashion,\nmassage) nói về mối liên hệ giữa\nsự nuông chiều và hạnh phúc" ] 
+"j.1a.j Những người quan tâm đến tình yêu nói về mối sự khác biệt giữa nuông chiều và chấp nhận" [ label = "j.1a.j Những người quan tâm đến\ntình yêu nói về mối sự khác biệt\ngiữa nuông chiều và chấp nhận" ] 
+"j.1a.k Môi trường không có yếu tố gây xao lãng" [ label = "j.1a.k Môi trường không có yếu\ntố gây xao lãng" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"j.1a.k Môi trường không có yếu tố gây xao lãng" [ label = "j.1a.k Môi trường không có yếu\ntố gây xao lãng" ] 
+"j.i Megan không còn cảm thấy mình trống rỗng" [ label = "j.i Megan không còn cảm thấy\nmình trống rỗng" ] 
+"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được lan toả" [ label = "i.1b.i Quan điểm \"Sống đúng với\ncon người thật của mình, sống\nmột cuộc đời không hối tiếc\"\nđược lan toả" ] 
+"j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình" [ label = "j Megan sẽ không dựa vào cảm xúc\nđể biện minh cho hành động của\nmình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Tham khảo nodes
+
+node [ shape=plain fillcolor=white ]
+"New Age" [ label = "New Age" ] 
+"Cái đẹp, nghệ thuật" [ label = "Cái đẹp, nghệ thuật" ] 
+"Giải trí" [ label = "Giải trí" ] 
+"Tâm lý học tính cách" [ label = "Tâm lý học tính cách" ] 
+"Mối quan hệ giữa cảm xúc và lý trí" [ label = "Mối quan hệ giữa cảm xúc và lý\ntrí" ] 
+"Cai nghiện" [ label = "Cai nghiện" ] 
+"Sự mù mờ" [ label = "Sự mù mờ" ] 
+"Nuông chiều" [ label = "Nuông chiều" ] 
+"New Age" [ label = "New Age" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hoạt động nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+"Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)" [ label = "Tổ chức những buổi nói chuyện về\ncác loại cảm xúc, và vai trò của\nviệc để cảm xúc chi phối bản\nthân trong đời sống con người\n(nghệ thuật, giải trí, giải hậu\nthực dân)" ] 
+"Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)" [ label = "Tổ chức những buổi nói chuyện về\ncác loại cảm xúc, và vai trò của\nviệc để cảm xúc chi phối bản\nthân trong đời sống con người\n(nghệ thuật, giải trí, giải hậu\nthực dân)" ] 
+"Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)" [ label = "Tổ chức những buổi nói chuyện về\ncác loại cảm xúc, và vai trò của\nviệc để cảm xúc chi phối bản\nthân trong đời sống con người\n(nghệ thuật, giải trí, giải hậu\nthực dân)" ] 
+"Tổ chức các buổi nói chuyện về cảm xúc tự nhận thức" [ label = "Tổ chức các buổi nói chuyện về\ncảm xúc tự nhận thức" ] 
+"Tổ chức những buổi nói chuyện về vật lý" [ label = "Tổ chức những buổi nói chuyện về\nvật lý" ] 
+"Tổ chức các buổi nói chuyện về bản chất của khoa học, và vai trò của những điều phản khoa học trong đời sống con người (văn hoá, tự sự, sáng tạo, ...)" [ label = "Tổ chức các buổi nói chuyện về\nbản chất của khoa học, và vai\ntrò của những điều phản khoa học\ntrong đời sống con người (văn\nhoá, tự sự, sáng tạo, ...)" ] 
+"Dịch clip reasoning của Vsauce" [ label = "Dịch clip reasoning của Vsauce" ] 
+"Tổ chức các buổi nói chuyện về cảm xúc tự nhận thức" [ label = "Tổ chức các buổi nói chuyện về\ncảm xúc tự nhận thức" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được lan toả" [ label = "i.1b.i Quan điểm \"Sống đúng với\ncon người thật của mình, sống\nmột cuộc đời không hối tiếc\"\nđược lan toả" ] 
+"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được lan toả" [ label = "i.1b.i Quan điểm \"Sống đúng với\ncon người thật của mình, sống\nmột cuộc đời không hối tiếc\"\nđược lan toả" ] 
+"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được lan toả" [ label = "i.1b.i Quan điểm \"Sống đúng với\ncon người thật của mình, sống\nmột cuộc đời không hối tiếc\"\nđược lan toả" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+"j.1b.1.1 Giới thiệu công cụ phỏng vấn tạo động lực" [ label = "j.1b.1.1 Giới thiệu công cụ\nphỏng vấn tạo động lực" ] 
+"j.1b.1 Megan phân biệt được sự khác nhau giữa trì hoãn và chờ đợi môi trường thích hợp" [ label = "j.1b.1 Megan phân biệt được sự\nkhác nhau giữa trì hoãn và chờ\nđợi môi trường thích hợp" ] 
+"j.1b.j Quan điểm ❝Mình là người tạo ra sự sẵn sàng. Sự sẵn sàng dành cho những ai đi tìm nó, chứ không phải đợi chờ nó❞ được lan toả" [ label = "j.1b.j Quan điểm \"Mình là người\ntạo ra sự sẵn sàng. Sự sẵn sàng\ndành cho những ai đi tìm nó, chứ\nkhông phải đợi chờ nó\" được lan\ntoả" ] 
+"j.1a.k.1 Các clip YouTube, Facebook, Tiktok không giới thiệu những thứ nhảm" [ label = "j.1a.k.1 Các clip YouTube,\nFacebook, Tiktok không giới\nthiệu những thứ nhảm" ] 
+"j.1a.j.1 Có hiểu biết xã hội học về những người quan tâm đến tình yêu" [ label = "j.1a.j.1 Có hiểu biết xã hội học\nvề những người quan tâm đến tình\nyêu" ] 
+"j.1a.i+.i Các tạp chí thời trang đăng bài về Frankfurt trong thời trang" [ label = "j.1a.i+.i Các tạp chí thời trang\nđăng bài về Frankfurt trong thời\ntrang" ] 
+"j.1a.i+.j Các tạp chí học thuật đăng bài về mối quan hệ giữa nuông chiều và hạnh phúc, và nuông chiều và thời trang" [ label = "j.1a.i+.j Các tạp chí học thuật\nđăng bài về mối quan hệ giữa\nnuông chiều và hạnh phúc, và\nnuông chiều và thời trang" ] 
+"j.1a.i.1 Có hiểu biết xã hội học về những người quan tâm đến sự kích thích giác quan" [ label = "j.1a.i.1 Có hiểu biết xã hội học\nvề những người quan tâm đến sự\nkích thích giác quan" ] 
+"j.1a.i+ Các tạp chí thời trang đăng bài về mối quan hệ giữa sự nuông chiều và hạnh phúc" [ label = "j.1a.i+ Các tạp chí thời trang\nđăng bài về mối quan hệ giữa sự\nnuông chiều và hạnh phúc" ] 
+"j.1a.1.1.1 Megan nghĩ về sự không khác biệt giữa tâm linh và tâm lý học, tìm hiểu về bản chất của khoa học" [ label = "j.1a.1.1.1 Megan nghĩ về sự\nkhông khác biệt giữa tâm linh và\ntâm lý học, tìm hiểu về bản chất\ncủa khoa học" ] 
+"j.1a.1.1.2 Megan hiểu đúng các khái niệm năng lượng, rung động, quy luật hấp dẫn trong vật lý" [ label = "j.1a.1.1.2 Megan hiểu đúng các\nkhái niệm năng lượng, rung động,\nquy luật hấp dẫn trong vật lý" ] 
+"j.1a.1.1 Megan hiểu rằng mình phải dựa trên khoa học" [ label = "j.1a.1.1 Megan hiểu rằng mình\nphải dựa trên khoa học" ] 
+"j.1a.1.2 Các trí thức Phật giáo nói về sự khác biệt giữa cảm xúc, cảm nhận, trực giác" [ label = "j.1a.1.2 Các trí thức Phật giáo\nnói về sự khác biệt giữa cảm\nxúc, cảm nhận, trực giác" ] 
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" [ label = "j.1a.1 Megan phân biệt được sự\nkhác biệt giữa cảm xúc, cảm\nnhận, trực giác" ] 
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" [ label = "j.1a.i Những người trong các\nlĩnh vực về kích thích giác quan\n(F&B, Beauty and fashion,\nmassage) nói về mối liên hệ giữa\nsự nuông chiều và hạnh phúc" ] 
+"j.1a.j Những người quan tâm đến tình yêu nói về mối sự khác biệt giữa nuông chiều và chấp nhận" [ label = "j.1a.j Những người quan tâm đến\ntình yêu nói về mối sự khác biệt\ngiữa nuông chiều và chấp nhận" ] 
+"j.1a.k Môi trường không có yếu tố gây xao lãng" [ label = "j.1a.k Môi trường không có yếu\ntố gây xao lãng" ] 
+"j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi" [ label = "j.1b Megan thấy được rằng sự sẵn\nsàng đã đến rồi" ] 
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" [ label = "j.1a Megan thấy được tại sao\nviệc để cảm xúc chi phối mình sẽ\ngây hại cho mình và những người\nmình yêu thương" ] 
+"j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi" [ label = "j.1b Megan thấy được rằng sự sẵn\nsàng đã đến rồi" ] 
+"j.1a.k Môi trường không có yếu tố gây xao lãng" [ label = "j.1a.k Môi trường không có yếu\ntố gây xao lãng" ] 
+"j.i Megan không còn cảm thấy mình trống rỗng" [ label = "j.i Megan không còn cảm thấy\nmình trống rỗng" ] 
+"j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình" [ label = "j Megan sẽ không dựa vào cảm xúc\nđể biện minh cho hành động của\nmình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Mục tiêu edges
+"j.1b.1 Megan phân biệt được sự khác nhau giữa trì hoãn và chờ đợi môi trường thích hợp" -> "j.1b.1.1 Giới thiệu công cụ phỏng vấn tạo động lực"
+"j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi" -> "j.1b.1 Megan phân biệt được sự khác nhau giữa trì hoãn và chờ đợi môi trường thích hợp"
+"j.1a.k Môi trường không có yếu tố gây xao lãng" -> "j.1a.k.1 Các clip YouTube, Facebook, Tiktok không giới thiệu những thứ nhảm"
+"j.1a.j.1 Có hiểu biết xã hội học về những người quan tâm đến tình yêu" -> "r.j Kết hợp được với các dự án xã hội khác"
+"j.1a.j Những người quan tâm đến tình yêu nói về mối sự khác biệt giữa nuông chiều và chấp nhận" -> "n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình"
+"j.1a.i.1 Có hiểu biết xã hội học về những người quan tâm đến sự kích thích giác quan" -> "r.j Kết hợp được với các dự án xã hội khác"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" -> "n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình"
+"j.1a.1.1 Megan hiểu rằng mình phải dựa trên khoa học" -> "j.1a.1.1.1 Megan nghĩ về sự không khác biệt giữa tâm linh và tâm lý học, tìm hiểu về bản chất của khoa học"
+"j.1a.1.1 Megan hiểu rằng mình phải dựa trên khoa học" -> "j.1a.1.1.2 Megan hiểu đúng các khái niệm năng lượng, rung động, quy luật hấp dẫn trong vật lý"
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" -> "j.1a.1.1 Megan hiểu rằng mình phải dựa trên khoa học"
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" -> "j.1a.1.2 Các trí thức Phật giáo nói về sự khác biệt giữa cảm xúc, cảm nhận, trực giác"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác"
+"j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình" -> "j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương"
+"j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình" -> "j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Đi chung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ý tưởng tốt hơn edges
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" -> "j.1a.i+ Các tạp chí thời trang đăng bài về mối quan hệ giữa sự nuông chiều và hạnh phúc"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yếu tố hỗ trợ edges
+"j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi" -> "i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được lan toả"
+"j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi" -> "j.1b.j Quan điểm ❝Mình là người tạo ra sự sẵn sàng. Sự sẵn sàng dành cho những ai đi tìm nó, chứ không phải đợi chờ nó❞ được lan toả"
+"j.1a.j Những người quan tâm đến tình yêu nói về mối sự khác biệt giữa nuông chiều và chấp nhận" -> "j.1a.j.1 Có hiểu biết xã hội học về những người quan tâm đến tình yêu"
+"j.1a.i+ Các tạp chí thời trang đăng bài về mối quan hệ giữa sự nuông chiều và hạnh phúc" -> "j.1a.i+.i Các tạp chí thời trang đăng bài về Frankfurt trong thời trang"
+"j.1a.i+ Các tạp chí thời trang đăng bài về mối quan hệ giữa sự nuông chiều và hạnh phúc" -> "j.1a.i+.j Các tạp chí học thuật đăng bài về mối quan hệ giữa nuông chiều và hạnh phúc, và nuông chiều và thời trang"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" -> "j.1a.i.1 Có hiểu biết xã hội học về những người quan tâm đến sự kích thích giác quan"
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" -> "p Beret nhận lời tham gia các buổi thuyết trình thảo luận"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "j.1a.j Những người quan tâm đến tình yêu nói về mối sự khác biệt giữa nuông chiều và chấp nhận"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "j.1a.k Môi trường không có yếu tố gây xao lãng"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish"
+"j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình" -> "j.1a.k Môi trường không có yếu tố gây xao lãng"
+"j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình" -> "j.i Megan không còn cảm thấy mình trống rỗng"
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Tham khảo edges
+
+edge [ style=dashed ]
+"j.1a.j Những người quan tâm đến tình yêu nói về mối sự khác biệt giữa nuông chiều và chấp nhận" -> "New Age"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" -> "Cái đẹp, nghệ thuật"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" -> "Giải trí"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "Tâm lý học tính cách"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "Mối quan hệ giữa cảm xúc và lý trí"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "Cai nghiện"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "Sự mù mờ"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "Nuông chiều"
+"j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương" -> "New Age"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hoạt động edges
+"j.1a.j Những người quan tâm đến tình yêu nói về mối sự khác biệt giữa nuông chiều và chấp nhận" -> "Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)"
+"j.1a.i Những người trong các lĩnh vực về kích thích giác quan (F&B, Beauty and fashion, massage) nói về mối liên hệ giữa sự nuông chiều và hạnh phúc" -> "Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)"
+"j.1a.1.2 Các trí thức Phật giáo nói về sự khác biệt giữa cảm xúc, cảm nhận, trực giác" -> "Tổ chức các buổi nói chuyện về cảm xúc tự nhận thức"
+"j.1a.1.1.2 Megan hiểu đúng các khái niệm năng lượng, rung động, quy luật hấp dẫn trong vật lý" -> "Tổ chức những buổi nói chuyện về vật lý"
+"j.1a.1.1.1 Megan nghĩ về sự không khác biệt giữa tâm linh và tâm lý học, tìm hiểu về bản chất của khoa học" -> "Tổ chức các buổi nói chuyện về bản chất của khoa học, và vai trò của những điều phản khoa học trong đời sống con người (văn hoá, tự sự, sáng tạo, ...)"
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" -> "Dịch clip reasoning của Vsauce"
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" -> "Tổ chức các buổi nói chuyện về cảm xúc tự nhận thức"
+
+}

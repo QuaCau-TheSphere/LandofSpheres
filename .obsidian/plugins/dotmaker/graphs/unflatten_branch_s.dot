@@ -1,0 +1,65 @@
+digraph branch_s {
+	graph [fontname=Lato,
+		fontsize=30,
+		label="Thay đổi niềm tin người có niềm tin tiêu cực",
+		labelloc=t,
+		overlap=false,
+		sep=10,
+		style=rounded
+	];
+	node [fillcolor="#c6cac3",
+		fontname=Lato,
+		margin=0.2,
+		penwidth=1.5,
+		shape=plaintext,
+		style="filled, rounded"
+	];
+	edge [penwidth=1,
+		style=""
+	];
+	subgraph cluster_branch_i {
+		graph [label="i Megan dám nói rằng \"tôi sẽ không để nỗi sợ chi phối mình\""];
+	}
+	subgraph cluster_branch_j {
+		graph [label="j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình"];
+	}
+	subgraph cluster_branch_1b {
+		graph [color="#D1DFE4",
+			label="1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cuball",
+			style="filled, rounded"
+		];
+	}
+	subgraph cluster_branch_1a {
+		graph [color="#D1E4DD",
+			label="1a Megan cảm thấy quả thực việc nói chuyện với Cueball sẽ đem lại điều mà mình luôn mong mỏi",
+			style="filled, rounded"
+		];
+	}
+	subgraph cluster_branch_p {
+		graph [label="p Tổ chức thành công các buổi nói chuyện của người có chuyên môn"];
+	}
+	subgraph cluster_branch_q {
+		graph [label="q Các chủ doanh nghiệp đồng ý hỗ trợ nhân viên"];
+	}
+	subgraph cluster_branch_s {
+		graph [label="s Kết hợp được với các dự án khác"];
+	}
+	subgraph cluster_branch_k {
+		graph [label="k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình"];
+	}
+	subgraph cluster_branch_n {
+		graph [label="n Tổ chức thành công cuộc đối thoại giữa những người khác biệt quan điểm"];
+	}
+	subgraph cluster_branch_l {
+		graph [label="l Megan muốn đặt câu hỏi về tất cả những gì mình nghĩ"];
+	}
+	subgraph cluster_branch_m {
+		graph [label="m Những Megan trong friendlist QC sẽ làm điều tương tự"];
+	}
+	subgraph cluster_branch_o {
+		graph [label="o Tổ chức thành công những buổi chia sẻ vòng tròn"];
+	}
+	subgraph cluster_branch_r {
+		graph [label="r Cộng đồng bạn bè QC phát triển"];
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "fileColumnName": "Họ tên",
+  "listDelimiter": ",",
+  "importNestedFields": true,
+  "mergeSuperchargedLinks": false,
+  "makeWiki": true
+}

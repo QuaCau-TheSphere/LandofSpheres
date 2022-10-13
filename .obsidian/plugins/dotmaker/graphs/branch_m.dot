@@ -1,0 +1,155 @@
+digraph branch_m{
+splines=ortho;
+			overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_20 nodes
+
+node [ shape=oval margin=0.1 fillcolor="#EEEADD" style="filled, rounded" ]
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Mục tiêu nodes
+"m.1 Biết được những người hứng thú với QC và hay chơi với Megan trong friendlist QC" [ label = "m.1 Biết được những người hứng\nthú với QC và hay chơi với Megan\ntrong friendlist QC" ] 
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ý tưởng tốt hơn nodes
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+"m+ Những Megan nói ra điều họ không hài lòng" [ label = "m+ Những Megan nói ra điều họ\nkhông hài lòng" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yếu tố hỗ trợ nodes
+
+node [ shape=note style=filled ]
+"m.i Hình dung được cách nói chuyện với họ" [ label = "m.i Hình dung được cách nói\nchuyện với họ" ] 
+"m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ" [ label = "m Những Megan trong friendlist\nQC sẽ chủ động gặp người họ coi\nthường để hiểu những gì họ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Tham khảo nodes
+
+node [ shape=plain fillcolor=white ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hoạt động nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+"Lập cơ sở dữ liệu mạng lưới những người có trong friendlist QC" [ label = "Lập cơ sở dữ liệu mạng lưới\nnhững người có trong friendlist\nQC" ] 
+"Lập cơ sở dữ liệu mạng lưới những người có trong friendlist QC" [ label = "Lập cơ sở dữ liệu mạng lưới\nnhững người có trong friendlist\nQC" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+"m.1 Biết được những người hứng thú với QC và hay chơi với Megan trong friendlist QC" [ label = "m.1 Biết được những người hứng\nthú với QC và hay chơi với Megan\ntrong friendlist QC" ] 
+"m.i Hình dung được cách nói chuyện với họ" [ label = "m.i Hình dung được cách nói\nchuyện với họ" ] 
+"m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ" [ label = "m Những Megan trong friendlist\nQC sẽ chủ động gặp người họ coi\nthường để hiểu những gì họ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Mục tiêu edges
+"m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ" -> "m.1 Biết được những người hứng thú với QC và hay chơi với Megan trong friendlist QC"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Đi chung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ý tưởng tốt hơn edges
+"m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ" -> "m+ Những Megan nói ra điều họ không hài lòng"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yếu tố hỗ trợ edges
+"m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ" -> "m.i Hình dung được cách nói chuyện với họ"
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Tham khảo edges
+
+edge [ style=dashed ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hoạt động edges
+"m.1 Biết được những người hứng thú với QC và hay chơi với Megan trong friendlist QC" -> "Lập cơ sở dữ liệu mạng lưới những người có trong friendlist QC"
+
+}

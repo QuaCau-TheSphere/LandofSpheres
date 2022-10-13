@@ -1,0 +1,401 @@
+digraph branch_1b{
+splines=ortho;
+			overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_20 nodes
+
+node [ shape=oval margin=0.1 fillcolor="#EEEADD" style="filled, rounded" ]
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Mục tiêu nodes
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.k.10 Độc lập tài chính" [ label = "r.k.10 Độc lập tài chính" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+"1a Megan cảm thấy việc nói chuyện với Cueball là cách duy nhất sẽ đem lại điều mà mình luôn mong mỏi" [ label = "1a Megan cảm thấy việc nói\nchuyện với Cueball là cách duy\nnhất sẽ đem lại điều mà mình\nluôn mong mỏi" ] 
+"1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball" [ label = "1b Megan cảm thấy những người\nxung quanh cô cảm thấy cô nên\ntrò chuyện với Cueball" ] 
+"1b.2.2.i+.1 Cueball có cách để liên lạc được với những người có hứng thú với quan điểm của mình" [ label = "1b.2.2.i+.1 Cueball có cách để\nliên lạc được với những người có\nhứng thú với quan điểm của mình" ] 
+"1b.2.2.1 Danish, Beret cảm thấy không chia sẻ quan điểm của Cueball thì không được" [ label = "1b.2.2.1 Danish, Beret cảm thấy\nkhông chia sẻ quan điểm của\nCueball thì không được" ] 
+"1b.2.1.i.1 Bạn bè của Danish, Beret nói về Cueball" [ label = "1b.2.1.i.1 Bạn bè của Danish,\nBeret nói về Cueball" ] 
+"1b.2.1.1b.i.1 Có nguồn quỹ hỗ trợ Danish" [ label = "1b.2.1.1b.i.1 Có nguồn quỹ hỗ\ntrợ Danish" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"1b.2.1.1b+ Danish hoặc Beret có chung một nhiệm vụ với Cueball" [ label = "1b.2.1.1b+ Danish hoặc Beret có\nchung một nhiệm vụ với Cueball" ] 
+"1b.2.1.1a Danish, Beret quan tâm đến điều Cueball quan tâm" [ label = "1b.2.1.1a Danish, Beret quan tâm\nđến điều Cueball quan tâm" ] 
+"1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball" [ label = "1b.2.1.1b Danish, Beret có thời\ngian để nói chuyện với Cueball" ] 
+"1b.2.1 Danish, Beret đã trò chuyện nhiều với Cueball" [ label = "1b.2.1 Danish, Beret đã trò\nchuyện nhiều với Cueball" ] 
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" [ label = "1b.2.2 Quan điểm của Cueball\nđược viral tích cực trong cộng\nđồng Danish hoặc Beret" ] 
+"1a.1a.1a Cueball hiểu Megan muốn gì" [ label = "1a.1a.1a Cueball hiểu Megan muốn\ngì" ] 
+"1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt" [ label = "1b.1j.1.1 Danish có kiến thức về\nchức năng của bạn bè và lý\nthuyết phê phán Frankfurt" ] 
+"1B.1.K.1.1 Danish rất muốn nghe ý kiến của Cueball về Megan" [ label = "1B.1.K.1.1 Danish rất muốn nghe\ný kiến của Cueball về Megan" ] 
+"1b.1.k.1 Danish kể cho Cueball những gì mình quan sát thấy ở Megan ở thời điểm hiện tại" [ label = "1b.1.k.1 Danish kể cho Cueball\nnhững gì mình quan sát thấy ở\nMegan ở thời điểm hiện tại" ] 
+"1b.1j.1 Danish thấy được một cách rõ ràng hệ quả có thể là gì nếu không can thiệp" [ label = "1b.1j.1 Danish thấy được một\ncách rõ ràng hệ quả có thể là gì\nnếu không can thiệp" ] 
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+"1b.1.1a.i.1 Nếu Danish băn khoăn về vấn đề can thiệp, Danish sẽ tham gia vào các buổi thảo luận về vấn đề can thiệp" [ label = "1b.1.1a.i.1 Nếu Danish băn khoăn\nvề vấn đề can thiệp, Danish sẽ\ntham gia vào các buổi thảo luận\nvề vấn đề can thiệp" ] 
+"1b.1.1a.1b.1 Danish vốn là người muốn làm việc này (tức là Danish là Cueball)" [ label = "1b.1.1a.1b.1 Danish vốn là người\nmuốn làm việc này (tức là Danish\nlà Cueball)" ] 
+"1b.1.1a.1b.2a Danish cảm thấy nên hỏi chuyện Megan" [ label = "1b.1.1a.1b.2a Danish cảm thấy\nnên hỏi chuyện Megan" ] 
+"1b.1.1a.1b.2b Danish thấy bạn bè của mình cũng muốn hỏi chuyện Megan" [ label = "1b.1.1a.1b.2b Danish thấy bạn bè\ncủa mình cũng muốn hỏi chuyện\nMegan" ] 
+"1b.1.1a.1a.1b.1 Việc tìm hiểu vấn đề giữa Megan và Cueball sẽ giúp giải quyết điều Danish cần giải quyết trước mắt" [ label = "1b.1.1a.1a.1b.1 Việc tìm hiểu\nvấn đề giữa Megan và Cueball sẽ\ngiúp giải quyết điều Danish cần\ngiải quyết trước mắt" ] 
+"1b.1.1a.1a.1a Danish là người mà Cueball tin tưởng kể chuyện, hoặc có một người trung gian mà cả 2 đều tin tưởng" [ label = "1b.1.1a.1a.1a Danish là người mà\nCueball tin tưởng kể chuyện,\nhoặc có một người trung gian mà\ncả 2 đều tin tưởng" ] 
+"1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball" [ label = "1b.1.1a.1a.1b Danish có thời\ngian để tìm hiểu vấn đề giữa\nMegan và Cueball" ] 
+"1b.1.1a.1a Danish biết về thái độ của Megan về Cueball" [ label = "1b.1.1a.1a Danish biết về thái\nđộ của Megan về Cueball" ] 
+"1b.1.1a.1b Việc hỏi Megan là ưu tiên hàng đầu của Danish" [ label = "1b.1.1a.1b Việc hỏi Megan là ưu\ntiên hàng đầu của Danish" ] 
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" [ label = "1b.1 Danish, Beret cũng quan tâm\nvà mong muốn có được câu trả lời\nthoả đáng về mâu thuẫn họ thấy" ] 
+"1b.2 Danish, Beret thường xuyên nói tích cực về Cueball" [ label = "1b.2 Danish, Beret thường xuyên\nnói tích cực về Cueball" ] 
+"1b.1.1a Danish cảm thấy việc hỏi Megan là ưu tiên lớn nhất của mình" [ label = "1b.1.1a Danish cảm thấy việc hỏi\nMegan là ưu tiên lớn nhất của\nmình" ] 
+"1b.1.1b Danish đồng ý là với tình trạng đó thì là thiệt thòi hoặc thậm chí là bất công cho chính Megan hoặc cho người khác" [ label = "1b.1.1b Danish đồng ý là với\ntình trạng đó thì là thiệt thòi\nhoặc thậm chí là bất công cho\nchính Megan hoặc cho người khác" ] 
+"1b.1.1c Danish thực sự chỉ muốn hiểu rõ về con người của Megan, và cũng tin rằng quan điểm của mình cũng có thể sai" [ label = "1b.1.1c Danish thực sự chỉ muốn\nhiểu rõ về con người của Megan,\nvà cũng tin rằng quan điểm của\nmình cũng có thể sai" ] 
+"1a.1a.1a Cueball hiểu Megan muốn gì" [ label = "1a.1a.1a Cueball hiểu Megan muốn\ngì" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ý tưởng tốt hơn nodes
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+"1b.2.2.i+ Biến thành công những người có hứng thú với quan điểm của Cueball thành đồng minh" [ label = "1b.2.2.i+ Biến thành công những\nngười có hứng thú với quan điểm\ncủa Cueball thành đồng minh" ] 
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"1b.2.1.1b+ Danish hoặc Beret có chung một nhiệm vụ với Cueball" [ label = "1b.2.1.1b+ Danish hoặc Beret có\nchung một nhiệm vụ với Cueball" ] 
+"1b.2.1+ Danish, Beret là bạn của Cueball" [ label = "1b.2.1+ Danish, Beret là bạn của\nCueball" ] 
+"1b.2+ Danish, Beret xem Cueball là hình mẫu đáng ngưỡng mộ" [ label = "1b.2+ Danish, Beret xem Cueball\nlà hình mẫu đáng ngưỡng mộ" ] 
+"1b.1.1a.1a.1b.j Việc tìm hiểu vấn đề giữa Megan và Cueball là điều Danish đau đáu" [ label = "1b.1.1a.1a.1b.j Việc tìm hiểu\nvấn đề giữa Megan và Cueball là\nđiều Danish đau đáu" ] 
+"1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball" [ label = "1b.2.1.1b Danish, Beret có thời\ngian để nói chuyện với Cueball" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yếu tố hỗ trợ nodes
+
+node [ shape=note style=filled ]
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" [ label = "1b.2.2 Quan điểm của Cueball\nđược viral tích cực trong cộng\nđồng Danish hoặc Beret" ] 
+"l.1.i Danish, Beret thực hành việc đặt câu hỏi hơn là cho ý kiến của mình" [ label = "l.1.i Danish, Beret thực hành\nviệc đặt câu hỏi hơn là cho ý\nkiến của mình" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" [ label = "1b.2.2 Quan điểm của Cueball\nđược viral tích cực trong cộng\nđồng Danish hoặc Beret" ] 
+"1b.2.2.1.i Cueball có được lý do vì sao những người trong ngành phát triển chưa muốn chia sẻ quan điểm của mình" [ label = "1b.2.2.1.i Cueball có được lý do\nvì sao những người trong ngành\nphát triển chưa muốn chia sẻ\nquan điểm của mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"1b.2.2.1.i Ý tưởng của Cueball kết nối được với một câu chuyện của Danish, Beret" [ label = "1b.2.2.1.i Ý tưởng của Cueball\nkết nối được với một câu chuyện\ncủa Danish, Beret" ] 
+"1b.2.2.i Những người làm trong ngành phát triển cảm thấy không chia sẻ quan điểm của Cueball thì không được" [ label = "1b.2.2.i Những người làm trong\nngành phát triển cảm thấy không\nchia sẻ quan điểm của Cueball\nthì không được" ] 
+"1b.2.2.i Những người cũng có hứng thú với quan điểm của Cueball cũng cảm thấy không chia sẻ thì không được" [ label = "1b.2.2.i Những người cũng có\nhứng thú với quan điểm của\nCueball cũng cảm thấy không chia\nsẻ thì không được" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.k.10 Độc lập tài chính" [ label = "r.k.10 Độc lập tài chính" ] 
+"1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc" [ label = "1b.2.1.1b.i Danish hoặc Beret\nkhông cần phải bận rộn với công\nviệc" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"1b.2.1.i Danish, Beret tò mò về Cueball" [ label = "1b.2.1.i Danish, Beret tò mò về\nCueball" ] 
+"1b.1j.i Danish có sự yên tâm về năng lực cũng như sự thận trọng của người tác động" [ label = "1b.1j.i Danish có sự yên tâm về\nnăng lực cũng như sự thận trọng\ncủa người tác động" ] 
+"1b.1.i.i Danish là người Megan quý trọng và muốn làm Danish thoải mái" [ label = "1b.1.i.i Danish là người Megan\nquý trọng và muốn làm Danish\nthoải mái" ] 
+"1b.1.i.j Môi trường có những gợi ý cho Megan suy ngẫm" [ label = "1b.1.i.j Môi trường có những gợi\ný cho Megan suy ngẫm" ] 
+"1b.1.1a.1a.1b.i Việc tìm hiểu vấn đề giữa Megan và Cueball là trách nhiệm của Danish" [ label = "1b.1.1a.1a.1b.i Việc tìm hiểu\nvấn đề giữa Megan và Cueball là\ntrách nhiệm của Danish" ] 
+"1b.1.1a.1a.1b.j Việc tìm hiểu vấn đề giữa Megan và Cueball là điều Danish đau đáu" [ label = "1b.1.1a.1a.1b.j Việc tìm hiểu\nvấn đề giữa Megan và Cueball là\nđiều Danish đau đáu" ] 
+"1b.1.1a.i Danish cảm thấy việc nói về chuyện đó là tự nhiên, bình thường, không có gì phải ngại" [ label = "1b.1.1a.i Danish cảm thấy việc\nnói về chuyện đó là tự nhiên,\nbình thường, không có gì phải\nngại" ] 
+"1b.1.i Danish có cách để tiếp cận Megan mà cô vẫn cảm thấy an toàn, thoải mái" [ label = "1b.1.i Danish có cách để tiếp\ncận Megan mà cô vẫn cảm thấy an\ntoàn, thoải mái" ] 
+"1b.1.j Danish suy nghĩ về những hệ quả có thể xảy ra khi không can thiệp" [ label = "1b.1.j Danish suy nghĩ về những\nhệ quả có thể xảy ra khi không\ncan thiệp" ] 
+"1b.1.k Danish thấy rằng chỉ có nói chuyện thì Megan mới có đánh giá đúng nhất về Cueball" [ label = "1b.1.k Danish thấy rằng chỉ có\nnói chuyện thì Megan mới có đánh\ngiá đúng nhất về Cueball" ] 
+"1b.1.l Danish không cho rằng một khi Megan không muốn thì không còn cách nào nữa" [ label = "1b.1.l Danish không cho rằng một\nkhi Megan không muốn thì không\ncòn cách nào nữa" ] 
+"1b.1.m Danish không gặp phải hiện tượng người ngoài cuộc đứng nhìn" [ label = "1b.1.m Danish không gặp phải\nhiện tượng người ngoài cuộc đứng\nnhìn" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Tham khảo nodes
+
+node [ shape=plain fillcolor=white ]
+"Quảng cáo, vận động bầu cử, truyền đạo, tuyên truyền" [ label = "Quảng cáo, vận động bầu cử,\ntruyền đạo, tuyên truyền" ] 
+"Đa cấp" [ label = "Đa cấp" ] 
+"Xây dựng cộng đồng" [ label = "Xây dựng cộng đồng" ] 
+"Biểu tình, tẩy chay" [ label = "Biểu tình, tẩy chay" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hoạt động nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" [ label = "Khảo sát những người thực hành\nngành phát triển về suy nghĩ của\nhọ về QC" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Thử nghiệm kế hoạch tác động ncnttc" [ label = "Thử nghiệm kế hoạch tác động\nncnttc" ] 
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" [ label = "Khảo sát những người thực hành\nngành phát triển về suy nghĩ của\nhọ về QC" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông" [ label = "Tổ chức những buổi đối thoại\ngiữa Frankfurtian và người làm\ntruyền thông" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" [ label = "Khảo sát những người thực hành\nngành phát triển về suy nghĩ của\nhọ về QC" ] 
+"Thử nghiệm kế hoạch tác động ncnttc" [ label = "Thử nghiệm kế hoạch tác động\nncnttc" ] 
+"Viết bài phân tích theo trend" [ label = "Viết bài phân tích theo trend" ] 
+"Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông" [ label = "Tổ chức những buổi đối thoại\ngiữa Frankfurtian và người làm\ntruyền thông" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Tổ chức những buổi nói chuyện về sự khả thi của sự tác động" [ label = "Tổ chức những buổi nói chuyện về\nsự khả thi của sự tác động" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+"1a Megan cảm thấy việc nói chuyện với Cueball là cách duy nhất sẽ đem lại điều mà mình luôn mong mỏi" [ label = "1a Megan cảm thấy việc nói\nchuyện với Cueball là cách duy\nnhất sẽ đem lại điều mà mình\nluôn mong mỏi" ] 
+"1a.1a.1a Cueball hiểu Megan muốn gì" [ label = "1a.1a.1a Cueball hiểu Megan muốn\ngì" ] 
+"1a.1a.1a Cueball hiểu Megan muốn gì" [ label = "1a.1a.1a Cueball hiểu Megan muốn\ngì" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" [ label = "1b.2.2 Quan điểm của Cueball\nđược viral tích cực trong cộng\nđồng Danish hoặc Beret" ] 
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+"1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball" [ label = "1b Megan cảm thấy những người\nxung quanh cô cảm thấy cô nên\ntrò chuyện với Cueball" ] 
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" [ label = "1b.2.2 Quan điểm của Cueball\nđược viral tích cực trong cộng\nđồng Danish hoặc Beret" ] 
+"1b.2.2.i+.1 Cueball có cách để liên lạc được với những người có hứng thú với quan điểm của mình" [ label = "1b.2.2.i+.1 Cueball có cách để\nliên lạc được với những người có\nhứng thú với quan điểm của mình" ] 
+"1b.2.2.1.i Cueball có được lý do vì sao những người trong ngành phát triển chưa muốn chia sẻ quan điểm của mình" [ label = "1b.2.2.1.i Cueball có được lý do\nvì sao những người trong ngành\nphát triển chưa muốn chia sẻ\nquan điểm của mình" ] 
+"1b.2.2.i+ Biến thành công những người có hứng thú với quan điểm của Cueball thành đồng minh" [ label = "1b.2.2.i+ Biến thành công những\nngười có hứng thú với quan điểm\ncủa Cueball thành đồng minh" ] 
+"1b.2.2.1.i Ý tưởng của Cueball kết nối được với một câu chuyện của Danish, Beret" [ label = "1b.2.2.1.i Ý tưởng của Cueball\nkết nối được với một câu chuyện\ncủa Danish, Beret" ] 
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" [ label = "1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình" ] 
+"1b.2.2.1 Danish, Beret cảm thấy không chia sẻ quan điểm của Cueball thì không được" [ label = "1b.2.2.1 Danish, Beret cảm thấy\nkhông chia sẻ quan điểm của\nCueball thì không được" ] 
+"1b.2.2.i Những người làm trong ngành phát triển cảm thấy không chia sẻ quan điểm của Cueball thì không được" [ label = "1b.2.2.i Những người làm trong\nngành phát triển cảm thấy không\nchia sẻ quan điểm của Cueball\nthì không được" ] 
+"1b.2.2.i Những người cũng có hứng thú với quan điểm của Cueball cũng cảm thấy không chia sẻ thì không được" [ label = "1b.2.2.i Những người cũng có\nhứng thú với quan điểm của\nCueball cũng cảm thấy không chia\nsẻ thì không được" ] 
+"1b.2.1.i.1 Bạn bè của Danish, Beret nói về Cueball" [ label = "1b.2.1.i.1 Bạn bè của Danish,\nBeret nói về Cueball" ] 
+"1b.2.1.1b.i.1 Có nguồn quỹ hỗ trợ Danish" [ label = "1b.2.1.1b.i.1 Có nguồn quỹ hỗ\ntrợ Danish" ] 
+"1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc" [ label = "1b.2.1.1b.i Danish hoặc Beret\nkhông cần phải bận rộn với công\nviệc" ] 
+"1b.2.1.1a Danish, Beret quan tâm đến điều Cueball quan tâm" [ label = "1b.2.1.1a Danish, Beret quan tâm\nđến điều Cueball quan tâm" ] 
+"1b.2.1.1b+ Danish hoặc Beret có chung một nhiệm vụ với Cueball" [ label = "1b.2.1.1b+ Danish hoặc Beret có\nchung một nhiệm vụ với Cueball" ] 
+"1b.2.1.1b+ Danish hoặc Beret có chung một nhiệm vụ với Cueball" [ label = "1b.2.1.1b+ Danish hoặc Beret có\nchung một nhiệm vụ với Cueball" ] 
+"1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball" [ label = "1b.2.1.1b Danish, Beret có thời\ngian để nói chuyện với Cueball" ] 
+"1b.2.1.1a Danish, Beret quan tâm đến điều Cueball quan tâm" [ label = "1b.2.1.1a Danish, Beret quan tâm\nđến điều Cueball quan tâm" ] 
+"1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball" [ label = "1b.2.1.1b Danish, Beret có thời\ngian để nói chuyện với Cueball" ] 
+"1b.2.1.i Danish, Beret tò mò về Cueball" [ label = "1b.2.1.i Danish, Beret tò mò về\nCueball" ] 
+"1b.2.1+ Danish, Beret là bạn của Cueball" [ label = "1b.2.1+ Danish, Beret là bạn của\nCueball" ] 
+"1b.2.1 Danish, Beret đã trò chuyện nhiều với Cueball" [ label = "1b.2.1 Danish, Beret đã trò\nchuyện nhiều với Cueball" ] 
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" [ label = "1b.2.2 Quan điểm của Cueball\nđược viral tích cực trong cộng\nđồng Danish hoặc Beret" ] 
+"1b.2+ Danish, Beret xem Cueball là hình mẫu đáng ngưỡng mộ" [ label = "1b.2+ Danish, Beret xem Cueball\nlà hình mẫu đáng ngưỡng mộ" ] 
+"1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt" [ label = "1b.1j.1.1 Danish có kiến thức về\nchức năng của bạn bè và lý\nthuyết phê phán Frankfurt" ] 
+"1b.1.k.1 Danish kể cho Cueball những gì mình quan sát thấy ở Megan ở thời điểm hiện tại" [ label = "1b.1.k.1 Danish kể cho Cueball\nnhững gì mình quan sát thấy ở\nMegan ở thời điểm hiện tại" ] 
+"1b.1j.1 Danish thấy được một cách rõ ràng hệ quả có thể là gì nếu không can thiệp" [ label = "1b.1j.1 Danish thấy được một\ncách rõ ràng hệ quả có thể là gì\nnếu không can thiệp" ] 
+"1b.1j.i Danish có sự yên tâm về năng lực cũng như sự thận trọng của người tác động" [ label = "1b.1j.i Danish có sự yên tâm về\nnăng lực cũng như sự thận trọng\ncủa người tác động" ] 
+"1b.1.i.i Danish là người Megan quý trọng và muốn làm Danish thoải mái" [ label = "1b.1.i.i Danish là người Megan\nquý trọng và muốn làm Danish\nthoải mái" ] 
+"1b.1.i.j Môi trường có những gợi ý cho Megan suy ngẫm" [ label = "1b.1.i.j Môi trường có những gợi\ný cho Megan suy ngẫm" ] 
+"1b.1.1c Danish thực sự chỉ muốn hiểu rõ về suy nghĩ của Megan, và cũng tin rằng quan điểm của mình cũng có thể sai" [ label = "1b.1.1c Danish thực sự chỉ muốn\nhiểu rõ về suy nghĩ của Megan,\nvà cũng tin rằng quan điểm của\nmình cũng có thể sai" ] 
+"1b.1.1c Danish thực sự chỉ muốn hiểu rõ về suy nghĩ của Megan, và cũng tin rằng quan điểm của mình cũng có thể sai" [ label = "1b.1.1c Danish thực sự chỉ muốn\nhiểu rõ về suy nghĩ của Megan,\nvà cũng tin rằng quan điểm của\nmình cũng có thể sai" ] 
+"1b.1.i+ Danish là người Megan quý trọng và muốn làm Danish thoải mái" [ label = "1b.1.i+ Danish là người Megan\nquý trọng và muốn làm Danish\nthoải mái" ] 
+"1b.1.1a.i.1 Nếu Danish băn khoăn về vấn đề can thiệp, Danish sẽ tham gia vào các buổi thảo luận về vấn đề can thiệp" [ label = "1b.1.1a.i.1 Nếu Danish băn khoăn\nvề vấn đề can thiệp, Danish sẽ\ntham gia vào các buổi thảo luận\nvề vấn đề can thiệp" ] 
+"1b.1.1a.1b.2b Danish thấy bạn bè của mình cũng muốn hỏi chuyện Megan" [ label = "1b.1.1a.1b.2b Danish thấy bạn bè\ncủa mình cũng muốn hỏi chuyện\nMegan" ] 
+"1b.1.1a.1b.1 Danish vốn là người muốn làm việc này (tức là Danish là Cueball)" [ label = "1b.1.1a.1b.1 Danish vốn là người\nmuốn làm việc này (tức là Danish\nlà Cueball)" ] 
+"1b.1.1a.1b.2a Danish cảm thấy nên hỏi chuyện Megan" [ label = "1b.1.1a.1b.2a Danish cảm thấy\nnên hỏi chuyện Megan" ] 
+"1b.1.1a.1b.2b Danish thấy bạn bè của mình cũng muốn hỏi chuyện Megan" [ label = "1b.1.1a.1b.2b Danish thấy bạn bè\ncủa mình cũng muốn hỏi chuyện\nMegan" ] 
+"1b.1.1a.1a.1b.j Việc tìm hiểu vấn đề giữa Megan và Cueball là điều Danish đau đáu" [ label = "1b.1.1a.1a.1b.j Việc tìm hiểu\nvấn đề giữa Megan và Cueball là\nđiều Danish đau đáu" ] 
+"1b.1.1a.1a.1b.1 Việc tìm hiểu vấn đề giữa Megan và Cueball sẽ giúp giải quyết điều Danish cần giải quyết trước mắt" [ label = "1b.1.1a.1a.1b.1 Việc tìm hiểu\nvấn đề giữa Megan và Cueball sẽ\ngiúp giải quyết điều Danish cần\ngiải quyết trước mắt" ] 
+"1b.1.1a.1a.1b.i Việc tìm hiểu vấn đề giữa Megan và Cueball là trách nhiệm của Danish" [ label = "1b.1.1a.1a.1b.i Việc tìm hiểu\nvấn đề giữa Megan và Cueball là\ntrách nhiệm của Danish" ] 
+"1b.1.1a.1a.1b.j Việc tìm hiểu vấn đề giữa Megan và Cueball là điều Danish đau đáu" [ label = "1b.1.1a.1a.1b.j Việc tìm hiểu\nvấn đề giữa Megan và Cueball là\nđiều Danish đau đáu" ] 
+"1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball" [ label = "1b.2.1.1b Danish, Beret có thời\ngian để nói chuyện với Cueball" ] 
+"1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball" [ label = "1b.1.1a.1a.1b Danish có thời\ngian để tìm hiểu vấn đề giữa\nMegan và Cueball" ] 
+"1b.1.1a.1a.1a Danish là người mà Cueball tin tưởng kể chuyện, hoặc có một người trung gian mà cả 2 đều tin tưởng" [ label = "1b.1.1a.1a.1a Danish là người mà\nCueball tin tưởng kể chuyện,\nhoặc có một người trung gian mà\ncả 2 đều tin tưởng" ] 
+"1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball" [ label = "1b.1.1a.1a.1b Danish có thời\ngian để tìm hiểu vấn đề giữa\nMegan và Cueball" ] 
+"1b.1.1a.1b Việc hỏi Megan là ưu tiên hàng đầu của Danish" [ label = "1b.1.1a.1b Việc hỏi Megan là ưu\ntiên hàng đầu của Danish" ] 
+"1b.1.1a.1a Danish biết về thái độ của Megan về Cueball" [ label = "1b.1.1a.1a Danish biết về thái\nđộ của Megan về Cueball" ] 
+"1b.1.1a.1b Việc hỏi Megan là ưu tiên hàng đầu của Danish" [ label = "1b.1.1a.1b Việc hỏi Megan là ưu\ntiên hàng đầu của Danish" ] 
+"1b.1.1a.i Danish cảm thấy việc nói về chuyện đó là tự nhiên, bình thường, không có gì phải ngại" [ label = "1b.1.1a.i Danish cảm thấy việc\nnói về chuyện đó là tự nhiên,\nbình thường, không có gì phải\nngại" ] 
+"1b.1.1b Danish đồng ý là với tình trạng đó thì là thiệt thòi hoặc thậm chí là bất công cho chính Megan hoặc cho người khác" [ label = "1b.1.1b Danish đồng ý là với\ntình trạng đó thì là thiệt thòi\nhoặc thậm chí là bất công cho\nchính Megan hoặc cho người khác" ] 
+"1b.1.1c Danish thực sự chỉ muốn hiểu rõ về con người của Megan, và cũng tin rằng quan điểm của mình cũng có thể sai" [ label = "1b.1.1c Danish thực sự chỉ muốn\nhiểu rõ về con người của Megan,\nvà cũng tin rằng quan điểm của\nmình cũng có thể sai" ] 
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" [ label = "1b.1 Danish, Beret cũng quan tâm\nvà mong muốn có được câu trả lời\nthoả đáng về mâu thuẫn họ thấy" ] 
+"1b.2 Danish, Beret thường xuyên nói tích cực về Cueball" [ label = "1b.2 Danish, Beret thường xuyên\nnói tích cực về Cueball" ] 
+"1b.1.1a Danish cảm thấy việc hỏi Megan là ưu tiên lớn nhất của mình" [ label = "1b.1.1a Danish cảm thấy việc hỏi\nMegan là ưu tiên lớn nhất của\nmình" ] 
+"1b.1.1b Danish đồng ý là với tình trạng đó thì là thiệt thòi hoặc thậm chí là bất công cho chính Megan hoặc cho người khác" [ label = "1b.1.1b Danish đồng ý là với\ntình trạng đó thì là thiệt thòi\nhoặc thậm chí là bất công cho\nchính Megan hoặc cho người khác" ] 
+"1b.1.1c Danish thực sự chỉ muốn hiểu rõ về con người của Megan, và cũng tin rằng quan điểm của mình cũng có thể sai" [ label = "1b.1.1c Danish thực sự chỉ muốn\nhiểu rõ về con người của Megan,\nvà cũng tin rằng quan điểm của\nmình cũng có thể sai" ] 
+"1b.1.i Danish có cách để tiếp cận Megan mà cô vẫn cảm thấy an toàn, thoải mái" [ label = "1b.1.i Danish có cách để tiếp\ncận Megan mà cô vẫn cảm thấy an\ntoàn, thoải mái" ] 
+"1b.1.j Danish suy nghĩ về những hệ quả có thể xảy ra khi không can thiệp" [ label = "1b.1.j Danish suy nghĩ về những\nhệ quả có thể xảy ra khi không\ncan thiệp" ] 
+"1b.1.k Danish thấy rằng chỉ có nói chuyện thì Megan mới có đánh giá đúng nhất về Cueball" [ label = "1b.1.k Danish thấy rằng chỉ có\nnói chuyện thì Megan mới có đánh\ngiá đúng nhất về Cueball" ] 
+"1b.1.l Danish không cho rằng một khi Megan không muốn thì không còn cách nào nữa" [ label = "1b.1.l Danish không cho rằng một\nkhi Megan không muốn thì không\ncòn cách nào nữa" ] 
+"1b.1.m Danish không gặp phải hiện tượng người ngoài cuộc đứng nhìn" [ label = "1b.1.m Danish không gặp phải\nhiện tượng người ngoài cuộc đứng\nnhìn" ] 
+"1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball" [ label = "1b Megan cảm thấy những người\nxung quanh cô cảm thấy cô nên\ntrò chuyện với Cueball" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+"l.1.i Danish, Beret thực hành việc đặt câu hỏi hơn là cho ý kiến của mình" [ label = "l.1.i Danish, Beret thực hành\nviệc đặt câu hỏi hơn là cho ý\nkiến của mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+"q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish" [ label = "q Cuộc sống không tạo nhiều căng\nthẳng cho Megan hoặc Danish" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.k.10 Độc lập tài chính" [ label = "r.k.10 Độc lập tài chính" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.k.10 Độc lập tài chính" [ label = "r.k.10 Độc lập tài chính" ] 
+"r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả" [ label = "r Mạng lưới người thân, bạn bè\ncủa ncnttc hoạt động hiệu quả" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Mục tiêu edges
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball"
+"1b.2.2.i+ Biến thành công những người có hứng thú với quan điểm của Cueball thành đồng minh" -> "1b.2.2.i+.1 Cueball có cách để liên lạc được với những người có hứng thú với quan điểm của mình"
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" -> "1b.2.2.1 Danish, Beret cảm thấy không chia sẻ quan điểm của Cueball thì không được"
+"1b.2.1.i Danish, Beret tò mò về Cueball" -> "1b.2.1.i.1 Bạn bè của Danish, Beret nói về Cueball"
+"1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc" -> "1b.2.1.1b.i.1 Có nguồn quỹ hỗ trợ Danish"
+"1b.2.1.1b+ Danish hoặc Beret có chung một nhiệm vụ với Cueball" -> "r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả"
+"1b.2.1.1a Danish, Beret quan tâm đến điều Cueball quan tâm" -> "1b.2.1.1b+ Danish hoặc Beret có chung một nhiệm vụ với Cueball"
+"1b.2.1 Danish, Beret đã trò chuyện nhiều với Cueball" -> "1b.2.1.1a Danish, Beret quan tâm đến điều Cueball quan tâm"
+"1b.2.1 Danish, Beret đã trò chuyện nhiều với Cueball" -> "1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball"
+"1b.2 Danish, Beret thường xuyên nói tích cực về Cueball" -> "1b.2.1 Danish, Beret đã trò chuyện nhiều với Cueball"
+"1b.2 Danish, Beret thường xuyên nói tích cực về Cueball" -> "1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret"
+"1b.1j.i Danish có sự yên tâm về năng lực cũng như sự thận trọng của người tác động" -> "1a.1a.1a Cueball hiểu Megan muốn gì"
+"1b.1j.1 Danish thấy được một cách rõ ràng hệ quả có thể là gì nếu không can thiệp" -> "1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt"
+"1b.1.k.1 Danish kể cho Cueball những gì mình quan sát thấy ở Megan ở thời điểm hiện tại" -> "1B.1.K.1.1 Danish rất muốn nghe ý kiến của Cueball về Megan"
+"1b.1.k Danish thấy rằng chỉ có nói chuyện thì Megan mới có đánh giá đúng nhất về Cueball" -> "1b.1.k.1 Danish kể cho Cueball những gì mình quan sát thấy ở Megan ở thời điểm hiện tại"
+"1b.1.j Danish suy nghĩ về những hệ quả có thể xảy ra khi không can thiệp" -> "1b.1j.1 Danish thấy được một cách rõ ràng hệ quả có thể là gì nếu không can thiệp"
+"1b.1.i.j Môi trường có những gợi ý cho Megan suy ngẫm" -> "k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình"
+"1b.1.1a.i Danish cảm thấy việc nói về chuyện đó là tự nhiên, bình thường, không có gì phải ngại" -> "1b.1.1a.i.1 Nếu Danish băn khoăn về vấn đề can thiệp, Danish sẽ tham gia vào các buổi thảo luận về vấn đề can thiệp"
+"1b.1.1a.1b Việc hỏi Megan là ưu tiên hàng đầu của Danish" -> "1b.1.1a.1b.1 Danish vốn là người muốn làm việc này (tức là Danish là Cueball)"
+"1b.1.1a.1b Việc hỏi Megan là ưu tiên hàng đầu của Danish" -> "1b.1.1a.1b.2a Danish cảm thấy nên hỏi chuyện Megan"
+"1b.1.1a.1b Việc hỏi Megan là ưu tiên hàng đầu của Danish" -> "1b.1.1a.1b.2b Danish thấy bạn bè của mình cũng muốn hỏi chuyện Megan"
+"1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball" -> "1b.1.1a.1a.1b.1 Việc tìm hiểu vấn đề giữa Megan và Cueball sẽ giúp giải quyết điều Danish cần giải quyết trước mắt"
+"1b.1.1a.1a Danish biết về thái độ của Megan về Cueball" -> "1b.1.1a.1a.1a Danish là người mà Cueball tin tưởng kể chuyện, hoặc có một người trung gian mà cả 2 đều tin tưởng"
+"1b.1.1a.1a Danish biết về thái độ của Megan về Cueball" -> "1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball"
+"1b.1.1a Danish cảm thấy việc hỏi Megan là ưu tiên lớn nhất của mình" -> "1b.1.1a.1a Danish biết về thái độ của Megan về Cueball"
+"1b.1.1a Danish cảm thấy việc hỏi Megan là ưu tiên lớn nhất của mình" -> "1b.1.1a.1b Việc hỏi Megan là ưu tiên hàng đầu của Danish"
+"1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball" -> "1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy"
+"1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball" -> "1b.2 Danish, Beret thường xuyên nói tích cực về Cueball"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.1a Danish cảm thấy việc hỏi Megan là ưu tiên lớn nhất của mình"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.1b Danish đồng ý là với tình trạng đó thì là thiệt thòi hoặc thậm chí là bất công cho chính Megan hoặc cho người khác"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.1c Danish thực sự chỉ muốn hiểu rõ về con người của Megan, và cũng tin rằng quan điểm của mình cũng có thể sai"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Đi chung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ý tưởng tốt hơn edges
+"l.1.i Danish, Beret thực hành việc đặt câu hỏi hơn là cho ý kiến của mình" -> "1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình"
+"1b.2.2.i Những người cũng có hứng thú với quan điểm của Cueball cũng cảm thấy không chia sẻ thì không được" -> "1b.2.2.i+ Biến thành công những người có hứng thú với quan điểm của Cueball thành đồng minh"
+"1b.2.2.1 Danish, Beret cảm thấy không chia sẻ quan điểm của Cueball thì không được" -> "1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình"
+"1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc" -> "q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish"
+"1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball" -> "1b.2.1.1b+ Danish hoặc Beret có chung một nhiệm vụ với Cueball"
+"1b.2.1 Danish, Beret đã trò chuyện nhiều với Cueball" -> "1b.2.1+ Danish, Beret là bạn của Cueball"
+"1b.2 Danish, Beret thường xuyên nói tích cực về Cueball" -> "1b.2+ Danish, Beret xem Cueball là hình mẫu đáng ngưỡng mộ"
+"1b.1.i Danish có cách để gợi mở câu chuyện mà Megan vẫn cảm thấy an toàn, thoải mái" -> "1b.1.i+ Danish là người Megan quý trọng và muốn làm Danish thoải mái"
+"1b.1.1a.1a.1b.i Việc tìm hiểu vấn đề giữa Megan và Cueball là trách nhiệm của Danish" -> "1b.1.1a.1a.1b.j Việc tìm hiểu vấn đề giữa Megan và Cueball là điều Danish đau đáu"
+"1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball" -> "1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yếu tố hỗ trợ edges
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret"
+"1b.2.2.i+.1 Cueball có cách để liên lạc được với những người có hứng thú với quan điểm của mình" -> "1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret"
+"1b.2.2.i Những người làm trong ngành phát triển cảm thấy không chia sẻ quan điểm của Cueball thì không được" -> "1b.2.2.1.i Cueball có được lý do vì sao những người trong ngành phát triển chưa muốn chia sẻ quan điểm của mình"
+"1b.2.2.i Những người làm trong ngành phát triển cảm thấy không chia sẻ quan điểm của Cueball thì không được" -> "n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "r Mạng lưới người thân, bạn bè của ncnttc hoạt động hiệu quả"
+"1b.2.2.1 Danish, Beret cảm thấy không chia sẻ quan điểm của Cueball thì không được" -> "1b.2.2.1.i Ý tưởng của Cueball kết nối được với một câu chuyện của Danish, Beret"
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" -> "1b.2.2.i Những người làm trong ngành phát triển cảm thấy không chia sẻ quan điểm của Cueball thì không được"
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" -> "1b.2.2.i Những người cũng có hứng thú với quan điểm của Cueball cũng cảm thấy không chia sẻ thì không được"
+"1b.2.1.i.1 Bạn bè của Danish, Beret nói về Cueball" -> "r.i Cộng đồng bạn bè QC phát triển"
+"1b.2.1.1b.i.1 Có nguồn quỹ hỗ trợ Danish" -> "r.k.10 Độc lập tài chính"
+"1b.2.1.1b Danish, Beret có thời gian để nói chuyện với Cueball" -> "1b.2.1.1b.i Danish hoặc Beret không cần phải bận rộn với công việc"
+"1b.2.1+ Danish, Beret là bạn của Cueball" -> "r.i Cộng đồng bạn bè QC phát triển"
+"1b.2.1 Danish, Beret đã trò chuyện nhiều với Cueball" -> "1b.2.1.i Danish, Beret tò mò về Cueball"
+"1b.1.j Danish suy nghĩ về những hệ quả có thể xảy ra khi không can thiệp" -> "1b.1j.i Danish có sự yên tâm về năng lực cũng như sự thận trọng của người tác động"
+"1b.1.i Danish có cách để tiếp cận Megan mà cô vẫn cảm thấy an toàn, thoải mái" -> "1b.1.i.i Danish là người Megan quý trọng và muốn làm Danish thoải mái"
+"1b.1.i Danish có cách để tiếp cận Megan mà cô vẫn cảm thấy an toàn, thoải mái" -> "1b.1.i.j Môi trường có những gợi ý cho Megan suy ngẫm"
+"1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball" -> "1b.1.1a.1a.1b.i Việc tìm hiểu vấn đề giữa Megan và Cueball là trách nhiệm của Danish"
+"1b.1.1a.1a.1b Danish có thời gian để tìm hiểu vấn đề giữa Megan và Cueball" -> "1b.1.1a.1a.1b.j Việc tìm hiểu vấn đề giữa Megan và Cueball là điều Danish đau đáu"
+"1b.1.1a Danish cảm thấy việc hỏi Megan là ưu tiên lớn nhất của mình" -> "1b.1.1a.i Danish cảm thấy việc nói về chuyện đó là tự nhiên, bình thường, không có gì phải ngại"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.i Danish có cách để tiếp cận Megan mà cô vẫn cảm thấy an toàn, thoải mái"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.j Danish suy nghĩ về những hệ quả có thể xảy ra khi không can thiệp"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.k Danish thấy rằng chỉ có nói chuyện thì Megan mới có đánh giá đúng nhất về Cueball"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.l Danish không cho rằng một khi Megan không muốn thì không còn cách nào nữa"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "1b.1.m Danish không gặp phải hiện tượng người ngoài cuộc đứng nhìn"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Tham khảo edges
+
+edge [ style=dashed ]
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Quảng cáo, vận động bầu cử, truyền đạo, tuyên truyền"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Đa cấp"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Xây dựng cộng đồng"
+"1b.1 Danish, Beret cũng quan tâm và mong muốn có được câu trả lời thoả đáng về mâu thuẫn họ thấy" -> "Biểu tình, tẩy chay"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hoạt động edges
+"1b.2.2.1.i Cueball có được lý do vì sao những người trong ngành phát triển chưa muốn chia sẻ quan điểm của mình" -> "Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC"
+"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Thử nghiệm kế hoạch tác động ncnttc"
+"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" -> "Viết bài phân tích theo trend"
+"1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt" -> "Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông"
+"1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt" -> "Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng"
+"1b.1.l Danish không cho rằng một khi Megan không muốn thì không còn cách nào nữa" -> "Tổ chức những buổi nói chuyện về sự khả thi của sự tác động"
+
+}

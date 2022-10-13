@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://docs.google.com/document/u/2/d/17d4UA9pYnK8vSiPbOdkfZWkqdkxNi8Uocav531vwR3I/edit?usp=drive_web&ouid=103991395239165122250",
+      "displayName": "Google Docs",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

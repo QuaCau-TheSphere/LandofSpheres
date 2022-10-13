@@ -1,0 +1,128 @@
+{
+  "ProgressProperties": {
+    "enabled": false,
+    "properties": [
+      {
+        "name": "",
+        "type": "Total Tasks"
+      }
+    ]
+  },
+  "IgnoredProperties": {
+    "enabled": true,
+    "properties": [
+      "Công việc thành phần",
+      "Cấp độ công việc",
+      "Câu hỏi",
+      "Chủ đề",
+      "Tài nguyên",
+      "Kết quả mong muốn",
+      "next",
+      "- [ ] [est"
+    ]
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Độ cấp thiết",
+        "choices": [
+          "Phải làm ngay",
+          "Muốn làm ngay",
+          "Nên làm ngay",
+          "Chưa cần làm ngay nhưng sẽ sớm phải làm",
+          "Chưa cần làm ngay nhưng nếu có người làm giúp thì cũng đỡ được nhiều thứ",
+          "Không quan trọng",
+          "Đã xong",
+          "Công việc lặp lại"
+        ]
+      },
+      {
+        "name": "Trạng thái",
+        "choices": [
+          "Vấn đề chưa rõ ràng/chưa thống nhất xong",
+          "Chưa bắt đầu",
+          "Đang làm",
+          "Đang bị kẹt",
+          "Đang làm dở nhưng chưa có thời gian để làm tiếp",
+          "Công việc lặp lại",
+          "Còn vài mục nhưng cũng không cần làm ngay",
+          "Chuyển sang hướng tiếp cận khác tốt hơn",
+          "Đã hoàn thành tất cả các mục",
+          "Chưa tới thời điểm để bắt đầu",
+          "Cần đánh giá lại"
+        ]
+      },
+      {
+        "name": "Nội dung",
+        "choices": [
+          "định nghĩa",
+          "câu hỏi",
+          "câu trả lời",
+          "thảo luận chung"
+        ]
+      },
+      {
+        "name": "Hỏi trong nhóm",
+        "choices": [
+          "Đã lên lịch",
+          "Đã hỏi xong"
+        ]
+      },
+      {
+        "name": "Alias",
+        "choices": [
+          ""
+        ]
+      },
+      {
+        "name": "Ban",
+        "choices": [
+          "[[Ω Điều hành]]",
+          "[[C Nhân sự]]",
+          "[[B1 Nghiên cứu]]",
+          "[[A2 Tổ chức sự kiện – truyền thông]]",
+          "[[D Kỹ thuật]]",
+          "[[A1 Điều phối mạng lưới]]",
+          "[[A3 Đối ngoại – gây quỹ]]",
+          "[[B2 Dịch thuật]]",
+          "[[B3 Thiết kế]]",
+          "[[E Hậu cần]]",
+          "[[F Tài chính]]"
+        ]
+      },
+      {
+        "name": "Tính chất công việc",
+        "choices": [
+          "Không phải suy nghĩ nhiều",
+          "Tương tác nhiều với loài người",
+          "Không phải cắm mặt vào máy tính",
+          "Có thể làm qua mạng",
+          "Có thể làm một mình",
+          "Làm xong không cần hỏi ý kiến",
+          "Chỉ nên làm khi gặp mặt trực tiếp",
+          "Chỉ nên làm qua mạng",
+          "Cần họp thường xuyên",
+          "Cần sự tư duy",
+          "Chỉ nên giao cho người có chuyên môn cao"
+        ]
+      }
+    ]
+  },
+  "EditMode": {
+    "mode": "Some Multi",
+    "properties": [
+      "Giai đoạn trong tư duy thiết kế",
+      "Nội dung",
+      "Ban",
+      "Tính chất công việc"
+    ]
+  },
+  "KanbanHelper": {
+    "enabled": true,
+    "boards": []
+  },
+  "UIElements": {
+    "enabled": true
+  }
+}

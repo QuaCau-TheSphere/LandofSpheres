@@ -1,0 +1,280 @@
+digraph branch_p{
+splines=ortho;
+			overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_20 nodes
+
+node [ shape=oval margin=0.1 fillcolor="#EEEADD" style="filled, rounded" ]
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Mục tiêu nodes
+"p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình" [ label = "p.1.1.1 Beret cảm thấy việc trò\nchuyện sẽ giúp họ đạt được mục\ntiêu của mình" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.i.1a Các thành viên cảm thấy cộng đồng giúp đạt được nhu cầu của mình" [ label = "r.i.1a Các thành viên cảm thấy\ncộng đồng giúp đạt được nhu cầu\ncủa mình" ] 
+"r.2.1.1 Những người lo lắng về sự can thiệp sẽ tìm hiểu các lý thuyết về sự can thiệp" [ label = "r.2.1.1 Những người lo lắng về\nsự can thiệp sẽ tìm hiểu các lý\nthuyết về sự can thiệp" ] 
+"p.1.1.i.1 Người có chuyên môn ấn tượng với những câu hỏi của mình" [ label = "p.1.1.i.1 Người có chuyên môn ấn\ntượng với những câu hỏi của mình" ] 
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình" [ label = "p.1.1.1 Beret cảm thấy việc trò\nchuyện sẽ giúp họ đạt được mục\ntiêu của mình" ] 
+"p.1.1 Beret có thời gian trò chuyện sâu với mình" [ label = "p.1.1 Beret có thời gian trò\nchuyện sâu với mình" ] 
+"p.1 Beret cảm thấy hợp lý về hướng đi của mình" [ label = "p.1 Beret cảm thấy hợp lý về\nhướng đi của mình" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" [ label = "j.1a.1 Megan phân biệt được sự\nkhác biệt giữa cảm xúc, cảm\nnhận, trực giác" ] 
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ý tưởng tốt hơn nodes
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+"p.1.1.1.1+ Thúc đẩy nghiên cứu liên ngành" [ label = "p.1.1.1.1+ Thúc đẩy nghiên cứu\nliên ngành" ] 
+"p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường" [ label = "p.1.1.1+ Sinh viên cảm thấy có\nthể dùng QC như là một ca để\nphân tích cho các bài tập trên\ntrường" ] 
+"p.1.1+ Beret dành thời gian đọc các bài viết của mình" [ label = "p.1.1+ Beret dành thời gian đọc\ncác bài viết của mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yếu tố hỗ trợ nodes
+
+node [ shape=note style=filled ]
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường" [ label = "p.1.1.1+ Sinh viên cảm thấy có\nthể dùng QC như là một ca để\nphân tích cho các bài tập trên\ntrường" ] 
+"p.1.i Những người làm trong các ngành phát triển quan tâm" [ label = "p.1.i Những người làm trong các\nngành phát triển quan tâm" ] 
+"p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường" [ label = "p.1.1.1+ Sinh viên cảm thấy có\nthể dùng QC như là một ca để\nphân tích cho các bài tập trên\ntrường" ] 
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"p.1.1.i Người có chuyên môn có cảm tình với mình" [ label = "p.1.1.i Người có chuyên môn có\ncảm tình với mình" ] 
+"p.1.i Những người làm trong các ngành phát triển quan tâm" [ label = "p.1.i Những người làm trong các\nngành phát triển quan tâm" ] 
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Tham khảo nodes
+
+node [ shape=plain fillcolor=white ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hoạt động nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" [ label = "Khảo sát những người thực hành\nngành phát triển về suy nghĩ của\nhọ về QC" ] 
+"Giới thiệu về các công cụ để tăng hiệu suất lao động (Airtable, Obsidian, Debategraph, v.v.)" [ label = "Giới thiệu về các công cụ để\ntăng hiệu suất lao động\n(Airtable, Obsidian,\nDebategraph, v.v.)" ] 
+"Đặt các câu hỏi lên trên Fb, Discord" [ label = "Đặt các câu hỏi lên trên Fb,\nDiscord" ] 
+"Đặt các câu hỏi lên trên Fb, Discord" [ label = "Đặt các câu hỏi lên trên Fb,\nDiscord" ] 
+"Đặt các câu hỏi lên trên Fb, Discord" [ label = "Đặt các câu hỏi lên trên Fb,\nDiscord" ] 
+"Đặt các câu hỏi lên trên Fb, Discord" [ label = "Đặt các câu hỏi lên trên Fb,\nDiscord" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Quảng bá các bài viết về tự trị trong các group đối tượng" [ label = "Quảng bá các bài viết về tự trị\ntrong các group đối tượng" ] 
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" [ label = "Khảo sát những người thực hành\nngành phát triển về suy nghĩ của\nhọ về QC" ] 
+"Quảng bá các bài viết về tự trị trong các group đối tượng" [ label = "Quảng bá các bài viết về tự trị\ntrong các group đối tượng" ] 
+"Giới thiệu về các công cụ để tăng hiệu suất lao động (Airtable, Obsidian, Debategraph, v.v.)" [ label = "Giới thiệu về các công cụ để\ntăng hiệu suất lao động\n(Airtable, Obsidian,\nDebategraph, v.v.)" ] 
+"Đặt các câu hỏi lên trên Fb, Discord" [ label = "Đặt các câu hỏi lên trên Fb,\nDiscord" ] 
+"Làm mạng lưới câu hỏi liên ngành" [ label = "Làm mạng lưới câu hỏi liên ngành" ] 
+"Kết nối nhu cầu làm luận của sinh viên" [ label = "Kết nối nhu cầu làm luận của\nsinh viên" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Tổ chức những buổi nói chuyện về nét họ hàng giống nhau của Wittgenstein" [ label = "Tổ chức những buổi nói chuyện về\nnét họ hàng giống nhau của\nWittgenstein" ] 
+"Tổ chức những buổi nói chuyện về lý thuyết phê phán Frankfurt cho người làm truyền thông và thời trang" [ label = "Tổ chức những buổi nói chuyện về\nlý thuyết phê phán Frankfurt cho\nngười làm truyền thông và thời\ntrang" ] 
+"Tổ chức những buổi nói chuyện về mối quan hệ giữa Đạo gia và LGBT" [ label = "Tổ chức những buổi nói chuyện về\nmối quan hệ giữa Đạo gia và LGBT" ] 
+"Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)" [ label = "Tổ chức những buổi nói chuyện về\ncác loại cảm xúc, và vai trò của\nviệc để cảm xúc chi phối bản\nthân trong đời sống con người\n(nghệ thuật, giải trí, giải hậu\nthực dân)" ] 
+"Tổ chức những buổi nói chuyện về mối quan hệ giữa tính kiểm sai trong khoa học và điều ngôn ngữ không miêu tả được" [ label = "Tổ chức những buổi nói chuyện về\nmối quan hệ giữa tính kiểm sai\ntrong khoa học và điều ngôn ngữ\nkhông miêu tả được" ] 
+"Tổ chức những buổi nói chuyện về sự diễn giải chủ quan" [ label = "Tổ chức những buổi nói chuyện về\nsự diễn giải chủ quan" ] 
+"Tổ chức các buổi thảo luận về điểm ở vô cực, đường chân trời, và hình học xạ ảnh" [ label = "Tổ chức các buổi thảo luận về\nđiểm ở vô cực, đường chân trời,\nvà hình học xạ ảnh" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)" [ label = "Tổ chức những buổi nói chuyện về\ncác loại cảm xúc, và vai trò của\nviệc để cảm xúc chi phối bản\nthân trong đời sống con người\n(nghệ thuật, giải trí, giải hậu\nthực dân)" ] 
+"Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)" [ label = "Tổ chức những buổi nói chuyện về\ncác loại cảm xúc, và vai trò của\nviệc để cảm xúc chi phối bản\nthân trong đời sống con người\n(nghệ thuật, giải trí, giải hậu\nthực dân)" ] 
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" [ label = "Khảo sát những người thực hành\nngành phát triển về suy nghĩ của\nhọ về QC" ] 
+"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng" [ label = "Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng" ] 
+"Làm mạng lưới câu hỏi liên ngành" [ label = "Làm mạng lưới câu hỏi liên ngành" ] 
+"Kết nối nhu cầu làm luận của sinh viên" [ label = "Kết nối nhu cầu làm luận của\nsinh viên" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" [ label = "j.1a.1 Megan phân biệt được sự\nkhác biệt giữa cảm xúc, cảm\nnhận, trực giác" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" [ label = "n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+"p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình" [ label = "p.1.1.1 Beret cảm thấy việc trò\nchuyện sẽ giúp họ đạt được mục\ntiêu của mình" ] 
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường" [ label = "p.1.1.1+ Sinh viên cảm thấy có\nthể dùng QC như là một ca để\nphân tích cho các bài tập trên\ntrường" ] 
+"p.1.i Những người làm trong các ngành phát triển quan tâm" [ label = "p.1.i Những người làm trong các\nngành phát triển quan tâm" ] 
+"p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường" [ label = "p.1.1.1+ Sinh viên cảm thấy có\nthể dùng QC như là một ca để\nphân tích cho các bài tập trên\ntrường" ] 
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"p.1.1.i.1 Người có chuyên môn ấn tượng với những câu hỏi của mình" [ label = "p.1.1.i.1 Người có chuyên môn ấn\ntượng với những câu hỏi của mình" ] 
+"p.1.1.1.1+ Thúc đẩy nghiên cứu liên ngành" [ label = "p.1.1.1.1+ Thúc đẩy nghiên cứu\nliên ngành" ] 
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường" [ label = "p.1.1.1+ Sinh viên cảm thấy có\nthể dùng QC như là một ca để\nphân tích cho các bài tập trên\ntrường" ] 
+"p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình" [ label = "p.1.1.1 Beret cảm thấy việc trò\nchuyện sẽ giúp họ đạt được mục\ntiêu của mình" ] 
+"p.1.1.i Người có chuyên môn có cảm tình với mình" [ label = "p.1.1.i Người có chuyên môn có\ncảm tình với mình" ] 
+"p.1.1+ Beret dành thời gian đọc các bài viết của mình" [ label = "p.1.1+ Beret dành thời gian đọc\ncác bài viết của mình" ] 
+"p.1.1 Beret có thời gian trò chuyện sâu với mình" [ label = "p.1.1 Beret có thời gian trò\nchuyện sâu với mình" ] 
+"p.1.i Những người làm trong các ngành phát triển quan tâm" [ label = "p.1.i Những người làm trong các\nngành phát triển quan tâm" ] 
+"p.1 Beret cảm thấy hợp lý về hướng đi của mình" [ label = "p.1 Beret cảm thấy hợp lý về\nhướng đi của mình" ] 
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" [ label = "p.1.1.1.1 Beret thấy được chuyên\nmôn của mình kết nối tới những\nlĩnh vực mình không ngờ tới như\nthế nào" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" [ label = "p Beret nhận lời tham gia các\nbuổi thuyết trình thảo luận" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.i.1a Các thành viên cảm thấy cộng đồng giúp đạt được nhu cầu của mình" [ label = "r.i.1a Các thành viên cảm thấy\ncộng đồng giúp đạt được nhu cầu\ncủa mình" ] 
+"r.2.1.1 Những người lo lắng về sự can thiệp sẽ tìm hiểu các lý thuyết về sự can thiệp" [ label = "r.2.1.1 Những người lo lắng về\nsự can thiệp sẽ tìm hiểu các lý\nthuyết về sự can thiệp" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+"r.i Cộng đồng bạn bè QC phát triển" [ label = "r.i Cộng đồng bạn bè QC phát\ntriển" ] 
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Mục tiêu edges
+"Người có chuyên môn không có nhu cầu với bài viết của mình" -> "p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình"
+"p.1.1.i Người có chuyên môn có cảm tình với mình" -> "p.1.1.i.1 Người có chuyên môn ấn tượng với những câu hỏi của mình"
+"p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình" -> "p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào"
+"p.1.1 Beret có thời gian trò chuyện sâu với mình" -> "p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình"
+"p.1 Beret cảm thấy hợp lý về hướng đi của mình" -> "p.1.1 Beret có thời gian trò chuyện sâu với mình"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "p.1 Beret cảm thấy hợp lý về hướng đi của mình"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Đi chung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ý tưởng tốt hơn edges
+"p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào" -> "p.1.1.1.1+ Thúc đẩy nghiên cứu liên ngành"
+"p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình" -> "p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường"
+"p.1.1 Beret có thời gian trò chuyện sâu với mình" -> "p.1.1+ Beret dành thời gian đọc các bài viết của mình"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yếu tố hỗ trợ edges
+"r.j Kết hợp được với các dự án xã hội khác" -> "p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào"
+"r.i.1a Các thành viên cảm thấy cộng đồng giúp đạt được nhu cầu của mình" -> "p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường"
+"r.i Cộng đồng bạn bè QC phát triển" -> "p.1.i Những người làm trong các ngành phát triển quan tâm"
+"r.i Cộng đồng bạn bè QC phát triển" -> "p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường"
+"r.2.1.1 Những người lo lắng về sự can thiệp sẽ tìm hiểu các lý thuyết về sự can thiệp" -> "p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào"
+"p.1.1 Beret có thời gian trò chuyện sâu với mình" -> "p.1.1.i Người có chuyên môn có cảm tình với mình"
+"p.1 Beret cảm thấy hợp lý về hướng đi của mình" -> "p.1.i Những người làm trong các ngành phát triển quan tâm"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "p.1.1.1.1 Beret thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không ngờ tới như thế nào"
+"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "p Beret nhận lời tham gia các buổi thuyết trình thảo luận"
+"j.1a.1 Megan phân biệt được sự khác biệt giữa cảm xúc, cảm nhận, trực giác" -> "p Beret nhận lời tham gia các buổi thuyết trình thảo luận"
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "p Beret nhận lời tham gia các buổi thuyết trình thảo luận"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Tham khảo edges
+
+edge [ style=dashed ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hoạt động edges
+"p.1.i Những người làm trong các ngành phát triển quan tâm" -> "Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC"
+"p.1.i Những người làm trong các ngành phát triển quan tâm" -> "Quảng bá các bài viết về tự trị trong các group đối tượng"
+"p.1.i Những người làm trong các ngành phát triển quan tâm" -> "Giới thiệu về các công cụ để tăng hiệu suất lao động (Airtable, Obsidian, Debategraph, v.v.)"
+"p.1.i Những người làm trong các ngành phát triển quan tâm" -> "Đặt các câu hỏi lên trên Fb, Discord"
+"p.1.1.1.1+ Thúc đẩy nghiên cứu liên ngành" -> "Làm mạng lưới câu hỏi liên ngành"
+"p.1.1.1.1+ Thúc đẩy nghiên cứu liên ngành" -> "Kết nối nhu cầu làm luận của sinh viên"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về nét họ hàng giống nhau của Wittgenstein"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về lý thuyết phê phán Frankfurt cho người làm truyền thông và thời trang"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về mối quan hệ giữa Đạo gia và LGBT"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về các loại cảm xúc, và vai trò của việc để cảm xúc chi phối bản thân trong đời sống con người (nghệ thuật, giải trí, giải hậu thực dân)"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về mối quan hệ giữa tính kiểm sai trong khoa học và điều ngôn ngữ không miêu tả được"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về sự diễn giải chủ quan"
+"p Beret nhận lời tham gia các buổi thuyết trình thảo luận" -> "Tổ chức các buổi thảo luận về điểm ở vô cực, đường chân trời, và hình học xạ ảnh"
+
+}

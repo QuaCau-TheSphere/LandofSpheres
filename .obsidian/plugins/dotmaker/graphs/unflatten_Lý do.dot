@@ -1,0 +1,314 @@
+digraph "Lý do" {
+	graph [fontname=Lato,
+		fontsize=30,
+		label="Các vấn đề Quả Cầu đang đối diện",
+		labelloc=t,
+		overlap=false
+	];
+	node [fillcolor="#EEEADD",
+		fontname="SVN-Avo",
+		margin=0.2,
+		shape=box,
+		style="filled, rounded"
+	];
+	edge [penwidth=1];
+	"Thiếu nhóm cố vấn"	[label="Thiếu nhóm cố vấn"];
+	"Người có chuyên môn không có nhu cầu với bài viết của mình"	[label="Người có chuyên môn không có nhu\ncầu với bài viết của mình"];
+	"Thiếu nhóm cố vấn" -> "Người có chuyên môn không có nhu cầu với bài viết của mình"	[minlen=1];
+	"Ngại làm phiền họ. Không muốn họ cảm thấy phải có trách nhiệm"	[label="Ngại làm phiền họ. Không muốn họ\ncảm thấy phải có trách nhiệm"];
+	"Thiếu nhóm cố vấn" -> "Ngại làm phiền họ. Không muốn họ cảm thấy phải có trách nhiệm";
+	"Quá nhiều việc"	[label="Quá nhiều việc"];
+	"Những người tham gia lâu không chịu nhận làm coreteam"	[label="Những người tham gia lâu không\nchịu nhận làm coreteam"];
+	"Quá nhiều việc" -> "Những người tham gia lâu không chịu nhận làm coreteam";
+	"Có rất nhiều người quan tâm đến Nhật nhưng số lượng người muốn phát triển QC quá ít"	[label="Có rất nhiều người quan tâm đến\nNhật nhưng số lượng người muốn\nphát triển QC quá ít"];
+	"Quá nhiều việc" -> "Có rất nhiều người quan tâm đến Nhật nhưng số lượng người muốn phát triển QC quá ít";
+	"Nhật muốn để cho mọi người được chia sẻ và lắng nghe"	[label="Nhật muốn để cho mọi người được\nchia sẻ và lắng nghe"];
+	"Quá nhiều việc" -> "Nhật muốn để cho mọi người được chia sẻ và lắng nghe";
+	"Các thành viên không tự giác"	[label="Các thành viên không tự giác"];
+	"Quá nhiều việc" -> "Các thành viên không tự giác";
+	"TNV không ổn định"	[label="TNV không ổn định"];
+	"Quá nhiều việc" -> "TNV không ổn định";
+	"Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì"	[label="Những người muốn giúp cảm thấy\nmông lung ko biết mình cần làm\ncái gì"];
+	"Quá nhiều việc" -> "Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì";
+	"Có nhiều sự kiện ngắn hạn cũng nên dành thời gian"	[label="Có nhiều sự kiện ngắn hạn cũng\nnên dành thời gian"];
+	"Quá nhiều việc" -> "Có nhiều sự kiện ngắn hạn cũng nên dành thời gian";
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ"	[label="Nhật không giao việc trực tiếp,\nkhông chủ động nhờ giúp đỡ"];
+	"Quá nhiều việc" -> "Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ";
+	"Việc hoàn thành mục tiêu đòi hỏi sự quan tâm của nhiều người"	[label="Việc hoàn thành mục tiêu đòi hỏi\nsự quan tâm của nhiều người"];
+	"Không giữ được cảm hứng lâu dài cho người tham gia"	[label="Không giữ được cảm hứng lâu dài\ncho người tham gia"];
+	"Những người hứng thú không thấy một kế hoạch hành động rõ ràng"	[label="Những người hứng thú không thấy\nmột kế hoạch hành động rõ ràng"];
+	"Không giữ được cảm hứng lâu dài cho người tham gia" -> "Những người hứng thú không thấy một kế hoạch hành động rõ ràng";
+	"Không tổ chức các buổi chia sẻ kiến thức thường xuyên"	[label="Không tổ chức các buổi chia sẻ\nkiến thức thường xuyên"];
+	"Không giữ được cảm hứng lâu dài cho người tham gia" -> "Không tổ chức các buổi chia sẻ kiến thức thường xuyên";
+	"Rối loạn chức năng các buổi họp"	[label="Rối loạn chức năng các buổi họp"];
+	"Không giữ được cảm hứng lâu dài cho người tham gia" -> "Rối loạn chức năng các buổi họp";
+	"Không hiểu được tại sao những gì QC hướng đến không tạo sự say mê mạnh mê cho người khác"	[label="Không hiểu được tại sao những gì\nQC hướng đến không tạo sự say mê\nmạnh mê cho người khác"];
+	"Không giữ được cảm hứng lâu dài cho người tham gia" -> "Không hiểu được tại sao những gì QC hướng đến không tạo sự say mê mạnh mê cho người khác"	[minlen=1];
+	"Các thành viên không có nhiều gắn bó với nhau"	[label="Các thành viên không có nhiều\ngắn bó với nhau"];
+	"Những người quan tâm khi có vấn đề hoặc thắc mắc không đặt lên group hoặc Discord mà chỉ đặt riêng \
+cho Nhật"	[label="Những người quan tâm khi có vấn\nđề hoặc thắc mắc không đặt lên\ngroup hoặc Discord mà chỉ đặt\nriêng \
+cho Nhật"];
+	"Các thành viên không có nhiều gắn bó với nhau" -> "Những người quan tâm khi có vấn đề hoặc thắc mắc không đặt lên group hoặc Discord mà chỉ đặt riêng \
+cho Nhật";
+	"Các thành viên không có nhiều dịp tương tác với nhau"	[label="Các thành viên không có nhiều\ndịp tương tác với nhau"];
+	"Các thành viên không có nhiều gắn bó với nhau" -> "Các thành viên không có nhiều dịp tương tác với nhau";
+	"Những người hứng thú không có sự hàm ơn"	[label="Những người hứng thú không có sự\nhàm ơn"];
+	"Các thành viên phải ưu tiên làm những việc quan trọng khác"	[label="Các thành viên phải ưu tiên làm\nnhững việc quan trọng khác"];
+	"Những người hứng thú không có sự hàm ơn" -> "Các thành viên phải ưu tiên làm những việc quan trọng khác";
+	"Muốn hướng tới sự thong thả cho thành viên"	[label="Muốn hướng tới sự thong thả cho\nthành viên"];
+	"Thấy áp lực đã quá nặng nề rồi"	[label="Thấy áp lực đã quá nặng nề rồi"];
+	"Muốn hướng tới sự thong thả cho thành viên" -> "Thấy áp lực đã quá nặng nề rồi";
+	"Muốn tạo điều kiện để những thứ ngẫu nhiên được diễn ra"	[label="Muốn tạo điều kiện để những thứ\nngẫu nhiên được diễn ra"];
+	"Muốn hướng tới sự thong thả cho thành viên" -> "Muốn tạo điều kiện để những thứ ngẫu nhiên được diễn ra"	[minlen=1];
+	"Muốn bảo vệ sự tập trung"	[label="Muốn bảo vệ sự tập trung"];
+	"Muốn hướng tới sự thong thả cho thành viên" -> "Muốn bảo vệ sự tập trung";
+	"Mọi người không hiểu được hết suy nghĩ của Nhật"	[label="Mọi người không hiểu được hết\nsuy nghĩ của Nhật"];
+	"Chưa có một buổi nói về tinh thần QC thực sự hiệu quả"	[label="Chưa có một buổi nói về tinh\nthần QC thực sự hiệu quả"];
+	"Mọi người không hiểu được hết suy nghĩ của Nhật" -> "Chưa có một buổi nói về tinh thần QC thực sự hiệu quả";
+	"Họ không có tầm nhìn xa"	[label="Họ không có tầm nhìn xa"];
+	"Người theo dõi chưa thấy được tinh thần QC có gì liên quan đến điều mình khao khát có được"	[label="Người theo dõi chưa thấy được\ntinh thần QC có gì liên quan đến\nđiều mình khao khát có được"];
+	"Người theo dõi chưa thấy được tinh thần QC có gì liên quan đến điều mình khao khát có được" -> "Họ không có tầm nhìn xa";
+	"Người theo dõi chưa thấy được tinh thần QC có gì liên quan đến điều mình khao khát có được" -> "Chưa có một buổi nói về tinh thần QC thực sự hiệu quả";
+	"Người theo dõi chỉ hứng thú với kiến thức và tò mò"	[label="Người theo dõi chỉ hứng thú với\nkiến thức và tò mò"];
+	"Người theo dõi chỉ hứng thú với kiến thức và tò mò" -> "Người theo dõi chưa thấy được tinh thần QC có gì liên quan đến điều mình khao khát có được";
+	"Câu hỏi không kích thích sự suy ngẫm"	[label="Câu hỏi không kích thích sự suy\nngẫm"];
+	"Chưa đặt câu hỏi trong Trello lên"	[label="Chưa đặt câu hỏi trong Trello\nlên"];
+	"Chưa đặt câu hỏi trong Trello lên" -> "Quá nhiều việc";
+	"Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn"	[label="Các thành viên không chịu đọc\nthông tin dù đã được tổng hợp\nsẵn"];
+	"Chưa đặt câu hỏi trong Trello lên" -> "Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn";
+	"Giao tiếp trực tiếp đem lại sự thoải mái hơn"	[label="Giao tiếp trực tiếp đem lại sự\nthoải mái hơn"];
+	"Cần thời gian để não đưa ra được câu phản hồi"	[label="Cần thời gian để não đưa ra được\ncâu phản hồi"];
+	"✅ Chưa gây được quỹ"	[label="✅ Chưa gây được quỹ"];
+	"Các thành viên phải ưu tiên làm những việc quan trọng khác" -> "✅ Chưa gây được quỹ";
+	"Lười gõ trên đt"	[label="Lười gõ trên đt"];
+	"Các buổi họp không có đầy đủ người muốn tham dự"	[label="Các buổi họp không có đầy đủ\nngười muốn tham dự"];
+	"Các thành viên không nắm rõ lịch họp"	[label="Các thành viên không nắm rõ lịch\nhọp"];
+	"Các buổi họp không có đầy đủ người muốn tham dự" -> "Các thành viên không nắm rõ lịch họp";
+	"Khó tìm được thời điểm tất cả mọi người đều cùng rảnh"	[label="Khó tìm được thời điểm tất cả\nmọi người đều cùng rảnh"];
+	"Các buổi họp không có đầy đủ người muốn tham dự" -> "Khó tìm được thời điểm tất cả mọi người đều cùng rảnh";
+	"Thảo luận qua chat, comment không sôi nổi"	[label="Thảo luận qua chat, comment\nkhông sôi nổi"];
+	"Thảo luận qua chat, comment không sôi nổi" -> "Câu hỏi không kích thích sự suy ngẫm"	[minlen=1];
+	"Thảo luận qua chat, comment không sôi nổi" -> "Chưa đặt câu hỏi trong Trello lên";
+	"Thảo luận qua chat, comment không sôi nổi" -> "Giao tiếp trực tiếp đem lại sự thoải mái hơn";
+	"Thảo luận qua chat, comment không sôi nổi" -> "Cần thời gian để não đưa ra được câu phản hồi"	[minlen=2];
+	"Thảo luận qua chat, comment không sôi nổi" -> "Các thành viên phải ưu tiên làm những việc quan trọng khác";
+	"Thảo luận qua chat, comment không sôi nổi" -> "Lười gõ trên đt"	[minlen=3];
+	"Thấy tag rồi mà cũng không tương tác"	[label="Thấy tag rồi mà cũng không tương\ntác"];
+	"Ngại làm phiền họ. Không muốn họ cảm thấy phải có trách nhiệm" -> "Thấy tag rồi mà cũng không tương tác";
+	"Chưa biết cách để đặt vấn đề"	[label="Chưa biết cách để đặt vấn đề"];
+	"Những người quan tâm khi có vấn đề hoặc thắc mắc không đặt lên group hoặc Discord mà chỉ đặt riêng \
+cho Nhật" -> "Chưa biết cách để đặt vấn đề"	[minlen=1];
+	"Những người phản đối không có thói quen đặt câu hỏi"	[label="Những người phản đối không có\nthói quen đặt câu hỏi"];
+	"Những người phản đối chưa hiểu hết sự phản tư triệt để sẽ là thế nào"	[label="Những người phản đối chưa hiểu\nhết sự phản tư triệt để sẽ là\nthế nào"];
+	"Những người phản đối không có thói quen đặt câu hỏi" -> "Những người phản đối chưa hiểu hết sự phản tư triệt để sẽ là thế nào";
+	"Độc giả chín người mười ý"	[label="Độc giả chín người mười ý"];
+	"Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn" -> "Không giữ được cảm hứng lâu dài cho người tham gia";
+	"Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn" -> "Giao tiếp trực tiếp đem lại sự thoải mái hơn";
+	"Những người tham gia lâu không chịu nhận làm coreteam" -> "Người theo dõi chưa thấy được tinh thần QC có gì liên quan đến điều mình khao khát có được";
+	"Những người tham gia lâu không chịu nhận làm coreteam" -> "Các thành viên phải ưu tiên làm những việc quan trọng khác";
+	"Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc"	[label="Thế giới Nhật muốn xây dựng có\nnhiều điểm không tương thích với\nthế giới mọi người quen thuộc"];
+	"Những người tham gia lâu không chịu nhận làm coreteam" -> "Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc";
+	"Không đi tìm coreteam"	[label="Không đi tìm coreteam"];
+	"Những người tham gia lâu không chịu nhận làm coreteam" -> "Không đi tìm coreteam";
+	"Những người tham gia lâu không chịu nhận làm coreteam" -> "Những người hứng thú không thấy một kế hoạch hành động rõ ràng";
+	"Người tham gia vẫn hết lòng nói cho Nhật hiểu"	[label="Người tham gia vẫn hết lòng nói\ncho Nhật hiểu"];
+	"Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò"	[label="Muốn tạo cơ hội tham gia các\nbuổi họp cho những người tham\ngia vì muốn giải trí, giao lưu\nbạn bè, \
+tò mò"];
+	"Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò" -> "Người tham gia vẫn hết lòng nói cho Nhật hiểu";
+	"Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò" -> "Các thành viên không có nhiều dịp tương tác với nhau";
+	"Muốn có sự đa dạng ý kiến"	[label="Muốn có sự đa dạng ý kiến"];
+	"Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò" -> "Muốn có sự đa dạng ý kiến";
+	"Không thấy có lý do gì để không cho người ngoài biết tình hình trong nhóm"	[label="Không thấy có lý do gì để không\ncho người ngoài biết tình hình\ntrong nhóm"];
+	"Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò" -> "Không thấy có lý do gì để không cho người ngoài biết tình hình trong nhóm"	[minlen=1];
+	"Có rất nhiều người quan tâm đến Nhật nhưng số lượng người muốn phát triển QC quá ít" -> "Những người hứng thú không có sự hàm ơn";
+	"Có rất nhiều người quan tâm đến Nhật nhưng số lượng người muốn phát triển QC quá ít" -> "Người theo dõi chưa thấy được tinh thần QC có gì liên quan đến điều mình khao khát có được";
+	"Có rất nhiều người quan tâm đến Nhật nhưng số lượng người muốn phát triển QC quá ít" -> "Người theo dõi chỉ hứng thú với kiến thức và tò mò";
+	"Có rất nhiều người quan tâm đến Nhật nhưng số lượng người muốn phát triển QC quá ít" -> "Những người hứng thú không thấy một kế hoạch hành động rõ ràng";
+	"Họ cần những người bạn"	[label="Họ cần những người bạn"];
+	"Nhật muốn để cho mọi người được chia sẻ và lắng nghe" -> "Họ cần những người bạn"	[minlen=1];
+	"Các thành viên không tự giác" -> "Không giữ được cảm hứng lâu dài cho người tham gia";
+	"Các thành viên không tự giác" -> "Các thành viên phải ưu tiên làm những việc quan trọng khác";
+	"Khuếch tán trách nhiệm"	[label="Khuếch tán trách nhiệm"];
+	"Các thành viên không tự giác" -> "Khuếch tán trách nhiệm";
+	"Chưa có quy trình TNV rõ ràng"	[label="Chưa có quy trình TNV rõ ràng"];
+	"Các thành viên không tự giác" -> "Chưa có quy trình TNV rõ ràng";
+	"TNV không bị buộc phải cam kết hoàn thành đúng thời hạn"	[label="TNV không bị buộc phải cam kết\nhoàn thành đúng thời hạn"];
+	"Các thành viên không tự giác" -> "TNV không bị buộc phải cam kết hoàn thành đúng thời hạn";
+	"Không giao hạn chót cho công việc"	[label="Không giao hạn chót cho công\nviệc"];
+	"Các thành viên không tự giác" -> "Không giao hạn chót cho công việc";
+	"TNV không ổn định" -> "Không giữ được cảm hứng lâu dài cho người tham gia";
+	"TNV không ổn định" -> "Các thành viên không có nhiều gắn bó với nhau";
+	"TNV không ổn định" -> "Những người hứng thú không có sự hàm ơn";
+	"Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì" -> "Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ";
+	"Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì" -> "Những người hứng thú không thấy một kế hoạch hành động rõ ràng";
+	"Các TNV không hỏi kỹ lại khi công việc không rõ ràng"	[label="Các TNV không hỏi kỹ lại khi\ncông việc không rõ ràng"];
+	"Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì" -> "Các TNV không hỏi kỹ lại khi công việc không rõ ràng";
+	"Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì" -> "Chưa có quy trình TNV rõ ràng";
+	"Không có cơ chế để tự động hiển thị các nhu cầu của tổ chức"	[label="Không có cơ chế để tự động hiển\nthị các nhu cầu của tổ chức"];
+	"Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì" -> "Không có cơ chế để tự động hiển thị các nhu cầu của tổ chức";
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ" -> "Quá nhiều việc";
+	"Muốn nuôi dưỡng thói quen thắc mắc, đặt câu hỏi của thành viên"	[label="Muốn nuôi dưỡng thói quen thắc\nmắc, đặt câu hỏi của thành viên"];
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ" -> "Muốn nuôi dưỡng thói quen thắc mắc, đặt câu hỏi của thành viên";
+	"Muốn tìm được điểm mà chính thành viên cảm thấy muốn làm nhất"	[label="Muốn tìm được điểm mà chính\nthành viên cảm thấy muốn làm\nnhất"];
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ" -> "Muốn tìm được điểm mà chính thành viên cảm thấy muốn làm nhất";
+	"Những người muốn giúp không chủ động hỏi có việc gì cần giúp không"	[label="Những người muốn giúp không chủ\nđộng hỏi có việc gì cần giúp\nkhông"];
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ" -> "Những người muốn giúp không chủ động hỏi có việc gì cần giúp không";
+	"Có những cái muốn giao nhưng tự mình tham gia sẽ hiệu quả hơn"	[label="Có những cái muốn giao nhưng tự\nmình tham gia sẽ hiệu quả hơn"];
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ" -> "Có những cái muốn giao nhưng tự mình tham gia sẽ hiệu quả hơn"	[minlen=1];
+	"Nhật không muốn ra quyết định"	[label="Nhật không muốn ra quyết định"];
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ" -> "Nhật không muốn ra quyết định";
+	"Chủ động nhờ rồi nhưng không ai hưởng ứng hoặc từ chối"	[label="Chủ động nhờ rồi nhưng không ai\nhưởng ứng hoặc từ chối"];
+	"Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ" -> "Chủ động nhờ rồi nhưng không ai hưởng ứng hoặc từ chối";
+	"Đăng câu hỏi lên group cũng không được trả lời"	[label="Đăng câu hỏi lên group cũng\nkhông được trả lời"];
+	"Phải xử lý nhiều ý kiến trái chiều một mình"	[label="Phải xử lý nhiều ý kiến trái\nchiều một mình"];
+	"Phải xử lý nhiều ý kiến trái chiều một mình" -> "Các buổi họp không có đầy đủ người muốn tham dự";
+	"Phải xử lý nhiều ý kiến trái chiều một mình" -> "Những người quan tâm khi có vấn đề hoặc thắc mắc không đặt lên group hoặc Discord mà chỉ đặt riêng \
+cho Nhật";
+	"Phải xử lý nhiều ý kiến trái chiều một mình" -> "Những người phản đối không có thói quen đặt câu hỏi";
+	"Phải xử lý nhiều ý kiến trái chiều một mình" -> "Độc giả chín người mười ý"	[minlen=1];
+	"Phải xử lý nhiều ý kiến trái chiều một mình" -> "Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn";
+	"Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc" -> "Mọi người không hiểu được hết suy nghĩ của Nhật";
+	"Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc" -> "Họ không có tầm nhìn xa";
+	"Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc" -> "Người theo dõi chưa thấy được tinh thần QC có gì liên quan đến điều mình khao khát có được";
+	"Không đi tìm coreteam" -> "Quá nhiều việc";
+	"Không đi tìm coreteam" -> "Chủ động nhờ rồi nhưng không ai hưởng ứng hoặc từ chối";
+	"Nhật không chủ động năn nỉ tham gia"	[label="Nhật không chủ động năn nỉ tham\ngia"];
+	"Không đi tìm coreteam" -> "Nhật không chủ động năn nỉ tham gia";
+	"Không thường xuyên thông báo kế hoạch hành động cho nhóm"	[label="Không thường xuyên thông báo kế\nhoạch hành động cho nhóm"];
+	"Những người hứng thú không thấy một kế hoạch hành động rõ ràng" -> "Không thường xuyên thông báo kế hoạch hành động cho nhóm";
+	"Việc quản lý kế hoạch hành động đòi hỏi công nghệ cao"	[label="Việc quản lý kế hoạch hành động\nđòi hỏi công nghệ cao"];
+	"Những người hứng thú không thấy một kế hoạch hành động rõ ràng" -> "Việc quản lý kế hoạch hành động đòi hỏi công nghệ cao";
+	"Trước giờ vẫn luôn tập trung vào việc tìm cách đáp ứng nhu cầu của mọi người hơn là tập trung vào \
+mục tiêu"	[label="Trước giờ vẫn luôn tập trung vào\nviệc tìm cách đáp ứng nhu cầu\ncủa mọi người hơn là tập trung\nvào \
+mục tiêu"];
+	"Những người hứng thú không thấy một kế hoạch hành động rõ ràng" -> "Trước giờ vẫn luôn tập trung vào việc tìm cách đáp ứng nhu cầu của mọi người hơn là tập trung vào \
+mục tiêu";
+	"Những người phản đối chưa hiểu hết sự phản tư triệt để sẽ là thế nào" -> "Chưa có một buổi nói về tinh thần QC thực sự hiệu quả";
+	"Chưa có một buổi nói về tinh thần QC thực sự hiệu quả" -> "Quá nhiều việc";
+	"Chưa có một buổi nói về tinh thần QC thực sự hiệu quả" -> "Có nhiều sự kiện ngắn hạn cũng nên dành thời gian";
+	"Không tag vào post hoặc nhắn nhắc nhở"	[label="Không tag vào post hoặc nhắn\nnhắc nhở"];
+	"Không tag vào post hoặc nhắn nhắc nhở" -> "Ngại làm phiền họ. Không muốn họ cảm thấy phải có trách nhiệm";
+	"Không tag vào post hoặc nhắn nhắc nhở" -> "Thấy tag rồi mà cũng không tương tác";
+	"Không tag vào post hoặc nhắn nhắc nhở" -> "Muốn bảo vệ sự tập trung";
+	"Những người thực sự quan tâm thì không cần tag cũng tự đọc được"	[label="Những người thực sự quan tâm thì\nkhông cần tag cũng tự đọc được"];
+	"Không tag vào post hoặc nhắn nhắc nhở" -> "Những người thực sự quan tâm thì không cần tag cũng tự đọc được"	[minlen=1];
+	"Khuếch tán trách nhiệm" -> "Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ";
+	"Chưa có quy trình TNV rõ ràng" -> "Thiếu nhóm cố vấn";
+	"Chưa có quy trình TNV rõ ràng" -> "Quá nhiều việc";
+	"Không có cơ chế để tự động hiển thị các nhu cầu của tổ chức" -> "Việc quản lý kế hoạch hành động đòi hỏi công nghệ cao";
+	"Không thường xuyên thông báo kế hoạch hành động cho nhóm" -> "Quá nhiều việc";
+	"Kế hoạch hành động quá thường xuyên nhanh chóng bị lỗi thời"	[label="Kế hoạch hành động quá thường\nxuyên nhanh chóng bị lỗi thời"];
+	"Không thường xuyên thông báo kế hoạch hành động cho nhóm" -> "Kế hoạch hành động quá thường xuyên nhanh chóng bị lỗi thời";
+	"Trước giờ vẫn luôn tập trung vào việc tìm cách đáp ứng nhu cầu của mọi người hơn là tập trung vào \
+mục tiêu" -> "Việc hoàn thành mục tiêu đòi hỏi sự quan tâm của nhiều người"	[minlen=1];
+	"Muốn thử tìm những cách làm mà chính mình cũng bất ngờ"	[label="Muốn thử tìm những cách làm mà\nchính mình cũng bất ngờ"];
+	"Muốn quan sát mọi chuyện sẽ diễn ra thế nào"	[label="Muốn quan sát mọi chuyện sẽ diễn\nra thế nào"];
+	"Muốn thúc đẩy sự đối thoại đến cùng"	[label="Muốn thúc đẩy sự đối thoại đến\ncùng"];
+	"Những người muốn giúp không chủ động hỏi có việc gì cần giúp không" -> "Các thành viên phải ưu tiên làm những việc quan trọng khác";
+	"Những người muốn giúp không chủ động hỏi có việc gì cần giúp không" -> "Khuếch tán trách nhiệm";
+	"Những người muốn giúp không chủ động hỏi có việc gì cần giúp không" -> "Các TNV không hỏi kỹ lại khi công việc không rõ ràng";
+	"Nhật không muốn ra quyết định" -> "Những người tham gia lâu không chịu nhận làm coreteam";
+	"Nhật không muốn ra quyết định" -> "Muốn nuôi dưỡng thói quen thắc mắc, đặt câu hỏi của thành viên";
+	"Nhật không muốn ra quyết định" -> "Muốn tìm được điểm mà chính thành viên cảm thấy muốn làm nhất";
+	"Nhật không muốn ra quyết định" -> "Muốn thử tìm những cách làm mà chính mình cũng bất ngờ"	[minlen=1];
+	"Nhật không muốn ra quyết định" -> "Muốn quan sát mọi chuyện sẽ diễn ra thế nào"	[minlen=2];
+	"Nhật không muốn ra quyết định" -> "Muốn thúc đẩy sự đối thoại đến cùng"	[minlen=3];
+	"Chủ động nhờ rồi nhưng không ai hưởng ứng hoặc từ chối" -> "Những người tham gia lâu không chịu nhận làm coreteam";
+	"Người tham gia họp vì muốn giải trí, giao lưu bạn bè, tò mò"	[label="Người tham gia họp vì muốn giải\ntrí, giao lưu bạn bè, tò mò"];
+	"Chủ động nhờ rồi nhưng không ai hưởng ứng hoặc từ chối" -> "Người tham gia họp vì muốn giải trí, giao lưu bạn bè, tò mò";
+	"Nhật cảm thấy nhiều người đã tham gia lâu rồi thì họ đã thấy quá rõ lợi ích rồi"	[label="Nhật cảm thấy nhiều người đã\ntham gia lâu rồi thì họ đã thấy\nquá rõ lợi ích rồi"];
+	"Thấy tag rồi mà cũng không tương tác" -> "Người theo dõi chỉ hứng thú với kiến thức và tò mò";
+	"Các thành viên không có nhiều dịp tương tác với nhau" -> "Các buổi họp không có đầy đủ người muốn tham dự";
+	"Thiếu sự đa dạng ý kiến"	[label="Thiếu sự đa dạng ý kiến"];
+	"Muốn có sự đa dạng ý kiến" -> "Thiếu sự đa dạng ý kiến";
+	"Thiếu sự đa dạng ý kiến" -> "Các buổi họp không có đầy đủ người muốn tham dự";
+	"Thiếu sự đa dạng ý kiến" -> "Thảo luận qua chat, comment không sôi nổi";
+	"Muốn tạo điều kiện để linh động lịch cho mọi người nhất có thể"	[label="Muốn tạo điều kiện để linh động\nlịch cho mọi người nhất có thể"];
+	"Những cách tiếp cận mới cần nhiều thử nghiệm chưa ai biết"	[label="Những cách tiếp cận mới cần\nnhiều thử nghiệm chưa ai biết"];
+	"Nhật không chủ động năn nỉ tham gia" -> "Quá nhiều việc";
+	"Nhật không chủ động năn nỉ tham gia" -> "Nhật cảm thấy nhiều người đã tham gia lâu rồi thì họ đã thấy quá rõ lợi ích rồi"	[minlen=1];
+	"Thấy các buổi chia sẻ kiến thức chỉ cho kết quả hời hợt"	[label="Thấy các buổi chia sẻ kiến thức\nchỉ cho kết quả hời hợt"];
+	"Thấy các buổi chia sẻ kiến thức chỉ cho kết quả hời hợt" -> "Thiếu nhóm cố vấn";
+	"Thấy các buổi chia sẻ kiến thức chỉ cho kết quả hời hợt" -> "Quá nhiều việc";
+	"Kế hoạch hành động quá thường xuyên nhanh chóng bị lỗi thời" -> "TNV không ổn định";
+	"Kế hoạch hành động quá thường xuyên nhanh chóng bị lỗi thời" -> "Những cách tiếp cận mới cần nhiều thử nghiệm chưa ai biết"	[minlen=1];
+	"Không muốn nhắn khuya hoặc yêu cầu làm việc dịp nghỉ lễ"	[label="Không muốn nhắn khuya hoặc yêu\ncầu làm việc dịp nghỉ lễ"];
+	"Không muốn nhắn khuya hoặc yêu cầu làm việc dịp nghỉ lễ" -> "Thấy áp lực đã quá nặng nề rồi";
+	"Không tổ chức các buổi chia sẻ kiến thức thường xuyên" -> "Quá nhiều việc";
+	"Không tổ chức các buổi chia sẻ kiến thức thường xuyên" -> "Thấy các buổi chia sẻ kiến thức chỉ cho kết quả hời hợt";
+	"Rối loạn chức năng các buổi họp" -> "Những người tham gia lâu không chịu nhận làm coreteam";
+	"Rối loạn chức năng các buổi họp" -> "Người tham gia vẫn hết lòng nói cho Nhật hiểu";
+	"Rối loạn chức năng các buổi họp" -> "Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò";
+	"Thấy có chuẩn bị thì rồi nó cũng sẽ bị chệch hướng. Mà sự chệch hướng đó lại có cái tốt của \
+nó"	[label="Thấy có chuẩn bị thì rồi nó cũng\nsẽ bị chệch hướng. Mà sự chệch\nhướng đó lại có cái tốt của \
+nó"];
+	"Các thành viên không thông báo lịch bận của mình"	[label="Các thành viên không thông báo\nlịch bận của mình"];
+	"Các thành viên không thông báo lịch bận của mình" -> "Các thành viên không tự giác";
+	"Không thường hỏi thăm tình hình TNV"	[label="Không thường hỏi thăm tình hình\nTNV"];
+	"Các thành viên không thông báo lịch bận của mình" -> "Không thường hỏi thăm tình hình TNV";
+	"Các buổi họp không có hiệu quả cao"	[label="Các buổi họp không có hiệu quả\ncao"];
+	"Các buổi họp không có hiệu quả cao" -> "Các buổi họp không có đầy đủ người muốn tham dự";
+	"Các buổi họp không có hiệu quả cao" -> "Thảo luận qua chat, comment không sôi nổi";
+	"Các buổi họp không có hiệu quả cao" -> "Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn";
+	"Các buổi họp không có hiệu quả cao" -> "Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò";
+	"Các buổi họp không có hiệu quả cao" -> "Nhật muốn để cho mọi người được chia sẻ và lắng nghe";
+	"Các buổi họp không có hiệu quả cao" -> "Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ";
+	"Các buổi họp không có hiệu quả cao" -> "Nhật không muốn ra quyết định";
+	"Các buổi họp không có hiệu quả cao" -> "Thiếu sự đa dạng ý kiến";
+	"Các buổi họp không có hiệu quả cao" -> "Rối loạn chức năng các buổi họp";
+	"Không chuẩn bị agenda cho các buổi họp"	[label="Không chuẩn bị agenda cho các\nbuổi họp"];
+	"Các buổi họp không có hiệu quả cao" -> "Không chuẩn bị agenda cho các buổi họp";
+	"Các thành viên không có thông tin cập nhật về nhóm"	[label="Các thành viên không có thông\ntin cập nhật về nhóm"];
+	"Các buổi họp không có hiệu quả cao" -> "Các thành viên không có thông tin cập nhật về nhóm";
+	"Các buổi họp không có hiệu quả cao" -> "Người tham gia họp vì muốn giải trí, giao lưu bạn bè, tò mò";
+	"Nhật cho phép một sự lan man chủ đề nhất định"	[label="Nhật cho phép một sự lan man chủ\nđề nhất định"];
+	"Các buổi họp không có hiệu quả cao" -> "Nhật cho phép một sự lan man chủ đề nhất định";
+	"✅ Chưa gây được quỹ" -> "Thiếu nhóm cố vấn";
+	"✅ Chưa gây được quỹ" -> "Quá nhiều việc";
+	"TNV không bị buộc phải cam kết hoàn thành đúng thời hạn" -> "Muốn hướng tới sự thong thả cho thành viên";
+	"Không giao hạn chót cho công việc" -> "Muốn hướng tới sự thong thả cho thành viên";
+	"Không giao hạn chót cho công việc" -> "Kế hoạch hành động quá thường xuyên nhanh chóng bị lỗi thời";
+	"Những người muốn tham gia không nhận được thông báo kịp thời"	[label="Những người muốn tham gia không\nnhận được thông báo kịp thời"];
+	"Những người muốn tham gia không nhận được thông báo kịp thời" -> "Quá nhiều việc";
+	"Những người muốn tham gia không nhận được thông báo kịp thời" -> "Không tag vào post hoặc nhắn nhắc nhở";
+	"Lịch họp không được cố định"	[label="Lịch họp không được cố định"];
+	"Lịch họp không được cố định" -> "Muốn tạo điều kiện để linh động lịch cho mọi người nhất có thể"	[minlen=1];
+	"Không thường hỏi thăm tình hình TNV" -> "Quá nhiều việc";
+	"Không thường hỏi thăm tình hình TNV" -> "Không muốn nhắn khuya hoặc yêu cầu làm việc dịp nghỉ lễ";
+	"Không chuẩn bị agenda cho các buổi họp" -> "Quá nhiều việc";
+	"Không chuẩn bị agenda cho các buổi họp" -> "Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn";
+	"Không chuẩn bị agenda cho các buổi họp" -> "Thấy có chuẩn bị thì rồi nó cũng sẽ bị chệch hướng. Mà sự chệch hướng đó lại có cái tốt của \
+nó"	[minlen=1];
+	"Các thành viên không nắm rõ lịch họp" -> "Những người muốn tham gia không nhận được thông báo kịp thời";
+	"Các thành viên không nắm rõ lịch họp" -> "Lịch họp không được cố định";
+	"Khó tìm được thời điểm tất cả mọi người đều cùng rảnh" -> "Quá nhiều việc";
+	"Khó tìm được thời điểm tất cả mọi người đều cùng rảnh" -> "Các thành viên phải ưu tiên làm những việc quan trọng khác";
+	"Khó tìm được thời điểm tất cả mọi người đều cùng rảnh" -> "Muốn tạo cơ hội tham gia các buổi họp cho những người tham gia vì muốn giải trí, giao lưu bạn bè, tò \
+mò";
+	"Khó tìm được thời điểm tất cả mọi người đều cùng rảnh" -> "Các thành viên không thông báo lịch bận của mình";
+	"Các thành viên không có thông tin cập nhật về nhóm" -> "Các buổi họp không có đầy đủ người muốn tham dự";
+	"Các thành viên không có thông tin cập nhật về nhóm" -> "Không chuẩn bị agenda cho các buổi họp";
+	"Người tham gia họp vì muốn giải trí, giao lưu bạn bè, tò mò" -> "Có rất nhiều người quan tâm đến Nhật nhưng số lượng người muốn phát triển QC quá ít";
+	"Nhật cho phép một sự lan man chủ đề nhất định" -> "Muốn hướng tới sự thong thả cho thành viên";
+	"Những vấn đề đã được hỏi nhiều lần nhưng vẫn không giải quyết được" -> "Mọi người không hiểu được hết suy nghĩ của Nhật";
+	"Những vấn đề đã được hỏi nhiều lần nhưng vẫn không giải quyết được" -> "Đăng câu hỏi lên group cũng không được trả lời"	[minlen=1];
+	"Những quan điểm trái chiều không được cọ xát" -> "Những người quan tâm khi có vấn đề hoặc thắc mắc không đặt lên group hoặc Discord mà chỉ đặt riêng \
+cho Nhật";
+	"Những quan điểm trái chiều không được cọ xát" -> "Phải xử lý nhiều ý kiến trái chiều một mình";
+	"Những vấn đề còn âm ỉ không được giải quyết" -> "Thảo luận qua chat, comment không sôi nổi"	[minlen=1];
+	"Những TNV cảm thấy không giúp ích được" -> "Những người muốn giúp cảm thấy mông lung ko biết mình cần làm cái gì";
+	"Những TNV cảm thấy không giúp ích được" -> "Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ";
+	"Không chủ động được thông tin" -> "Muốn hướng tới sự thong thả cho thành viên"	[minlen=1];
+	"Hiểu được tâm tư của người khác" -> "Nhật muốn để cho mọi người được chia sẻ và lắng nghe"	[minlen=1];
+	"Cảm thấy nhức đầu và lãng phí thời gian" -> "Các buổi họp không có hiệu quả cao"	[minlen=1];
+	"Chưa có thu nhập" -> "✅ Chưa gây được quỹ"	[minlen=1];
+	"Chưa có chính sách quản lý rủi ro và xử lý khủng hoảng truyền thông" -> "Quá nhiều việc"	[minlen=1];
+	"Bị đồng hoá hoặc những thành viên nòng cốt thay đổi hướng đi" -> "Chưa có một buổi nói về tinh thần QC thực sự hiệu quả"	[minlen=1];
+}

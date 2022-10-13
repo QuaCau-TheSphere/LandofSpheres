@@ -1,0 +1,106 @@
+digraph "masterGraph"{
+
+overlap=false
+style=rounded
+// ranksep="0.4";
+label="Công việc PMN";
+//sep=10
+fontsize = 30
+labelloc="t";
+fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Công việc thành phần nodes
+
+node [ shape=polygon ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All next nodes
+subgraph cluster_next{
+
+
+node [ shape=polygon ]
+"01.1A3 Hậu cần buổi sự kiện..." [ label = "01.1A3 Hậu cần buổi sự kiện..." ] 
+"01.1A2 Truyền thông buổi sự kiện..." [ label = "01.1A2 Truyền thông buổi sự\nkiện..." ] 
+"01.1A2 Truyền thông buổi sự kiện..." [ label = "01.1A2 Truyền thông buổi sự\nkiện..." ] 
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" [ label = "Tổ chức các buổi nói chuyện về\ntóc vàng tóc đen" ] 
+"Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu" [ label = "Hoàn thành thang đo kiểm tra\nlượng tóc vàng trên da đầu" ] 
+"Đánh giá tính tiện dụng của hệ thống dữ liệu" [ label = "Đánh giá tính tiện dụng của hệ\nthống dữ liệu" ] 
+"01.1A3 Hậu cần buổi sự kiện..." [ label = "01.1A3 Hậu cần buổi sự kiện..." ] 
+"Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông" [ label = "Tổ chức những buổi đối thoại\ngiữa Frankfurtian và người làm\ntruyền thông" ] 
+"01.1A2 Truyền thông buổi sự kiện..." [ label = "01.1A2 Truyền thông buổi sự\nkiện..." ] 
+"Tìm hiểu tính hiệu quả của các chương trình đối thoại trước đây" [ label = "Tìm hiểu tính hiệu quả của các\nchương trình đối thoại trước đây" ] 
+"Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu" [ label = "Hoàn thành thang đo kiểm tra\nlượng tóc vàng trên da đầu" ] 
+"Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian" [ label = "Tìm hiểu những nỗ lực trò chuyện\ngiữa những người làm truyền\nthông và Frankfurtian" ] 
+"Đảm bảo các TNV quen với quy trình làm việc" [ label = "Đảm bảo các TNV quen với quy\ntrình làm việc" ] 
+"Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức" [ label = "Hướng dẫn người mới làm quen với\nquy trình làm việc, văn hoá tổ\nchức" ] 
+"Kết nối với các tổ chức khác" [ label = "Kết nối với các tổ chức khác" ] 
+"Truyền thông kế hoạch hành động " [ label = "Truyền thông kế hoạch hành động " ] 
+"Đánh giá sự hiệu quả của kế hoạch hành động" [ label = "Đánh giá sự hiệu quả của kế\nhoạch hành động" ] 
+"Lên kế hoạch gây quỹ" [ label = "Lên kế hoạch gây quỹ" ] 
+"Lên kế hoạch tuyển TNV" [ label = "Lên kế hoạch tuyển TNV" ] 
+"Tuyển thêm TNV" [ label = "Tuyển thêm TNV" ] 
+"Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức" [ label = "Hướng dẫn người mới làm quen với\nquy trình làm việc, văn hoá tổ\nchức" ] 
+"Đánh giá mức độ hiểu biết của thành viên với tổ chức" [ label = "Đánh giá mức độ hiểu biết của\nthành viên với tổ chức" ] 
+"Tăng tỉ lệ tương tác của những người ít tương tác trong group" [ label = "Tăng tỉ lệ tương tác của những\nngười ít tương tác trong group" ] 
+"Truyền thông các bài viết về tự trị" [ label = "Truyền thông các bài viết về tự\ntrị" ] 
+}
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Công việc thành phần edges
+
+edge [ penwidth=1 style=solid ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All next edges
+
+edge [ penwidth=1 style=dashed ]
+"01.1A2 Truyền thông buổi sự kiện..." -> "01.1A3 Hậu cần buổi sự kiện..."
+"01.1j Nói chuyện nội bộ cho một tổ chức khác" -> "01.1A2 Truyền thông buổi sự kiện..."
+"01.1A1 Lên nội dung chi tiết buổi sự kiện..." -> "01.1A2 Truyền thông buổi sự kiện..."
+"Thống nhất bảng tóc vàng tóc đen" -> "Tổ chức các buổi nói chuyện về tóc vàng tóc đen"
+"Thống nhất bảng tóc vàng tóc đen" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
+"Xây dựng hệ thống quản lý dự án" -> "Đánh giá tính tiện dụng của hệ thống dữ liệu"
+"✔✔ Truyền thông buổi sự kiện chim sáo" -> "01.1A3 Hậu cần buổi sự kiện..."
+"Tổ chức những buổi nói chuyện về lý thuyết phê phán Frankfurt cho người làm truyền thông và thời trang" -> "Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông"
+"Lên nội dung buổi tóc vàng tóc đen" -> "01.1A2 Truyền thông buổi sự kiện..."
+"Tổ chức những buổi nói chuyện về giá trị của việc kiên trì đối thoại đến cùng thì thôi" -> "Tìm hiểu tính hiệu quả của các chương trình đối thoại trước đây"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
+"Tìm hiểu về Frankfurt" -> "Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian"
+"✔✔ Xây dựng bản đồ trong QC" -> "Đảm bảo các TNV quen với quy trình làm việc"
+"✔✔ Xây dựng bản đồ trong QC" -> "Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức"
+"Lên kế hoạch sử dụng nguồn lực từ hệ sinh thái phi lợi nhuận" -> "Kết nối với các tổ chức khác"
+"Làm kế hoạch hành động" -> "Truyền thông kế hoạch hành động "
+"Làm kế hoạch hành động" -> "Đánh giá sự hiệu quả của kế hoạch hành động"
+"Làm kế hoạch hành động" -> "Lên kế hoạch gây quỹ"
+"Làm kế hoạch hành động" -> "Lên kế hoạch tuyển TNV"
+"Lên kế hoạch tuyển TNV" -> "Tuyển thêm TNV"
+"Làm quy trình hướng dẫn người mới làm quen với văn hoá tổ chức" -> "Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức"
+"Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức" -> "Đánh giá mức độ hiểu biết của thành viên với tổ chức"
+"Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Tăng tỉ lệ tương tác của những người ít tương tác trong group"
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" -> "Truyền thông các bài viết về tự trị"
+
+}

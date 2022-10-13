@@ -1,0 +1,388 @@
+digraph Hanhdong {
+	graph [fontname=Lato,
+		fontsize=30,
+		label="Thay đổi niềm tin người có niềm tin tiêu cực",
+		labelloc=t,
+		overlap=false,
+		sep=10,
+		style=rounded
+	];
+	node [fillcolor="#c6cac3",
+		fontname=Lato,
+		margin=0.2,
+		penwidth=1.5,
+		shape=plaintext,
+		style="filled, rounded"
+	];
+	edge [penwidth=1,
+		style=""
+	];
+	subgraph cluster_branch_1a {
+		graph [color="#D1E4DD",
+			label="1a Megan cảm thấy quả thực việc nói chuyện với Cueball sẽ đem lại điều mà mình luôn mong mỏi",
+			style="filled, rounded"
+		];
+	}
+	subgraph cluster_branch_l {
+		graph [label="l Megan muốn đặt câu hỏi về tất cả những gì mình nghĩ"];
+		"l.1.3 Megan, Danish, Beret thấy rằng việc được đặt câu hỏi nhẹ nhõm hơn nhiều so với việc được nghe \
+ý kiến"	[label="l.1.3 Megan, Danish, Beret thấy\nrằng việc được đặt câu hỏi nhẹ\nnhõm hơn nhiều so với việc được\nnghe \
+ý kiến",
+			penwidth=""];
+	}
+	subgraph cluster_branch_m {
+		graph [label="m Những Megan trong friendlist QC sẽ làm điều tương tự"];
+		"m.1 Biết được những người hứng thú với QC và hay chơi với Megan trong friendlist QC"	[label="m.1 Biết được những người hứng\nthú với QC và hay chơi với Megan\ntrong friendlist QC",
+			penwidth=""];
+	}
+	subgraph cluster_branch_p {
+		graph [label="p Tổ chức thành công các buổi nói chuyện của người có chuyên môn"];
+		"p.1.1.1.1.1 Người có chuyên môn thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không \
+ngờ tới như thế nào"	[label="p.1.1.1.1.1 Người có chuyên môn\nthấy được chuyên môn của mình\nkết nối tới những lĩnh vực mình\nkhông \
+ngờ tới như thế nào",
+			penwidth=""];
+		"p Beret tham gia các buổi thuyết trình thảo luận"	[fillcolor="#D1D1E4",
+			label="p Beret tham gia các buổi thuyết\ntrình thảo luận",
+			shape=note];
+	}
+	subgraph cluster_branch_q {
+		graph [label="q Các chủ doanh nghiệp đồng ý hỗ trợ nhân viên"];
+		"q.1 Nội bộ doanh nghiệp có tinh thần xã hội cao"	[label="q.1 Nội bộ doanh nghiệp có tinh\nthần xã hội cao",
+			penwidth=""];
+	}
+	subgraph cluster_branch_o {
+		graph [label="o Tổ chức thành công những buổi chia sẻ vòng tròn"];
+		"o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn"	[fillcolor="#D1D1E4",
+			label="o Megan hoặc Danish tham gia\nnhững buổi chia sẻ vòng tròn",
+			shape=note];
+	}
+	subgraph cluster_branch_j {
+		graph [label="j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình"];
+		"j.1a.1 Megan phân biệt được sự khác biệt giữa các khái niệm cảm xúc, cảm nhận, trực giác"	[label="j.1a.1 Megan phân biệt được sự\nkhác biệt giữa các khái niệm cảm\nxúc, cảm nhận, trực giác",
+			penwidth=""];
+		"j.1a.i Những người trong các lĩnh vực về kích thích giác quan chia sẻ quan điểm này"	[fillcolor="#D1D1E4",
+			label="j.1a.i Những người trong các\nlĩnh vực về kích thích giác quan\nchia sẻ quan điểm này",
+			shape=note];
+	}
+	subgraph cluster_branch_k {
+		graph [label="k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình"];
+	}
+	subgraph cluster_branch_r {
+		graph [label="r Cộng đồng bạn bè QC phát triển"];
+		"r.k.1 Không còn quá nhiều việc"	[label="r.k.1 Không còn quá nhiều việc",
+			penwidth=""];
+		"r.k.2 Không còn bối rối khi bị hỏi giữa chừng mình đang làm gì"	[label="r.k.2 Không còn bối rối khi bị\nhỏi giữa chừng mình đang làm gì",
+			penwidth=""];
+		"r.k.3 Các TNV hứng thú làm việc"	[label="r.k.3 Các TNV hứng thú làm việc",
+			penwidth=""];
+		"r.k.4 Các thành viên hiểu đúng tổ chức muốn đi đến đâu"	[label="r.k.4 Các thành viên hiểu đúng\ntổ chức muốn đi đến đâu",
+			penwidth=""];
+		"r.k.5 Các thành viên quen với quy trình làm việc"	[label="r.k.5 Các thành viên quen với\nquy trình làm việc",
+			penwidth=""];
+		"r.k.8 Độc lập tài chính"	[label="r.k.8 Độc lập tài chính",
+			penwidth=""];
+		"r.k.9 Các thành viên hiểu về cuộc sống của nhau"	[label="r.k.9 Các thành viên hiểu về\ncuộc sống của nhau",
+			penwidth=""];
+		"r.i.1.1 Những người quan tâm đến QC thấy được việc tương tác giúp họ đạt điều họ cần thế nào"	[label="r.i.1.1 Những người quan tâm đến\nQC thấy được việc tương tác giúp\nhọ đạt điều họ cần thế nào",
+			penwidth=""];
+		"r.i.2 Những người làm trong các ngành phát triển quan tâm"	[label="r.i.2 Những người làm trong các\nngành phát triển quan tâm",
+			penwidth=""];
+		"r.2 Sự lo lắng về những rủi ro khi mạng lưới phát triển không còn nữa"	[label="r.2 Sự lo lắng về những rủi ro\nkhi mạng lưới phát triển không\ncòn nữa",
+			penwidth=""];
+		"r.k.3.1 Các TNV tự tham gia đặt ra mục tiêu cho công việc của mình"	[fillcolor="#D1D1E4",
+			label="r.k.3.1 Các TNV tự tham gia đặt\nra mục tiêu cho công việc của\nmình",
+			shape=note];
+		"r.k.1.i Các TNV tiềm năng vẫn thường xuyên quan tâm"	[fillcolor="#D1D1E4",
+			label="r.k.1.i Các TNV tiềm năng vẫn\nthường xuyên quan tâm",
+			shape=note];
+		"r.i Cộng đồng bạn bè QC phát triển"	[fillcolor="#D1D1E4",
+			label="r.i Cộng đồng bạn bè QC phát\ntriển",
+			shape=note];
+		"r.j Kết hợp được với các dự án xã hội khác"	[fillcolor="#D1D1E4",
+			label="r.j Kết hợp được với các dự án\nxã hội khác",
+			shape=note];
+	}
+	subgraph cluster_branch_i {
+		graph [label="i Megan dám nói rằng \"tôi sẽ không để nỗi sợ chi phối mình\""];
+		"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được \
+lan toả"	[label="i.1b.i Quan điểm \"Sống đúng với\ncon người thật của mình, sống\nmột cuộc đời không hối tiếc\"\nđược \
+lan toả",
+			penwidth=""];
+	}
+	subgraph cluster_branch_n {
+		graph [label="n Tổ chức thành công cuộc đối thoại giữa những người khác biệt quan điểm"];
+		"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình"	[label="n Megan, Danish hoặc Beret đối\nthoại với những người khác biệt\nquan điểm với mình",
+			penwidth=""];
+		"n.i Những người khác biệt quan điểm với QC muốn thảo luận đến cùng với mình cho đến khi nào cả hai \
+đều nhất trí với nhau thì thôi"	[fillcolor="#D1D1E4",
+			label="n.i Những người khác biệt quan\nđiểm với QC muốn thảo luận đến\ncùng với mình cho đến khi nào cả\nhai \
+đều nhất trí với nhau thì\nthôi",
+			shape=note];
+	}
+	subgraph cluster_branch_1b {
+		graph [color="#D1DFE4",
+			label="1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cuball",
+			style="filled, rounded"
+		];
+		"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret"	[label="1b.2.2 Quan điểm của Cueball\nđược viral tích cực trong cộng\nđồng Danish hoặc Beret",
+			penwidth=""];
+		"1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt"	[label="1b.1j.1.1 Danish có kiến thức về\nchức năng của bạn bè và lý\nthuyết phê phán Frankfurt",
+			penwidth=""];
+		"1b.1.1a.i.1 Nếu Danish băn khoăn về vấn đề can thiệp, Danish sẽ tham gia vào các buổi thảo luận về vấn \
+đề can thiệp"	[label="1b.1.1a.i.1 Nếu Danish băn khoăn\nvề vấn đề can thiệp, Danish sẽ\ntham gia vào các buổi thảo luận\nvề vấn \
+đề can thiệp",
+			penwidth=""];
+		"1b.1.1c Danish thực sự chỉ muốn hiểu rõ về con người của Megan, và cũng tin rằng quan điểm của mình \
+cũng có thể sai"	[label="1b.1.1c Danish thực sự chỉ muốn\nhiểu rõ về con người của Megan,\nvà cũng tin rằng quan điểm của\nmình \
+cũng có thể sai",
+			penwidth=""];
+		"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình"	[fillcolor="#D1E4DD",
+			label="1b.2.2.1+ Cueball rủ thành công\nDanish, Beret vào làm chung mạng\nlưới với mình",
+			shape=box];
+		"1b.2.2.1.i Cueball có được lý do vì sao những người trong ngành phát triển chưa muốn chia sẻ quan điểm của \
+mình"	[fillcolor="#D1D1E4",
+			label="1b.2.2.1.i Cueball có được lý do\nvì sao những người trong ngành\nphát triển chưa muốn chia sẻ\nquan điểm \
+của mình",
+			shape=note];
+	}
+	"Tuyển TNV"	[fillcolor="#E4D1D1",
+		label="Tuyển TNV",
+		shape=polygon];
+	"r.k.1 Không còn quá nhiều việc" -> "Tuyển TNV"	[style=dashed];
+	"Làm kế hoạch hành động"	[fillcolor="#E4D1D1",
+		label="Làm kế hoạch hành động",
+		shape=polygon];
+	"r.k.2 Không còn bối rối khi bị hỏi giữa chừng mình đang làm gì" -> "Làm kế hoạch hành động"	[style=dashed];
+	"Tạo động lực nội sinh mạnh mẽ cho thành viên"	[fillcolor="#E4D1D1",
+		label="Tạo động lực nội sinh mạnh mẽ\ncho thành viên",
+		shape=polygon];
+	"r.k.3 Các TNV hứng thú làm việc" -> "Tạo động lực nội sinh mạnh mẽ cho thành viên"	[style=dashed];
+	"Đánh giá mức độ hiểu biết của thành viên với tổ chức"	[fillcolor="#E4D1D1",
+		label="Đánh giá mức độ hiểu biết của\nthành viên với tổ chức",
+		shape=polygon];
+	"r.k.4 Các thành viên hiểu đúng tổ chức muốn đi đến đâu" -> "Đánh giá mức độ hiểu biết của thành viên với tổ chức"	[style=dashed];
+	"Đảm bảo các thành viên quen với quy trình làm việc"	[fillcolor="#E4D1D1",
+		label="Đảm bảo các thành viên quen với\nquy trình làm việc",
+		shape=polygon];
+	"r.k.5 Các thành viên quen với quy trình làm việc" -> "Đảm bảo các thành viên quen với quy trình làm việc"	[minlen=1,
+		style=dashed];
+	"Gây quỹ cộng đồng"	[fillcolor="#E4D1D1",
+		label="Gây quỹ cộng đồng",
+		shape=polygon];
+	"r.k.8 Độc lập tài chính" -> "Gây quỹ cộng đồng"	[minlen=1,
+		style=dashed];
+	"Gây quỹ từ doanh nghiệp"	[fillcolor="#E4D1D1",
+		label="Gây quỹ từ doanh nghiệp",
+		shape=polygon];
+	"r.k.8 Độc lập tài chính" -> "Gây quỹ từ doanh nghiệp"	[minlen=2,
+		style=dashed];
+	"Gây quỹ từ các quỹ phát triển"	[fillcolor="#E4D1D1",
+		label="Gây quỹ từ các quỹ phát triển",
+		shape=polygon];
+	"r.k.8 Độc lập tài chính" -> "Gây quỹ từ các quỹ phát triển"	[minlen=3,
+		style=dashed];
+	"Tổ chức những buổi chia sẻ về bản thân"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi chia sẻ về\nbản thân",
+		shape=polygon];
+	"r.k.9 Các thành viên hiểu về cuộc sống của nhau" -> "Tổ chức những buổi chia sẻ về bản thân"	[minlen=1,
+		style=dashed];
+	"n+.1 Các bài về mạng lưới niềm tin và mạng lưới câu hỏi được lan toả"	[label="n+.1 Các bài về mạng lưới niềm\ntin và mạng lưới câu hỏi được\nlan toả",
+		penwidth=""];
+	"Khảo sát nhu cầu sử dụng mạng lưới niềm tin và mạng lưới câu hỏi liên ngành của những người có \
+niềm tin vững chắc vào một quan điểm nào đó"	[fillcolor="#E4D1D1",
+		label="Khảo sát nhu cầu sử dụng mạng\nlưới niềm tin và mạng lưới câu\nhỏi liên ngành của những người\ncó \
+niềm tin vững chắc vào một\nquan điểm nào đó",
+		shape=polygon];
+	"n+.1 Các bài về mạng lưới niềm tin và mạng lưới câu hỏi được lan toả" -> "Khảo sát nhu cầu sử dụng mạng lưới niềm tin và mạng lưới câu hỏi liên ngành của những người có \
+niềm tin vững chắc vào một quan điểm nào đó"	[minlen=1,
+		style=dashed];
+	"Truyền thông về mạng lưới niềm tin và mạng lưới câu hỏi liên ngành"	[fillcolor="#E4D1D1",
+		label="Truyền thông về mạng lưới niềm\ntin và mạng lưới câu hỏi liên\nngành",
+		shape=polygon];
+	"n+.1 Các bài về mạng lưới niềm tin và mạng lưới câu hỏi được lan toả" -> "Truyền thông về mạng lưới niềm tin và mạng lưới câu hỏi liên ngành"	[minlen=2,
+		style=dashed];
+	"Kết nối mục tiêu của những người quan tâm đến QC"	[fillcolor="#E4D1D1",
+		label="Kết nối mục tiêu của những người\nquan tâm đến QC",
+		shape=polygon];
+	"r.i.1.1 Những người quan tâm đến QC thấy được việc tương tác giúp họ đạt điều họ cần thế nào" -> "Kết nối mục tiêu của những người quan tâm đến QC"	[style=dashed];
+	"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC"	[fillcolor="#E4D1D1",
+		label="Khảo sát những người thực hành\nngành phát triển về suy nghĩ của\nhọ về QC",
+		shape=polygon];
+	"r.i.2 Những người làm trong các ngành phát triển quan tâm" -> "Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC"	[style=dashed];
+	"Quảng bá các bài viết về tự trị trong các group đối tượng"	[fillcolor="#E4D1D1",
+		label="Quảng bá các bài viết về tự trị\ntrong các group đối tượng",
+		shape=polygon];
+	"r.i.2 Những người làm trong các ngành phát triển quan tâm" -> "Quảng bá các bài viết về tự trị trong các group đối tượng"	[minlen=1,
+		style=dashed];
+	"Quảng bá các bài viết về công cụ"	[fillcolor="#E4D1D1",
+		label="Quảng bá các bài viết về công cụ",
+		shape=polygon];
+	"r.i.2 Những người làm trong các ngành phát triển quan tâm" -> "Quảng bá các bài viết về công cụ"	[minlen=2,
+		style=dashed];
+	"Tìm được người cố vấn"	[fillcolor="#E4D1D1",
+		label="Tìm được người cố vấn",
+		shape=polygon];
+	"r.2 Sự lo lắng về những rủi ro khi mạng lưới phát triển không còn nữa" -> "Tìm được người cố vấn"	[style=dashed];
+	"Khơi gợi tinh thần xã hội của doanh nghiệp"	[fillcolor="#E4D1D1",
+		label="Khơi gợi tinh thần xã hội của\ndoanh nghiệp",
+		shape=polygon];
+	"q.1 Nội bộ doanh nghiệp có tinh thần xã hội cao" -> "Khơi gợi tinh thần xã hội của doanh nghiệp"	[style=dashed];
+	"Làm mạng lưới câu hỏi liên ngành"	[fillcolor="#E4D1D1",
+		label="Làm mạng lưới câu hỏi liên ngành",
+		shape=polygon];
+	"p.1.1.1.1.1 Người có chuyên môn thấy được chuyên môn của mình kết nối tới những lĩnh vực mình không \
+ngờ tới như thế nào" -> "Làm mạng lưới câu hỏi liên ngành"	[style=dashed];
+	"Lập cơ sở dữ liệu mạng lưới những người có trong friendlist QC"	[fillcolor="#E4D1D1",
+		label="Lập cơ sở dữ liệu mạng lưới\nnhững người có trong friendlist\nQC",
+		shape=polygon];
+	"m.1 Biết được những người hứng thú với QC và hay chơi với Megan trong friendlist QC" -> "Lập cơ sở dữ liệu mạng lưới những người có trong friendlist QC"	[style=dashed];
+	"Tổ chức những buổi nói chuyện về tâm lý học nhân văn"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\ntâm lý học nhân văn",
+		shape=polygon];
+	"l.1.3 Megan, Danish, Beret thấy rằng việc được đặt câu hỏi nhẹ nhõm hơn nhiều so với việc được nghe \
+ý kiến" -> "Tổ chức những buổi nói chuyện về tâm lý học nhân văn"	[minlen=1,
+		style=dashed];
+	"Tổ chức các buổi Change My View"	[fillcolor="#E4D1D1",
+		label="Tổ chức các buổi Change My View",
+		shape=polygon];
+	"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Tổ chức các buổi Change My View"	[minlen=1,
+		style=dashed];
+	"Tổ chức những đối thoại giữa Frankfurtian và người làm truyền thông"	[fillcolor="#E4D1D1",
+		label="Tổ chức những đối thoại giữa\nFrankfurtian và người làm truyền\nthông",
+		shape=polygon];
+	"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Tổ chức những đối thoại giữa Frankfurtian và người làm truyền thông"	[style=dashed];
+	"Tổ chức những buổi đối thoại với người làm phát triển về các quan điểm khác nhau của sự tự trị"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi đối thoại với\nngười làm phát triển về các quan\nđiểm khác nhau của sự tự \
+trị",
+		shape=polygon];
+	"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Tổ chức những buổi đối thoại với người làm phát triển về các quan điểm khác nhau của sự tự trị"	[minlen=2,
+		style=dashed];
+	"Tổ chức những buổi nói chuyện về đạo đức học"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\nđạo đức học",
+		shape=polygon];
+	"n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình" -> "Tổ chức những buổi nói chuyện về đạo đức học"	[minlen=3,
+		style=dashed];
+	"Dịch clip reasoning của Vsauce"	[fillcolor="#E4D1D1",
+		label="Dịch clip reasoning của Vsauce",
+		shape=polygon];
+	"j.1a.1 Megan phân biệt được sự khác biệt giữa các khái niệm cảm xúc, cảm nhận, trực giác" -> "Dịch clip reasoning của Vsauce"	[minlen=1,
+		style=dashed];
+	"Tổ chức các buổi nói chuyện về cảm xúc tự nhận thức"	[fillcolor="#E4D1D1",
+		label="Tổ chức các buổi nói chuyện về\ncảm xúc tự nhận thức",
+		shape=polygon];
+	"j.1a.1 Megan phân biệt được sự khác biệt giữa các khái niệm cảm xúc, cảm nhận, trực giác" -> "Tổ chức các buổi nói chuyện về cảm xúc tự nhận thức"	[minlen=2,
+		style=dashed];
+	"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được \
+lan toả" -> "Tổ chức những buổi nói chuyện về tâm lý học nhân văn"	[style=dashed];
+	"Tổ chức những buổi nói chuyện về tâm lý học tích cực"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\ntâm lý học tích cực",
+		shape=polygon];
+	"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được \
+lan toả" -> "Tổ chức những buổi nói chuyện về tâm lý học tích cực"	[minlen=1,
+		style=dashed];
+	"Tổ chức những buổi nói chuyện về triết học đời sống"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\ntriết học đời sống",
+		shape=polygon];
+	"i.1b.i Quan điểm ❝Sống đúng với con người thật của mình, sống một cuộc đời không hối tiếc❞ được \
+lan toả" -> "Tổ chức những buổi nói chuyện về triết học đời sống"	[minlen=2,
+		style=dashed];
+	"Viết bài phân tích theo trend"	[fillcolor="#E4D1D1",
+		label="Viết bài phân tích theo trend",
+		shape=polygon];
+	"1b.2.2 Quan điểm của Cueball được viral tích cực trong cộng đồng Danish hoặc Beret" -> "Viết bài phân tích theo trend"	[style=dashed];
+	"Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với \
+tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\nchức năng của người thân bạn bè,\nvà mối liên hệ của nó với \
+tự trị\nvà năng lực ra quyết định, chủ\nnghĩa cá nhân và chủ nghĩa cộng\nđồng",
+		shape=polygon];
+	"1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt" -> "Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với \
+tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng"	[style=dashed];
+	"1b.1j.1.1 Danish có kiến thức về chức năng của bạn bè và lý thuyết phê phán Frankfurt" -> "Tổ chức những đối thoại giữa Frankfurtian và người làm truyền thông"	[style=dashed];
+	"1b.1.1a.i.1 Nếu Danish băn khoăn về vấn đề can thiệp, Danish sẽ tham gia vào các buổi thảo luận về vấn \
+đề can thiệp" -> "Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với \
+tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng"	[minlen=1,
+		style=dashed];
+	"1b.1.1c Danish thực sự chỉ muốn hiểu rõ về con người của Megan, và cũng tin rằng quan điểm của mình \
+cũng có thể sai" -> "Tổ chức những buổi nói chuyện về tâm lý học nhân văn"	[minlen=2,
+		style=dashed];
+	"Thử nghiệm kế hoạch xây dựng mạng lưới người thân bạn bè của ncnttc"	[fillcolor="#E4D1D1",
+		label="Thử nghiệm kế hoạch xây dựng\nmạng lưới người thân bạn bè của\nncnttc",
+		shape=polygon];
+	"1b.2.2.1+ Cueball rủ thành công Danish, Beret vào làm chung mạng lưới với mình" -> "Thử nghiệm kế hoạch xây dựng mạng lưới người thân bạn bè của ncnttc"	[style=dashed];
+	"o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn" -> "Tổ chức những buổi chia sẻ về bản thân"	[minlen=2,
+		style=dashed];
+	"r.k.3.1 Các TNV tự tham gia đặt ra mục tiêu cho công việc của mình" -> "Đảm bảo các thành viên quen với quy trình làm việc"	[minlen=2,
+		style=dashed];
+	"Giữ tương tác với các TNV tiềm năng"	[fillcolor="#E4D1D1",
+		label="Giữ tương tác với các TNV tiềm\nnăng",
+		shape=polygon];
+	"r.k.1.i Các TNV tiềm năng vẫn thường xuyên quan tâm" -> "Giữ tương tác với các TNV tiềm năng"	[style=dashed];
+	"Xây dựng cộng đồng lớn mạnh"	[fillcolor="#E4D1D1",
+		label="Xây dựng cộng đồng lớn mạnh",
+		shape=polygon];
+	"r.i Cộng đồng bạn bè QC phát triển" -> "Xây dựng cộng đồng lớn mạnh"	[minlen=1,
+		style=dashed];
+	"Tăng tỉ lệ tương tác trong group"	[fillcolor="#E4D1D1",
+		label="Tăng tỉ lệ tương tác trong group",
+		shape=polygon];
+	"r.i Cộng đồng bạn bè QC phát triển" -> "Tăng tỉ lệ tương tác trong group"	[minlen=2,
+		style=dashed];
+	"Chuyển đổi từ web sang tham gia cộng đồng tốt hơn"	[fillcolor="#E4D1D1",
+		label="Chuyển đổi từ web sang tham gia\ncộng đồng tốt hơn",
+		shape=polygon];
+	"r.i Cộng đồng bạn bè QC phát triển" -> "Chuyển đổi từ web sang tham gia cộng đồng tốt hơn"	[minlen=3,
+		style=dashed];
+	"Truyền thông các bài viết"	[fillcolor="#E4D1D1",
+		label="Truyền thông các bài viết",
+		shape=polygon];
+	"r.i Cộng đồng bạn bè QC phát triển" -> "Truyền thông các bài viết"	[minlen=1,
+		style=dashed];
+	"Kết nối với các tổ chức khác"	[fillcolor="#E4D1D1",
+		label="Kết nối với các tổ chức khác",
+		shape=polygon];
+	"r.j Kết hợp được với các dự án xã hội khác" -> "Kết nối với các tổ chức khác"	[style=dashed];
+	"Tổ chức những buổi nói chuyện về giá trị của việc kiên trì đối thoại đến cùng thì thôi"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\ngiá trị của việc kiên trì đối\nthoại đến cùng thì thôi",
+		shape=polygon];
+	"n.i Những người khác biệt quan điểm với QC muốn thảo luận đến cùng với mình cho đến khi nào cả hai \
+đều nhất trí với nhau thì thôi" -> "Tổ chức những buổi nói chuyện về giá trị của việc kiên trì đối thoại đến cùng thì thôi"	[style=dashed];
+	"p Beret tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với \
+tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng"	[style=dashed];
+	"Tổ chức những buổi nói chuyện về nét họ hàng giống nhau của Wittgenstein"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\nnét họ hàng giống nhau của\nWittgenstein",
+		shape=polygon];
+	"p Beret tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về nét họ hàng giống nhau của Wittgenstein"	[style=dashed];
+	"Tổ chức những buổi nói chuyện về mối quan hệ giữa Đạo gia và LGBT"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\nmối quan hệ giữa Đạo gia và LGBT",
+		shape=polygon];
+	"p Beret tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về mối quan hệ giữa Đạo gia và LGBT"	[minlen=1,
+		style=dashed];
+	"Tổ chức những buổi nói chuyện về mối quan hệ giữa nghệ thuật, giải trí và việc để cảm xúc chi \
+phối"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\nmối quan hệ giữa nghệ thuật,\ngiải trí và việc để cảm xúc chi\nphối",
+		shape=polygon];
+	"p Beret tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về mối quan hệ giữa nghệ thuật, giải trí và việc để cảm xúc chi \
+phối"	[style=dashed];
+	"Tổ chức những buổi nói chuyện về mối quan hệ giữa tính kiểm sai trong khoa học và điều ngôn ngữ không \
+miêu tả được"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\nmối quan hệ giữa tính kiểm sai\ntrong khoa học và điều ngôn ngữ\nkhông \
+miêu tả được",
+		shape=polygon];
+	"p Beret tham gia các buổi thuyết trình thảo luận" -> "Tổ chức những buổi nói chuyện về mối quan hệ giữa tính kiểm sai trong khoa học và điều ngôn ngữ không \
+miêu tả được"	[minlen=2,
+		style=dashed];
+	"j.1a.i Những người trong các lĩnh vực về kích thích giác quan chia sẻ quan điểm này" -> "Tổ chức những buổi nói chuyện về mối quan hệ giữa nghệ thuật, giải trí và việc để cảm xúc chi \
+phối"	[minlen=1,
+		style=dashed];
+	"1b.2.2.1.i Cueball có được lý do vì sao những người trong ngành phát triển chưa muốn chia sẻ quan điểm của \
+mình" -> "Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC"	[minlen=1,
+		style=dashed];
+	"Tổ chức những buổi nói chuyện về lý thuyết phê phán Frankfurt"	[fillcolor="#E4D1D1",
+		label="Tổ chức những buổi nói chuyện về\nlý thuyết phê phán Frankfurt",
+		shape=polygon];
+	"p Tổ chức thành công các buổi chia sẻ kiến thức của những người có chuyên môn" -> "Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với \
+tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng"	[style=dashed];
+	"p Tổ chức thành công các buổi chia sẻ kiến thức của những người có chuyên môn" -> "Tổ chức những buổi nói chuyện về nét họ hàng giống nhau của Wittgenstein"	[style=dashed];
+	"p Tổ chức thành công các buổi chia sẻ kiến thức của những người có chuyên môn" -> "Tổ chức những buổi nói chuyện về lý thuyết phê phán Frankfurt"	[minlen=1,
+		style=dashed];
+}

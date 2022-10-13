@@ -1,0 +1,165 @@
+digraph branch_o{
+splines=ortho;
+			overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_20 nodes
+
+node [ shape=oval margin=0.1 fillcolor="#EEEADD" style="filled, rounded" ]
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Mục tiêu nodes
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ý tưởng tốt hơn nodes
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yếu tố hỗ trợ nodes
+
+node [ shape=note style=filled ]
+"r.i.j Các thành viên hiểu về cuộc sống của nhau" [ label = "r.i.j Các thành viên hiểu về\ncuộc sống của nhau" ] 
+"r.i.j Các thành viên hiểu về cuộc sống của nhau" [ label = "r.i.j Các thành viên hiểu về\ncuộc sống của nhau" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Tham khảo nodes
+
+node [ shape=plain fillcolor=white ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hoạt động nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+"Tổ chức những buổi chia sẻ về bản thân" [ label = "Tổ chức những buổi chia sẻ về\nbản thân" ] 
+"Tổ chức những buổi chia sẻ về bản thân" [ label = "Tổ chức những buổi chia sẻ về\nbản thân" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+"o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn" [ label = "o Megan hoặc Danish tham gia\nnhững buổi chia sẻ vòng tròn" ] 
+"o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn" [ label = "o Megan hoặc Danish tham gia\nnhững buổi chia sẻ vòng tròn" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+"r.i.j Các thành viên hiểu về cuộc sống của nhau" [ label = "r.i.j Các thành viên hiểu về\ncuộc sống của nhau" ] 
+"r.i.j Các thành viên hiểu về cuộc sống của nhau" [ label = "r.i.j Các thành viên hiểu về\ncuộc sống của nhau" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+"r.j Kết hợp được với các dự án xã hội khác" [ label = "r.j Kết hợp được với các dự án\nxã hội khác" ] 
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Mục tiêu edges
+"o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn" -> "r.j Kết hợp được với các dự án xã hội khác"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Đi chung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ý tưởng tốt hơn edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yếu tố hỗ trợ edges
+"r.i.j Các thành viên hiểu về cuộc sống của nhau" -> "o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn"
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Tham khảo edges
+
+edge [ style=dashed ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hoạt động edges
+"o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn" -> "Tổ chức những buổi chia sẻ về bản thân"
+
+}

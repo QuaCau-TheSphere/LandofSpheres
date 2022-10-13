@@ -1,0 +1,51 @@
+digraph masterGraph{
+//splines=ortho;
+overlap=false
+style=rounded
+// ranksep="0.4";
+label="Chú thích";
+sep=10
+fontsize = 30
+labelloc="t";
+fontname="Lato";
+
+
+node [ shape=oval style="filled, rounded" fontname="SVN-Avo" margin=0.1 fillcolor="#EEEADD" ]
+g [label="Mục tiêu cuối cùng"]
+
+node [ shape=plaintext style="filled, rounded" margin=0.2 fillcolor="#c6cac3" ]
+g1 [label="Mục tiêu thành phần 1"]
+g2a [label="Mục tiêu thành phần 2a"]
+g2b [label="Mục tiêu thành phần 2b"]
+
+node [ shape=note style=filled ]
+sgoal [ label = "Mục tiêu hỗ trợ" ] 
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+bgoal [ label = "Ý tưởng tốt hơn" ] 
+
+
+node [ shape=plain fillcolor=white ]
+example [ label = "Chủ đề tham khảo" ] 
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+action1 [ label = "Hành động 1" ] 
+action2 [ label = "Hành động 2" ] 
+action3 [ label = "Hành động 3" ] 
+
+g -> { g1, g2a, g2b , bgoal}
+g1->action1
+g2a->sgoal
+{sgoal,g2b }->action2
+bgoal->action3
+
+subgraph {
+rank=same
+lable=""
+edge [ label="Đi chung" minlen=0 style=bold penwidth=5 dir=both arrowtype=odiamond ]
+g2a -> g2b
+}
+
+edge [ style=dashed ]
+sgoal->example
+}

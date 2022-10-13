@@ -1,0 +1,135 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 255,
+  "maxNumberOfWordsAsPhrase": 1,
+  "minNumberOfCharactersTriggered": 2,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": false,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": false,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "Ξ Meta 0/02 Gõ nhanh.md",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "|",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": false,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": true,
+  "showLogAboutPerformanceInConsole": true,
+  "selectionHistoryTree": {
+    "ttw": {
+      "Chủ đề::": {
+        "customDictionary": {
+          "count": 55,
+          "lastUpdated": 1663405501962
+        }
+      }
+    },
+    "ttq": {
+      "Câu hỏi::": {
+        "customDictionary": {
+          "count": 19,
+          "lastUpdated": 1664679730564
+        }
+      }
+    },
+    "cvt": {
+      "Công việc thành phần::": {
+        "customDictionary": {
+          "count": 16,
+          "lastUpdated": 1663228319403
+        }
+      }
+    },
+    "vvl": {
+      "Lý do::": {
+        "customDictionary": {
+          "count": 30,
+          "lastUpdated": 1664786827509
+        }
+      }
+    },
+    "Đối tượng thụ hưởng::": {
+      "Đối tượng thụ hưởng::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663247028659
+        }
+      }
+    },
+    "Kết quả mong muốn:: ": {
+      "Kết quả mong muốn:: ": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663347528907
+        }
+      }
+    },
+    "Lý do::": {
+      "Lý do::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663769592603
+        }
+      }
+    },
+    "PNML": {
+      "độ-cấp-thiết=\"Phải làm ngay\" or độ-cấp-thiết=\"Muốn làm ngay\" or độ-cấp-thiết=\"Nên làm ngay\" or độ-cấp-thiết=\"Công việc lặp lại\" ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664025900977
+        }
+      }
+    },
+    "Xem thêm::": {
+      "Xem thêm::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664681343552
+        }
+      }
+    },
+    "Đáp ứng cho nhu cầu của mình::": {
+      "Đáp ứng cho nhu cầu của mình::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664741887293
+        }
+      }
+    },
+    "Git. Obsidian": {
+      "Git. Obsidian": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1665082150324
+        }
+      }
+    }
+  }
+}

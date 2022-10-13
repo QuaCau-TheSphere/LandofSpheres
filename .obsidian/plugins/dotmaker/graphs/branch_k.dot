@@ -1,0 +1,157 @@
+digraph branch_k{
+splines=ortho;
+			overlap=false
+		style=rounded
+		// ranksep="0.4";
+		label="Thay đổi niềm tin người có niềm tin tiêu cực";
+		sep=10
+		fontsize = 30
+		labelloc="t";
+		fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_20 nodes
+
+node [ shape=oval margin=0.1 fillcolor="#EEEADD" style="filled, rounded" ]
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Mục tiêu nodes
+"k.1 Các câu chuyện về những người đã từng khinh bỉ người khác nhưng sau đó đã thức tỉnh và tìm cách xin lỗi được lan toả đến Megan" [ label = "k.1 Các câu chuyện về những\nngười đã từng khinh bỉ người\nkhác nhưng sau đó đã thức tỉnh\nvà tìm cách xin lỗi được lan toả\nđến Megan" ] 
+"k.2 Các câu chuyện về những người đã từng phản bội người khác quay lại để nhận lỗi cho đến khi họ tha thứ được lan toả đến Megan" [ label = "k.2 Các câu chuyện về những\nngười đã từng phản bội người\nkhác quay lại để nhận lỗi cho\nđến khi họ tha thứ được lan toả\nđến Megan" ] 
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" [ label = "20 Megan sẽ chủ động gặp người\ncô coi thường để hiểu những gì\nhọ nghĩ" ] 
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Ý tưởng tốt hơn nodes
+
+node [ shape=box3d style="filled, rounded" fillcolor="#D1E4DD" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Yếu tố hỗ trợ nodes
+
+node [ shape=note style=filled ]
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+"1b.1.i.j Môi trường có những gợi ý cho Megan suy ngẫm" [ label = "1b.1.i.j Môi trường có những gợi\ný cho Megan suy ngẫm" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Tham khảo nodes
+
+node [ shape=plain fillcolor=white ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Hoạt động nodes
+
+node [ fillcolor="#E4D1D1" shape=polygon ]
+"Truyền thông các bài viết về sự khắc phục sự phản bội" [ label = "Truyền thông các bài viết về sự\nkhắc phục sự phản bội" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1a nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_1b nodes
+"1b.1.i.j Môi trường có những gợi ý cho Megan suy ngẫm" [ label = "1b.1.i.j Môi trường có những gợi\ný cho Megan suy ngẫm" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_i nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_j nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_k nodes
+"k.1 Các câu chuyện về những người đã từng khinh bỉ người khác nhưng sau đó đã thức tỉnh và tìm cách xin lỗi được lan toả đến Megan" [ label = "k.1 Các câu chuyện về những\nngười đã từng khinh bỉ người\nkhác nhưng sau đó đã thức tỉnh\nvà tìm cách xin lỗi được lan toả\nđến Megan" ] 
+"k.2 Các câu chuyện về những người đã từng phản bội người khác quay lại để nhận lỗi cho đến khi họ tha thứ được lan toả đến Megan" [ label = "k.2 Các câu chuyện về những\nngười đã từng phản bội người\nkhác quay lại để nhận lỗi cho\nđến khi họ tha thứ được lan toả\nđến Megan" ] 
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" [ label = "k Megan nghe được các câu chuyện\ncủa những người tương tự hoàn\ncảnh của mình" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_l nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_m nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_n nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_o nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_p nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_q nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All branch_r nodes
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Mục tiêu edges
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" -> "k.1 Các câu chuyện về những người đã từng khinh bỉ người khác nhưng sau đó đã thức tỉnh và tìm cách xin lỗi được lan toả đến Megan"
+"k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình" -> "k.2 Các câu chuyện về những người đã từng phản bội người khác quay lại để nhận lỗi cho đến khi họ tha thứ được lan toả đến Megan"
+"1b.1.i.j Môi trường có những gợi ý cho Megan suy ngẫm" -> "k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Đi chung edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Ý tưởng tốt hơn edges
+
+edge [ penwidth=1 ] //Reset style
+
+//All Yếu tố hỗ trợ edges
+"20 Megan sẽ chủ động gặp người cô coi thường để hiểu những gì họ nghĩ" -> "k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình"
+
+edge [ penwidth=1 ] //Reset style
+
+//All Tham khảo edges
+
+edge [ style=dashed ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Hoạt động edges
+"k.2 Các câu chuyện về những người đã từng phản bội người khác quay lại để nhận lỗi cho đến khi họ tha thứ được lan toả đến Megan" -> "Truyền thông các bài viết về sự khắc phục sự phản bội"
+
+}
