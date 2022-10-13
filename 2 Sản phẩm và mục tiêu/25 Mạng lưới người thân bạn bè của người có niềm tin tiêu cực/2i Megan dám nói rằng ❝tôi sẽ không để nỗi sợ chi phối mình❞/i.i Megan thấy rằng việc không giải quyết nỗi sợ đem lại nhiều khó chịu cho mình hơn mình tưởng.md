@@ -1,0 +1,2 @@
+Yếu tố hỗ trợ:: [[i.i.i Megan thấy rằng việc nỗi sợ của mình không được giải quyết sẽ khiến mình khó hoà nhập với cộng đồng mình muốn thuộc về]]
+Yếu tố hỗ trợ:: [[i.i.j Megan thấy hậu quả của việc không đối diện nỗi sợ một cách rõ ràng]]
