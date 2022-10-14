@@ -41,13 +41,17 @@
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": true,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
   "showLogAboutPerformanceInConsole": true,
   "selectionHistoryTree": {
     "ttw": {
       "Chủ đề::": {
         "customDictionary": {
-          "count": 55,
-          "lastUpdated": 1663405501962
+          "count": 56,
+          "lastUpdated": 1665729291527
         }
       }
     },

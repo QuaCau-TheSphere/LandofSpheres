@@ -23,5 +23,6 @@ Chủ đề:: [[Tự trị]]
 Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Truyền thông]], [[Văn hóa đại chúng]]
 Chủ đề:: [[Khuôn mẫu]]
 Chủ đề:: [[Nhị nguyên luận]]
+Chủ đề:: [[Giao thoa, đan xen, liên tầng (Intersectionality)]]
 
 [Tọa đàm "Hình ảnh phụ nữ trong quảng cáo thương mại - Giới hạn và đạo lý - YouTube](https://www.youtube.com/watch?v=rHEjtwJrCCs&t=284s)
