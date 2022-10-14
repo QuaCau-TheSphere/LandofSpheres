@@ -7,7 +7,7 @@
 # Cài Obsidian
 1. Tải về [Obsidian](https://obsidian.md/ "Obsidian") và cài đặt
 2. **Tạo một vault mới** ![[Tạo một vault mới.png]]
-	- Điền tên vault (VD: `2GROW - Kết nối nhu cầu`)
+	- Điền tên vault (VD: `2GROW`)
 	- Chọn nơi lưu
 	- Bấm <kbd>Create</kbd>
 3. **Cho phép cài plugin** ![[Pasted image 20221014181546.png]]
