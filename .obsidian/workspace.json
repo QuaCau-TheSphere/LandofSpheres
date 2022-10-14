@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fc58408c5835ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "2ac6e87d70515fda",
             "type": "leaf",
             "state": {
@@ -32,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ccb94d9f3a81c966",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,6 +157,7 @@
   "active": "2ac6e87d70515fda",
   "lastOpenFiles": [
     "8 Gặp mặt/Gặp Viễn Đông.md",
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Intersectionality.md",
     "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
     "Untitled 1.md",
     "00.0 Bản đồ trong QC.sync-conflict-20221013-184308-LDHXXXZ.md",
@@ -188,7 +165,6 @@
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.8 Xây dựng dự án/Xây dựng nhóm nòng cốt.md",
     "3 Các bên liên quan/Tổ chức/37 Mô hình/Doanh nghiệp xã hội.md",
     "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
-    "9 Tài liệu/98 Truyền thông/Hướng dẫn truyền thông.md",
-    "9 Tài liệu/98 Truyền thông/982 Các nội dung khác/Tham việc. Đa nhiệm. Làm việc hiệu quả.md"
+    "9 Tài liệu/98 Truyền thông/Hướng dẫn truyền thông.md"
   ]
 }
