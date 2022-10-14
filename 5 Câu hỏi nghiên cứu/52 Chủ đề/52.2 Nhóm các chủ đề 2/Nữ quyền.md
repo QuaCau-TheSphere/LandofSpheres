@@ -33,4 +33,11 @@ Bà định nghĩa về nữ quyền: các nỗ lực của cá nhân và tập 
 - Thù trong: tư tưởng phân biệt giới được nội tại hoá (internalized sexism) 
 - Giặc ngoài: chủ nghĩa phân biệt giới tính (sexism) và hệ thống nam quyền (patriarchy/institutional sexism) 
 
-Đa số các vấn đề hiềm khích và bạo lực xảy ra giữa những người nam thì không được đặt tên, và phong trào vị nữ có sự tham gia của nam giới thường ít nhận được sự chú ý
+Đa số các vấn đề hiềm khích và bạo lực xảy ra giữa những người nam thì không được đặt tên, và 
+
+❓:: phong trào vị nữ có sự tham gia của nam giới thường ít nhận được sự chú ý, nhưng đồng thời họ lại được hưởng nhiều đặc quyền hơn?
+
+- Làn sóng 1: quyền dân sự (tham gia chính trị) 
+- Làn sóng 2: quyền cơ thể, chống bạo lực, thu nhập bình đẳng
+- Làn sóng 3: quyền phụ nữ đặt trong lăng kính giao thoa: chủng tộc, khuyết tật, tính dục
+- Làn sóng 4: môi trường số hoá, điện tử. Phụ nữ và môi trường
