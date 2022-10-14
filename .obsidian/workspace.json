@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,10 +155,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b80939ada61ff70a",
+  "active": "2ac6e87d70515fda",
   "lastOpenFiles": [
-    "8 Gặp mặt/Gặp Viễn Đông.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Giao thoa và đan xen (Intersectionality).md",
+    "8 Gặp mặt/Gặp Viễn Đông.md",
     "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
     "Untitled 1.md",
     "00.0 Bản đồ trong QC.sync-conflict-20221013-184308-LDHXXXZ.md",

@@ -1,0 +1,151 @@
+digraph "next"{
+
+overlap=false
+style=rounded
+// ranksep="0.4";
+label="Công việc PMN";
+//sep=10
+fontsize = 30
+labelloc="t";
+fontname="Lato";
+//NODES
+//====================
+
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All masterGraph nodes
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ]
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All Công việc thành phần nodes
+
+node [ shape=polygon ]
+"Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu" [ label = "Hoàn thành thang đo kiểm tra\nlượng tóc vàng trên da đầu" ] 
+"Outline nội dung buổi tóc vàng tóc đen" [ label = "Outline nội dung buổi tóc vàng\ntóc đen" ] 
+"Lên danh sách những người phù hợp trong các trang kết nối TNV" [ label = "Lên danh sách những người phù\nhợp trong các trang kết nối TNV" ] 
+"✔✔ Xây dựng bản đồ trong QC" [ label = "✔✔ Xây dựng bản đồ trong QC" ] 
+"Seeding" [ label = "Seeding" ] 
+"Khảo sát nhu cầu của từng thành viên" [ label = "Khảo sát nhu cầu của từng thành\nviên" ] 
+"Làm các loại đồ thị" [ label = "Làm các loại đồ thị" ] 
+"Khảo sát nhu cầu của từng thành viên" [ label = "Khảo sát nhu cầu của từng thành\nviên" ] 
+"Khảo sát nhu cầu của từng thành viên" [ label = "Khảo sát nhu cầu của từng thành\nviên" ] 
+"Liên hệ với LIN, SNPO" [ label = "Liên hệ với LIN, SNPO" ] 
+"Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian" [ label = "Tìm hiểu những nỗ lực trò chuyện\ngiữa những người làm truyền\nthông và Frankfurtian" ] 
+"Tìm hiểu về Frankfurt" [ label = "Tìm hiểu về Frankfurt" ] 
+"Viết bài giới thiệu buổi nói chuyện + Mời các thành viên trong mạng lưới tìm chuyên gia" [ label = "Viết bài giới thiệu buổi nói\nchuyện + Mời các thành viên\ntrong mạng lưới tìm chuyên gia" ] 
+"Đăng bài giới thiệu trong các group" [ label = "Đăng bài giới thiệu trong các\ngroup" ] 
+"Mời người tìm hiểu sâu về tổ chức học đến tham gia" [ label = "Mời người tìm hiểu sâu về tổ\nchức học đến tham gia" ] 
+"Mời người tìm hiểu sâu về chủ nghĩa cá nhân đến tham gia" [ label = "Mời người tìm hiểu sâu về chủ\nnghĩa cá nhân đến tham gia" ] 
+"Mời người tìm hiểu sâu về tâm lý học nhân văn đến tham gia" [ label = "Mời người tìm hiểu sâu về tâm lý\nhọc nhân văn đến tham gia" ] 
+"Mời người tìm hiểu sâu về nghịch lý của lý tính đến tham gia" [ label = "Mời người tìm hiểu sâu về nghịch\nlý của lý tính đến tham gia" ] 
+"Outline nội dung buổi tóc vàng tóc đen" [ label = "Outline nội dung buổi tóc vàng\ntóc đen" ] 
+"Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian" [ label = "Tìm hiểu những nỗ lực trò chuyện\ngiữa những người làm truyền\nthông và Frankfurtian" ] 
+"Tìm hiểu những nỗ lực trò chuyện giữa những người kiện nhau" [ label = "Tìm hiểu những nỗ lực trò chuyện\ngiữa những người kiện nhau" ] 
+"Lên danh sách những người phù hợp trong các trang kết nối TNV" [ label = "Lên danh sách những người phù\nhợp trong các trang kết nối TNV" ] 
+"Phỏng vấn TNV xin tham gia" [ label = "Phỏng vấn TNV xin tham gia" ] 
+"✔ Thống nhất quy trình khi có người mới đăng ký làm TNV" [ label = "✔ Thống nhất quy trình khi có\nngười mới đăng ký làm TNV" ] 
+"Bàn về thế mạnh của QC" [ label = "Bàn về thế mạnh của QC" ] 
+"Outline nội dung buổi tóc vàng tóc đen" [ label = "Outline nội dung buổi tóc vàng\ntóc đen" ] 
+"Tạo thang đo cho các kết quả mong muốn" [ label = "Tạo thang đo cho các kết quả\nmong muốn" ] 
+"Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu" [ label = "Hoàn thành thang đo kiểm tra\nlượng tóc vàng trên da đầu" ] 
+"Hoàn thành bảng khảo sát TNV định kỳ" [ label = "Hoàn thành bảng khảo sát TNV\nđịnh kỳ" ] 
+"Khảo sát nhu cầu của từng thành viên" [ label = "Khảo sát nhu cầu của từng thành\nviên" ] 
+
+node [ shape=plaintext style="filled, rounded" fontname="SVN-Avo" margin=0.2 fillcolor="#c6cac3" ] //Reset style
+
+//All next nodes
+subgraph cluster_next{
+
+
+node [ shape=polygon ]
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" [ label = "Tổ chức các buổi nói chuyện về\ntóc vàng tóc đen" ] 
+"Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu" [ label = "Hoàn thành thang đo kiểm tra\nlượng tóc vàng trên da đầu" ] 
+"Kết nối với các tổ chức khác" [ label = "Kết nối với các tổ chức khác" ] 
+"Xây dựng cộng đồng lớn mạnh" [ label = "Xây dựng cộng đồng lớn mạnh" ] 
+"Tuyển thêm TNV" [ label = "Tuyển thêm TNV" ] 
+"Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông" [ label = "Tổ chức những buổi đối thoại\ngiữa Frankfurtian và người làm\ntruyền thông" ] 
+"Tìm hiểu tính hiệu quả của các chương trình đối thoại trước đây" [ label = "Tìm hiểu tính hiệu quả của các\nchương trình đối thoại trước đây" ] 
+"Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu" [ label = "Hoàn thành thang đo kiểm tra\nlượng tóc vàng trên da đầu" ] 
+"Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian" [ label = "Tìm hiểu những nỗ lực trò chuyện\ngiữa những người làm truyền\nthông và Frankfurtian" ] 
+"Đảm bảo các TNV quen với quy trình làm việc" [ label = "Đảm bảo các TNV quen với quy\ntrình làm việc" ] 
+"Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức" [ label = "Hướng dẫn người mới làm quen với\nquy trình làm việc, văn hoá tổ\nchức" ] 
+"Tuyển thêm TNV" [ label = "Tuyển thêm TNV" ] 
+"Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức" [ label = "Hướng dẫn người mới làm quen với\nquy trình làm việc, văn hoá tổ\nchức" ] 
+"Truyền thông kế hoạch hành động" [ label = "Truyền thông kế hoạch hành động" ] 
+"Đánh giá sự hiệu quả của kế hoạch hành động" [ label = "Đánh giá sự hiệu quả của kế\nhoạch hành động" ] 
+"Lên kế hoạch gây quỹ" [ label = "Lên kế hoạch gây quỹ" ] 
+"Lên kế hoạch tuyển TNV" [ label = "Lên kế hoạch tuyển TNV" ] 
+"Đánh giá mức độ hiểu biết của thành viên với tổ chức" [ label = "Đánh giá mức độ hiểu biết của\nthành viên với tổ chức" ] 
+"Tăng tỉ lệ tương tác của những người ít tương tác trong group" [ label = "Tăng tỉ lệ tương tác của những\nngười ít tương tác trong group" ] 
+"Truyền thông các bài viết về tự trị" [ label = "Truyền thông các bài viết về tự\ntrị" ] 
+}
+
+
+//EDGES
+//====================
+
+edge [ penwidth=1 ] //Reset style
+
+//All masterGraph edges
+
+edge [ penwidth=1 ]
+
+edge [ penwidth=1 ] //Reset style
+
+//All Công việc thành phần edges
+
+edge [ penwidth=1 style=solid ]
+"Tạo thang đo cho các kết quả mong muốn" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
+"Xây dựng cộng đồng lớn mạnh" -> "Seeding"
+"Tăng tỉ lệ tương tác của những người ít tương tác trong group" -> "Làm các loại đồ thị"
+"Tăng tỉ lệ tương tác của những người ít tương tác trong group" -> "Khảo sát nhu cầu của từng thành viên"
+"Kết nối với các tổ chức khác" -> "Liên hệ với LIN, SNPO"
+"Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông" -> "Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian"
+"Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông" -> "Tìm hiểu về Frankfurt"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Viết bài giới thiệu buổi nói chuyện + Mời các thành viên trong mạng lưới tìm chuyên gia"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Đăng bài giới thiệu trong các group"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Mời người tìm hiểu sâu về tổ chức học đến tham gia"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Mời người tìm hiểu sâu về chủ nghĩa cá nhân đến tham gia"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Mời người tìm hiểu sâu về tâm lý học nhân văn đến tham gia"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Mời người tìm hiểu sâu về nghịch lý của lý tính đến tham gia"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Outline nội dung buổi tóc vàng tóc đen"
+"Tìm hiểu tính hiệu quả của các chương trình đối thoại trước đây" -> "Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian"
+"Tìm hiểu tính hiệu quả của các chương trình đối thoại trước đây" -> "Tìm hiểu những nỗ lực trò chuyện giữa những người kiện nhau"
+"Tuyển thêm TNV" -> "Lên danh sách những người phù hợp trong các trang kết nối TNV"
+"Tuyển thêm TNV" -> "Phỏng vấn TNV xin tham gia"
+"Lên kế hoạch tuyển TNV" -> "✔ Thống nhất quy trình khi có người mới đăng ký làm TNV"
+"Lên kế hoạch gây quỹ" -> "Bàn về thế mạnh của QC"
+"Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
+"Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Hoàn thành bảng khảo sát TNV định kỳ"
+"Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Khảo sát nhu cầu của từng thành viên"
+
+edge [ penwidth=1 ] //Reset style
+
+//All next edges
+
+edge [ penwidth=1 style=dashed ]
+"Thống nhất bảng tóc vàng tóc đen" -> "Tổ chức các buổi nói chuyện về tóc vàng tóc đen"
+"Thống nhất bảng tóc vàng tóc đen" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
+"Lên kế hoạch sử dụng nguồn lực từ hệ sinh thái phi lợi nhuận" -> "Kết nối với các tổ chức khác"
+"Tăng tỉ lệ tương tác trong group" -> "Xây dựng cộng đồng lớn mạnh"
+"Truyền thông chiến lược của QC" -> "Tuyển thêm TNV"
+"Tổ chức những buổi nói chuyện về lý thuyết phê phán Frankfurt cho người làm truyền thông và thời trang" -> "Tổ chức những buổi đối thoại giữa Frankfurtian và người làm truyền thông"
+"Tổ chức những buổi nói chuyện về giá trị của việc kiên trì đối thoại đến cùng thì thôi" -> "Tìm hiểu tính hiệu quả của các chương trình đối thoại trước đây"
+"Tổ chức các buổi nói chuyện về tóc vàng tóc đen" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
+"Tìm hiểu về Frankfurt" -> "Tìm hiểu những nỗ lực trò chuyện giữa những người làm truyền thông và Frankfurtian"
+"✔✔ Xây dựng bản đồ trong QC" -> "Đảm bảo các TNV quen với quy trình làm việc"
+"✔✔ Xây dựng bản đồ trong QC" -> "Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức"
+"Lên kế hoạch tuyển TNV" -> "Tuyển thêm TNV"
+"Làm quy trình hướng dẫn người mới làm quen với văn hoá tổ chức" -> "Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức"
+"Làm kế hoạch hành động" -> "Truyền thông kế hoạch hành động"
+"Làm kế hoạch hành động" -> "Đánh giá sự hiệu quả của kế hoạch hành động"
+"Làm kế hoạch hành động" -> "Lên kế hoạch gây quỹ"
+"Làm kế hoạch hành động" -> "Lên kế hoạch tuyển TNV"
+"Hướng dẫn người mới làm quen với quy trình làm việc, văn hoá tổ chức" -> "Đánh giá mức độ hiểu biết của thành viên với tổ chức"
+"Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Tăng tỉ lệ tương tác của những người ít tương tác trong group"
+"Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC" -> "Truyền thông các bài viết về tự trị"
+
+}

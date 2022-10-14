@@ -402,5 +402,13 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-another-quick-switcher:search-command_recommended-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }
