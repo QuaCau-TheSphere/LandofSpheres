@@ -4,4 +4,4 @@
 	- Điền tên vault (VD: `2GROW - Kết nối nhu cầu`)
 	- Chọn nơi lưu
 	- Bấm <kbd>Create</kbd>
-3. 
+3. Cho phép cài plugin ![[Pasted image 20221014181546.png]]
