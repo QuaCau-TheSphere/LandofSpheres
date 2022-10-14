@@ -4,6 +4,7 @@
 - Vào `Settings` ![[Pasted image 20221014183408.png]]
 - Ở cột bên trái kéo xuống dưới cùng, chọn `Developer settings` ![[Pasted image 20221014183528.png]]
 - Chọn `Personal access token` và chọn <kbd>Generate new token</kbd>![[Pasted image 20221014183629.png]]
+- Đặt tên token của mình (VD: `2GROW`), bấm chọn `repo` ![[Pasted image 20221014183849.png]]
 # Cài Obsidian
 1. Tải về [Obsidian](https://obsidian.md/ "Obsidian") và cài đặt
 2. **Tạo một vault mới** ![[Tạo một vault mới.png]]
