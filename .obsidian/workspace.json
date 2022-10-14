@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "2ac6e87d70515fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intersectionality.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ccb94d9f3a81c966",
             "type": "leaf",
             "state": {
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md",
+                "file": "Intersectionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md",
+                "file": "Intersectionality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md"
+                "file": "Intersectionality.md"
               }
             }
           },
@@ -164,10 +178,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4fc58408c5835ee4",
+  "active": "2ac6e87d70515fda",
   "lastOpenFiles": [
-    "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
     "8 Gặp mặt/Gặp Viễn Đông.md",
+    "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
     "Untitled 1.md",
     "00.0 Bản đồ trong QC.sync-conflict-20221013-184308-LDHXXXZ.md",
     "6 Tổ chức/63 Hình thức tham gia/63.01 Thành viên nòng cốt.md",
