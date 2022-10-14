@@ -5,6 +5,10 @@
       "path": "Hướng dẫn cài đặt Obsidian và đồng bộ qua Github.md"
     },
     {
+      "basename": "Tạo một vault mới",
+      "path": "Tạo một vault mới.png"
+    },
+    {
       "basename": "Mirror Mirror, VOGE",
       "path": "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tăng sự gắn kết giữa các thành viên",
       "path": "7 Nhu cầu/Tăng sự gắn kết giữa các thành viên.md"
-    },
-    {
-      "basename": "Đối tượng thụ hưởng",
-      "path": "9 Tài liệu/93 Thống nhất nội hàm, khái niệm/Đối tượng thụ hưởng.md"
     }
   ],
   "omittedPaths": [],
