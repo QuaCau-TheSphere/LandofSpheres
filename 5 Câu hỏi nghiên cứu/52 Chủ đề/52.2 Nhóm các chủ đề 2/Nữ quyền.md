@@ -65,3 +65,8 @@ Phê bình:
 # Nữ quyền tự do - dấn thân
 - Cho rằng bất bình đẳng nằm ở thái độ và niềm tin,
 - Cần nâng cao tri thức, thay đổi niềm tin. Phải độc lập tài chính, phải trở thành lãnh đạo, làm chủ cuộc đời của mình
+
+Phê bình:
+- Không xét đến hệ thống. Có bức phá thì vẫn nằm trong hệ thống đó thôi
+
+# Nữ quyền xã hội chủ nghĩa
