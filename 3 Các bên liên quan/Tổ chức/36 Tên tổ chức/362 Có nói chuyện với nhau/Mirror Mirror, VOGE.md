@@ -4,7 +4,7 @@ Mô hình:: [[Trang cung cấp kiến thức học thuật]]
 Loại sứ mệnh:: [[Đấu tranh cho sự công bằng]]
 Loại sản phẩm:: [[Bài đăng]], [[Buổi nói chuyện]]
 
-Các khó khăn 
+Các khó khăn của các nhóm grassroot theo báo cáo của Mirror Mirror
 1. Khó tiếp cận hỗ trợ tài chính & nguồn lực
 2. Khó triển khai hoạt động do chưa có tư cách pháp nhân
 3. Không được tín nhiệm vì trẻ tuổi
