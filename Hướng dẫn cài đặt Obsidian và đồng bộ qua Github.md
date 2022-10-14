@@ -3,7 +3,7 @@
 2. Tạo token
 - Vào `Settings` ![[Pasted image 20221014183408.png]]
 - Ở cột bên trái kéo xuống dưới cùng, chọn `Developer settings` ![[Pasted image 20221014183528.png]]
-- 
+- Chọn `Personal access token` và chọn <kbd>Generate new token</kbd>![[Pasted image 20221014183629.png]]
 # Cài Obsidian
 1. Tải về [Obsidian](https://obsidian.md/ "Obsidian") và cài đặt
 2. **Tạo một vault mới** ![[Tạo một vault mới.png]]
