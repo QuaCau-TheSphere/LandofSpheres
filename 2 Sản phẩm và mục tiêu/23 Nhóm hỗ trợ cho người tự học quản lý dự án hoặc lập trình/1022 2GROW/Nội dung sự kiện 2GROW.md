@@ -28,14 +28,17 @@ Xem thêm: [[Lý do cho buổi tập huấn]]
 
 # Phần 0: Chuẩn bị trước của người tham dự
 - Có laptop để sử dụng Obsidian (dùng điện thoại cũng được nhưng sẽ không thấy hết). Có thể dùng chung lap với người khác, nhưng sẽ không có dữ liệu khi về nhà
-- Cài sẵn [Obsidian](https://Obsidian.md/) và [Syncthing](https://syncthing.net/) (tệp cài đặt Syncthing cho [Windows](https://github.com/canton7/SyncTrayzor/releases/download/v1.1.29/SyncTrayzorSetup-x64.exe), [Mac](https://github.com/syncthing/syncthing-macos/releases/download/v1.21.0-1/Syncthing-1.21.0-1.dmg)). Cả hai đều có app trên Android và iOS. 
+- [[Hướng dẫn đồng bộ Obsidian]]
 
 Không bắt buộc, nhưng làm thì sẽ tốt:
 - Tải [vault này](https://quacau.space/o49f) và mở bằng Obsidian để làm quen
 - Suy nghĩ về những nhu cầu của mình/tổ chức của mình
 - Đọc trước bài [Một đám mây chim sáo](https://quảcầu.cc/mot-dam-may-chim-sao/?utm_source=noteshare.space+%C2%BB+N%E1%BB%99i+dung+s%E1%BB%B1+ki%E1%BB%87n+2GROW&utm_medium=M%E1%BB%99t+%C4%91%C3%A1m+m%C3%A2y+chim+s%C3%A1o&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1)
-- [ ] Mở sẵn vault kết nối nhu cầu
-- [ ] 
+
+Mở sẵn các vault:
+- [ ] Kết nối nhu cầu của nhóm
+- [ ] Dữ liệu QC
+
 # Phần 1: Làm quen với nhau. Dẫn nhập (5') 
 ## ❓  Các bạn đến đây vì điều gì? 
 Ghi ra các mong đợi lên trên bảng, đếm số người có nhu cầu đó bằng cách giơ tay hoặc qua Menti/Slido
@@ -49,7 +52,7 @@ Sau một thời gian tìm tòi thì bọn mình thấy là dùng Obsidian sẽ 
 	- Những nhu cầu có nhiều người quan tâm
 	- Những cá nhân có ít sự liên kết với nhóm
 
-# Phần 2: Thử nghiệm việc kết nối nhu cầu trên vault (45') 
+# Phần 2: Thử nghiệm việc kết nối nhu cầu trên vault (30') 
 ## 2.1 Sử dụng (15')
 1. Tạo một ghi chú mới có tên bạn trong thư mục "Cá nhân" 
 2. Điền các nhu cầu của bạn vào dưới dạng link (`[[nhu cầu X]]`)
