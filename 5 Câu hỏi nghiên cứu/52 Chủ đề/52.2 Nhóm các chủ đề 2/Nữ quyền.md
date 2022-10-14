@@ -43,3 +43,10 @@ Bà định nghĩa về nữ quyền: các nỗ lực của cá nhân và tập 
 - Làn sóng 4: môi trường số hoá, điện tử. Phụ nữ và môi trường
 
 Nước đầu tiên có quyền bầu cử cho phụ nữ là New Zealand, nhưng mỗi khi nói về các làn sóng thì đều thấy Mỹ hay Anh
+
+Phân loại theo cách thức hoạt động:
+- Nữ quyền triệt để
+- Nữ quyền tự do và dấn thân (liberal & lean-in) 
+- Nữ quyền xã hội chủ nghĩa
+- Nữ quyền giao thoa
+
