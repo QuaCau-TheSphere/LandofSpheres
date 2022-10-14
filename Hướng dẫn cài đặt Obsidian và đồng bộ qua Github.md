@@ -27,3 +27,6 @@
 - Dán link `https://github.com/quacau/2GROW.git` và bấm <kbd>Enter</kbd>
 - Chọn `Vault Root` → `YES` → `DELETE ALL YOUR LOCAL CONFLICT AND PLUGINS`
 - Bấm lại <kbd>Ctrl + P</kbd> và kiếm `reload`. Chọn `Reload app without saving`
+
+6. **Thiết lập Obsidian Git**
+- Vào lại trong Settings, chọn Obsidian Git![[Pasted image 20221014191442.png]]
