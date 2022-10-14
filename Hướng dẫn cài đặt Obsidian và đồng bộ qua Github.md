@@ -29,4 +29,6 @@
 - Bấm lại <kbd>Ctrl + P</kbd> và kiếm `reload`. Chọn `Reload app without saving`
 
 6. **Thiết lập Obsidian Git**
-- Vào lại trong Settings, chọn Obsidian Git![[Pasted image 20221014191442.png]]
+- Vào lại trong `Settings`, chọn `Obsidian Git`
+- Ở phần `Automatic`, thiết lập như trong hình ![[Pasted image 20221014191442.png]]
+- 
