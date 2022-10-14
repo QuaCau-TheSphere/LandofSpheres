@@ -16,4 +16,7 @@
 - Bấm `Esc` 3 lần để ra màn hình chính
 - Bấm <kbd>Ctrl + P</kbd> để tìm lệnh tải dữ liệu 
 - Kiếm lệnh `clone` và bấm <kbd>Enter</kbd> ![[Pasted image 20221014182204.png]]
+- Dán link `https://github.com/quacau/2GROW.git` và bấm <kbd>Enter</kbd>
+- Chọn `Vault Root` → `YES` → `DELETE ALL YOUR LOCAL CONFLICT AND PLUGINS`
+- 
 - 
