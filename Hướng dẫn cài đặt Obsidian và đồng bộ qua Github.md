@@ -1,3 +1,6 @@
+# Tạo tài khoản trên GitHub
+1. Truy cập vào [GitHub](https://github.com) và tạo một tài khoản mới
+2. 
 # Cài Obsidian
 1. Tải về [Obsidian](https://obsidian.md/ "Obsidian") và cài đặt
 2. **Tạo một vault mới** ![[Tạo một vault mới.png]]
@@ -18,5 +21,4 @@
 - Kiếm lệnh `clone` và bấm <kbd>Enter</kbd> ![[Pasted image 20221014182204.png]]
 - Dán link `https://github.com/quacau/2GROW.git` và bấm <kbd>Enter</kbd>
 - Chọn `Vault Root` → `YES` → `DELETE ALL YOUR LOCAL CONFLICT AND PLUGINS`
-- 
-- 
+- Bấm lại <kbd>Ctrl + P</kbd> và kiếm `reload`. Chọn `Reload app without saving`
