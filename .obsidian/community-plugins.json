@@ -40,5 +40,6 @@
   "obsidian-quickshare",
   "obsidian-advanced-slides",
   "obsidian-leaflet-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "copy-url-in-preview"
 ]
