@@ -49,7 +49,11 @@ Phân loại theo cách thức hoạt động:
 - Nữ quyền tự do và dấn thân (liberal & lean-in) 
 - Nữ quyền xã hội chủ nghĩa
 - Nữ quyền giao thoa
-
+- Nữ quyền giải thuộc địa
+- Nữ quyền thiên nhiên
+- Hậu nữ quyền
+- Nữ quyền nổi tiếng
+- Nữ quyền lựa chọn
 # Nữ quyền triệt để
 - Xoá bỏ sự trói buộc phụ nữ ở khía cảnh thân thể và xã hội
 - Coi hệ thống nam quyền gia trưởng là nguyên nhân của bất công giới
