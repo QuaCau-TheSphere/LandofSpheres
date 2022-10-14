@@ -1,6 +1,8 @@
 # Tạo tài khoản trên GitHub
 1. Truy cập vào [GitHub](https://github.com) và tạo một tài khoản mới
-2. 
+2. Tạo token
+- Vào `Settings` ![[Pasted image 20221014183408.png]]
+- 
 # Cài Obsidian
 1. Tải về [Obsidian](https://obsidian.md/ "Obsidian") và cài đặt
 2. **Tạo một vault mới** ![[Tạo một vault mới.png]]
