@@ -50,22 +50,7 @@ Sau một thời gian tìm tòi thì bọn mình thấy là dùng Obsidian sẽ 
 	- Những cá nhân có ít sự liên kết với nhóm
 
 # Phần 2: Thử nghiệm việc kết nối nhu cầu trên vault (45') 
-## 2.1 Đồng bộ dữ liệu (15') 
-### 1. Tải Obsidian và Syncthing về 
-Tệp cài đặt Syncthing cho [Windows](https://github.com/canton7/SyncTrayzor/releases/download/v1.1.29/SyncTrayzorSetup-x64.exe), [Mac](https://github.com/syncthing/syncthing-macos/releases/download/v1.21.0-1/Syncthing-1.21.0-1.dmg). Cả hai đều có app trên Android và iOS. 
-### 2. Tìm thiết bị
-a. **Trên máy tính:** bấm scan device
-b. **Trên điện thoại:** quét ![mã QR|100x100](https://i.imgur.com/cABRyXJ.png)
-c. **Nếu không được:** Bấm vào nút <kbd>Add Remote Device</kbd> và dán ID này vào mục Device ID: `LDHXXXZ-6KSFLQD-M6AVVE3-EYSKCXK-MEMLZTL-NLKD5HB-HRPUMSF-KF3NNQB`
-
-> [!attention] Lưu ý quan trọng
->1. **Tạo một thư mục riêng trước khi đồng bộ**, nếu không sẽ bị tràn file ra ngoài 
->2. **Đảm bảo thư mục đó sau này không phải di chuyển sang chỗ khác.** Vì sau khi nhấn accept thì Syncthing sẽ không cho đổi sang thư mục khác. Nếu muốn đổi thì phải xóa đi làm lại từ đầu nếu muốn tiếp tục đồng bộ
-
-### 3. Nhật sync vault
-### 4. Mọi người mở vault
-
-## 2.2 Sử dụng (15')
+## 2.1 Sử dụng (15')
 1. Tạo một ghi chú mới có tên bạn trong thư mục "Cá nhân" 
 2. Điền các nhu cầu của bạn vào dưới dạng link (`[[nhu cầu X]]`)
 > [!attention] Lưu ý quan trọng
