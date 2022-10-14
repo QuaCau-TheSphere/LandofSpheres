@@ -55,28 +55,21 @@ Sau một thời gian tìm tòi thì bọn mình thấy là dùng Obsidian sẽ 
 2. Điền các nhu cầu của bạn vào dưới dạng link (`[[nhu cầu X]]`)
 > [!attention] Lưu ý quan trọng
 > **Chỉ ghi những gì bạn cảm thấy muốn chia sẻ**, vì sau khi ngắt kết nối thì thông tin vẫn còn được lưu trên máy của mọi người
-
+1. Tương tự, tạo một ghi chú mới cho tổ chức của bản trong thư mục "Tổ chức", và điền các nhu cầu của tổ chức của mình vào trong đó
 3. Vào trong từng nhu cầu (bấm <kbd>Alt + Enter</kbd>) và thêm thẻ phân loại nhu cầu đó (xem thêm [[Phân loại nhu cầu]]) 
 4. Di chuyển các nhu cầu quan trọng nhất của bạn lên đầu (bấm <kbd>Alt + ↑</kbd> hoặc <kbd>Alt + ↓</kbd>) 
 5. Bật đồ thị (bấm <kbd>Ctrl + G</kbd>) 
 6. Tìm xem trong những nhu cầu này có thể đáp ứng cùng nhau thế nào. VD: 
 	- Nhu cầu `có tiền` và nhu cầu `được ăn ngon miễn phí` có thể được đáp ứng bằng cách đi làm tại một nhà hàng
 	- Nhu cầu `có thêm nhiều người tham gia mạng lưới` có thể đáp ứng được nhu cầu `có người hỗ trợ đáp ứng nhu cầu của mình`  và `đáp ứng được nhu cầu của người khác`
-## 2.3 Mọi người cùng bàn luận về thành quả cùng làm được (15') 
+## 2.2 Mọi người cùng bàn luận về thành quả cùng làm được (15') 
 Phân tích:
 - Nhìn vào đồ thị này, các bạn không cần phải hỏi nhưng vẫn biết nhu cầu của mọi người. Việc này khiến cho cái vault này không chỉ là nơi để lưu trữ thông tin của từng người, mà nó còn là:
 	- **Một Wikipedia cho việc giải quyết nhu cầu**
 	- **Một mạng xã hội:** mỗi người có thể chủ động ghi nhu cầu của mình và biết được nhu cầu của người khác mà không phải mất công hỏi nhau
-
---
 	- **Một nền kinh tế không dùng tiền:** bản thân việc đi đáp ứng nhu cầu của mình, tức là sống cho bản thân cũng đem lại giá trị cho người khác. Điều này tương phản với nền kinh tế dùng tiền, khi đáp ứng nhu cầu của người khác thường đồng nghĩa với việc nhu cầu của mình bị trì hoãn
-
---
-<!-- slide bg="rgb(255, 99, 71)"  -->
-
 	- **Một vùng đất để chúng ta cùng phiêu lưu:** những giải pháp bất ngờ và sáng tạo sẽ nảy nở không lường trước được, như là xây dựng thế giới trong Minecraft
 
---
 - Dữ liệu ở trên máy của mình:
 	- Có thể quyết định tham gia hoặc không
 	- Tích hợp dễ dàng với các dữ liệu khác
