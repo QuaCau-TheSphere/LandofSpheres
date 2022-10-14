@@ -2,6 +2,7 @@
 1. Truy cập vào [GitHub](https://github.com) và tạo một tài khoản mới
 2. Tạo token
 - Vào `Settings` ![[Pasted image 20221014183408.png]]
+- Ở cột bên trái kéo xuống dưới cùng, chọn `Developer settings` ![[Pasted image 20221014183528.png]]
 - 
 # Cài Obsidian
 1. Tải về [Obsidian](https://obsidian.md/ "Obsidian") và cài đặt
