@@ -50,3 +50,16 @@ Phân loại theo cách thức hoạt động:
 - Nữ quyền xã hội chủ nghĩa
 - Nữ quyền giao thoa
 
+# Nữ quyền triệt để
+- Xoá bỏ sự trói buộc phụ nữ ở khía cảnh thân thể và xã hội
+- Coi hệ thống nam quyền gia trưởng là nguyên nhân của bất công giới
+- Cho rằng tất cả nam giới đều như nhau, cùng hưởng lợi từ việc đàn áp phụ nữ, là chất dẫn và chủ thể thể hiện bất công giới
+- Cho rằng tất cả phụ nữ đều như nhau, là nạn nhân, cần có "tình chị em phổ quát" 
+
+Phê bình:
+- Không tính đến tính giao thoa của các bản sắc đa dạng, thiểu số khác
+- Xung đột trong việc xây dựng tình chị em phổ quát do ảnh hưởng của phân biệt chủng tộc, phân biệt tầng lớp. Không xét đến các lý do khiến cho người nữ ở lại với sự bạo hành, cứ ở lại là nguỵ biện
+- Có nhánh loại bỏ sự tham gia của nữ chuyển giới (chỉ cần có cơ thể nam là đã có đặc quyền rồi) 
+
+
+# Nữ quyền tự do - dấn thân
