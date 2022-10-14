@@ -21,14 +21,20 @@
 	- Kiếm <kbd>Obsidian Git</kbd>
 	- Bấm <kbd>Install</kbd> và <kbd>Enable</kbd>
 5. **Tải dữ liệu về**
-- Bấm `Esc` 3 lần để ra màn hình chính
-- Bấm <kbd>Ctrl + P</kbd> để tìm lệnh tải dữ liệu 
-- Kiếm lệnh `clone` và bấm <kbd>Enter</kbd> ![[Pasted image 20221014182204.png]]
-- Dán link `https://github.com/quacau/2GROW.git` và bấm <kbd>Enter</kbd>
-- Chọn `Vault Root` → `YES` → `DELETE ALL YOUR LOCAL CONFLICT AND PLUGINS`
-- Bấm lại <kbd>Ctrl + P</kbd> và kiếm `reload`. Chọn `Reload app without saving`
-
+	- Bấm `Esc` 3 lần để ra màn hình chính
+	- Bấm <kbd>Ctrl + P</kbd> để tìm lệnh tải dữ liệu 
+	- Kiếm lệnh `clone` và bấm <kbd>Enter</kbd> ![[Pasted image 20221014182204.png]]
+	- Dán link `https://github.com/quacau/2GROW.git` và bấm <kbd>Enter</kbd>
+	- Chọn `Vault Root` → `YES` → `DELETE ALL YOUR LOCAL CONFLICT AND PLUGINS`
+	- Bấm lại <kbd>Ctrl + P</kbd> và kiếm `reload`. Chọn `Reload app without saving`
 6. **Thiết lập Obsidian Git**
-- Vào lại trong `Settings`, chọn `Obsidian Git`
-- Ở phần `Automatic`, thiết lập như trong hình ![[Pasted image 20221014191442.png]]
-- 
+	- Vào lại trong `Settings`, chọn `Obsidian Git`
+	- Ở phần `Automatic`, thiết lập như trong hình ![[Pasted image 20221014191442.png]]
+	- Ở phần `Miscellaneous`, bật `Disable notification` ![[Pasted image 20221014191759.png]]
+	- Ở phần `Advanced`, điền:
+		- Username GitHub của bạn
+		- Token bạn đã copy
+		- Username GitHub của bạn (một lần nữa) 
+		- Email bạn dùng để đăng ký GitHub
+
+Vậy là xong. Chúc mừng bạn đã thiết lập đồng bộ hoá thành công 🎉
