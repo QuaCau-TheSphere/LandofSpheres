@@ -30,3 +30,5 @@ Chủ đề:: [[Giao thoa, đan xen, liên tầng (Intersectionality)]]
 # bell hooks 
 Các phong trào bị rời rạc là vì không có định nghĩa chung
 Bà định nghĩa về nữ quyền: các nỗ lực của cá nhân và tập thể hướng tới xoá bỏ phân biệt, áp bức và bóc lột giới tính, giới và tính dục
+- Thù trong: tư tưởng phân biệt giới được nội tại hoá (internalized sexism) 
+- Giặc ngoài: chủ nghĩa phân biệt giới tính (sexism) và hệ thống nam quyền (patriarchy/institutional sexism) 
