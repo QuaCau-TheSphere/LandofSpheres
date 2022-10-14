@@ -41,3 +41,5 @@ Bà định nghĩa về nữ quyền: các nỗ lực của cá nhân và tập 
 - Làn sóng 2: quyền cơ thể, chống bạo lực, thu nhập bình đẳng
 - Làn sóng 3: quyền phụ nữ đặt trong lăng kính giao thoa: chủng tộc, khuyết tật, tính dục
 - Làn sóng 4: môi trường số hoá, điện tử. Phụ nữ và môi trường
+
+Nước đầu tiên có quyền bầu cử cho phụ nữ là New Zealand, nhưng mỗi khi nói về các làn sóng thì đều thấy Mỹ hay Anh
