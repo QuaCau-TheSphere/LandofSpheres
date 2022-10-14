@@ -14,5 +14,6 @@
 	- Bấm <kbd>Install</kbd> và <kbd>Enable</kbd>
 5. **Tải dữ liệu về**
 - Bấm `Esc` 3 lần để ra màn hình chính
-- Bấm <kbd>Ctrl + P</kbd> để tìm lệnh tải dữ liệu
-- ![[Pasted image 20221014182204.png]]
+- Bấm <kbd>Ctrl + P</kbd> để tìm lệnh tải dữ liệu 
+- Kiếm lệnh `clone` và bấm <kbd>Enter</kbd> ![[Pasted image 20221014182204.png]]
+- 
