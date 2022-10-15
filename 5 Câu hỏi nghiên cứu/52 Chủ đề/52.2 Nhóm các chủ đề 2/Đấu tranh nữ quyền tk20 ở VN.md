@@ -17,6 +17,6 @@ Các cách dịch feminism:
 
 Nguyễn Thị Manh Manh: học trường nữ học đường (trường NTMK bây giờ), phóng viên của Phụ nữ tân văn
 
-Nguyễn Thị Minh Khai, Nguyễn Thị Lưu: hoạt động bất hợp pháp
+Nguyễn Thị Minh Khai: nữ bí thư đầu tiên của Sài Gòn - Gia Định, đại diện Đông Dương ở Pháp, hoạt động bất hợp pháp
 
 Câu hỏi:: Những người đó có phải là liberal feminism không?Như vậy 
