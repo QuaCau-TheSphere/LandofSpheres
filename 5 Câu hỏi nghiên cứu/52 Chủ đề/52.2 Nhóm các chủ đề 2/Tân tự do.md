@@ -16,3 +16,5 @@ Tân tự do là một khái niệm trơn trượt, nghĩa của nó khác nhau 
 Hậu vị nữ: tập trung vào truyền thông, vào ngôn ngữ
 
 Tách khỏi bối cảnh đấu tranh chính trị
+
+Vốn xã hội là do cấu trúc xã hội quyết định
