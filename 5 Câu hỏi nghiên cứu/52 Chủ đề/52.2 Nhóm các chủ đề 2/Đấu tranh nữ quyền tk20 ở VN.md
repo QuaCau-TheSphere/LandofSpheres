@@ -21,5 +21,6 @@ Sương Nguyệt Anh: chủ bút tờ báo Nữ giới chung (chung là  chuông
 
 Nguyễn Thị Minh Khai: nữ bí thư đầu tiên của Sài Gòn - Gia Định, đại diện Đông Dương ở Pháp, hoạt động bất hợp pháp
 
+Mù chữ nhưng không mù đọc, mà học qua kể lại, nên truyền thống văn hoá không bị đứt gãy
 
 Câu hỏi:: Những người đó có phải là liberal feminism không?Như vậy 
