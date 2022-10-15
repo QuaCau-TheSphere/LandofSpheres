@@ -17,4 +17,4 @@ Các cách dịch feminism:
 
 Nguyễn Thị Manh Manh: học trường nữ học đường (trường NTMK bây giờ), phóng viên của Phụ nữ tân văn
 
-Câu hỏi:: Những người đó có phải là liberal feminism không?
+Câu hỏi:: Những người đó có phải là liberal feminism không?Như vậy 
