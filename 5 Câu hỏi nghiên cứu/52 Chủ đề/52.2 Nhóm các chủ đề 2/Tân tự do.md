@@ -12,3 +12,5 @@ Dẫn đầu từ trường phái kinh tế Chicago: yêu cầu chính phủ rú
 Bất bình dẳng xã hội là đạo đức tự thân
 
 Tân tự do là một khái niệm trơn trượt, nghĩa của nó khác nhau rất nhiều
+
+Hậu vị nữ: tập trung vào truyền thông, vào ngôn ngữ
