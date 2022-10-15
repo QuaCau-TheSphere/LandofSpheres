@@ -38,5 +38,6 @@ Lộ trình thăng cấp
 
 Người đánh giá xem có lên bước tiếp theo được hay không: trưởng cơ quan, chi uỷ
 
+
 Nữ về hưu sớm nghĩa là lượng lãnh đạo nữ có kinh nghiệm không thể bằng được nam 
 Nếu là nữ từ thứ trưởng trở lên thì mới có quyền được làm quá tuổi nghỉ hưu
