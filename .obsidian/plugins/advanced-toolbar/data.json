@@ -23,10 +23,6 @@
       "iconID": "paper-plane"
     },
     {
-      "commandID": "obsidian-another-quick-switcher:search-command_Recommended search",
-      "iconID": "search"
-    },
-    {
       "commandID": "metaedit:metaEditRun",
       "iconID": "sheets-in-box"
     }
