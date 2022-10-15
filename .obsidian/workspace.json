@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "a5274dc820306dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nữ quyền.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e0a6d6aee18fbe73",
             "type": "leaf",
             "state": {
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nữ quyền.md",
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nữ quyền.md",
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nữ quyền.md"
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md"
               }
             }
           },
@@ -193,8 +180,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a5274dc820306dc0",
+  "active": "4e2ca3355b46ba64",
   "lastOpenFiles": [
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/null/nữ quyền.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Luật pháp.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
@@ -203,7 +191,6 @@
     "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Có những bạn phi nhị nguyên nào chú trọng phát triển tính nữ？.md",
     "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
     "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Bộ máy chính trị Việt Nam.md",
-    "1 Công việc/1 Công việc.md"
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Bộ máy chính trị Việt Nam.md"
   ]
 }
