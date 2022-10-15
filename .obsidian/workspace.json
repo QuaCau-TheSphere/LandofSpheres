@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
-                "mode": "source",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md"
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "c41f68eed4099a43",
   "lastOpenFiles": [
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Đấu tranh nữ quyền tk20 ở VN.md",
     "Untitled.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
@@ -189,8 +191,6 @@
     "1 Công việc/14 Tổ chức sự kiện/Thuyết trình bên 2GROW.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/null/nữ quyền.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Luật pháp.md",
-    "00.0 Bản đồ trong QC.md",
-    "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Liệu bất bình đẳng giới có phải cũng là hệ quả của quy luật thị trường không？.md",
-    "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Có những bạn phi nhị nguyên nào chú trọng phát triển tính nữ？.md"
+    "00.0 Bản đồ trong QC.md"
   ]
 }

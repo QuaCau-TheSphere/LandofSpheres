@@ -28,7 +28,7 @@ Body matters. Lý thuyết giới, thuộc đia, người khuyết tật, chủn
 
 Chủ đề:: [[Nét họ hàng giống nhau]], [[Phép so sánh]]
 Chủ đề:: [[Suy đoán vô tội]]
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền]], [[Tư bản]], [[Tân tự do]], [[Hậu thuộc địa]] 
+Chủ đề:: [[Nữ quyền]], [[Tư bản]], [[Tân tự do]], [[Hậu thuộc địa]] 
 Chủ đề:: [[Biểu tình, tẩy chay]]
 
 Điểm giống::
