@@ -12,3 +12,5 @@ Các cách dịch feminism:
 - Tân nữ lưu
 
 Đông kinh nghĩa thục: lần đầu tiên có giáo viên và học sinh nữ một cách chính thức. Có ý thức và được đào tạo về nữ quyền
+
+1918: Đạm Phương, cháu nội Minh Mạng, 
