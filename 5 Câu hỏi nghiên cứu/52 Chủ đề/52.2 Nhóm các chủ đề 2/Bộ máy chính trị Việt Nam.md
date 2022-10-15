@@ -32,6 +32,6 @@ Vì thế, các chính sách liên quan đến lãnh đạo nữ liên quan đ�
 Lộ trình 6 bước thăng cấp
 - Tuyển dụng
 - Quy hoạch
-- 
+- Luân chuyển
 - Đào tạo 
 - Luân chuyển sang địa phương khác để có thêm kinh nghiệm
