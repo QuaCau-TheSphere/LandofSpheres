@@ -7,3 +7,8 @@ Chủ đề quan tâm đến chủ đề này:
 ```dataview
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
+Các cách dịch feminism:
+- Phụ nữ mới
+- Tân nữ lưu
+
+Đông kinh nghĩa thục:
