@@ -20,3 +20,5 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 Sự lãnh đạo của đảng là **xuyên suốt**, từ trung ương đến xã phường
 
 Vì thế, các chính sách liên quan đến lãnh đạo nữ liên quan đến chính sách của đảng về vấn đề này
+
+3 cơ quan 
