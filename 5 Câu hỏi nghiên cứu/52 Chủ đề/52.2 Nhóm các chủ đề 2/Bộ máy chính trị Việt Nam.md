@@ -29,10 +29,11 @@ Vì thế, các chính sách liên quan đến lãnh đạo nữ liên quan đ�
 	- UBND các cấp:
 - **Các cơ quan tham mưu:** Hội Liên hiệp Phụ nữ VN, các cơ quan, bộ, ngành, các cơ quan nghiên cứu, các NGO
 
-Lộ trình 6 bước thăng cấp
+Lộ trình thăng cấp
 - Tuyển dụng
 - Quy hoạch
-- Luân chuyển
+- Luân chuyển (qua địa phương khác làm để có kinh nghiệm) 
 - Đào tạo 
+- Bổ nhiệm
 
 Người đánh giá xem có lên bước tiếp theo được hay không: trưởng cơ quan, chi uỷ
