@@ -16,3 +16,5 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 
 - Lãnh đạo cấp tỉnh tương đương cấp bộ
 - HĐND cấp tỉnh tương đương uỷ ban cấp bộ
+
+Sự lãnh đạo của đảng là **xuyên suốt**, từ trung ương đến xã phường
