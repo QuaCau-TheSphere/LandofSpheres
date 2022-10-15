@@ -37,3 +37,6 @@ Lộ trình thăng cấp
 - Bổ nhiệm (appointment) 
 
 Người đánh giá xem có lên bước tiếp theo được hay không: trưởng cơ quan, chi uỷ
+
+Nữ về hưu sớm nghĩa là lượng lãnh đạo nữ có 
+Nếu là nữ từ thứ trưởng trở lên thì mới có quyền được làm quá tuổi nghỉ hưu
