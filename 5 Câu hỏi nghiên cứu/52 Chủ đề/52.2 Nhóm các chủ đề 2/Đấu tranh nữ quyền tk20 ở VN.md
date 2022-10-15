@@ -16,3 +16,5 @@ Các cách dịch feminism:
 Đạm Phương, cháu nội Minh Mạng, lập ra Nữ công học hội, có sự đóng góp của Phan Bội Châu
 
 Nguyễn Thị Manh Manh: học trường nữ học đường (trường NTMK bây giờ), phóng viên của Phụ nữ tân văn
+
+Câu hỏi:: Những người đó có phải là liberal feminism không?
