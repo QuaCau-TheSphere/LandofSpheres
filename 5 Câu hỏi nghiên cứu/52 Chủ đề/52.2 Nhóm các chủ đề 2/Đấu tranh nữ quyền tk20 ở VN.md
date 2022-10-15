@@ -13,4 +13,4 @@ Các cách dịch feminism:
 
 Đông kinh nghĩa thục: lần đầu tiên có giáo viên và học sinh nữ một cách chính thức. Có ý thức và được đào tạo về nữ quyền
 
-1918: Đạm Phương, cháu nội Minh Mạng, 
+Đạm Phương, cháu nội Minh Mạng, lập ra Nữ công học hội, có sự đóng góp của Phan Bội Châu
