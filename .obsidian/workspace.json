@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.1 Lịch họp hằng tuần.md",
-                "mode": "preview",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md"
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md"
               }
             }
           },
@@ -166,17 +167,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2ac6e87d70515fda",
+  "active": "4e2ca3355b46ba64",
   "lastOpenFiles": [
-    "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
-    "00.1 Lịch họp hằng tuần.md",
+    "Ξ Meta 0/04 Quy trình git.sync-conflict-20221010-202802-AYL4CLB.md",
+    "00.3 Ghi chú họp.md",
     "Untitled.md",
+    "00.1 Lịch họp hằng tuần.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+    "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
     "1 Công việc/1 Công việc.md",
     "9 Tài liệu/96 Checklist, hướng dẫn/96 Checklist, hướng dẫn.md",
     "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
-    "Hướng dẫn cài đặt Obsidian và đồng bộ qua Github.md",
-    "Tạo một vault mới.png",
-    "3 Các bên liên quan/Tổ chức/39 Loại sản phẩm/Bài đăng.md"
+    "Hướng dẫn cài đặt Obsidian và đồng bộ qua Github.md"
   ]
 }
