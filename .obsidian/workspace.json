@@ -24,12 +24,30 @@
             "id": "4e2ca3355b46ba64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e0a6d6aee18fbe73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Bộ máy chính trị Việt Nam.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5026054382324
+    "width": 299.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "f1f10495e80e5b9f",
@@ -103,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Bộ máy chính trị Việt Nam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Bộ máy chính trị Việt Nam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Bộ máy chính trị Việt Nam.md"
+              }
             }
           },
           {
@@ -158,17 +181,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e2ca3355b46ba64",
+  "active": "e0a6d6aee18fbe73",
   "lastOpenFiles": [
+    "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
+    "1 Công việc/1 Công việc.md",
+    "Ξ Meta 0/04 Quy trình git.sync-conflict-20221010-202802-AYL4CLB.md",
     "Test big phone.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
-    "Ξ Meta 0/04 Quy trình git.sync-conflict-20221010-202802-AYL4CLB.md",
     "00.3 Ghi chú họp.md",
-    "Untitled.md",
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Bộ máy chính trị Việt Nam.md",
     "00.1 Lịch họp hằng tuần.md",
-    "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
-    "1 Công việc/1 Công việc.md",
-    "9 Tài liệu/96 Checklist, hướng dẫn/96 Checklist, hướng dẫn.md"
+    "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md"
   ]
 }

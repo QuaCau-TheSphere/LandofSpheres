@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e28b5683d2e47879",
+        "id": "a7f3960c62f8b45b",
         "type": "tabs",
         "children": [
           {
-            "id": "fc4fc3239de94fed",
+            "id": "dceb48d5c9740456",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitledgn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +78,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitledgn.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +94,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitledgn.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,12 +129,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fc4fc3239de94fed",
+  "active": "dceb48d5c9740456",
   "lastOpenFiles": [
+    "Untitledgn.md",
     "9 Tài liệu/91 Triết lý/Truyện Ngụ Ngôn về Người Nhật – Phần Một (chưa chắc có Phần Hai).md",
     "9 Tài liệu/91 Triết lý/Truyện ngụ ngôn về những người mong đợi.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
-    "Untitledgn.md",
     "Test big phone.md",
     "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
     "9 Tài liệu/91 Triết lý/Ý tưởng thiết kế.sync-conflict-20221013-184334-6PADVKI.md",
