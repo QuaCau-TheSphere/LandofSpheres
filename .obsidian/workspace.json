@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "1 Công việc/1 Công việc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5026054382324
   },
   "right": {
     "id": "f1f10495e80e5b9f",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "1 Công việc/1 Công việc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "1 Công việc/1 Công việc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md"
+                "file": "1 Công việc/1 Công việc.md"
               }
             }
           },
@@ -167,11 +167,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e2ca3355b46ba64",
+  "active": "b80939ada61ff70a",
   "lastOpenFiles": [
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "9 Tài liệu/96 Checklist, hướng dẫn/96 Checklist, hướng dẫn.md",
     "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "Hướng dẫn cài đặt Obsidian và đồng bộ qua Github.md",
     "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
     "Tạo một vault mới.png",
