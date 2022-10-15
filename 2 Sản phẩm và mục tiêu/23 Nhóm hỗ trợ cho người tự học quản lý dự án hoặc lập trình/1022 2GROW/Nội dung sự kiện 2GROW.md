@@ -106,3 +106,5 @@ Những gì các bạn nhập vào hôm nay sẽ chỉ có trong máy của nh�
 - ❓Có bạn nào có nhu cầu mà chưa được đáp ứng không?
 
 > [!Info] Hỗ trợ thắc mắc, hỏi đáp: [Discord Quả Cầu](https://quacau.space/dhmh)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DjYbsq3FXfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
