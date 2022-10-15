@@ -34,4 +34,5 @@ Lộ trình 6 bước thăng cấp
 - Quy hoạch
 - Luân chuyển
 - Đào tạo 
-- Luân chuyển sang địa phương khác để có thêm kinh nghiệm
+
+Người đánh giá xem có lên bước tiếp theo được hay không: trưởng cơ quan, chi uỷ
