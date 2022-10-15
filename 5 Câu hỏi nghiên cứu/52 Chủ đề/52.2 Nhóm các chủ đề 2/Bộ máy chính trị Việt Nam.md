@@ -37,10 +37,10 @@ Lộ trình thăng cấp
 - Bổ nhiệm (appointment) 
 
 Người đánh giá xem có lên bước tiếp theo được hay không: trưởng cơ quan, chi uỷ
-Phân tích
-- Tính phục tùng, thể hiện trong điều lệ đảng và quy trình đánh giá cán bộ
-- Tính liên tục, thể hiện trong toàn bộ quy trình cán bộ
-- Tính thâm niên, thể hiện trong toàn bộ quy trình, đặc biệt và quy hoạch cán bộ
+Phân tích:
+- Tính phục tùng (subservience) , thể hiện trong điều lệ đảng và quy trình đánh giá cán bộ
+- Tính liên tục , thể hiện trong toàn bộ quy trình cán bộ
+- Tính thâm niên (senority), thể hiện trong toàn bộ quy trình, đặc biệt và quy hoạch cán bộ
 
 
 Nữ về hưu sớm nghĩa là lượng lãnh đạo nữ có kinh nghiệm không thể bằng được nam 
