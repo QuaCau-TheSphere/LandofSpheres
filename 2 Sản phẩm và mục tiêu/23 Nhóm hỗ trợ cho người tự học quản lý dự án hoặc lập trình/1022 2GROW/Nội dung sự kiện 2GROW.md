@@ -59,6 +59,7 @@ Sau một thời gian tìm tòi thì bọn mình thấy là dùng Obsidian sẽ 
 > [!attention] Lưu ý quan trọng
 > **Chỉ ghi những gì bạn cảm thấy muốn chia sẻ**, vì sau khi ngắt kết nối thì thông tin vẫn còn được lưu trên máy của mọi người
 1. Tương tự, tạo một ghi chú mới cho tổ chức của bản trong thư mục "Tổ chức", và điền các nhu cầu của tổ chức của mình vào trong đó
+%%Trong lúc chờ mọi người làm thì lập chế độ tự chuyển vào folder%%
 3. Vào trong từng nhu cầu (bấm <kbd>Alt + Enter</kbd>) và thêm thẻ phân loại nhu cầu đó (xem thêm [[Phân loại nhu cầu]]) 
 4. Di chuyển các nhu cầu quan trọng nhất của bạn lên đầu (bấm <kbd>Alt + ↑</kbd> hoặc <kbd>Alt + ↓</kbd>) 
 5. Bật đồ thị (bấm <kbd>Ctrl + G</kbd>) 
