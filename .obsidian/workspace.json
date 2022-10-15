@@ -24,13 +24,8 @@
             "id": "4e2ca3355b46ba64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,15 +160,15 @@
   },
   "active": "4e2ca3355b46ba64",
   "lastOpenFiles": [
+    "Test big phone.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
     "Ξ Meta 0/04 Quy trình git.sync-conflict-20221010-202802-AYL4CLB.md",
     "00.3 Ghi chú họp.md",
     "Untitled.md",
     "00.1 Lịch họp hằng tuần.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
     "1 Công việc/1 Công việc.md",
-    "9 Tài liệu/96 Checklist, hướng dẫn/96 Checklist, hướng dẫn.md",
-    "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md"
+    "9 Tài liệu/96 Checklist, hướng dẫn/96 Checklist, hướng dẫn.md"
   ]
 }
