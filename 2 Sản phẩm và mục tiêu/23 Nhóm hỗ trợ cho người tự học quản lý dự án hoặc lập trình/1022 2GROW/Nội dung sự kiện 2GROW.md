@@ -82,7 +82,7 @@ Phân tích:
 Trở thành một công cụ để [hoạch định tài nguyên doanh nghiệp](https://vi.wikipedia.org/wiki/Ho%E1%BA%A1ch_%C4%91%E1%BB%8Bnh_t%C3%A0i_nguy%C3%AAn_doanh_nghi%E1%BB%87p "Hoạch định tài nguyên doanh nghiệp – Wikipedia tiếng Việt"):
 - Nhúng được các tài liệu khác: form khảo sát, phần khác của một note khác
 - Quản lý các bên liên quan: [[Mirror Mirror, VOGE]]
-- Quản lý kiến thức: [[Nữ quyền]], [[Nội dung sự kiện 2GROW]]
+- Quản lý kiến thức: [[5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền]], [[Nội dung sự kiện 2GROW]]
 - Quản lý dự án: [[Thuyết trình bên 2GROW]], [[00.2 Kế hoạch tổng thể]], ![[Tầm hoạt động theo ban.png]]
 - Làm nghiên cứu thay cho NVIVO
 - Một vài chức năng hay khác:
