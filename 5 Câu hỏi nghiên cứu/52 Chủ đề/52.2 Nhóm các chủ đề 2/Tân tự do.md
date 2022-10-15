@@ -7,4 +7,6 @@ Chủ đề quan tâm đến chủ đề này:
 ```dataview
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
-Dẫn đầu từ trường phái kinh tế Chicago: yêu cầu chính phủ rút hết chính sách công, 
+Dẫn đầu từ trường phái kinh tế Chicago: yêu cầu chính phủ rút hết chính sách, tư nhân hoá giáo dục, y tế, giao thông, năng lượng, v.v.
+
+Bất bình dẳng xã hội là đạo đức tự thân
