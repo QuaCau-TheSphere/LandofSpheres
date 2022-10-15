@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "4174cbb345164616",
+    "type": "split",
+    "children": [
+      {
+        "id": "e28b5683d2e47879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4fc3239de94fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d955bf73022c444a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eab947ab71b9a390",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e1e65fb356ab7122",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a2ec4cbf7771763e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "f3e64eeedd896d2b",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "right": {
+    "id": "719f81f83ce97234",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5402f7b79bcbc1a2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "120951ac14f22c94",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1409a7ceb30f51a9",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      },
+      {
+        "id": "39596f3f5c655457",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "e8ebddb084bf67eb",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "fc4fc3239de94fed",
+  "lastOpenFiles": [
+    "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
+    "9 Tài liệu/91 Triết lý/Ý tưởng thiết kế.sync-conflict-20221013-184334-6PADVKI.md",
+    "6 Tổ chức/62 Thành viên/Tuyên.sync-conflict-20221013-184235-LDHXXXZ.md",
+    "6 Tổ chức/62 Thành viên/Ân.sync-conflict-20221013-184238-LDHXXXZ.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+    "9 Tài liệu/91 Triết lý/Một đám mây chim sáo.md",
+    "1 Công việc/16 Kỹ thuật - thiết kế - khác/Xây dựng hệ thống quản lý dự án.md",
+    "Untitled.md",
+    "00.0 Bản đồ trong QC.md",
+    "00.3 Ghi chú họp.md"
+  ]
+}
