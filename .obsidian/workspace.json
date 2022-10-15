@@ -26,8 +26,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c41f68eed4099a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Đấu tranh nữ quyền tk20 ở VN.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "Đấu tranh nữ quyền tk20 ở VN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "file": "Đấu tranh nữ quyền tk20 ở VN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md"
+                "file": "Đấu tranh nữ quyền tk20 ở VN.md"
               }
             }
           },
@@ -180,13 +193,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e2ca3355b46ba64",
+  "active": "c41f68eed4099a43",
   "lastOpenFiles": [
-    "1 Công việc/14 Tổ chức sự kiện/Thuyết trình bên 2GROW.md",
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+    "1 Công việc/14 Tổ chức sự kiện/Thuyết trình bên 2GROW.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/null/nữ quyền.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Luật pháp.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
     "00.0 Bản đồ trong QC.md",
     "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Liệu bất bình đẳng giới có phải cũng là hệ quả của quy luật thị trường không？.md",
     "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Có những bạn phi nhị nguyên nào chú trọng phát triển tính nữ？.md",
