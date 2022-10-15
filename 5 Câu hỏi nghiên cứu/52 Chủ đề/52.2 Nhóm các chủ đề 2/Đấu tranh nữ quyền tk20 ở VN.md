@@ -11,4 +11,4 @@ Các cách dịch feminism:
 - Phụ nữ mới
 - Tân nữ lưu
 
-Đông kinh nghĩa thục:
+Đông kinh nghĩa thục: lần đầu tiên có giáo viên và học sinh nữ một cách chính thức
