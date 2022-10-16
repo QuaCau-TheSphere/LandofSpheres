@@ -27,4 +27,4 @@ Câu hỏi:: [[Những người đó có phải là liberal feminism không？]]
 Câu hỏi:: [[Nếu như sự đề kháng văn hoá về tự do tình dục là mạnh, vậy tại sao bây giờ chúng ta lại phải chật vật đấu tranh nữa]]
 
 # Quyền SKSS-SKTD 
-Phá thai là được dễ dàng được phép ở VN
+Phá thai dễ dàng được phép ở VN hơn các nước khác, do ngày xưa 
