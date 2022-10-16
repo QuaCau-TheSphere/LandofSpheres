@@ -50,8 +50,8 @@
     "ttw": {
       "Chủ đề::": {
         "customDictionary": {
-          "count": 59,
-          "lastUpdated": 1665904139675
+          "count": 60,
+          "lastUpdated": 1665942304979
         }
       }
     },
@@ -63,27 +63,11 @@
         }
       }
     },
-    "cvt": {
-      "Công việc thành phần::": {
-        "customDictionary": {
-          "count": 16,
-          "lastUpdated": 1663228319403
-        }
-      }
-    },
     "vvl": {
       "Lý do::": {
         "customDictionary": {
           "count": 30,
           "lastUpdated": 1664786827509
-        }
-      }
-    },
-    "Đối tượng thụ hưởng::": {
-      "Đối tượng thụ hưởng::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1663247028659
         }
       }
     },

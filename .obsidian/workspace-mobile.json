@@ -11,8 +11,13 @@
             "id": "dceb48d5c9740456",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Định kiến trên cách nhìn của khoa học phức hợp là gì.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -78,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Định kiến trên cách nhìn của khoa học phức hợp là gì.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Định kiến trên cách nhìn của khoa học phức hợp là gì.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
