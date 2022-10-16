@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e24e1684a29d211c",
+        "id": "ce81558e8bd67e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "2ac6e87d70515fda",
+            "id": "8c6d0f3c502805cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4e2ca3355b46ba64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c41f68eed4099a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kiểm sai",
+                "query": "thuốc lá",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md"
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md"
               }
             }
           },
@@ -180,17 +154,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c41f68eed4099a43",
+  "active": "8c6d0f3c502805cf",
   "lastOpenFiles": [
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md",
+    "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Sự phản đối giữa lên án chiến tranh và kỳ thị là gì？.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Đấu tranh nữ quyền tk20 ở VN.md",
     "Untitled.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "1 Công việc/14 Tổ chức sự kiện/Thuyết trình bên 2GROW.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/null/nữ quyền.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Luật pháp.md",
-    "00.0 Bản đồ trong QC.md"
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Luật pháp.md"
   ]
 }
