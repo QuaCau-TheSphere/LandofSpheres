@@ -9,12 +9,5 @@ List where contains(lý-do,[[]])
 
 | Giải pháp gợi ý/sự chất vấn                      | Vấn đề phát sinh |
 | ------------------------------------------------ | ---------------- |
-| Giảng viên dù sao vẫn có thể giúp mình khoetsaau |                  |
+| Giảng viên dù sao vẫn có thể giúp mình khoét sâu |                  |
 |                                                  |                  |
-
-
-
-
-
-
-
