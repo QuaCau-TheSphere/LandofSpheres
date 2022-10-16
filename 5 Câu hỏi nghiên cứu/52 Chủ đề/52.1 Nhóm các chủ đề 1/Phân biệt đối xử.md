@@ -12,6 +12,6 @@ Người di cư thường bị trả lương thấp hoặc đe doạ trả lươ
 
 CEDAW: thừa nhận sự khác  biệt  để có sự đáp ứng phù hợp
 
-- Bình đẳng hình thức
+- Bình đẳng hình thức [[] ] 
 - Bình đẳng bảo vệ
 - Bình đẳng thực chất: xét về cơ hội, sự tiếp cận và kết quả, hướng đến sự tự chủ
