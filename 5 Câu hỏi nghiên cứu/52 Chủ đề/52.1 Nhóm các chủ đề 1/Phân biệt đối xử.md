@@ -17,3 +17,5 @@ CEDAW: thừa nhận sự khác  biệt  để có sự đáp ứng phù hợp
 - Bình đẳng thực chất: xét về cơ hội, sự tiếp cận và kết quả, hướng đến sự tự chủ
 
 Chủ đề:: [[Thiết kế trải nghiệm người dùng]]
+
+Vấn đề không phải là sự hiện diện của phụ nữ, mà là sự hiện diện của các vấn đề của phụ nữ
