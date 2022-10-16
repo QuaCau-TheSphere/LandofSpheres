@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md",
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "304f47ecc3d309cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Đấu tranh nữ quyền tk20 ở VN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5026054382324
+    "width": 299.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "f1f10495e80e5b9f",
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Đấu tranh nữ quyền tk20 ở VN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Đấu tranh nữ quyền tk20 ở VN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md"
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Đấu tranh nữ quyền tk20 ở VN.md"
               }
             }
           },
@@ -154,17 +169,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8c6d0f3c502805cf",
+  "active": "304f47ecc3d309cb",
   "lastOpenFiles": [
-    "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Sự phản đối giữa lên án chiến tranh và kỳ thị là gì？.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Phân biệt đối xử.md",
+    "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.2 Giai đoạn 2/Sự phản đối giữa lên án chiến tranh và kỳ thị là gì？.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tân tự do.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Lý thuyết phê phán Frankfurt.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Đấu tranh nữ quyền tk20 ở VN.md",
     "Untitled.md",
     "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md",
     "1 Công việc/14 Tổ chức sự kiện/Thuyết trình bên 2GROW.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/null/nữ quyền.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.1 Nhóm các chủ đề 1/Luật pháp.md"
+    "5 Câu hỏi nghiên cứu/52 Chủ đề/null/nữ quyền.md"
   ]
 }
