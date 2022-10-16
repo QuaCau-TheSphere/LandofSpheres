@@ -28,3 +28,5 @@ Câu hỏi:: [[Nếu như sự đề kháng văn hoá về tự do tình dục l
 
 # Quyền SKSS-SKTD 
 Phá thai dễ dàng được phép ở VN hơn các nước khác, do ngày xưa cần phải được kiểm soát dân số
+
+Vấn đề ở nước ngoài thì những vấn đề liên quan đến chuyện này thường là ngoài gia đình, còn ở VN thì thường là ở trong gia đình
