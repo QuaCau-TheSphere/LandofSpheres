@@ -18,4 +18,4 @@ CEDAW: thừa nhận sự khác  biệt  để có sự đáp ứng phù hợp
 
 Chủ đề:: [[Thiết kế trải nghiệm người dùng]]
 
-Vấn đề không phải là sự hiện diện của phụ nữ, mà là sự hiện diện của các vấn đề của phụ nữ
+Vấn đề không phải là sự hiện diện của phụ nữ, mà là sự hiện diện của các vấn đề của phụ nữ. Bởi vì VN đã có nhiều tiến bộ, bộ luật, nguồn lực, cơ quan nhà nước
