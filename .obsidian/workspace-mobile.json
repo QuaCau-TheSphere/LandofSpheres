@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f3960c62f8b45b",
+        "id": "c8e2d7dfdaa8e7be",
         "type": "tabs",
         "children": [
           {
-            "id": "dceb48d5c9740456",
+            "id": "c2e948bfa4c858ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Định kiến trên cách nhìn của khoa học phức hợp là gì.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +78,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Định kiến trên cách nhìn của khoa học phức hợp là gì.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +94,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Định kiến trên cách nhìn của khoa học phức hợp là gì.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +129,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dceb48d5c9740456",
+  "active": "c2e948bfa4c858ab",
   "lastOpenFiles": [
     "Untitledgn.md",
     "9 Tài liệu/91 Triết lý/Truyện Ngụ Ngôn về Người Nhật – Phần Một (chưa chắc có Phần Hai).md",
