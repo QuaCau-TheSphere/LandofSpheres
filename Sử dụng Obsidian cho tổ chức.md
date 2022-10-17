@@ -1,4 +1,6 @@
 island of automation, information silo. Những dữ liệu giống nhau được lưu ở những chỗ khác nhau, khiến cho những thao tác tự động hoá đơn giản không thể làm được 
+
+Hệ thống của hệ thống, liên ngành
 # 1
 
 [Obsidian](http://obsidian.md/) là một công cụ ghi chú đang nổi lên gần đây. Nó được ra đời khi hai tác giả Erica Xu và Shida Li chán chẳng biết làm gì mùa covid 2020. Triết lý của Obsidian là:

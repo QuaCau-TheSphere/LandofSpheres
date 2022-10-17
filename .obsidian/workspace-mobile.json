@@ -11,8 +11,13 @@
             "id": "c2e948bfa4c858ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sử dụng Obsidian cho tổ chức.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -78,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Sử dụng Obsidian cho tổ chức.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Sử dụng Obsidian cho tổ chức.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,6 +138,8 @@
   },
   "active": "c2e948bfa4c858ab",
   "lastOpenFiles": [
+    "Obsidian.md",
+    "Sử dụng Obsidian cho tổ chức.md",
     "Untitledgn.md",
     "9 Tài liệu/91 Triết lý/Truyện Ngụ Ngôn về Người Nhật – Phần Một (chưa chắc có Phần Hai).md",
     "9 Tài liệu/91 Triết lý/Truyện ngụ ngôn về những người mong đợi.md",
@@ -138,8 +147,6 @@
     "Test big phone.md",
     "3 Các bên liên quan/Tổ chức/36 Tên tổ chức/362 Có nói chuyện với nhau/Mirror Mirror, VOGE.md",
     "9 Tài liệu/91 Triết lý/Ý tưởng thiết kế.sync-conflict-20221013-184334-6PADVKI.md",
-    "6 Tổ chức/62 Thành viên/Tuyên.sync-conflict-20221013-184235-LDHXXXZ.md",
-    "6 Tổ chức/62 Thành viên/Ân.sync-conflict-20221013-184238-LDHXXXZ.md",
-    "9 Tài liệu/91 Triết lý/Một đám mây chim sáo.md"
+    "6 Tổ chức/62 Thành viên/Tuyên.sync-conflict-20221013-184235-LDHXXXZ.md"
   ]
 }
