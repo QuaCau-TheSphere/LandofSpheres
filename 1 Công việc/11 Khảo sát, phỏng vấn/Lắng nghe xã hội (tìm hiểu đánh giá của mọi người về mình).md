@@ -14,7 +14,7 @@ Tính chất công việc:: Có thể làm qua mạng
 === end-column ===
 
 Ban:: [[A1 Điều phối mạng lưới]]
-Nhân sự:: [[Trang (Chuối)]]
+Nhân sự:: [[6 Tổ chức/62 Thành viên/Trang (Chuối)]]
 
 === end-multi-column
 

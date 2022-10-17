@@ -14,7 +14,7 @@ Tính chất công việc:: Có thể làm một mình, Không phải suy nghĩ 
 === end-column ===
 
 Ban:: [[A3 Đối ngoại – gây quỹ]]
-Nhân sự:: [[Trang (Chuối)]]
+Nhân sự:: [[6 Tổ chức/62 Thành viên/Trang (Chuối)]]
 
 === end-multi-column
 
