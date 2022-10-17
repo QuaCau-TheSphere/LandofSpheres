@@ -1,6 +1,9 @@
-island of automation, information silo. Những dữ liệu giống nhau được lưu ở những chỗ khác nhau, khiến cho những thao tác tự động hoá đơn giản không thể làm được 
+Đảo thông tin
+island information silo. Những dữ liệu giống nhau được lưu ở những chỗ khác nhau, khiến cho những thao tác tự động hoá đơn giản không thể làm được 
 
 Hệ thống của hệ thống, những hệ thống liên ngành, liên mục tiêu, không đồng nhất, phân tán
+
+Hệ thống thông tin, enterprise software
 # 1
 
 [Obsidian](http://obsidian.md/) là một công cụ ghi chú đang nổi lên gần đây. Nó được ra đời khi hai tác giả Erica Xu và Shida Li chán chẳng biết làm gì mùa covid 2020. Triết lý của Obsidian là:
