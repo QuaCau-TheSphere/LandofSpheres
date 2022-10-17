@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "4174cbb345164616",
+    "type": "split",
+    "children": [
+      {
+        "id": "e24e1684a29d211c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ac6e87d70515fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ξ Meta 0/Media/Nhân sự/Tầm hoạt động của từng người/Tầm hoạt động theo ban.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ab8e17c749ea118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trang (Chuối).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "88cf309896788ebc",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c65bbb4d544fa964",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b2d8393ef1c3b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b80939ada61ff70a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae54df2cbd8c34a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kiểm sai",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dad0568b881ebfd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a9226f0f7de17bf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1f10495e80e5b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1b5147ebd03e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6979aaf961aff99b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trang (Chuối).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95065534c29d467c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trang (Chuối).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51928c2cc72e64cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trang (Chuối).md"
+              }
+            }
+          },
+          {
+            "id": "bc3d7ad492bf826f",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "3255077a5483e0bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "289559216b77f8e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b257f70a39f36899",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "a030d8a9109b7a1a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b0ad7dd1951beb1",
+            "type": "leaf",
+            "state": {
+              "type": "sekund-main-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.0237731933594
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3ab8e17c749ea118",
+  "lastOpenFiles": [
+    "Ξ Meta 0/Media/Nhân sự/Nhật.jpg",
+    "Trang (Chuối).md",
+    "Ξ Meta 0/Media/Nhân sự/Tầm hoạt động của từng người/Tầm hoạt động theo ban.md",
+    "6 Tổ chức/62 Thành viên/Trang (Chuối).md",
+    "1 Công việc/Hoàn thiện tài liệu cho người mới. Tạo nhập môn QC đại cương.md",
+    "1 Công việc/Nhập thông tin TNV đăng ký mới từ website vào Obsidian.md",
+    "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/✔✔ Xây dựng bản đồ trong QC.md",
+    "1 Công việc/Đăng các câu hỏi về nhân sự lên các group.md",
+    "1 Công việc/Bàn về thế mạnh của QC.md",
+    "1 Công việc/Chia sẻ về văn hoá tổ chức cho bạn bè QC.md"
+  ]
+}
