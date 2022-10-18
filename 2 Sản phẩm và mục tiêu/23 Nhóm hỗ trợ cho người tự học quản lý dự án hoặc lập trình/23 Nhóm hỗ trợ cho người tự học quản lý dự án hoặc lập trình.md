@@ -4,7 +4,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của Nhật rõ ràng hơn]]
 Đáp ứng cho nhu cầu của mình:: [[Gây quỹ]]
 # Thực thể khi được nhìn như là mục tiêu
-Mục tiêu:: [[trao đổi nhu cầu]] 
+Mục tiêu:: [[trao đổi nhu cầu]], [[1000 user]], 
 
 Điểm mạnh::
 Điểm yếu::
