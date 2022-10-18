@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ce81558e8bd67e1f",
+        "id": "5ee5d90dcb25eb76",
         "type": "tabs",
         "children": [
           {
-            "id": "8c6d0f3c502805cf",
+            "id": "3068b815262b73ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.3 Giai đoạn 3/Định kiến trên cách nhìn của khoa học phức hợp là gì？.md",
+                "file": "9 Tài liệu/98 Truyền thông/981 Bài của QC/3/Sử dụng Obsidian cho tổ chức.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "fe2e254e22c62f12",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "304f47ecc3d309cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 SWOT/Điểm yếu - thách thức/42 Triết lý tổ chức - quan điểm của Nhật/Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9 Tài liệu/98 Truyền thông/981 Bài của QC/3/Sử dụng Obsidian cho tổ chức.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9 Tài liệu/98 Truyền thông/981 Bài của QC/3/Sử dụng Obsidian cho tổ chức.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9 Tài liệu/98 Truyền thông/981 Bài của QC/3/Sử dụng Obsidian cho tổ chức.md"
+              }
             }
           },
           {
@@ -171,11 +153,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fe2e254e22c62f12",
+  "active": "3068b815262b73ed",
   "lastOpenFiles": [
+    "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.3 Giai đoạn 3/Định kiến trên cách nhìn của khoa học phức hợp là gì？.md",
     "Sử dụng Obsidian cho tổ chức.md",
     "9 Tài liệu/98 Truyền thông/981 Bài của QC/3/Obsidian và Notion.md",
-    "5 Câu hỏi nghiên cứu/51 Câu hỏi/51.3 Giai đoạn 3/Định kiến trên cách nhìn của khoa học phức hợp là gì？.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "4 SWOT/Điểm yếu - thách thức/42 Triết lý tổ chức - quan điểm của Nhật/Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc.md",
     "4 SWOT/Điểm yếu - thách thức/42 Triết lý tổ chức - quan điểm của Nhật/Nhật chưa tìm được mô hình hoạt động như ý muốn.md",
