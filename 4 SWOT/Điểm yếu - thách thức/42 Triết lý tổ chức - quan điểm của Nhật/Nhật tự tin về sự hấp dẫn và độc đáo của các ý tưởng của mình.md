@@ -1,4 +1,6 @@
-Lý do:: [[Điểm mạnh - cơ hội]]
+Lý do:: [[Một vấn đề phức tạp đòi hỏi cách tiếp cận liên ngành]]
+
+[[Điểm mạnh - cơ hội]]
 
 Hệ quả của vấn đề này:
 ```dataview
