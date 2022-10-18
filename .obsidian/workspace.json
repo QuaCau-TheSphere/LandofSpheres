@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/51 Câu hỏi/519 Xây dựng dự án/519 Xây dựng dự án.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5026054382324
   },
   "right": {
     "id": "53c005eb65d0a202",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/51 Câu hỏi/519 Xây dựng dự án/519 Xây dựng dự án.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/51 Câu hỏi/519 Xây dựng dự án/519 Xây dựng dự án.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Câu hỏi nghiên cứu/51 Câu hỏi/519 Xây dựng dự án/519 Xây dựng dự án.md"
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "fd08d00f8fcd1039",
   "lastOpenFiles": [
-    "5 Câu hỏi nghiên cứu/51 Câu hỏi/518 Kỹ thuật/File synchronization solution for controlling type of sync for subfolders and devices.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.3 Nhóm các chủ đề 3/Biện pháp đặc biệt tạm thời.md",
-    "5 Câu hỏi nghiên cứu/Danh mục đào tạo đại học.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Tình dục 1.md",
-    "00.2 Kế hoạch tổng thể.md",
-    "1 Công việc/14 Tổ chức sự kiện/Thuyết trình bên 2GROW.md",
-    "00.1 Lịch họp hằng tuần.md",
-    "00.3 Ghi chú họp.md",
+    "00.0 Bản đồ trong QC.md",
+    "8 Gặp mặt/Gặp Viễn Đông.md",
+    "7 Nhu cầu/7 Nhu cầu.md",
+    "7 Nhu cầu/Có thêm TNV lập trình.md",
+    "7 Nhu cầu/Có thêm TNV nghiên cứu.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
     "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
-    "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md"
+    "7 Nhu cầu/Có thể vét cạn được các thắc mắc, lập luận của mình.md",
+    "7 Nhu cầu/Có nguồn đáp viên, nghiệm thể cho nghiên cứu, khảo sát .md",
+    "7 Nhu cầu/Có được sự chú ý của cộng đồng.md"
   ]
 }

@@ -22,12 +22,12 @@ Alias: Google Drive, Syncthing, Git
 - Lúc đầu là tải folder .obsidian như ở upstream, nhưng sau đó không sync gì cả (ignore files), nhưng vẫn giữ quyền overwrite khi cần dùng
 - lock edit Hoặc auto merge
 
-| Cấp độ               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore |
-| -------------------- | ------------------- | ---------------------------- | ---------------------------- | ---------------------------- | --------- | ---------- |
-| Mới biết về Obsidian | 1-way<br>chặn PR    | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | 1-way     |            |
-| Biết sơ sơ           | 2-way<br>gỡ chặn PR | ignore                       | ignore                       | ignore                       | 1-way     |            |
-| Đã rành về plugin    | 2-way               | ignore                       | ignore                       | ignore                       | ignore    |            |
-|                      |                     |                              |                              |                              |           |            |
+| Cấp độ               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore | communityplugins.json | plugins |
+| -------------------- | ------------------- | ---------------------------- | ---------------------------- | ---------------------------- | --------- | ---------- | --------------------- | ------- |
+| Mới biết về Obsidian | 1-way<br>chặn PR    | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | 1-way     |            | 1-way                 | 1-way   |
+| Biết sơ sơ           | 2-way<br>gỡ chặn PR | ignore                       | ignore                       | ignore                       | 1-way     |            | 1-way                 | 1-way   |
+| Đã rành về plugin    | 2-way               | ignore                       | ignore                       | ignore                       | ignore    |            | 1-way                 | 1-way   |
+
 [A Comparison Study for File Synchronisation](https://core.ac.uk/download/pdf/82255612.pdf)
 
 ## Khi có conflict
