@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3068b815262b73ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "be258ef0ed31468f",
+            "id": "01d3f4b95bb17609",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "01d3f4b95bb17609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why not use Excel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,17 +153,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "be258ef0ed31468f",
+  "active": "01d3f4b95bb17609",
   "lastOpenFiles": [
     "Why not use Excel.md",
+    "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md",
+    "2 Sản phẩm và mục tiêu/28 Nhóm nghiên cứu liên ngành/1022 Nhóm Rhizome/1022 Nhóm Rhizome.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
     "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
     "Ξ Meta 0/01 Templates/1/01.1A Tổ chức sự kiện....md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Lý do cho buổi tập huấn.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md",
-    "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md",
-    "4 SWOT/Điểm yếu - thách thức/Làm được một lúc thì não lại nhớ ra công việc khác mình chưa làm mặc dù cũng tự hiểu là có nhớ ra thì cũng chưa tới lúc làm.md",
-    "2 Sản phẩm và mục tiêu/28 Nhóm nghiên cứu liên ngành/1022 Nhóm Rhizome/1022 Nhóm Rhizome.md"
+    "4 SWOT/Điểm yếu - thách thức/Làm được một lúc thì não lại nhớ ra công việc khác mình chưa làm mặc dù cũng tự hiểu là có nhớ ra thì cũng chưa tới lúc làm.md"
   ]
 }

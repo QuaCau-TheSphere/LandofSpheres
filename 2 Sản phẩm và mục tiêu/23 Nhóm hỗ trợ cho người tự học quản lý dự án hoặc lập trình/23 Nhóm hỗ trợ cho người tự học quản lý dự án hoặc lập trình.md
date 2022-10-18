@@ -13,6 +13,9 @@ Mục tiêu:: [[trao đổi nhu cầu]], [[1000 user]],
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
 # Thực thể khi được nhìn như là sản phẩm
+Mô tả ý tưởng sàn trao đổi nhu cầu.
+
+
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
 Phù hợp cho các bạn đã từng thử cài website Wordpress 
