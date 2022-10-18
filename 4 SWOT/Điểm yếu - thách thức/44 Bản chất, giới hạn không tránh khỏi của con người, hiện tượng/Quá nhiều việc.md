@@ -9,7 +9,7 @@ Lý do:: [[Nhật không giao việc trực tiếp, không chủ động nhờ g
 Lý do:: [[Có những việc chỉ mình Nhật mới có thể giải quyết]]
 Lý do:: [[Có rất nhiều kiến thức liên quan cần phải tìm hiểu]]
 Lý do:: [[Định luật Hofstadter]]
-Lý do:: Làm được một lúc thì não lại nhớ ra công việc khác mình chưa làm
+Lý do:: [[Làm được một lúc thì não lại nhớ ra công việc khác mình chưa làm mặc dù cũng tự hiểu là có nhớ ra thì cũng chưa tới lúc làm]]
 Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])
