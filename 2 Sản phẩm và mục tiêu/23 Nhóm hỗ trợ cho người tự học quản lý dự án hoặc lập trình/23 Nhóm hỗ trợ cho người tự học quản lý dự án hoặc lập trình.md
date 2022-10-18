@@ -1,3 +1,4 @@
+llllllllllllllllllll
 # Thực thể khi được nhìn như là nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[21 Đám mây chim sáo lông vàng]]
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV lập trình]]

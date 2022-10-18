@@ -1,14 +1,22 @@
 {
   "main": {
-    "id": "4174cbb345164616",
+    "id": "4ef27fb4ac3be587",
     "type": "split",
     "children": [
       {
-        "id": "5ee5d90dcb25eb76",
+        "id": "7bec27575889522d",
         "type": "tabs",
         "children": [
           {
-            "id": "01d3f4b95bb17609",
+            "id": "668c61263fdd5488",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd08d00f8fcd1039",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,25 +24,26 @@
                 "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c65bbb4d544fa964",
+    "id": "8905bae6819dcaa0",
     "type": "split",
     "children": [
       {
-        "id": "d9b2d8393ef1c3b3",
+        "id": "dd8807e855f524f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b80939ada61ff70a",
+            "id": "49925b3c7cd8529b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +53,12 @@
             }
           },
           {
-            "id": "ae54df2cbd8c34a2",
+            "id": "0fb3bca584b81b53",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "thuốc lá",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +68,7 @@
             }
           },
           {
-            "id": "3dad0568b881ebfd",
+            "id": "1f0a1f01fd2d0813",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -67,29 +76,30 @@
             }
           },
           {
-            "id": "1a9226f0f7de17bf",
+            "id": "fa485bd21f4eb7a4",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5026054382324
+    "width": 300
   },
   "right": {
-    "id": "f1f10495e80e5b9f",
+    "id": "53c005eb65d0a202",
     "type": "split",
     "children": [
       {
-        "id": "5e1b5147ebd03e26",
+        "id": "44f73bbcd1784f2a",
         "type": "tabs",
         "children": [
           {
-            "id": "6979aaf961aff99b",
+            "id": "0b35c8b1c7166c37",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +116,7 @@
             }
           },
           {
-            "id": "95065534c29d467c",
+            "id": "d3e2467e220d0d74",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +128,18 @@
             }
           },
           {
-            "id": "51928c2cc72e64cf",
+            "id": "8eb809253a489992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5be304df4b1d50da",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,42 +149,26 @@
             }
           },
           {
-            "id": "bc3d7ad492bf826f",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "3255077a5483e0bd",
+            "id": "6766eed7ce45dd0a",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 321.0237731933594,
+    "width": 300,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "01d3f4b95bb17609",
+  "active": "6766eed7ce45dd0a",
   "lastOpenFiles": [
-    "Why not use Excel.md",
-    "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md",
-    "2 Sản phẩm và mục tiêu/28 Nhóm nghiên cứu liên ngành/1022 Nhóm Rhizome/1022 Nhóm Rhizome.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
-    "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
-    "Ξ Meta 0/01 Templates/1/01.1A Tổ chức sự kiện....md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Lý do cho buổi tập huấn.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
-    "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md",
-    "4 SWOT/Điểm yếu - thách thức/Làm được một lúc thì não lại nhớ ra công việc khác mình chưa làm mặc dù cũng tự hiểu là có nhớ ra thì cũng chưa tới lúc làm.md"
+    "Why not use Excel.md"
   ]
 }
