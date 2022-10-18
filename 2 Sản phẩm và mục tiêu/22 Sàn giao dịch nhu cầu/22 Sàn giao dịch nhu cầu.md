@@ -17,7 +17,7 @@ Mục tiêu:: [[trao đổi nhu cầu]], [[1000 user]],
 
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
-
+Hoạt động:: Xây dựng [[23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 # Thực thể khi được nhìn như là sản phẩm
 Mô tả ý tưởng sàn trao đổi nhu cầu:
 Sàn trao đổi nhu cầu là một nền tảng online để cộng đồng người dùng có thể đăng ký thông tin cá nhân (bản thân họ có nhu cầu gì và có gì để trao đổi) và tìm đối tượng / đội nhóm để trao đổi. Thứ dùng để trao đổi là nhu cầu cá nhân (học ngoại ngữ, cải thiện kỹ năng, vv) hoặc đồ vật, vân vân.  
