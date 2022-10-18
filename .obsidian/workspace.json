@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Đáp ứng được nhu cầu của người có kỹ năng lập trình.md",
-                "mode": "preview",
+                "file": "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Đáp ứng được nhu cầu của người có kỹ năng lập trình.md",
+                "file": "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Đáp ứng được nhu cầu của người có kỹ năng lập trình.md",
+                "file": "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Đáp ứng được nhu cầu của người có kỹ năng lập trình.md"
+                "file": "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md"
               }
             }
           },
@@ -168,14 +168,15 @@
   },
   "active": "fd08d00f8fcd1039",
   "lastOpenFiles": [
-    "7 Nhu cầu/Có thêm TNV lập trình.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Đáp ứng được nhu cầu của người có kỹ năng lập trình.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Có người code cho mình.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Phiếu đăng ký.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Why not use Excel.md",
     "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md",
-    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Lý do cho buổi tập huấn.md",
-    "6 Tổ chức/62 Thành viên/Tuyên.md",
-    "2 Sản phẩm và mục tiêu/trao đổi nhu cầu.md",
-    "Why not use Excel.md"
+    "7 Nhu cầu/Đáp ứng được nhu cầu của người có kỹ năng lập trình.md",
+    "7 Nhu cầu/Nắm được nhu cầu của người có kỹ năng lập trình.md",
+    "7 Nhu cầu/Có thêm TNV lập trình.md",
+    "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/Có người code cho mình.md",
+    "6 Tổ chức/62 Thành viên/Tuyên.md"
   ]
 }

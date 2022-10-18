@@ -5,7 +5,7 @@
 ## Lý do tổ chức
 Cung cấp công cụ có tiềm năng đáp ứng yêu cầu của một hệ sinh thái: chi phí cho việc kết nối/nắm bắt nhu cầu của nhau giảm xuống bằng 0
 
-Xem thêm: [[Lý do cho buổi tập huấn]]
+Xem thêm: [[Phiếu đăng ký]]
 
 ## Đối tượng tham gia
 - Người tham gia 2GROW
