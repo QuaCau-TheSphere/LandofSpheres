@@ -1,3 +1,4 @@
+Lý do:: [[Một vấn đề phức tạp đòi hỏi cách tiếp cận liên ngành]]
 
 Hệ quả của vấn đề này:
 ```dataview
