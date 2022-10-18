@@ -6,8 +6,11 @@
 # Thực thể khi được nhìn như là mục tiêu
 Mục tiêu:: [[trao đổi nhu cầu]], [[1000 user]], 
 
-Điểm mạnh::
+Điểm mạnh:: 
+- xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu.
+- 
 Điểm yếu::
+- Database lưu trữ trên Wordpress. Mất thời gian để chuyển format từ dạng Table trên Wordpress sang dạng Text trên Obsidian để sync. (có Plug-in để chuyển đổi). 
 Đối tượng thụ hưởng::
 
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
