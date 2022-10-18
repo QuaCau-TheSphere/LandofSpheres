@@ -19,7 +19,8 @@ Sàn nhu cầu có giao diện là một trang website trên Quacau.cc để ng�
 - đăng ký / đăng nhập tài khoản 
 - cập nhât thông tin cá nhân + nhu cầu trao đổi + địa điểm
 - tìm đối tượng phù hợp để trao đổi nhu cầu.
-Sàn giao dịch nhu cầu có thể hiển thị khu vực - vị trí người dùng và nhu cầu cuả họ trên google map để dễ trao đổi.
+- hiển thị khu vực - vị trí người dùng và nhu cầu cuả họ trên google map để dễ trao đổi.
+- chatbox trên web.
 
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
