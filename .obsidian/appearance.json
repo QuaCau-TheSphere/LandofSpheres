@@ -8,5 +8,7 @@
   "theme": "moonstone",
   "baseFontSize": 16,
   "cssTheme": "",
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": true,
+  "translucency": true
 }
