@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "01.1A Tổ chức sự kiện...",
+      "path": "Ξ Meta 0/01 Templates/1/01.1A Tổ chức sự kiện....md"
+    },
+    {
+      "basename": "Lý do cho buổi tập huấn",
+      "path": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Lý do cho buổi tập huấn.md"
+    },
+    {
+      "basename": "Nội dung sự kiện 2GROW",
+      "path": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md"
+    },
+    {
+      "basename": "23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình",
+      "path": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md"
+    },
+    {
+      "basename": "22 Sàn giao dịch nhu cầu",
+      "path": "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md"
+    },
+    {
       "basename": "Điểm yếu - thách thức",
       "path": "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md"
     },
@@ -43,10 +63,6 @@
     {
       "basename": "Obsidian và Notion",
       "path": "9 Tài liệu/98 Truyền thông/981 Bài của QC/3/Obsidian và Notion.md"
-    },
-    {
-      "basename": "Nội dung sự kiện 2GROW",
-      "path": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md"
     },
     {
       "basename": "Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc",
@@ -183,22 +199,6 @@
     {
       "basename": "Tham việc. Đa nhiệm. Làm việc hiệu quả",
       "path": "9 Tài liệu/98 Truyền thông/982 Các nội dung khác/Tham việc. Đa nhiệm. Làm việc hiệu quả.md"
-    },
-    {
-      "basename": "Trang (Chuối)",
-      "path": "6 Tổ chức/62 Thành viên/Trang (Chuối).md"
-    },
-    {
-      "basename": "Trả lời email, tin nhắn Facebook",
-      "path": "1 Công việc/15 Phát triển cộng đồng/Trả lời email, tin nhắn Facebook.md"
-    },
-    {
-      "basename": "Lắng nghe xã hội (tìm hiểu đánh giá của mọi người về mình)",
-      "path": "1 Công việc/11 Khảo sát, phỏng vấn/Lắng nghe xã hội (tìm hiểu đánh giá của mọi người về mình).md"
-    },
-    {
-      "basename": "File synchronization solution for controlling type of sync for subfolders and devices",
-      "path": "5 Câu hỏi nghiên cứu/51 Câu hỏi/518 Kỹ thuật/File synchronization solution for controlling type of sync for subfolders and devices.md"
     }
   ],
   "omittedPaths": [],
