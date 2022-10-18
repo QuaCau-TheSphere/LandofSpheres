@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "1000 user",
-      "path": "2 Sản phẩm và mục tiêu/1000 user.md"
+      "basename": "Các bài dịch về tự trị, riêng tư, đồng thuận, thao túng, v.v.",
+      "path": "2 Sản phẩm và mục tiêu/Các bài dịch về tự trị, riêng tư, đồng thuận, thao túng, v.v..md"
+    },
+    {
+      "basename": "24 Cộng đồng trên Discord",
+      "path": "2 Sản phẩm và mục tiêu/24 Cộng đồng trên Discord.md"
+    },
+    {
+      "basename": "2 Sản phẩm và mục tiêu",
+      "path": "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md"
     },
     {
       "basename": "22 Sàn giao dịch nhu cầu",
       "path": "2 Sản phẩm và mục tiêu/22 Sàn giao dịch nhu cầu/22 Sàn giao dịch nhu cầu.md"
+    },
+    {
+      "basename": "Sàn giao dịch nhu cầu có 1000 thành viên hoạt động",
+      "path": "2 Sản phẩm và mục tiêu/Sàn giao dịch nhu cầu có 1000 thành viên hoạt động.md"
     },
     {
       "basename": "Thiếu lập trình viên",
@@ -55,10 +67,6 @@
     {
       "basename": "1022 Nhóm Rhizome",
       "path": "2 Sản phẩm và mục tiêu/28 Nhóm nghiên cứu liên ngành/1022 Nhóm Rhizome/1022 Nhóm Rhizome.md"
-    },
-    {
-      "basename": "2 Sản phẩm và mục tiêu",
-      "path": "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md"
     },
     {
       "basename": "01.1A Tổ chức sự kiện...",
@@ -191,14 +199,6 @@
     {
       "basename": "1 Công việc",
       "path": "1 Công việc/1 Công việc.md"
-    },
-    {
-      "basename": "04 Đồng bộ dữ liệu",
-      "path": "Ξ Meta 0/04 Đồng bộ dữ liệu.md"
-    },
-    {
-      "basename": "00.3 Ghi chú họp",
-      "path": "00.3 Ghi chú họp.md"
     }
   ],
   "omittedPaths": [],
