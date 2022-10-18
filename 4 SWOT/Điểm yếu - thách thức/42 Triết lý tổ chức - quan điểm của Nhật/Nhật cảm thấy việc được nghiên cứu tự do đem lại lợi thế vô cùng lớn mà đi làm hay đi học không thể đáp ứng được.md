@@ -1,5 +1,5 @@
 Lý do:: [[Các chương trình giảng dạy trường xoay quanh sự bất lực trong việc tìm ra giải pháp. Những thứ cần tìm là những thứ phi chủ lưu]]
-Lý do:: [[Các nghiên cứu liên ngành khó có được ]]
+Lý do:: [[Các nghiên cứu liên ngành khó có được sự rắn chắc cần thiết]]
 Lý do:: Liên 
 Hệ quả của vấn đề này:
 ```dataview
