@@ -8,6 +8,8 @@ Lý do:: [[Có nhiều sự kiện ngắn hạn cũng nên dành thời gian]]
 Lý do:: [[Nhật không giao việc trực tiếp, không chủ động nhờ giúp đỡ]]
 Lý do:: [[Có những việc chỉ mình Nhật mới có thể giải quyết]]
 Lý do:: [[Có rất nhiều kiến thức liên quan cần phải tìm hiểu]]
+Lý do:: [[Định luật Hofstadter]]
+Lý do:: Làm được một lúc thì não lại nhớ ra công việc khác mình chưa làm
 Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])
