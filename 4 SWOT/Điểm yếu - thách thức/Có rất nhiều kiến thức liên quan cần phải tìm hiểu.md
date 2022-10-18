@@ -7,6 +7,6 @@ List where contains(lý-do,[[]])
 
 | Giải pháp gợi ý | Vấn đề phát sinh |
 | --------------- | ---------------- |
-|                 |                  |
+|  Chỉ tập trung vào những dự án              |                  |
 
 
