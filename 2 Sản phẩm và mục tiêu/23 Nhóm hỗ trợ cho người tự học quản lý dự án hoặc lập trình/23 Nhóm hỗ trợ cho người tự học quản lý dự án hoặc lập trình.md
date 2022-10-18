@@ -4,6 +4,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của Nhật rõ ràng hơn]]
 Đáp ứng cho nhu cầu của mình:: [[Gây quỹ]]
 # Thực thể khi được nhìn như là mục tiêu
+Hoạt động:: tổ chức 
 # Thực thể khi được nhìn như là sản phẩm
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 

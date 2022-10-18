@@ -11,8 +11,13 @@
             "id": "668c61263fdd5488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           },
           {
@@ -28,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5026054382324
+    "width": 294.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "53c005eb65d0a202",
@@ -103,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư.md",
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư.md",
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Sản phẩm và mục tiêu/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư.md"
+                "file": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md"
               }
             }
           },
@@ -166,7 +171,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "49925b3c7cd8529b",
+  "active": "668c61263fdd5488",
   "lastOpenFiles": [
     "2 Sản phẩm và mục tiêu/25 Mạng lưới người thân bạn bè của người có niềm tin tiêu cực/25 Mạng lưới người thân bạn bè của người có niềm tin tiêu cực.md",
     "2 Sản phẩm và mục tiêu/Dự án nâng cao hiểu biết của người có niềm tin Phật pháp về những xung đột trong những cách hiểu của Phật giáo về trí tuệ.md",
