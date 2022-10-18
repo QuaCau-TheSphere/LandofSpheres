@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Độ cấp thiết:: Phải làm ngay
-Trạng thái: Đang chuẩn bị
+Độ cấp thiết:: Đã xong
+Trạng thái:: Đã hoàn thành tất cả các mục
 Tính chất công việc:: Cần họp thường xuyên, Có thể làm qua mạng
 
 === end-column ===
 
 Ban:: [[A2 Tổ chức sự kiện – truyền thông]]
-Nhân sự:: [[[Thịnh]], [[Nhật]]
+Nhân sự:: [[Thịnh]], [[Nhật]]
 
 === end-multi-column
 
