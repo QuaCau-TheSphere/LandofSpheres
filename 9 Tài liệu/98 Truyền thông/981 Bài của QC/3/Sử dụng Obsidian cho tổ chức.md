@@ -1,3 +1,15 @@
+- Quản lý nhân sự
+- Khách hàng, người thụ hưởng, đối tác, các bên liên quan
+- Kế hoạch chiến lược
+- Các công việc
+- Tài liệu, bài đăng truyền thông 
+- Tài chính
+- rủi ro
+
+Dòng chảy thông tin
+
+Tài sản
+
 Đảo thông tin
 island information silo. Những dữ liệu giống nhau được lưu ở những chỗ khác nhau, khiến cho những thao tác tự động hoá đơn giản không thể làm được 
 
