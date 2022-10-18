@@ -14,8 +14,12 @@ Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
 # Thực thể khi được nhìn như là sản phẩm
 Mô tả ý tưởng sàn trao đổi nhu cầu:
-Sàn trao đổi nhu cầu là một nền tảng online để cộng đồng người dùng có thể đăng ký thông tin cá nhân (bản thân họ có nhu cầu gì và có gì để trao đổi) và tìm đối tượng / đội nhóm để trao đổi  
-Sàn nhu cầu có giao diện là một website trên Quacau.cc để
+Sàn trao đổi nhu cầu là một nền tảng online để cộng đồng người dùng có thể đăng ký thông tin cá nhân (bản thân họ có nhu cầu gì và có gì để trao đổi) và tìm đối tượng / đội nhóm để trao đổi. Thứ dùng để trao đổi là nhu cầu cá nhân (học ngoại ngữ, cải thiện kỹ năng, vv) hoặc đồ vật, vân vân.  
+Sàn nhu cầu có giao diện là một trang website trên Quacau.cc để người dùng có thể làm những điều sau:
+- đăng ký / đăng nhập tài khoản 
+- cập nhât thông tin cá nhân + nhu cầu trao đổi + địa điểm
+- tìm đối tượng phù hợp để trao đổi nhu cầu.
+Sàn giao dịch nhu cầu có thể hiển thị khu vực - vị trí người dùng và nhu cầu cuả họ trên google map để dễ trao đổi.
 
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
