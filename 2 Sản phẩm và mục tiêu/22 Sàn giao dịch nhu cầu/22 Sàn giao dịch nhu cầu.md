@@ -5,14 +5,30 @@
 Đáp ứng cho nhu cầu của mình: [[Tăng sự gắn kết giữa các thành viên]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
 
-# Thực thể khi được nhìn như là mục tiêu
-Mục tiêu::
+Mục tiêu:: [[trao đổi nhu cầu]], [[1000 user]], 
 
-Điểm mạnh::
+Điểm mạnh:: 
+- xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu → Dễ gây hứng thú và giúp người dùng đọc được những bài viết khác của Quả Cầu.
 Điểm yếu::
-Đối tượng thụ hưởng::
+- Database lưu trữ trên Wordpress. Mất thời gian để chuyển format từ dạng Table trên Wordpress sang dạng Text trên Obsidian để sync. (có Plug-in để chuyển đổi). 
+Đối tượng thụ hưởng: 
+- Người có nhu cầu + tài nguyên để trao đổi
+- Đội nhóm có nhu cầu + tài nguyên để trao đổi.
+
+Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
+Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
 
 # Thực thể khi được nhìn như là sản phẩm
+Mô tả ý tưởng sàn trao đổi nhu cầu:
+Sàn trao đổi nhu cầu là một nền tảng online để cộng đồng người dùng có thể đăng ký thông tin cá nhân (bản thân họ có nhu cầu gì và có gì để trao đổi) và tìm đối tượng / đội nhóm để trao đổi. Thứ dùng để trao đổi là nhu cầu cá nhân (học ngoại ngữ, cải thiện kỹ năng, vv) hoặc đồ vật, vân vân.  
+Sàn nhu cầu có giao diện là một trang website trên Quacau.cc để người dùng có thể làm những điều sau:
+- đăng ký / đăng nhập tài khoản.
+- cập nhât thông tin cá nhân + nhu cầu trao đổi + địa điểm.
+- tìm đối tượng phù hợp để trao đổi nhu cầu.
+- hiển thị khu vực - vị trí người dùng và nhu cầu cuả họ trên google map để dễ trao đổi.
+- chatbox trên web.
+
+
 ## FAQ
 ### Có những nhu cầu không muốn người khác biết mình có
 Đó là do chưa tạo được môi trường an toàn để nói ra
