@@ -7,11 +7,12 @@
 Mục tiêu:: [[trao đổi nhu cầu]], [[1000 user]], 
 
 Điểm mạnh:: 
-- xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu.
-- 
+- xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu → Dễ gây hứng thú và giúp người dùng đọc được những bài viết khác của Quả Cầu.
 Điểm yếu::
 - Database lưu trữ trên Wordpress. Mất thời gian để chuyển format từ dạng Table trên Wordpress sang dạng Text trên Obsidian để sync. (có Plug-in để chuyển đổi). 
-Đối tượng thụ hưởng::
+Đối tượng thụ hưởng: 
+- Người có nhu cầu + tài nguyên để trao đổi
+- Đội nhóm có nhu cầu + tài nguyên để trao đổi.
 
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
