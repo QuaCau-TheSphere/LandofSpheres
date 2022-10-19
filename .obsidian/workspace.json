@@ -11,8 +11,13 @@
             "id": "7e91e3046cf736d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3 Các bên liên quan/Gặp mặt/Gặp Viễn Đông.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5026054382324
+    "width": 294.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "53c005eb65d0a202",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 Các bên liên quan/Gặp mặt/Gặp Viễn Đông.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 Các bên liên quan/Gặp mặt/Gặp Viễn Đông.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3 Các bên liên quan/Gặp mặt/Gặp Viễn Đông.md"
+              }
             }
           },
           {
@@ -150,6 +160,7 @@
   },
   "active": "7e91e3046cf736d8",
   "lastOpenFiles": [
+    "3 Các bên liên quan/3 Các bên liên quan.md",
     "Untitled.md",
     "6 Tổ chức/62 Thành viên/Nhật.md",
     "1 Công việc/16 Kỹ thuật - thiết kế - khác/Xây dựng hệ thống quản lý dự án.md",
@@ -158,7 +169,6 @@
     "4 SWOT/Điểm yếu - thách thức/44 Bản chất, giới hạn không tránh khỏi của con người, hiện tượng/Quá nhiều việc.md",
     "4 SWOT/Điểm yếu - thách thức/44 Bản chất, giới hạn không tránh khỏi của con người, hiện tượng/Sự sáng tạo luôn cho ta thêm những công việc mới mà ta thấy cần phải làm.md",
     "9 Tài liệu/98 Truyền thông/981 Bài của QC/3/Các ghi chú cũ khi học vật lý.md",
-    "1 Công việc/Hoàn thành bài vè các ghi chú cũ của Nhật khi học vật lý.md",
-    "2 Sản phẩm và mục tiêu/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư.md"
+    "1 Công việc/Hoàn thành bài vè các ghi chú cũ của Nhật khi học vật lý.md"
   ]
 }
