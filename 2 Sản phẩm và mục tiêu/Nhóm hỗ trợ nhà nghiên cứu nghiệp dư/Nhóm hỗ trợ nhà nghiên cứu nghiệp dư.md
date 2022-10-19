@@ -16,6 +16,7 @@ Mục tiêu:: [[Người muốn tìm hiểu về vật lý, tâm lý học đặ
 - Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh
 - Người có niềm tin phản khoa học, phê phán khoa học nhưng không vào trọng tâm
 - Người đơn thuần chỉ là có đam mê nghiên cứu nhưng không có nhiều thời gian hoặc được đào tạo chuyên nghiệp
+
 Hoạt động:: [[Hoàn thành bài vè các ghi chú cũ của Nhật khi học vật lý]]
 # Thực thể khi được nhìn như là sản phẩm
 
