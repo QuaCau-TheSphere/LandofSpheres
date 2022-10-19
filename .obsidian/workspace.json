@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
-                "mode": "source",
+                "file": "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5026054382324,
-    "collapsed": true
+    "width": 294.5026054382324
   },
   "right": {
     "id": "53c005eb65d0a202",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
+                "file": "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
+                "file": "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md"
+                "file": "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md"
               }
             }
           },
@@ -160,15 +159,15 @@
   },
   "active": "7e91e3046cf736d8",
   "lastOpenFiles": [
+    "6 Tổ chức/62 Thành viên/Nhật.md",
+    "00.1 Lịch họp hằng tuần.md",
+    "00.2 Kế hoạch tổng thể.md",
+    "00.3 Ghi chú họp.md",
+    "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
     "2 Sản phẩm và mục tiêu/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/Nhóm hỗ trợ nhà nghiên cứu nghiệp dư.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
     "2 Sản phẩm và mục tiêu/26 Các buổi nói chuyện, thuyết trình, dã ngoại/26 Các buổi nói chuyện, thuyết trình, dã ngoại.md",
     "1 Công việc/14 Tổ chức sự kiện/14 Tổ chức sự kiện.md",
-    "1 Công việc/14 Tổ chức sự kiện/Tổ chức các buổi chia sẻ về vault quản lý công việc.md",
-    "1 Công việc/Tổ chức các buổi chia sẻ về vault kết nối nhu cầu.md",
-    "2 Sản phẩm và mục tiêu/25 Mạng lưới người thân bạn bè của người có niềm tin tiêu cực/25 Mạng lưới người thân bạn bè của người có niềm tin tiêu cực.md",
-    "2 Sản phẩm và mục tiêu/Dự án nâng cao hiểu biết của người có niềm tin Phật pháp về những xung đột trong những cách hiểu của Phật giáo về trí tuệ.md",
-    "2 Sản phẩm và mục tiêu/Đồ thị mạng lưới 100+ niềm tin trong xã hội.md",
-    "2 Sản phẩm và mục tiêu/Cầu nối cho các sáng kiến quốc tế.md"
+    "1 Công việc/14 Tổ chức sự kiện/Tổ chức các buổi chia sẻ về vault quản lý công việc.md"
   ]
 }

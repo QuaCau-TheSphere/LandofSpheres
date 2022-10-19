@@ -4335,7 +4335,7 @@ var import_obsidian2 = __toModule(require("obsidian"));
 var DEFAULT_SETTINGS = {
   auto_generate_title: false,
   fleeting_notes_folder: "FleetingNotesApp",
-  note_template: '---\n# Metadata used for sync\nid: "${id}"\ntitle: "${title}"\nsource: "${source}"\ncreated_date: "${created_date}"\nmodified_date: "${last_modified_date}"\n---\n${content}',
+  note_template: '---\n# Metadata used for sync\nid: "${id}"\ntitle: "${title}"\n# Extracts all tags in content into the metadata\ntags: ${tags}\nsource: "${source}"\ncreated_date: "${created_date}"\nmodified_date: "${last_modified_date}"\n---\n${content}',
   sync_on_startup: false,
   last_sync_time: new Date(0),
   sync_type: "one-way",
@@ -4544,6 +4544,15 @@ var decryptText = (text, key) => {
 var encryptText = (text, key) => {
   var ciphertext = CryptoJS.AES.encrypt(text, key).toString();
   return ciphertext;
+};
+var extractAllTags = (text) => {
+  let tags = [];
+  let tagRegex = /(^|\B)#(?![0-9_]+\b)([a-zA-Z0-9_]{1,30})(\b|\r)/gm;
+  let matches = text.matchAll(tagRegex);
+  for (const match of matches) {
+    tags.push(`"${match[2]}"`);
+  }
+  return tags;
 };
 var getDefaultNoteTitle = (note, existingTitles, autoGenerateTitle) => {
   if (!autoGenerateTitle) {
@@ -4790,11 +4799,17 @@ var FleetingNotesPlugin = class extends import_obsidian4.Plugin {
   }
   getFilledTemplate(template, note, add_deleted) {
     const metadataMatch = template.match(/^---\n([\s\S]*?)\n---\n/m);
+    let content = note.content;
+    let tags = [];
+    if (template.includes("${tags}")) {
+      tags = extractAllTags(note.content);
+    }
     if (metadataMatch) {
       const escapedTitle = note.title.replace(/\"/g, '\\"');
-      const escapedContent = note.content.replace(/\"/g, '\\"');
+      const escapedContent = content.replace(/\"/g, '\\"');
       const escapedSource = note.source.replace(/\"/g, '\\"');
-      var newMetadata = metadataMatch[1].replace(/\$\{title\}/gm, escapedTitle).replace(/\$\{content\}/gm, escapedContent).replace(/\$\{source\}/gm, escapedSource);
+      const escapedTags = `[${tags.join(", ")}]`;
+      var newMetadata = metadataMatch[1].replace(/\$\{title\}/gm, escapedTitle).replace(/\$\{tags\}/gm, escapedTags).replace(/\$\{content\}/gm, escapedContent).replace(/\$\{source\}/gm, escapedSource);
       if (add_deleted) {
         const deleted_match = newMetadata.match(/^deleted:.*$/);
         if (deleted_match) {
@@ -4809,7 +4824,7 @@ ${newMetadata}
 `;
       template = template.replace(metadataMatch[0], newMetadata);
     }
-    var newTemplate = template.replace(/\$\{id\}/gm, note._id).replace(/\$\{title\}/gm, note.title).replace(/\$\{datetime\}/gm, note.timestamp).replace(/\$\{created_date\}/gm, (0, import_obsidian4.moment)(note.timestamp).local().format("YYYY-MM-DD")).replace(/\$\{last_modified_date\}/gm, (0, import_obsidian4.moment)(note.modified_timestamp).local().format("YYYY-MM-DD")).replace(/\$\{content\}/gm, note.content).replace(/\$\{source\}/gm, note.source);
+    var newTemplate = template.replace(/\$\{id\}/gm, note._id).replace(/\$\{title\}/gm, note.title).replace(/\$\{datetime\}/gm, note.timestamp).replace(/\$\{tags\}/gm, `[${tags.join(", ")}]`).replace(/\$\{created_date\}/gm, (0, import_obsidian4.moment)(note.timestamp).local().format("YYYY-MM-DD")).replace(/\$\{last_modified_date\}/gm, (0, import_obsidian4.moment)(note.modified_timestamp).local().format("YYYY-MM-DD")).replace(/\$\{content\}/gm, content).replace(/\$\{source\}/gm, note.source);
     return newTemplate;
   }
   getUpdatedLocalNotes(folder) {

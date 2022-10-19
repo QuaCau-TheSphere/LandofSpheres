@@ -7,8 +7,22 @@ var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
+var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __propIsEnum = Object.prototype.propertyIsEnumerable;
+var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
+var __spreadValues = (a, b) => {
+  for (var prop in b || (b = {}))
+    if (__hasOwnProp.call(b, prop))
+      __defNormalProp(a, prop, b[prop]);
+  if (__getOwnPropSymbols)
+    for (var prop of __getOwnPropSymbols(b)) {
+      if (__propIsEnum.call(b, prop))
+        __defNormalProp(a, prop, b[prop]);
+    }
+  return a;
+};
 var __commonJS = (cb, mod) => function __require() {
   return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
 };
@@ -1674,17 +1688,572 @@ var require_lib = __commonJS({
   }
 });
 
-// main.ts
+// node_modules/@simonwep/pickr/dist/pickr.min.js
+var require_pickr_min = __commonJS({
+  "node_modules/@simonwep/pickr/dist/pickr.min.js"(exports, module2) {
+    !function(t, e) {
+      typeof exports == "object" && typeof module2 == "object" ? module2.exports = e() : typeof define == "function" && define.amd ? define([], e) : typeof exports == "object" ? exports.Pickr = e() : t.Pickr = e();
+    }(self, function() {
+      return (() => {
+        "use strict";
+        var t = { d: (e2, o2) => {
+          for (var n2 in o2)
+            t.o(o2, n2) && !t.o(e2, n2) && Object.defineProperty(e2, n2, { enumerable: true, get: o2[n2] });
+        }, o: (t2, e2) => Object.prototype.hasOwnProperty.call(t2, e2), r: (t2) => {
+          typeof Symbol != "undefined" && Symbol.toStringTag && Object.defineProperty(t2, Symbol.toStringTag, { value: "Module" }), Object.defineProperty(t2, "__esModule", { value: true });
+        } }, e = {};
+        t.d(e, { default: () => L });
+        var o = {};
+        function n(t2, e2, o2, n2, i2 = {}) {
+          e2 instanceof HTMLCollection || e2 instanceof NodeList ? e2 = Array.from(e2) : Array.isArray(e2) || (e2 = [e2]), Array.isArray(o2) || (o2 = [o2]);
+          for (const s2 of e2)
+            for (const e3 of o2)
+              s2[t2](e3, n2, __spreadValues({ capture: false }, i2));
+          return Array.prototype.slice.call(arguments, 1);
+        }
+        t.r(o), t.d(o, { adjustableInputNumbers: () => p, createElementFromString: () => r, createFromTemplate: () => a, eventPath: () => l, off: () => s, on: () => i, resolveElement: () => c });
+        const i = n.bind(null, "addEventListener"), s = n.bind(null, "removeEventListener");
+        function r(t2) {
+          const e2 = document.createElement("div");
+          return e2.innerHTML = t2.trim(), e2.firstElementChild;
+        }
+        function a(t2) {
+          const e2 = (t3, e3) => {
+            const o3 = t3.getAttribute(e3);
+            return t3.removeAttribute(e3), o3;
+          }, o2 = (t3, n2 = {}) => {
+            const i2 = e2(t3, ":obj"), s2 = e2(t3, ":ref"), r2 = i2 ? n2[i2] = {} : n2;
+            s2 && (n2[s2] = t3);
+            for (const n3 of Array.from(t3.children)) {
+              const t4 = e2(n3, ":arr"), i3 = o2(n3, t4 ? {} : r2);
+              t4 && (r2[t4] || (r2[t4] = [])).push(Object.keys(i3).length ? i3 : n3);
+            }
+            return n2;
+          };
+          return o2(r(t2));
+        }
+        function l(t2) {
+          let e2 = t2.path || t2.composedPath && t2.composedPath();
+          if (e2)
+            return e2;
+          let o2 = t2.target.parentElement;
+          for (e2 = [t2.target, o2]; o2 = o2.parentElement; )
+            e2.push(o2);
+          return e2.push(document, window), e2;
+        }
+        function c(t2) {
+          return t2 instanceof Element ? t2 : typeof t2 == "string" ? t2.split(/>>/g).reduce((t3, e2, o2, n2) => (t3 = t3.querySelector(e2), o2 < n2.length - 1 ? t3.shadowRoot : t3), document) : null;
+        }
+        function p(t2, e2 = (t3) => t3) {
+          function o2(o3) {
+            const n2 = [1e-3, 0.01, 0.1][Number(o3.shiftKey || 2 * o3.ctrlKey)] * (o3.deltaY < 0 ? 1 : -1);
+            let i2 = 0, s2 = t2.selectionStart;
+            t2.value = t2.value.replace(/[\d.]+/g, (t3, o4) => o4 <= s2 && o4 + t3.length >= s2 ? (s2 = o4, e2(Number(t3), n2, i2)) : (i2++, t3)), t2.focus(), t2.setSelectionRange(s2, s2), o3.preventDefault(), t2.dispatchEvent(new Event("input"));
+          }
+          i(t2, "focus", () => i(window, "wheel", o2, { passive: false })), i(t2, "blur", () => s(window, "wheel", o2));
+        }
+        const { min: u, max: h, floor: d, round: m } = Math;
+        function f(t2, e2, o2) {
+          e2 /= 100, o2 /= 100;
+          const n2 = d(t2 = t2 / 360 * 6), i2 = t2 - n2, s2 = o2 * (1 - e2), r2 = o2 * (1 - i2 * e2), a2 = o2 * (1 - (1 - i2) * e2), l2 = n2 % 6;
+          return [255 * [o2, r2, s2, s2, a2, o2][l2], 255 * [a2, o2, o2, r2, s2, s2][l2], 255 * [s2, s2, a2, o2, o2, r2][l2]];
+        }
+        function v(t2, e2, o2) {
+          const n2 = (2 - (e2 /= 100)) * (o2 /= 100) / 2;
+          return n2 !== 0 && (e2 = n2 === 1 ? 0 : n2 < 0.5 ? e2 * o2 / (2 * n2) : e2 * o2 / (2 - 2 * n2)), [t2, 100 * e2, 100 * n2];
+        }
+        function b(t2, e2, o2) {
+          const n2 = u(t2 /= 255, e2 /= 255, o2 /= 255), i2 = h(t2, e2, o2), s2 = i2 - n2;
+          let r2, a2;
+          if (s2 === 0)
+            r2 = a2 = 0;
+          else {
+            a2 = s2 / i2;
+            const n3 = ((i2 - t2) / 6 + s2 / 2) / s2, l2 = ((i2 - e2) / 6 + s2 / 2) / s2, c2 = ((i2 - o2) / 6 + s2 / 2) / s2;
+            t2 === i2 ? r2 = c2 - l2 : e2 === i2 ? r2 = 1 / 3 + n3 - c2 : o2 === i2 && (r2 = 2 / 3 + l2 - n3), r2 < 0 ? r2 += 1 : r2 > 1 && (r2 -= 1);
+          }
+          return [360 * r2, 100 * a2, 100 * i2];
+        }
+        function y(t2, e2, o2, n2) {
+          e2 /= 100, o2 /= 100;
+          return [...b(255 * (1 - u(1, (t2 /= 100) * (1 - (n2 /= 100)) + n2)), 255 * (1 - u(1, e2 * (1 - n2) + n2)), 255 * (1 - u(1, o2 * (1 - n2) + n2)))];
+        }
+        function g(t2, e2, o2) {
+          e2 /= 100;
+          const n2 = 2 * (e2 *= (o2 /= 100) < 0.5 ? o2 : 1 - o2) / (o2 + e2) * 100, i2 = 100 * (o2 + e2);
+          return [t2, isNaN(n2) ? 0 : n2, i2];
+        }
+        function _(t2) {
+          return b(...t2.match(/.{2}/g).map((t3) => parseInt(t3, 16)));
+        }
+        function w(t2) {
+          t2 = t2.match(/^[a-zA-Z]+$/) ? function(t3) {
+            if (t3.toLowerCase() === "black")
+              return "#000";
+            const e3 = document.createElement("canvas").getContext("2d");
+            return e3.fillStyle = t3, e3.fillStyle === "#000" ? null : e3.fillStyle;
+          }(t2) : t2;
+          const e2 = { cmyk: /^cmyk[\D]+([\d.]+)[\D]+([\d.]+)[\D]+([\d.]+)[\D]+([\d.]+)/i, rgba: /^((rgba)|rgb)[\D]+([\d.]+)[\D]+([\d.]+)[\D]+([\d.]+)[\D]*?([\d.]+|$)/i, hsla: /^((hsla)|hsl)[\D]+([\d.]+)[\D]+([\d.]+)[\D]+([\d.]+)[\D]*?([\d.]+|$)/i, hsva: /^((hsva)|hsv)[\D]+([\d.]+)[\D]+([\d.]+)[\D]+([\d.]+)[\D]*?([\d.]+|$)/i, hexa: /^#?(([\dA-Fa-f]{3,4})|([\dA-Fa-f]{6})|([\dA-Fa-f]{8}))$/i }, o2 = (t3) => t3.map((t4) => /^(|\d+)\.\d+|\d+$/.test(t4) ? Number(t4) : void 0);
+          let n2;
+          t:
+            for (const i2 in e2) {
+              if (!(n2 = e2[i2].exec(t2)))
+                continue;
+              const s2 = (t3) => !!n2[2] == (typeof t3 == "number");
+              switch (i2) {
+                case "cmyk": {
+                  const [, t3, e3, s3, r2] = o2(n2);
+                  if (t3 > 100 || e3 > 100 || s3 > 100 || r2 > 100)
+                    break t;
+                  return { values: y(t3, e3, s3, r2), type: i2 };
+                }
+                case "rgba": {
+                  const [, , , t3, e3, r2, a2] = o2(n2);
+                  if (t3 > 255 || e3 > 255 || r2 > 255 || a2 < 0 || a2 > 1 || !s2(a2))
+                    break t;
+                  return { values: [...b(t3, e3, r2), a2], a: a2, type: i2 };
+                }
+                case "hexa": {
+                  let [, t3] = n2;
+                  t3.length !== 4 && t3.length !== 3 || (t3 = t3.split("").map((t4) => t4 + t4).join(""));
+                  const e3 = t3.substring(0, 6);
+                  let o3 = t3.substring(6);
+                  return o3 = o3 ? parseInt(o3, 16) / 255 : void 0, { values: [..._(e3), o3], a: o3, type: i2 };
+                }
+                case "hsla": {
+                  const [, , , t3, e3, r2, a2] = o2(n2);
+                  if (t3 > 360 || e3 > 100 || r2 > 100 || a2 < 0 || a2 > 1 || !s2(a2))
+                    break t;
+                  return { values: [...g(t3, e3, r2), a2], a: a2, type: i2 };
+                }
+                case "hsva": {
+                  const [, , , t3, e3, r2, a2] = o2(n2);
+                  if (t3 > 360 || e3 > 100 || r2 > 100 || a2 < 0 || a2 > 1 || !s2(a2))
+                    break t;
+                  return { values: [t3, e3, r2, a2], a: a2, type: i2 };
+                }
+              }
+            }
+          return { values: null, type: null };
+        }
+        function A(t2 = 0, e2 = 0, o2 = 0, n2 = 1) {
+          const i2 = (t3, e3) => (o3 = -1) => e3(~o3 ? t3.map((t4) => Number(t4.toFixed(o3))) : t3), s2 = { h: t2, s: e2, v: o2, a: n2, toHSVA() {
+            const t3 = [s2.h, s2.s, s2.v, s2.a];
+            return t3.toString = i2(t3, (t4) => `hsva(${t4[0]}, ${t4[1]}%, ${t4[2]}%, ${s2.a})`), t3;
+          }, toHSLA() {
+            const t3 = [...v(s2.h, s2.s, s2.v), s2.a];
+            return t3.toString = i2(t3, (t4) => `hsla(${t4[0]}, ${t4[1]}%, ${t4[2]}%, ${s2.a})`), t3;
+          }, toRGBA() {
+            const t3 = [...f(s2.h, s2.s, s2.v), s2.a];
+            return t3.toString = i2(t3, (t4) => `rgba(${t4[0]}, ${t4[1]}, ${t4[2]}, ${s2.a})`), t3;
+          }, toCMYK() {
+            const t3 = function(t4, e3, o3) {
+              const n3 = f(t4, e3, o3), i3 = n3[0] / 255, s3 = n3[1] / 255, r2 = n3[2] / 255, a2 = u(1 - i3, 1 - s3, 1 - r2);
+              return [100 * (a2 === 1 ? 0 : (1 - i3 - a2) / (1 - a2)), 100 * (a2 === 1 ? 0 : (1 - s3 - a2) / (1 - a2)), 100 * (a2 === 1 ? 0 : (1 - r2 - a2) / (1 - a2)), 100 * a2];
+            }(s2.h, s2.s, s2.v);
+            return t3.toString = i2(t3, (t4) => `cmyk(${t4[0]}%, ${t4[1]}%, ${t4[2]}%, ${t4[3]}%)`), t3;
+          }, toHEXA() {
+            const t3 = function(t4, e4, o3) {
+              return f(t4, e4, o3).map((t5) => m(t5).toString(16).padStart(2, "0"));
+            }(s2.h, s2.s, s2.v), e3 = s2.a >= 1 ? "" : Number((255 * s2.a).toFixed(0)).toString(16).toUpperCase().padStart(2, "0");
+            return e3 && t3.push(e3), t3.toString = () => `#${t3.join("").toUpperCase()}`, t3;
+          }, clone: () => A(s2.h, s2.s, s2.v, s2.a) };
+          return s2;
+        }
+        const C = (t2) => Math.max(Math.min(t2, 1), 0);
+        function $(t2) {
+          const e2 = { options: Object.assign({ lock: null, onchange: () => 0, onstop: () => 0 }, t2), _keyboard(t3) {
+            const { options: o3 } = e2, { type: n3, key: i2 } = t3;
+            if (document.activeElement === o3.wrapper) {
+              const { lock: o4 } = e2.options, s2 = i2 === "ArrowUp", r3 = i2 === "ArrowRight", a2 = i2 === "ArrowDown", l2 = i2 === "ArrowLeft";
+              if (n3 === "keydown" && (s2 || r3 || a2 || l2)) {
+                let n4 = 0, i3 = 0;
+                o4 === "v" ? n4 = s2 || r3 ? 1 : -1 : o4 === "h" ? n4 = s2 || r3 ? -1 : 1 : (i3 = s2 ? -1 : a2 ? 1 : 0, n4 = l2 ? -1 : r3 ? 1 : 0), e2.update(C(e2.cache.x + 0.01 * n4), C(e2.cache.y + 0.01 * i3)), t3.preventDefault();
+              } else
+                i2.startsWith("Arrow") && (e2.options.onstop(), t3.preventDefault());
+            }
+          }, _tapstart(t3) {
+            i(document, ["mouseup", "touchend", "touchcancel"], e2._tapstop), i(document, ["mousemove", "touchmove"], e2._tapmove), t3.cancelable && t3.preventDefault(), e2._tapmove(t3);
+          }, _tapmove(t3) {
+            const { options: o3, cache: n3 } = e2, { lock: i2, element: s2, wrapper: r3 } = o3, a2 = r3.getBoundingClientRect();
+            let l2 = 0, c2 = 0;
+            if (t3) {
+              const e3 = t3 && t3.touches && t3.touches[0];
+              l2 = t3 ? (e3 || t3).clientX : 0, c2 = t3 ? (e3 || t3).clientY : 0, l2 < a2.left ? l2 = a2.left : l2 > a2.left + a2.width && (l2 = a2.left + a2.width), c2 < a2.top ? c2 = a2.top : c2 > a2.top + a2.height && (c2 = a2.top + a2.height), l2 -= a2.left, c2 -= a2.top;
+            } else
+              n3 && (l2 = n3.x * a2.width, c2 = n3.y * a2.height);
+            i2 !== "h" && (s2.style.left = `calc(${l2 / a2.width * 100}% - ${s2.offsetWidth / 2}px)`), i2 !== "v" && (s2.style.top = `calc(${c2 / a2.height * 100}% - ${s2.offsetHeight / 2}px)`), e2.cache = { x: l2 / a2.width, y: c2 / a2.height };
+            const p2 = C(l2 / a2.width), u2 = C(c2 / a2.height);
+            switch (i2) {
+              case "v":
+                return o3.onchange(p2);
+              case "h":
+                return o3.onchange(u2);
+              default:
+                return o3.onchange(p2, u2);
+            }
+          }, _tapstop() {
+            e2.options.onstop(), s(document, ["mouseup", "touchend", "touchcancel"], e2._tapstop), s(document, ["mousemove", "touchmove"], e2._tapmove);
+          }, trigger() {
+            e2._tapmove();
+          }, update(t3 = 0, o3 = 0) {
+            const { left: n3, top: i2, width: s2, height: r3 } = e2.options.wrapper.getBoundingClientRect();
+            e2.options.lock === "h" && (o3 = t3), e2._tapmove({ clientX: n3 + s2 * t3, clientY: i2 + r3 * o3 });
+          }, destroy() {
+            const { options: t3, _tapstart: o3, _keyboard: n3 } = e2;
+            s(document, ["keydown", "keyup"], n3), s([t3.wrapper, t3.element], "mousedown", o3), s([t3.wrapper, t3.element], "touchstart", o3, { passive: false });
+          } }, { options: o2, _tapstart: n2, _keyboard: r2 } = e2;
+          return i([o2.wrapper, o2.element], "mousedown", n2), i([o2.wrapper, o2.element], "touchstart", n2, { passive: false }), i(document, ["keydown", "keyup"], r2), e2;
+        }
+        function k(t2 = {}) {
+          t2 = Object.assign({ onchange: () => 0, className: "", elements: [] }, t2);
+          const e2 = i(t2.elements, "click", (e3) => {
+            t2.elements.forEach((o2) => o2.classList[e3.target === o2 ? "add" : "remove"](t2.className)), t2.onchange(e3), e3.stopPropagation();
+          });
+          return { destroy: () => s(...e2) };
+        }
+        const S = { variantFlipOrder: { start: "sme", middle: "mse", end: "ems" }, positionFlipOrder: { top: "tbrl", right: "rltb", bottom: "btrl", left: "lrbt" }, position: "bottom", margin: 8 }, O = (t2, e2, o2) => {
+          const { container: n2, margin: i2, position: s2, variantFlipOrder: r2, positionFlipOrder: a2 } = __spreadValues(__spreadValues({ container: document.documentElement.getBoundingClientRect() }, S), o2), { left: l2, top: c2 } = e2.style;
+          e2.style.left = "0", e2.style.top = "0";
+          const p2 = t2.getBoundingClientRect(), u2 = e2.getBoundingClientRect(), h2 = { t: p2.top - u2.height - i2, b: p2.bottom + i2, r: p2.right + i2, l: p2.left - u2.width - i2 }, d2 = { vs: p2.left, vm: p2.left + p2.width / 2 + -u2.width / 2, ve: p2.left + p2.width - u2.width, hs: p2.top, hm: p2.bottom - p2.height / 2 - u2.height / 2, he: p2.bottom - u2.height }, [m2, f2 = "middle"] = s2.split("-"), v2 = a2[m2], b2 = r2[f2], { top: y2, left: g2, bottom: _2, right: w2 } = n2;
+          for (const t3 of v2) {
+            const o3 = t3 === "t" || t3 === "b", n3 = h2[t3], [i3, s3] = o3 ? ["top", "left"] : ["left", "top"], [r3, a3] = o3 ? [u2.height, u2.width] : [u2.width, u2.height], [l3, c3] = o3 ? [_2, w2] : [w2, _2], [p3, m3] = o3 ? [y2, g2] : [g2, y2];
+            if (!(n3 < p3 || n3 + r3 > l3))
+              for (const r4 of b2) {
+                const l4 = d2[(o3 ? "v" : "h") + r4];
+                if (!(l4 < m3 || l4 + a3 > c3))
+                  return e2.style[s3] = l4 - u2[s3] + "px", e2.style[i3] = n3 - u2[i3] + "px", t3 + r4;
+              }
+          }
+          return e2.style.left = l2, e2.style.top = c2, null;
+        };
+        function E(t2, e2, o2) {
+          return e2 in t2 ? Object.defineProperty(t2, e2, { value: o2, enumerable: true, configurable: true, writable: true }) : t2[e2] = o2, t2;
+        }
+        class L {
+          constructor(t2) {
+            E(this, "_initializingActive", true), E(this, "_recalc", true), E(this, "_nanopop", null), E(this, "_root", null), E(this, "_color", A()), E(this, "_lastColor", A()), E(this, "_swatchColors", []), E(this, "_setupAnimationFrame", null), E(this, "_eventListener", { init: [], save: [], hide: [], show: [], clear: [], change: [], changestop: [], cancel: [], swatchselect: [] }), this.options = t2 = Object.assign(__spreadValues({}, L.DEFAULT_OPTIONS), t2);
+            const { swatches: e2, components: o2, theme: n2, sliders: i2, lockOpacity: s2, padding: r2 } = t2;
+            ["nano", "monolith"].includes(n2) && !i2 && (t2.sliders = "h"), o2.interaction || (o2.interaction = {});
+            const { preview: a2, opacity: l2, hue: c2, palette: p2 } = o2;
+            o2.opacity = !s2 && l2, o2.palette = p2 || a2 || l2 || c2, this._preBuild(), this._buildComponents(), this._bindEvents(), this._finalBuild(), e2 && e2.length && e2.forEach((t3) => this.addSwatch(t3));
+            const { button: u2, app: h2 } = this._root;
+            this._nanopop = ((t3, e3, o3) => {
+              const n3 = typeof t3 != "object" || t3 instanceof HTMLElement ? __spreadValues({ reference: t3, popper: e3 }, o3) : t3;
+              return { update(t4 = n3) {
+                const { reference: e4, popper: o4 } = Object.assign(n3, t4);
+                if (!o4 || !e4)
+                  throw new Error("Popper- or reference-element missing.");
+                return O(e4, o4, n3);
+              } };
+            })(u2, h2, { margin: r2 }), u2.setAttribute("role", "button"), u2.setAttribute("aria-label", this._t("btn:toggle"));
+            const d2 = this;
+            this._setupAnimationFrame = requestAnimationFrame(function e3() {
+              if (!h2.offsetWidth)
+                return requestAnimationFrame(e3);
+              d2.setColor(t2.default), d2._rePositioningPicker(), t2.defaultRepresentation && (d2._representation = t2.defaultRepresentation, d2.setColorRepresentation(d2._representation)), t2.showAlways && d2.show(), d2._initializingActive = false, d2._emit("init");
+            });
+          }
+          _preBuild() {
+            const { options: t2 } = this;
+            for (const e2 of ["el", "container"])
+              t2[e2] = c(t2[e2]);
+            this._root = ((t3) => {
+              const { components: e2, useAsButton: o2, inline: n2, appClass: i2, theme: s2, lockOpacity: r2 } = t3.options, l2 = (t4) => t4 ? "" : 'style="display:none" hidden', c2 = (e3) => t3._t(e3), p2 = a(`
+      <div :ref="root" class="pickr">
+
+        ${o2 ? "" : '<button type="button" :ref="button" class="pcr-button"></button>'}
+
+        <div :ref="app" class="pcr-app ${i2 || ""}" data-theme="${s2}" ${n2 ? 'style="position: unset"' : ""} aria-label="${c2("ui:dialog")}" role="window">
+          <div class="pcr-selection" ${l2(e2.palette)}>
+            <div :obj="preview" class="pcr-color-preview" ${l2(e2.preview)}>
+              <button type="button" :ref="lastColor" class="pcr-last-color" aria-label="${c2("btn:last-color")}"></button>
+              <div :ref="currentColor" class="pcr-current-color"></div>
+            </div>
+
+            <div :obj="palette" class="pcr-color-palette">
+              <div :ref="picker" class="pcr-picker"></div>
+              <div :ref="palette" class="pcr-palette" tabindex="0" aria-label="${c2("aria:palette")}" role="listbox"></div>
+            </div>
+
+            <div :obj="hue" class="pcr-color-chooser" ${l2(e2.hue)}>
+              <div :ref="picker" class="pcr-picker"></div>
+              <div :ref="slider" class="pcr-hue pcr-slider" tabindex="0" aria-label="${c2("aria:hue")}" role="slider"></div>
+            </div>
+
+            <div :obj="opacity" class="pcr-color-opacity" ${l2(e2.opacity)}>
+              <div :ref="picker" class="pcr-picker"></div>
+              <div :ref="slider" class="pcr-opacity pcr-slider" tabindex="0" aria-label="${c2("aria:opacity")}" role="slider"></div>
+            </div>
+          </div>
+
+          <div class="pcr-swatches ${e2.palette ? "" : "pcr-last"}" :ref="swatches"></div>
+
+          <div :obj="interaction" class="pcr-interaction" ${l2(Object.keys(e2.interaction).length)}>
+            <input :ref="result" class="pcr-result" type="text" spellcheck="false" ${l2(e2.interaction.input)} aria-label="${c2("aria:input")}">
+
+            <input :arr="options" class="pcr-type" data-type="HEXA" value="${r2 ? "HEX" : "HEXA"}" type="button" ${l2(e2.interaction.hex)}>
+            <input :arr="options" class="pcr-type" data-type="RGBA" value="${r2 ? "RGB" : "RGBA"}" type="button" ${l2(e2.interaction.rgba)}>
+            <input :arr="options" class="pcr-type" data-type="HSLA" value="${r2 ? "HSL" : "HSLA"}" type="button" ${l2(e2.interaction.hsla)}>
+            <input :arr="options" class="pcr-type" data-type="HSVA" value="${r2 ? "HSV" : "HSVA"}" type="button" ${l2(e2.interaction.hsva)}>
+            <input :arr="options" class="pcr-type" data-type="CMYK" value="CMYK" type="button" ${l2(e2.interaction.cmyk)}>
+
+            <input :ref="save" class="pcr-save" value="${c2("btn:save")}" type="button" ${l2(e2.interaction.save)} aria-label="${c2("aria:btn:save")}">
+            <input :ref="cancel" class="pcr-cancel" value="${c2("btn:cancel")}" type="button" ${l2(e2.interaction.cancel)} aria-label="${c2("aria:btn:cancel")}">
+            <input :ref="clear" class="pcr-clear" value="${c2("btn:clear")}" type="button" ${l2(e2.interaction.clear)} aria-label="${c2("aria:btn:clear")}">
+          </div>
+        </div>
+      </div>
+    `), u2 = p2.interaction;
+              return u2.options.find((t4) => !t4.hidden && !t4.classList.add("active")), u2.type = () => u2.options.find((t4) => t4.classList.contains("active")), p2;
+            })(this), t2.useAsButton && (this._root.button = t2.el), t2.container.appendChild(this._root.root);
+          }
+          _finalBuild() {
+            const t2 = this.options, e2 = this._root;
+            if (t2.container.removeChild(e2.root), t2.inline) {
+              const o2 = t2.el.parentElement;
+              t2.el.nextSibling ? o2.insertBefore(e2.app, t2.el.nextSibling) : o2.appendChild(e2.app);
+            } else
+              t2.container.appendChild(e2.app);
+            t2.useAsButton ? t2.inline && t2.el.remove() : t2.el.parentNode.replaceChild(e2.root, t2.el), t2.disabled && this.disable(), t2.comparison || (e2.button.style.transition = "none", t2.useAsButton || (e2.preview.lastColor.style.transition = "none")), this.hide();
+          }
+          _buildComponents() {
+            const t2 = this, e2 = this.options.components, o2 = (t2.options.sliders || "v").repeat(2), [n2, i2] = o2.match(/^[vh]+$/g) ? o2 : [], s2 = () => this._color || (this._color = this._lastColor.clone()), r2 = { palette: $({ element: t2._root.palette.picker, wrapper: t2._root.palette.palette, onstop: () => t2._emit("changestop", "slider", t2), onchange(o3, n3) {
+              if (!e2.palette)
+                return;
+              const i3 = s2(), { _root: r3, options: a2 } = t2, { lastColor: l2, currentColor: c2 } = r3.preview;
+              t2._recalc && (i3.s = 100 * o3, i3.v = 100 - 100 * n3, i3.v < 0 && (i3.v = 0), t2._updateOutput("slider"));
+              const p2 = i3.toRGBA().toString(0);
+              this.element.style.background = p2, this.wrapper.style.background = `
+                        linear-gradient(to top, rgba(0, 0, 0, ${i3.a}), transparent),
+                        linear-gradient(to left, hsla(${i3.h}, 100%, 50%, ${i3.a}), rgba(255, 255, 255, ${i3.a}))
+                    `, a2.comparison ? a2.useAsButton || t2._lastColor || l2.style.setProperty("--pcr-color", p2) : (r3.button.style.setProperty("--pcr-color", p2), r3.button.classList.remove("clear"));
+              const u2 = i3.toHEXA().toString();
+              for (const { el: e3, color: o4 } of t2._swatchColors)
+                e3.classList[u2 === o4.toHEXA().toString() ? "add" : "remove"]("pcr-active");
+              c2.style.setProperty("--pcr-color", p2);
+            } }), hue: $({ lock: i2 === "v" ? "h" : "v", element: t2._root.hue.picker, wrapper: t2._root.hue.slider, onstop: () => t2._emit("changestop", "slider", t2), onchange(o3) {
+              if (!e2.hue || !e2.palette)
+                return;
+              const n3 = s2();
+              t2._recalc && (n3.h = 360 * o3), this.element.style.backgroundColor = `hsl(${n3.h}, 100%, 50%)`, r2.palette.trigger();
+            } }), opacity: $({ lock: n2 === "v" ? "h" : "v", element: t2._root.opacity.picker, wrapper: t2._root.opacity.slider, onstop: () => t2._emit("changestop", "slider", t2), onchange(o3) {
+              if (!e2.opacity || !e2.palette)
+                return;
+              const n3 = s2();
+              t2._recalc && (n3.a = Math.round(100 * o3) / 100), this.element.style.background = `rgba(0, 0, 0, ${n3.a})`, r2.palette.trigger();
+            } }), selectable: k({ elements: t2._root.interaction.options, className: "active", onchange(e3) {
+              t2._representation = e3.target.getAttribute("data-type").toUpperCase(), t2._recalc && t2._updateOutput("swatch");
+            } }) };
+            this._components = r2;
+          }
+          _bindEvents() {
+            const { _root: t2, options: e2 } = this, o2 = [i(t2.interaction.clear, "click", () => this._clearColor()), i([t2.interaction.cancel, t2.preview.lastColor], "click", () => {
+              this.setHSVA(...(this._lastColor || this._color).toHSVA(), true), this._emit("cancel");
+            }), i(t2.interaction.save, "click", () => {
+              !this.applyColor() && !e2.showAlways && this.hide();
+            }), i(t2.interaction.result, ["keyup", "input"], (t3) => {
+              this.setColor(t3.target.value, true) && !this._initializingActive && (this._emit("change", this._color, "input", this), this._emit("changestop", "input", this)), t3.stopImmediatePropagation();
+            }), i(t2.interaction.result, ["focus", "blur"], (t3) => {
+              this._recalc = t3.type === "blur", this._recalc && this._updateOutput(null);
+            }), i([t2.palette.palette, t2.palette.picker, t2.hue.slider, t2.hue.picker, t2.opacity.slider, t2.opacity.picker], ["mousedown", "touchstart"], () => this._recalc = true, { passive: true })];
+            if (!e2.showAlways) {
+              const n2 = e2.closeWithKey;
+              o2.push(i(t2.button, "click", () => this.isOpen() ? this.hide() : this.show()), i(document, "keyup", (t3) => this.isOpen() && (t3.key === n2 || t3.code === n2) && this.hide()), i(document, ["touchstart", "mousedown"], (e3) => {
+                this.isOpen() && !l(e3).some((e4) => e4 === t2.app || e4 === t2.button) && this.hide();
+              }, { capture: true }));
+            }
+            if (e2.adjustableNumbers) {
+              const e3 = { rgba: [255, 255, 255, 1], hsva: [360, 100, 100, 1], hsla: [360, 100, 100, 1], cmyk: [100, 100, 100, 100] };
+              p(t2.interaction.result, (t3, o3, n2) => {
+                const i2 = e3[this.getColorRepresentation().toLowerCase()];
+                if (i2) {
+                  const e4 = i2[n2], s2 = t3 + (e4 >= 100 ? 1e3 * o3 : o3);
+                  return s2 <= 0 ? 0 : Number((s2 < e4 ? s2 : e4).toPrecision(3));
+                }
+                return t3;
+              });
+            }
+            if (e2.autoReposition && !e2.inline) {
+              let t3 = null;
+              const n2 = this;
+              o2.push(i(window, ["scroll", "resize"], () => {
+                n2.isOpen() && (e2.closeOnScroll && n2.hide(), t3 === null ? (t3 = setTimeout(() => t3 = null, 100), requestAnimationFrame(function e3() {
+                  n2._rePositioningPicker(), t3 !== null && requestAnimationFrame(e3);
+                })) : (clearTimeout(t3), t3 = setTimeout(() => t3 = null, 100)));
+              }, { capture: true }));
+            }
+            this._eventBindings = o2;
+          }
+          _rePositioningPicker() {
+            const { options: t2 } = this;
+            if (!t2.inline) {
+              if (!this._nanopop.update({ container: document.body.getBoundingClientRect(), position: t2.position })) {
+                const t3 = this._root.app, e2 = t3.getBoundingClientRect();
+                t3.style.top = (window.innerHeight - e2.height) / 2 + "px", t3.style.left = (window.innerWidth - e2.width) / 2 + "px";
+              }
+            }
+          }
+          _updateOutput(t2) {
+            const { _root: e2, _color: o2, options: n2 } = this;
+            if (e2.interaction.type()) {
+              const t3 = `to${e2.interaction.type().getAttribute("data-type")}`;
+              e2.interaction.result.value = typeof o2[t3] == "function" ? o2[t3]().toString(n2.outputPrecision) : "";
+            }
+            !this._initializingActive && this._recalc && this._emit("change", o2, t2, this);
+          }
+          _clearColor(t2 = false) {
+            const { _root: e2, options: o2 } = this;
+            o2.useAsButton || e2.button.style.setProperty("--pcr-color", "rgba(0, 0, 0, 0.15)"), e2.button.classList.add("clear"), o2.showAlways || this.hide(), this._lastColor = null, this._initializingActive || t2 || (this._emit("save", null), this._emit("clear"));
+          }
+          _parseLocalColor(t2) {
+            const { values: e2, type: o2, a: n2 } = w(t2), { lockOpacity: i2 } = this.options, s2 = n2 !== void 0 && n2 !== 1;
+            return e2 && e2.length === 3 && (e2[3] = void 0), { values: !e2 || i2 && s2 ? null : e2, type: o2 };
+          }
+          _t(t2) {
+            return this.options.i18n[t2] || L.I18N_DEFAULTS[t2];
+          }
+          _emit(t2, ...e2) {
+            this._eventListener[t2].forEach((t3) => t3(...e2, this));
+          }
+          on(t2, e2) {
+            return this._eventListener[t2].push(e2), this;
+          }
+          off(t2, e2) {
+            const o2 = this._eventListener[t2] || [], n2 = o2.indexOf(e2);
+            return ~n2 && o2.splice(n2, 1), this;
+          }
+          addSwatch(t2) {
+            const { values: e2 } = this._parseLocalColor(t2);
+            if (e2) {
+              const { _swatchColors: t3, _root: o2 } = this, n2 = A(...e2), s2 = r(`<button type="button" style="--pcr-color: ${n2.toRGBA().toString(0)}" aria-label="${this._t("btn:swatch")}"/>`);
+              return o2.swatches.appendChild(s2), t3.push({ el: s2, color: n2 }), this._eventBindings.push(i(s2, "click", () => {
+                this.setHSVA(...n2.toHSVA(), true), this._emit("swatchselect", n2), this._emit("change", n2, "swatch", this);
+              })), true;
+            }
+            return false;
+          }
+          removeSwatch(t2) {
+            const e2 = this._swatchColors[t2];
+            if (e2) {
+              const { el: o2 } = e2;
+              return this._root.swatches.removeChild(o2), this._swatchColors.splice(t2, 1), true;
+            }
+            return false;
+          }
+          applyColor(t2 = false) {
+            const { preview: e2, button: o2 } = this._root, n2 = this._color.toRGBA().toString(0);
+            return e2.lastColor.style.setProperty("--pcr-color", n2), this.options.useAsButton || o2.style.setProperty("--pcr-color", n2), o2.classList.remove("clear"), this._lastColor = this._color.clone(), this._initializingActive || t2 || this._emit("save", this._color), this;
+          }
+          destroy() {
+            cancelAnimationFrame(this._setupAnimationFrame), this._eventBindings.forEach((t2) => s(...t2)), Object.keys(this._components).forEach((t2) => this._components[t2].destroy());
+          }
+          destroyAndRemove() {
+            this.destroy();
+            const { root: t2, app: e2 } = this._root;
+            t2.parentElement && t2.parentElement.removeChild(t2), e2.parentElement.removeChild(e2), Object.keys(this).forEach((t3) => this[t3] = null);
+          }
+          hide() {
+            return !!this.isOpen() && (this._root.app.classList.remove("visible"), this._emit("hide"), true);
+          }
+          show() {
+            return !this.options.disabled && !this.isOpen() && (this._root.app.classList.add("visible"), this._rePositioningPicker(), this._emit("show", this._color), this);
+          }
+          isOpen() {
+            return this._root.app.classList.contains("visible");
+          }
+          setHSVA(t2 = 360, e2 = 0, o2 = 0, n2 = 1, i2 = false) {
+            const s2 = this._recalc;
+            if (this._recalc = false, t2 < 0 || t2 > 360 || e2 < 0 || e2 > 100 || o2 < 0 || o2 > 100 || n2 < 0 || n2 > 1)
+              return false;
+            this._color = A(t2, e2, o2, n2);
+            const { hue: r2, opacity: a2, palette: l2 } = this._components;
+            return r2.update(t2 / 360), a2.update(n2), l2.update(e2 / 100, 1 - o2 / 100), i2 || this.applyColor(), s2 && this._updateOutput(), this._recalc = s2, true;
+          }
+          setColor(t2, e2 = false) {
+            if (t2 === null)
+              return this._clearColor(e2), true;
+            const { values: o2, type: n2 } = this._parseLocalColor(t2);
+            if (o2) {
+              const t3 = n2.toUpperCase(), { options: i2 } = this._root.interaction, s2 = i2.find((e3) => e3.getAttribute("data-type") === t3);
+              if (s2 && !s2.hidden)
+                for (const t4 of i2)
+                  t4.classList[t4 === s2 ? "add" : "remove"]("active");
+              return !!this.setHSVA(...o2, e2) && this.setColorRepresentation(t3);
+            }
+            return false;
+          }
+          setColorRepresentation(t2) {
+            return t2 = t2.toUpperCase(), !!this._root.interaction.options.find((e2) => e2.getAttribute("data-type").startsWith(t2) && !e2.click());
+          }
+          getColorRepresentation() {
+            return this._representation;
+          }
+          getColor() {
+            return this._color;
+          }
+          getSelectedColor() {
+            return this._lastColor;
+          }
+          getRoot() {
+            return this._root;
+          }
+          disable() {
+            return this.hide(), this.options.disabled = true, this._root.button.classList.add("disabled"), this;
+          }
+          enable() {
+            return this.options.disabled = false, this._root.button.classList.remove("disabled"), this;
+          }
+        }
+        return E(L, "utils", o), E(L, "version", "1.8.2"), E(L, "I18N_DEFAULTS", { "ui:dialog": "color picker dialog", "btn:toggle": "toggle color picker dialog", "btn:swatch": "color swatch", "btn:last-color": "use previous color", "btn:save": "Save", "btn:cancel": "Cancel", "btn:clear": "Clear", "aria:btn:save": "save and close", "aria:btn:cancel": "cancel and close", "aria:btn:clear": "clear and close", "aria:input": "color input field", "aria:palette": "color selection area", "aria:hue": "hue selection slider", "aria:opacity": "selection slider" }), E(L, "DEFAULT_OPTIONS", { appClass: null, theme: "classic", useAsButton: false, padding: 8, disabled: false, comparison: true, closeOnScroll: false, outputPrecision: 0, lockOpacity: false, autoReposition: true, container: "body", components: { interaction: {} }, i18n: {}, swatches: null, inline: false, sliders: null, default: "#42445a", defaultRepresentation: null, position: "bottom-middle", adjustableNumbers: true, showAlways: false, closeWithKey: "Escape" }), E(L, "create", (t2) => new L(t2)), e = e.default;
+      })();
+    });
+  }
+});
+
+// src/main.ts
 var main_exports = {};
 __export(main_exports, {
   default: () => ObsidianParty
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian = require("obsidian");
+var import_obsidian3 = require("obsidian");
+var import_party_js2 = __toESM(require_lib());
+
+// src/effectConfig.ts
+var import_pickr = __toESM(require_pickr_min());
+var import_obsidian2 = require("obsidian");
 var import_party_js = __toESM(require_lib());
+
+// src/settings.ts
+var import_obsidian = require("obsidian");
+
+// src/utils.ts
+function capitalize(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+// src/settings.ts
+var EFFECTS = ["none", "confetti", "sparkles"];
+var DEFAULT_CONFIGURATION = {
+  effect: "confetti",
+  target: "element",
+  count: [],
+  speed: [],
+  size: [],
+  spread: [],
+  lifetime: [],
+  colors: [],
+  shapes: []
+};
+var DEFAULT_SETTINGS = {
+  taskEffectConfig: structuredClone(DEFAULT_CONFIGURATION),
+  dataviewEffectConfig: structuredClone(DEFAULT_CONFIGURATION),
+  checkboxEffectConfig: structuredClone(DEFAULT_CONFIGURATION)
+};
 var ObsidianPartySettingsTab = class extends import_obsidian.PluginSettingTab {
-  constructor(app, plugin) {
-    super(app, plugin);
+  constructor(app2, plugin) {
+    super(app2, plugin);
     this.plugin = plugin;
   }
   display() {
@@ -1693,62 +2262,265 @@ var ObsidianPartySettingsTab = class extends import_obsidian.PluginSettingTab {
     containerEl.createEl("h2", {
       text: "Settings for Obsidian party plugin"
     });
-    new import_obsidian.Setting(this.containerEl).setName("Task effect").setDesc("Effect that will be viewed when checking off a task").addDropdown((dropdown) => dropdown.addOptions({
-      none: "None",
-      confetti: "Confetti",
-      sparkles: "Sparkles"
-    }).setValue(this.plugin.settings.taskEffect).onChange((newValue) => {
-      this.plugin.settings.taskEffect = newValue;
+    if (app.plugins.enabledPlugins.has("obsidian-tasks-plugin")) {
+      this.addEffectSetting("taskEffectConfig", "Task effect", "The effect that will be displayed when marking the task as completed (obsidian-tasks-plugin)");
+    }
+    if (app.plugins.enabledPlugins.has("dataview")) {
+      this.addEffectSetting("dataviewEffectConfig", "Dataview effect", "The effect that will be displayed when marking the task as completed (dataview plugin)");
+    }
+    this.addEffectSetting("checkboxEffectConfig", "Checkbox effect", "The effect that will be displayed when checkbox is marked as completed (regular markdown checkbox)");
+  }
+  addEffectSetting(optionName, name, desc) {
+    if (Array.isArray(desc)) {
+      const d = new DocumentFragment();
+      d.append(...desc);
+      desc = d;
+    }
+    const configModal = new EffectConfigurationModal(this.plugin, optionName, this);
+    return new import_obsidian.Setting(this.containerEl).setName(name).setDesc(desc).addDropdown((dropdown) => dropdown.addOptions(Object.fromEntries(EFFECTS.map((effect) => [
+      effect,
+      capitalize(effect)
+    ]))).setValue(this.plugin.settings[optionName].effect).onChange((value) => {
+      this.plugin.settings[optionName].effect = value;
       this.plugin.saveSettings();
+    })).addExtraButton((button) => button.setIcon("gear").setTooltip("Effect configuration").onClick(() => {
+      configModal.open();
     }));
   }
 };
-var DEFAULT_SETTINGS = { taskEffect: "none" };
-var ObsidianParty = class extends import_obsidian.Plugin {
+
+// src/effectConfig.ts
+var TARGETS = ["mouse", "element", "line", "note", "app"];
+var RANGE_DEFAULTS = {
+  confetti: {
+    count: [20, 40],
+    speed: [300, 600],
+    size: [0.8, 1.2],
+    spread: [35, 45]
+  },
+  sparkles: {
+    count: [10, 20],
+    speed: [100, 200],
+    size: [0.8, 1.8],
+    lifetime: [1, 2]
+  },
+  none: {}
+};
+var RANGE_CONFIGS = [
+  "count",
+  "speed",
+  "size",
+  "spread",
+  "lifetime"
+];
+var EffectConfigurationModal = class extends import_obsidian2.Modal {
+  constructor(plugin, optionName, settingsTab) {
+    super(plugin.app);
+    this.plugin = plugin;
+    this.option = this.plugin.settings[optionName];
+    this.settingsTab = settingsTab;
+  }
+  onOpen() {
+    this.display();
+  }
+  display() {
+    const { contentEl } = this;
+    contentEl.empty();
+    contentEl.createEl("h2", {
+      text: "Effect configuration"
+    });
+    contentEl.createEl("p", {
+      text: "All settings here are optional. If you leave a setting blank, it will use the default value."
+    });
+    contentEl.createEl("p", {
+      text: "If you set only one of the min or max values, then it will be used as fixed value instead of random in range."
+    });
+    new import_obsidian2.Setting(contentEl).setName("Type").setDesc("The type of effect to use.").addDropdown((dropdown) => dropdown.addOptions(Object.fromEntries(EFFECTS.map((effect) => [
+      effect,
+      capitalize(effect)
+    ]))).setValue(this.option.effect).onChange((value) => {
+      this.option.effect = value;
+      this.plugin.saveSettings();
+      this.display();
+      this.settingsTab.display();
+    }));
+    new import_obsidian2.Setting(contentEl).setName("Target").setDesc("Where the effect should be emitted from.").addDropdown((dropdown) => {
+      dropdown.addOptions(Object.fromEntries(TARGETS.map((t) => [t, capitalize(t)])));
+      dropdown.setValue(this.option.target);
+      dropdown.onChange((value) => {
+        this.option.target = value;
+        this.plugin.saveSettings();
+      });
+    });
+    RANGE_CONFIGS.forEach((key) => {
+      var _a;
+      const s = new import_obsidian2.Setting(contentEl).setName(capitalize(key));
+      [0, 1].forEach((i) => {
+        s.addText((text) => {
+          var _a2;
+          text.setPlaceholder(i ? "Max" : "Min").setValue(((_a2 = this.option[key][i]) == null ? void 0 : _a2.toString()) || "").onChange((value) => {
+            let val = value ? Number(value) : void 0;
+            if (val && isNaN(val))
+              val = void 0;
+            this.option[key][i] = val;
+            this.plugin.saveSettings();
+          });
+        });
+      });
+      if (this.option.effect !== "none") {
+        if (RANGE_DEFAULTS[this.option.effect][key]) {
+          s.setDesc("Default: " + ((_a = RANGE_DEFAULTS[this.option.effect][key]) == null ? void 0 : _a.join(" - ")));
+        } else {
+          s.setDesc(`Option is not available for ${this.option.effect} effect.`);
+        }
+      }
+    });
+    contentEl.createEl("h3", {
+      text: "Shapes"
+    });
+    contentEl.createEl("p", {
+      text: "Click on shape to toggle it. If no shapes are selected, only default shapes will be used."
+    });
+    const shapes = contentEl.createDiv({ cls: "party-shapes" });
+    const enabledShapes = new import_obsidian2.Setting(shapes).setName("Enabled");
+    const disabledShapes = new import_obsidian2.Setting(shapes).setName("Disabled");
+    Object.entries(import_party_js.default.resolvableShapes).forEach(([shape, image]) => {
+      (this.option.shapes.includes(shape) ? enabledShapes : disabledShapes).addButton((button) => button.onClick(() => {
+        this.option.shapes.includes(shape) ? this.option.shapes.remove(shape) : this.option.shapes.push(shape);
+        this.plugin.saveSettings();
+        this.display();
+      }).buttonEl.innerHTML = image);
+    });
+    [enabledShapes, disabledShapes].forEach((setting) => setting.addButton((button) => button.setDisabled(true).buttonEl.addClass("party-shape-empty")));
+    contentEl.createEl("h3", {
+      text: "Colors"
+    });
+    const palette = contentEl.createDiv({ cls: "party-palette" });
+    for (let i = 0; i < this.option.colors.length + 1; i++) {
+      this.addPicker(palette, i);
+    }
+  }
+  addPicker(container, index) {
+    const picker = import_pickr.default.create({
+      el: container.createDiv(),
+      container: this.containerEl,
+      theme: "nano",
+      position: "left-middle",
+      default: this.option.colors[index] || "#FFFFFF",
+      components: {
+        preview: true,
+        hue: true,
+        interaction: {
+          hex: true,
+          rgba: true,
+          input: true,
+          cancel: true,
+          save: true,
+          clear: true
+        }
+      }
+    }).on("save", (color, instance) => {
+      if (color) {
+        this.option.colors[index] = color == null ? void 0 : color.toHEXA().toString();
+      }
+      this.plugin.saveSettings();
+      instance.hide();
+      if (index == this.option.colors.length - 1) {
+        this.display();
+      }
+    }).on("cancel", (instance) => {
+      instance.setColor(this.option.colors[index] || null, true);
+      instance.hide();
+    }).on("clear", (instance) => {
+      this.option.colors.splice(index, 1);
+      this.plugin.saveSettings();
+      this.display();
+    });
+    return picker;
+  }
+};
+
+// src/main.ts
+var ObsidianParty = class extends import_obsidian3.Plugin {
   constructor() {
     super(...arguments);
     this.settings = DEFAULT_SETTINGS;
+    this.configs = {};
   }
-  loadSettings() {
+  onload() {
     return __async(this, null, function* () {
-      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
+      yield this.loadSettings();
+      window.party = import_party_js2.default;
+      this.registerDomEvent(window, "click", (evt) => {
+        const target = evt.target;
+        if (target && target.instanceOf(HTMLElement)) {
+          let t;
+          if (document.body.contains(target)) {
+            t = import_party_js2.default.Rect.fromElement(target);
+          } else {
+            t = evt;
+          }
+          if (target.hasClass("confetti"))
+            import_party_js2.default.confetti(t);
+          if (target.hasClass("sparkles"))
+            import_party_js2.default.sparkles(t);
+        }
+      });
+      this.setupShapes();
+      this.setupObserver();
+      this.addSettingTab(new ObsidianPartySettingsTab(this.app, this));
     });
+  }
+  onunload() {
+    var _a;
+    delete window.party;
+    (_a = this.observer) == null ? void 0 : _a.disconnect();
+    delete this.observer;
   }
   saveSettings() {
     return __async(this, null, function* () {
       yield this.saveData(this.settings);
       this.setupObserver();
+      this.configs = {};
     });
   }
-  onload() {
+  loadSettings() {
     return __async(this, null, function* () {
-      yield this.loadSettings();
-      this.addSettingTab(new ObsidianPartySettingsTab(this.app, this));
-      window.party = import_party_js.default;
-      this.registerDomEvent(window, "click", (evt) => {
-        const target = evt.target;
-        if (target.instanceOf(HTMLElement)) {
-          if (target.hasClass("confetti"))
-            import_party_js.default.confetti(evt);
-          if (target.hasClass("sparkles"))
-            import_party_js.default.sparkles(evt);
-        }
-      });
-      this.setupObserver();
+      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
+      const taskEffect = this.settings.taskEffect;
+      if (taskEffect !== void 0) {
+        this.settings.taskEffectConfig.effect = taskEffect;
+        this.settings.dataviewEffectConfig.effect = taskEffect;
+        this.settings.checkboxEffectConfig.effect = taskEffect;
+        delete this.settings.taskEffect;
+      }
     });
+  }
+  setupShapes() {
+    import_party_js2.default.resolvableShapes["square"] = `<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10"><path d="M0 0h10v10H0z" fill="currentColor"/></svg>`;
+    import_party_js2.default.resolvableShapes["rectangle"] = `<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10"><path d="M0 2h10v6H0V2Z" fill="currentColor"/></svg>`;
+    delete import_party_js2.default.resolvableShapes["roundedSquare"];
+    delete import_party_js2.default.resolvableShapes["roundedRectangle"];
+    import_party_js2.default.resolvableShapes["snowflake"] = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"><path d="M14 6.523h-2.555l.985-.984-.676-.676-1.66 1.66h-2.27l1.137-1.96 2.27-.61-.247-.922-1.351.36 1.281-2.215-.828-.473-1.277 2.211-.36-1.348-.926.246.61 2.266L7 6.047 5.867 4.078l.61-2.266-.926-.246-.36 1.348L3.914.704l-.828.472L4.367 3.39l-1.351-.36-.246.922 2.27.61 1.136 1.96h-2.27l-1.66-1.66-.676.676.985.984H0v.954h2.555l-.985.984.676.676 1.66-1.66h2.27l-1.137 1.96-2.27.61.247.922 1.351-.36-1.281 2.215.828.473 1.277-2.211.36 1.348.926-.246-.61-2.266L7 7.953l1.133 1.969-.61 2.265.926.247.36-1.348 1.277 2.21.828-.472-1.281-2.215 1.351.36.246-.922-2.27-.61-1.136-1.96h2.27l1.66 1.66.676-.676-.985-.984H14Zm0 0" fill="currentColor"/></svg>`;
+    import_party_js2.default.resolvableShapes["diamond"] = `<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12"><path d="m5.89 0-5 6 5 6 5-6-5-6Z" fill="currentColor"/></svg>`;
+    import_party_js2.default.resolvableShapes["triangle"] = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"><path fill="currentColor" d="m7 1 6.062 10.5H.938L7 1Z"/></svg>`;
   }
   setupObserver() {
-    if (this.settings.taskEffect === "none") {
-      if (this.observer)
-        this.observer.disconnect();
+    var _a;
+    if (this.settings.taskEffectConfig.effect === "none" && this.settings.dataviewEffectConfig.effect === "none" && this.settings.checkboxEffectConfig.effect === "none") {
+      (_a = this.observer) == null ? void 0 : _a.disconnect();
+      delete this.observer;
       return;
-    } else if (this.observer)
+    }
+    if (this.observer)
       return;
     this.observer = new MutationObserver((mutations) => {
       document.querySelectorAll(".view-content input[type=checkbox]:not(.party-patched)").forEach((checkbox) => {
         checkbox.addEventListener("click", (evt) => {
-          if (checkbox.checked)
-            this.taskEffect(evt);
+          if (checkbox.checked) {
+            const setting = checkbox.closest(".plugin-tasks-list-item") && !checkbox.closest(".has-list-bullet") ? "taskEffectConfig" : checkbox.closest(".dataview") ? "dataviewEffectConfig" : "checkboxEffectConfig";
+            this.triggerEffect(evt, setting);
+          }
         });
         checkbox.classList.add("party-patched");
       });
@@ -1758,19 +2530,75 @@ var ObsidianParty = class extends import_obsidian.Plugin {
       subtree: true
     });
   }
-  taskEffect(target) {
-    switch (this.settings.taskEffect) {
+  taskEffect(evt) {
+    this.triggerEffect(evt, "taskEffectConfig");
+  }
+  triggerEffect(evt, optionName) {
+    if (this.settings[optionName].effect === "none")
+      return;
+    const effectConfig = this.getConfig(optionName);
+    let target;
+    let checkbox = evt.target;
+    if (!(checkbox == null ? void 0 : checkbox.instanceOf(HTMLElement)))
+      checkbox = void 0;
+    switch (this.settings[optionName].target) {
+      case "element": {
+        if (checkbox && document.body.contains(checkbox)) {
+          target = import_party_js2.default.Rect.fromElement(checkbox);
+        } else
+          target = evt;
+        break;
+      }
+      case "line": {
+        const line = (checkbox == null ? void 0 : checkbox.closest(".cm-line")) || (checkbox == null ? void 0 : checkbox.closest("li"));
+        if (line && (line == null ? void 0 : line.instanceOf(HTMLElement)) && document.body.contains(line)) {
+          target = import_party_js2.default.Rect.fromElement(line);
+        } else
+          target = evt;
+        break;
+      }
+      case "note": {
+        const note = checkbox == null ? void 0 : checkbox.closest(".view-content");
+        if (note && (note == null ? void 0 : note.instanceOf(HTMLElement))) {
+          target = import_party_js2.default.Rect.fromElement(note);
+        } else
+          target = evt;
+        break;
+      }
+      case "app":
+        target = document.body;
+        break;
+      default:
+        target = evt;
+    }
+    switch (this.settings[optionName].effect) {
       case "confetti":
-        import_party_js.default.confetti(target);
+        import_party_js2.default.confetti(target, effectConfig);
         return;
       case "sparkles":
-        import_party_js.default.sparkles(target);
+        import_party_js2.default.sparkles(target, effectConfig);
         return;
     }
   }
-  onunload() {
-    delete window.party;
-    if (this.observer)
-      this.observer.disconnect();
+  convertConfig(config) {
+    const cfg = {};
+    RANGE_CONFIGS.forEach((key) => {
+      if (config[key][0] && config[key][1])
+        cfg[key] = import_party_js2.default.variation.range(config[key][0], config[key][1]);
+      else if (config[key].find((value) => value))
+        cfg[key] = config[key].find((value) => value);
+    });
+    if (config.shapes.length)
+      cfg.shapes = config.shapes.filter((s) => Object.keys(import_party_js2.default.resolvableShapes).includes(s));
+    if (config.colors.length)
+      cfg.color = config.colors.map((color) => import_party_js2.default.Color.fromHex(color));
+    return cfg;
+  }
+  getConfig(optionName) {
+    if (this.configs[optionName] === void 0) {
+      this.configs[optionName] = this.convertConfig(this.settings[optionName]);
+    }
+    return this.configs[optionName];
   }
 };
+/*! Pickr 1.8.2 MIT | https://github.com/Simonwep/pickr */
