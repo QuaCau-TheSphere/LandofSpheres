@@ -46,7 +46,6 @@ Các bước thực hiện:
 - [x] Supercharged links/admonition/multiple columns
 - [>] Thiết kế vault phù hợp cho khảo sát
 - [>] business strategy map
-- [ ] Juggl
 - [ ] [[04 Đồng bộ dữ liệu]]
 	- [ ] Kết nối dữ liệu từ git sang Discord
 - [ ] Nhập thông tin hai chiều được
@@ -56,8 +55,10 @@ Các bước thực hiện:
 - [ ] Quản lý thời gian
 - [ ] Kết nối dữ liệu sang web database/Airtable/Notion
 - [ ] Cách thể hiện độ quá tải của các thành viên
+- [ ] Graphvidian v2
 - [ ] Viết Mermaidian
 	- [ ] Tự động tạo Gantt
+- [ ] Daily task & log review
 
 Công việc thành phần:: [[Hoàn thành quy trình git]]
 next:: [[Đánh giá tính tiện dụng của hệ thống dữ liệu]]
