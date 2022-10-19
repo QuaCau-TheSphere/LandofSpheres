@@ -11,8 +11,13 @@
             "id": "7e91e3046cf736d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9 Tài liệu/96 Checklist, hướng dẫn/Hướng dẫn đồng bộ Obsidian.md"
+              }
             }
           },
           {
