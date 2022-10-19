@@ -21,6 +21,7 @@ Nhân sự:: [[Nhật]], [[Thịnh]], [[Tuyên]], [[Ân]]
 Tài nguyên::
 Kết quả mong muốn:: 8/10 thành viên trả lời được kế hoạch tháng tới của mình là gì
 Kết quả mong muốn:: file [[00.2 Kế hoạch tổng thể]] dễ hiểu với mọi người
+![[Chu kỳ lên kế hoạch chiến lược.jpg]]
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
 ```dataview
