@@ -14,7 +14,7 @@ Tính chất công việc:: Cần sự tư duy
 === end-column ===
 
 Ban:: [[B1 Nghiên cứu]]
-Nhân sự::
+Nhân sự:: [[Nhật]]
 
 === end-multi-column
 
