@@ -7,7 +7,7 @@ Mục tiêu:: [[Người cho rằng tâm linh ưu việt hơn khoa học đặt 
 Mục tiêu:: [[Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh đặt câu hỏi về...]]
 Mục tiêu:: [[Người có niềm tin phản khoa học đặt câu hỏi về...]]
 Mục tiêu:: [[Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về...]]
-
+Mục tiêu:: [[Có được sự quan tâm của người được đào tạo bài bản về vật lý hoặc tâm lý học]]
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng::
@@ -17,7 +17,7 @@ Mục tiêu:: [[Người muốn tìm hiểu về vật lý, tâm lý học đặ
 - Người có niềm tin phản khoa học, phê phán khoa học nhưng không vào trọng tâm
 - Người đơn thuần chỉ là có đam mê nghiên cứu nhưng không có nhiều thời gian hoặc được đào tạo chuyên nghiệp
 
-Hoạt động:: [[Hoàn thành bài vè các ghi chú cũ của Nhật khi học vật lý]]
+
 # Thực thể khi được nhìn như là sản phẩm
 
 Các lĩnh vực thường gặp: vật lý, toán học, tâm lý học, lịch sử, ngôn ngữ học
