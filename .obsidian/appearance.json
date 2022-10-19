@@ -5,10 +5,10 @@
     "Horizontal tabs",
     "Custom"
   ],
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 16,
   "cssTheme": "",
   "accentColor": "",
   "nativeMenus": true,
-  "translucency": true
+  "translucency": false
 }
