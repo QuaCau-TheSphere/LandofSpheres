@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "4728980d6b86fd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Làm video cho Obsidian.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Làm video cho Obsidian.md",
+                "file": "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Làm video cho Obsidian.md",
+                "file": "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Làm video cho Obsidian.md"
+                "file": "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md"
               }
             }
           },
@@ -171,10 +157,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4728980d6b86fd43",
+  "active": "7e91e3046cf736d8",
   "lastOpenFiles": [
+    "1 Công việc/16 Kỹ thuật - thiết kế - khác/Làm video cho Obsidian.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md",
-    "Làm video cho Obsidian.md",
     "1 Công việc/12 Lên kế hoạch, xây dựng tổ chức/Đánh giá định kỳ kế hoạch hành động.md",
     "1 Công việc/Tạo thang đo cho các kết quả mong muốn.md",
     "6 Tổ chức/62 Thành viên/Nhật.md",
