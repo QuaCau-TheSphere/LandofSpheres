@@ -7,9 +7,9 @@ Phục vụ cho những nhu cầu này của mình:
 list where contains(tương-ứng-với-mục-tiêu,[[]])
 ```
 
-Mục tiêu::
+Mục tiêu:: [[27 Trang hỏi đáp liên lĩnh vực]]
 Yếu tố hỗ trợ::
-Ý tưởng tốt hơn::
+Ý tưởng tốt hơn:: [[p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được mục tiêu của mình]]
 Hoạt động::
 
 Điểm mạnh::
