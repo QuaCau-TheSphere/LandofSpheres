@@ -18,7 +18,7 @@ Nhân sự:: [[Nhật]]
 
 === end-multi-column
 
-Tài nguyên:: [[Các ghi chú cũ khi học vật lý]]
+Tài nguyên:: [[Các ghi chú cũ của Nhật khi học vật lý]]
 Kết quả mong muốn:: <% tp.file.cursor() %>
 ##### Chỉ số trước
 

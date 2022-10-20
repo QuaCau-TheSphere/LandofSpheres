@@ -8,3 +8,4 @@ Lyminhnhat.com/concrete-analogies-big-pictures
 
 Xử lý file pdf
 
+Nhân tiện, tôi cần người phụ đánh lại những ghi chú này trên máy tính. Không biết có bạn nào hứng thú với việc này không?
