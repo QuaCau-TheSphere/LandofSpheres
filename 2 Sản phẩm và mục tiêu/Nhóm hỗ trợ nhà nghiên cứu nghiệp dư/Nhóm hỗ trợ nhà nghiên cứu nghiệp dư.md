@@ -8,7 +8,8 @@ Mục tiêu:: [[Người sử dụng khoa học để làm cơ sở cho niềm t
 Mục tiêu:: [[Người có niềm tin phản khoa học đặt câu hỏi về...]]
 Mục tiêu:: [[Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về...]]
 Mục tiêu:: [[Có được sự tham gia của người được đào tạo bài bản về vật lý hoặc tâm lý học]]
-Điểm mạnh::
+
+Điểm mạnh:: [[Nhật có kiến thức chuyên môn về vật lý]]
 Điểm yếu::
 Đối tượng thụ hưởng::
 - Người cho rằng mình có phát kiến mới (nhưng không đưa ra lập luận hợp lý) 
