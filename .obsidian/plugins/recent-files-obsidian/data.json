@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Công việc",
+      "path": "1 Công việc/1 Công việc.md"
+    },
+    {
+      "basename": "README",
+      "path": "__sekund__/README.md"
+    },
+    {
       "basename": "Gặp Viễn Đông",
       "path": "3 Các bên liên quan/Gặp mặt/Gặp Viễn Đông.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Bài truyền thông sự kiện ❝Một đám mây chim sáo❞",
       "path": "2 Sản phẩm và mục tiêu/21 Đám mây chim sáo lông vàng/Bài truyền thông sự kiện ❝Một đám mây chim sáo❞.md"
-    },
-    {
-      "basename": "D&D",
-      "path": "2 Sản phẩm và mục tiêu/21 Đám mây chim sáo lông vàng/D&D.md"
     },
     {
       "basename": "Bài đăng trên nhóm",
@@ -191,14 +195,6 @@
     {
       "basename": "6 Tổ chức",
       "path": "6 Tổ chức/6 Tổ chức.md"
-    },
-    {
-      "basename": "62 Thành viên",
-      "path": "6 Tổ chức/62 Thành viên/62 Thành viên.md"
-    },
-    {
-      "basename": "Trang (Chuối)",
-      "path": "6 Tổ chức/62 Thành viên/Trang (Chuối).md"
     }
   ],
   "omittedPaths": [],

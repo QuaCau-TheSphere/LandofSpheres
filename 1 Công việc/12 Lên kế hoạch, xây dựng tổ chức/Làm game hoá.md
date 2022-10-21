@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [[D&D]]
+Tài nguyên:: [[Tính năng của vault]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 
