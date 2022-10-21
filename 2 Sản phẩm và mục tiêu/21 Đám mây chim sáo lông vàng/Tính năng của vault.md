@@ -46,4 +46,5 @@ Test my knowledge
 | Ban                                         | Nhà, trại, ngân hàng                |
 | Các kênh liên lạc                           | Xe, thuyền, cân đẩu vân             |
 | Sự thỏa mãn của người khác về điều mình làm | Vàng                                |
+|                                             | Cốt truyện                          |
 |                                             |                                     |
