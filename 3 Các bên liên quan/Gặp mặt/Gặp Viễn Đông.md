@@ -4,3 +4,7 @@ CHương trình đã lên kế hoạch nội dung xong hết rồi, tổng chi p
 Gói thông tin doanh nghiệp để tri ân
 
 Chào mọi người, mình đang cần tìm một agency dịch vụ lữ hành có thể xuất hoá đơn VAT cho việc ăn, ở. Chi phí càng rẻ càng tốt. Không biết mọi người có biết ai có thể giúp mình không? Mình cảm ơn
+
+Cho em hỏi đây có phải là số anh Trúc ở Viettravel không?
+
+Dạ em xin chào anh Trúc. Em xin tự giới thiệu em là Lý Minh Nhật, hiện đang làm ở dự án Quả Cầu. Em có được số anh là qua chị Phương ở bên Bảo Việt. Hiện dự án của tụi em đang cần tìm một agency dịch vụ lữ hành có thể xuất hoá đơn VAT cho việc ăn, ở. Chi phí càng rẻ càng tốt. Không biết bên mình có nhận làm việc này không? Em xin cảm ơn anh
