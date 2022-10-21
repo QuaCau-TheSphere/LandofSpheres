@@ -3,6 +3,8 @@ Các dự án
 Homepage
 Graphvidian
 Git
+Công việc định kỳ
+Test my knowledge
 # Ý nghĩa các folder
 | Folder                 | Giải thích                                             | Mô hình sử dụng |
 | ---------------------- | ------------------------------------------------------ | --------------- |
