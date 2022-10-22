@@ -23,3 +23,9 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 -   Du lịch văn hoá: có tham gia khám phá văn hoá
     -   Thay đổi nhận thức cộng đồng, dung hoà hơn với khác biệt văn hoá
 
+5 nguyên tắc của SDG:
+- Áp dụng cho tất cả các quốc gia (tính toàn cầu) 
+- Không bỏ rơi ai phía sau
+- Tính toàn diện
+- Hợp tác giữa các bên
+- Tất cả các mục tiêu đều gắn kết với nhau (tính gắn kết) 
