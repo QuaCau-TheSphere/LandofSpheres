@@ -80,3 +80,4 @@ Phê bình:
 Trải nghiệm của phụ nữ với môi trường rất khác với trải nghiệm của đàn ông với môi trường. Hoang mang về tâm lý khi không biết phải bảo vệ con, bảo vệ gia đình thế nào khi môi trường sống quanh mình bị suy thoái
 
 - Những kẻ khác con người (human others): phụ nữ, người da đen, trẻ em, người nghèo
+- Những kẻ khác trái đất (earth others)
