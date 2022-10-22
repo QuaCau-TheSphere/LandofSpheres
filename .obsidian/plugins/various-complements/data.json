@@ -71,14 +71,6 @@
         }
       }
     },
-    "Lý do::": {
-      "Lý do::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1663769592603
-        }
-      }
-    },
     "PNML": {
       "độ-cấp-thiết=\"Phải làm ngay\" or độ-cấp-thiết=\"Muốn làm ngay\" or độ-cấp-thiết=\"Nên làm ngay\" or độ-cấp-thiết=\"Công việc lặp lại\" ": {
         "customDictionary": {
@@ -124,6 +116,14 @@
         "customDictionary": {
           "count": 4,
           "lastUpdated": 1666179495548
+        }
+      }
+    },
+    "Tham khảo:: [[|]]": {
+      "Tham khảo:: [[|]]": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666411134746
         }
       }
     }

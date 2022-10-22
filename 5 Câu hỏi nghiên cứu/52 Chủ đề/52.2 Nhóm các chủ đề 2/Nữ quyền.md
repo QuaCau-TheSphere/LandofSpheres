@@ -75,3 +75,6 @@ Phê bình:
 - Không xét đến hệ thống. Có bức phá thì vẫn nằm trong hệ thống đó thôi
 
 # Nữ quyền xã hội chủ nghĩa
+
+# Nữ quyền sinh thái
+Trải nghiệm của phụ nữ với môi trường rất khác với trải nghiệm của đàn ông với môi trường. Phải bảo vệ môi trường nếu muốn bảo vệ cuộc sống của con, của gia đình mình
