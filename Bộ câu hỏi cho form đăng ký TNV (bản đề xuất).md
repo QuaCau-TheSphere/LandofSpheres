@@ -1,0 +1,36 @@
+**
+
+1. Thông tin cá nhân
+
+*Giữ nguyên
+
+2. Kinh nghiệm làm việc,hoạt động tình nguyện
+
+-   Bạn học ngành gì?  (giữ nguyên)
+    
+-   Bạn đang đi học hay đi làm? (giữ nguyên)
+    
+-   Bạn đã/đang làm việc với vị trí, công việc gì?
+    
+-   Bạn biết ơn khi nhận được những điều gì ở tổ chức/công việc cũ?
+    
+-   Link CV, porfolio hoặc các tài liệu khác bạn muốn gửi tới Quả Cầu (giữ nguyên)
+    
+
+3. Bạn và Quả Cầu
+
+-   Bạn đang cần một môi trường để phát triển các kỹ năng nào?
+    
+-   Bạn cho rằng một tổ chức như nào sẽ phù hợp để bạn gắn bó? (cách vận hành, văn hóa, con người,deadline, KPIs,...)
+    
+-   Các giá trị cá nhân quan trọng nhất với bạn là gì? (giữ nguyên)
+    
+-   Bạn đang giữ thái độ phản tư, tò mò, dũng cảm, trân trọng mọi thứ ở mức độ nào?
+    
+-   Bạn cho rằng điều gì có khả năng trở thành lý do để bạn rời bỏ 1 tổ chức/công việc?
+    
+-   Bạn muốn tham gia vào các tiểu ban nào? (giữ nguyên)
+    
+
+  
+**
