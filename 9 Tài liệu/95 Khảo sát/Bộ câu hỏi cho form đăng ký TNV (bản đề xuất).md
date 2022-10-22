@@ -36,4 +36,4 @@
 **
 Một số lý do cho việc đề xuất bộ câu hỏi trên:
 - Không hỏi thời gian TNV có thể dành cho QC là vì QC không yêu cầu TNV cam kết thời gian làm việc tối thiểu
-- Bỏ đi câu hỏi về 
+- Bỏ đi câu hỏi về Công việc hưởng lương mà ứng viên đã từng làm vì nội dung đó không quá cần thiết 
