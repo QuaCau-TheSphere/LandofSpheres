@@ -18,7 +18,7 @@ Nhân sự:: [[Trang (Chuối)]]
 
 === end-multi-column
 
-Tài nguyên:: 
+Tài nguyên:: [[Bộ câu hỏi cho form đăng ký TNV (bản đề xuất)]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
