@@ -29,9 +29,22 @@
                 "currentVersion": "1.0.0"
               }
             }
+          },
+          {
+            "id": "33f44cc9889cd51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Sự kiến tạo giới.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Công việc/1 Công việc.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Sự kiến tạo giới.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Công việc/1 Công việc.md",
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Sự kiến tạo giới.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Công việc/1 Công việc.md"
+                "file": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Sự kiến tạo giới.md"
               }
             }
           },
@@ -168,7 +181,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "13ccf7cfe654e07b",
+  "active": "33f44cc9889cd51c",
   "lastOpenFiles": [
     "__sekund__/README.md",
     "3 Các bên liên quan/Gặp mặt/Gặp Viễn Đông.md",
