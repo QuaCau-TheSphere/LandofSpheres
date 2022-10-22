@@ -17,3 +17,8 @@ Nữ quyền sinh thái phê phán Kinh thánh rất mạnh, vì Kinh thánh cho
 Khi rừng bị phá thì đàn ông càng ngày càng làm những công việc ở đô thị và đồn điền, phụ nữ phải làm kèm thêm công việc của đàn ông
 
 Silent Spring: một trong những văn bản đầu tiên của nữ quyền sinh thái
+
+3 trọng tâm của nữ quyền sinh thái:
+- Thực tiễn: những tiếng nói liên quan trực tiếp đến con người
+- Ý niệm (văn hoá/biểu tượng): những thực hành văn hoá trao đặc quyền cho ai?
+- Nhận thức luận: đến lúc nào thì tri thức của phụ nữ được coi trọng
