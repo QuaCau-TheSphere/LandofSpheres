@@ -7,7 +7,7 @@ Mục tiêu:: [[Người cho rằng tâm linh ưu việt hơn khoa học đặt 
 Mục tiêu:: [[Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh đặt câu hỏi về...]]
 Mục tiêu:: [[Người có niềm tin phản khoa học đặt câu hỏi về...]]
 Mục tiêu:: [[Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về...]]
-Mục tiêu:: [[Có được sự tham gia của người được đào tạo bài bản về vật lý hoặc tâm lý học]]
+Mục tiêu:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/null/Tri thức bản địa]]
 
 Điểm mạnh:: [[Nhật có kiến thức chuyên môn về vật lý]]
 Điểm yếu::
