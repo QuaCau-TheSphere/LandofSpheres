@@ -3,7 +3,7 @@
 > Pass: Qu@cau00
 
 - [Quản trị website](https://xn--qucu-hr5aza.cc/wp-login.php)
-
+- [Đăng ký TNV](https://xn--qucu-hr5aza.cc/wp-admin/admin.php?page=formidable-entries&frm-full=1&frm_action=list&form=19 "Formidable | Entries - Quả Cầu")
 ## Các công cụ chuyên môn
 ### Sale & marketing
 - Hubspot
