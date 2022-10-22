@@ -22,3 +22,5 @@ Silent Spring: một trong những văn bản đầu tiên của nữ quyền si
 - Thực tiễn: những tiếng nói liên quan trực tiếp đến con người
 - Ý niệm (văn hoá/biểu tượng): những thực hành văn hoá trao đặc quyền cho ai?
 - Nhận thức luận: đến lúc nào thì tri thức của phụ nữ được coi trọng
+
+Phụ nữ liệu có nhiều earth-sensitivity, nên họ tương thông với tự nhiên nhiều hơn không?
