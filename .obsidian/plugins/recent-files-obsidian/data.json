@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Công việc",
+      "path": "1 Công việc/1 Công việc.md"
+    },
+    {
+      "basename": "3 Các bên liên quan",
+      "path": "3 Các bên liên quan/3 Các bên liên quan.md"
+    },
+    {
+      "basename": "Điểm yếu - thách thức",
+      "path": "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md"
+    },
+    {
+      "basename": "Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc",
+      "path": "4 SWOT/Điểm yếu - thách thức/42 Triết lý tổ chức - quan điểm của Nhật/Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc.md"
+    },
+    {
       "basename": "Các nền tảng khác của QC",
       "path": "9 Tài liệu/99 Tài liệu khác/Các nền tảng khác của QC.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "Nữ quyền",
       "path": "5 Câu hỏi nghiên cứu/52 Chủ đề/52.2 Nhóm các chủ đề 2/Nữ quyền.md"
-    },
-    {
-      "basename": "1 Công việc",
-      "path": "1 Công việc/1 Công việc.md"
     },
     {
       "basename": "Tạo trắc nghiệm mức độ đọc hiểu của độc giả",
@@ -117,10 +129,6 @@
       "path": "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình.md"
     },
     {
-      "basename": "3 Các bên liên quan",
-      "path": "3 Các bên liên quan/3 Các bên liên quan.md"
-    },
-    {
       "basename": "Xây dựng hệ thống quản lý dự án",
       "path": "1 Công việc/16 Kỹ thuật - thiết kế - khác/Xây dựng hệ thống quản lý dự án.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Đồ thị mạng lưới 100+ niềm tin trong xã hội",
       "path": "2 Sản phẩm và mục tiêu/Đồ thị mạng lưới 100+ niềm tin trong xã hội.md"
-    },
-    {
-      "basename": "Cầu nối cho các sáng kiến quốc tế",
-      "path": "2 Sản phẩm và mục tiêu/Cầu nối cho các sáng kiến quốc tế.md"
-    },
-    {
-      "basename": "04 Đồng bộ dữ liệu",
-      "path": "Ξ Meta 0/04 Đồng bộ dữ liệu.md"
-    },
-    {
-      "basename": "00.0 Bản đồ trong QC",
-      "path": "00.0 Bản đồ trong QC.md"
     }
   ],
   "omittedPaths": [],
