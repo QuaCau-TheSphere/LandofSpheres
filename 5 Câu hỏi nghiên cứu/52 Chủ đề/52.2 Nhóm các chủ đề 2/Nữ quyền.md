@@ -77,4 +77,5 @@ Phê bình:
 # Nữ quyền xã hội chủ nghĩa
 
 # Nữ quyền sinh thái
-Trải nghiệm của phụ nữ với môi trường rất khác với trải nghiệm của đàn ông với môi trường. Phải bảo vệ môi trường nếu muốn bảo vệ cuộc sống của con, của gia đình mình
+Trải nghiệm của phụ nữ với môi trường rất khác với trải nghiệm của đàn ông với môi trường. Hoang mang về tâm lý khi không biết phải bảo vệ con, bảo vệ gia đình thế nào khi môi trường sống quanh mình bị suy thoái
+
