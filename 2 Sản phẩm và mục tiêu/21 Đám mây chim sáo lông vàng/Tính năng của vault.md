@@ -52,3 +52,5 @@ Test my knowledge
 | Sự thỏa mãn của người khác về điều mình làm | Vàng                                |
 |                                             | Cốt truyện                          |
 |                                             |                                     |
+# Tính năng trên web
+Homepage thể hiện mạng lưới
