@@ -24,7 +24,7 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
     -   Thay đổi nhận thức cộng đồng, dung hoà hơn với khác biệt văn hoá
 
 5 nguyên tắc của SDG:
-- Áp dụng cho tất cả các quốc gia (tính toàn cầu) 
+- Áp dụng cho mọi quốc gia, mọi hoàn cảnh và mọi thời điểm (tính toàn cầu) 
 - Không bỏ rơi ai phía sau
 - Tính toàn diện
 - Hợp tác giữa các bên
