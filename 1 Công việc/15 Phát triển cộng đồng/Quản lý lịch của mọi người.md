@@ -14,7 +14,7 @@ Tính chất công việc:: Có thể làm một mình, Không phải suy nghĩ 
 === end-column ===
 
 Ban:: [[C Nhân sự]], [[E Hậu cần]], [[A1 Điều phối mạng lưới]]
-Nhân sự::
+Nhân sự:: [[Trang (Chuối)]]
 
 === end-multi-column
 
