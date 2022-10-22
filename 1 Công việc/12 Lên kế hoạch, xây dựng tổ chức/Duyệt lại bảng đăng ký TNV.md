@@ -18,7 +18,7 @@ Nhân sự:: [[Trang (Chuối)]]
 
 === end-multi-column
 
-Tài nguyên::
+Tài nguyên:: 
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
