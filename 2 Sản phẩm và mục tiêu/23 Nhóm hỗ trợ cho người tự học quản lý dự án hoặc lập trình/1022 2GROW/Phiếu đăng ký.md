@@ -11,4 +11,4 @@ Nhóm bạn nghĩ gì về nữ quyền nói chung và nữ quyền tại Việt
 
 Nhóm có dự định gì sau khi trở thành thành viên 2GROW? (tối thiểu 150 chữ)
 
-[FORM ĐĂNG KÝ THÀNH VIÊN 2GROW](https://docs.google.com/forms/d/e/1FAIpQLSeIxoze8fpx0EUM_f9qvSdUYfcxaWhVnPaNqEMyf9yHIBDPOg/formResponse)
+[FORM ĐĂNG KÝ THÀNH VIÊN 2GROW](https://docs.google.com/forms/d/e/1FAIpQLSeIxoze8fpx0EUM_f9qvSdUYfcxaWhVnPaNqEMyf9yHIBDPOg/formResponse),
