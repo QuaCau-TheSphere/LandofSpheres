@@ -14,7 +14,7 @@ Tính chất công việc:: Cần họp thường xuyên
 === end-column ===
 
 Ban:: [[Ω Điều hành]]
-Nhân sự::
+Nhân sự:: [[Trang (Chuối)]]
 
 === end-multi-column
 
