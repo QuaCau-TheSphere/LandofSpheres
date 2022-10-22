@@ -15,3 +15,5 @@ Trải nghiệm của phụ nữ với môi trường rất khác với trải n
 Nữ quyền sinh thái phê phán Kinh thánh rất mạnh, vì Kinh thánh cho rằng con người là hiện thân của chúa, và tự nhiên được sinh ra để con người đỡ buồn
 
 Khi rừng bị phá thì đàn ông càng ngày càng làm những công việc ở đô thị và đồn điền, phụ nữ phải làm kèm thêm công việc của đàn ông
+
+Silent Spring: một trong những văn bản đầu tiên của nữ quyền sinh thái
