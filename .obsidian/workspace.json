@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "13ccf7cfe654e07b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7e91e3046cf736d8",
+  "active": "13ccf7cfe654e07b",
   "lastOpenFiles": [
     "__sekund__/README.md",
     "3 Các bên liên quan/Gặp mặt/Gặp Viễn Đông.md",
