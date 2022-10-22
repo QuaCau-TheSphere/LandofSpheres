@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test dev.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5026054382324
+    "width": 294.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "53c005eb65d0a202",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test dev.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test dev.md",
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test dev.md"
+                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md"
               }
             }
           },
@@ -183,6 +184,7 @@
   },
   "active": "1a3ff5fc34ff5d0e",
   "lastOpenFiles": [
+    "test dev.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Phiếu đăng ký.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
     "1 Công việc/14 Tổ chức sự kiện/Thuyết trình bên 2GROW.md",
@@ -191,7 +193,6 @@
     "3 Các bên liên quan/3 Các bên liên quan.md",
     "1 Công việc/Xây dựng [[23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]].md",
     "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md",
-    "4 SWOT/Điểm yếu - thách thức/42 Triết lý tổ chức - quan điểm của Nhật/Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc.md",
-    "9 Tài liệu/99 Tài liệu khác/Các nền tảng khác của QC.md"
+    "4 SWOT/Điểm yếu - thách thức/42 Triết lý tổ chức - quan điểm của Nhật/Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc.md"
   ]
 }
