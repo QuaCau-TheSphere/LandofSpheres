@@ -23,4 +23,4 @@ Silent Spring: một trong những văn bản đầu tiên của nữ quyền si
 - Ý niệm (văn hoá/biểu tượng): những thực hành văn hoá trao đặc quyền cho ai?
 - Nhận thức luận: đến lúc nào thì tri thức của phụ nữ được coi trọng
 
-Phụ nữ liệu có nhiều earth-sensitivity, nên họ tương thông với tự nhiên nhiều hơn không?
+Phụ nữ liệu có nhiều earth-sensitivity, nên họ tương thông với tự nhiên nhiều hơn không? Nó có phải là một dạng bạo lực êm ái không?
