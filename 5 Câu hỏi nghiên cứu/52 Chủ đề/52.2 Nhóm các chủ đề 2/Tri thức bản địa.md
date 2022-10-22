@@ -7,3 +7,4 @@ Chủ đề quan tâm đến chủ đề này:
 ```dataview
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
+Chủ đề:: [[Tâm linh]]
