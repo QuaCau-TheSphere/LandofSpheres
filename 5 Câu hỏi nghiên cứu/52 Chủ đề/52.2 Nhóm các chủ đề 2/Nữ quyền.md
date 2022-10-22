@@ -81,3 +81,5 @@ Trải nghiệm của phụ nữ với môi trường rất khác với trải n
 
 - Những kẻ khác con người (human others): phụ nữ, người da đen, trẻ em, người nghèo
 - Những kẻ khác trái đất (earth others)
+
+Tại sao không phải là 
