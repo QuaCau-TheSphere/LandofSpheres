@@ -35,7 +35,7 @@
   
 **
 Một số lý do cho việc đề xuất bộ câu hỏi trên:
-*Nguyên tắc: Điều ấy trao đổi hiệu quả hơn khi giao ti
+*Nguyên tắc: Điều ấy trao đổi hiệu quả hơn khi phỏng vấn thì không hỏi trong form. 
 - Không hỏi thời gian TNV có thể dành cho QC là vì QC không yêu cầu TNV cam kết thời gian làm việc tối thiểu
 - Không hỏi về thời gian TNV có thể bắt đầu làm việc vì điều ấy có thể trao đổi lúc phỏng vấn
-- Bỏ đi câu hỏi về Công việc hưởng lương mà ứng viên đã từng làm vì nội dung đó không quá cần thiết 
+- Bỏ đi câu hỏi về Công việc hưởng lương mà ứng viên đã từng làm, Các nhóm/cộng đồng mà ứng viên tham gia, Mục tiêu trong năm nay, 5 năm tới vì nội dung đó không quá cần thiết đối với sự vận hành của QC
