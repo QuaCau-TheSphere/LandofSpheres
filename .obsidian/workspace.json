@@ -24,27 +24,65 @@
             "id": "1a3ff5fc34ff5d0e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6ef1c6f56cac737",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "107dee186c51cfa6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d00decac9af004c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "773a3f28782974e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1b18b30467a7e51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd397185e20208ca",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "13ccf7cfe654e07b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -118,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ξ Meta 0/04 Đồng bộ dữ liệu.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,8 +219,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1a3ff5fc34ff5d0e",
+  "active": "fd397185e20208ca",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
     "test dev.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Phiếu đăng ký.md",
     "2 Sản phẩm và mục tiêu/23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình/1022 2GROW/Nội dung sự kiện 2GROW.md",
@@ -190,8 +230,6 @@
     "2 Sản phẩm và mục tiêu/21 Đám mây chim sáo lông vàng/21 Đám mây chim sáo lông vàng.md",
     "1 Công việc/1 Công việc.md",
     "3 Các bên liên quan/3 Các bên liên quan.md",
-    "1 Công việc/Xây dựng [[23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]].md",
-    "4 SWOT/Điểm yếu - thách thức/Điểm yếu - thách thức.md",
-    "4 SWOT/Điểm yếu - thách thức/42 Triết lý tổ chức - quan điểm của Nhật/Thế giới Nhật muốn xây dựng có nhiều điểm không tương thích với thế giới mọi người quen thuộc.md"
+    "1 Công việc/Xây dựng [[23 Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]].md"
   ]
 }

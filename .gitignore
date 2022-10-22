@@ -1,7 +1,6 @@
 /.st*
 .ttxfolder
 workspace.code-workspace
-.obsidian/plugins/obsidian-git/data.json
+.obsidian
 desktop.ini
 .trash/
-.obsidian/workspace
