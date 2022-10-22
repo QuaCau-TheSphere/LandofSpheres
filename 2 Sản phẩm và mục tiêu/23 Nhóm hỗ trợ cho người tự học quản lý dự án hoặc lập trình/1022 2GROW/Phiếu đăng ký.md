@@ -5,3 +5,10 @@ Trong 3 năm mình tham gia vào các mạng lưới, cộng đồng phi lợi n
 Trong những phần mềm quản lý công việc trên thị trường hiện nay, mình thấy có duy nhất Obsidian là có thể đáp ứng nhu cầu đó. Cho nên trong buổi thảo luận này mình sẽ nói về cách bọn mình sử dụng nó ra sao. Cùng với đó là mô hình tổ chức mà loại công nghệ này đem lại: tổ chức không phân cấp, không người lãnh đạo, và thành viên không phải làm vì trách nhiệm. Mô hình này dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, nền kinh tế không dùng tiền, và game phiêu lưu nhập vai.
 
 Xem thêm: Một đám mây chim sáo: https://quacau.space/f025
+
+# Trở thành thành viên
+Nhóm bạn nghĩ gì về nữ quyền nói chung và nữ quyền tại Việt Nam nói riêng? (tối thiểu 150 chữ)
+
+Nhóm có dự định gì sau khi trở thành thành viên 2GROW? (tối thiểu 150 chữ)
+
+[FORM ĐĂNG KÝ THÀNH VIÊN 2GROW](https://docs.google.com/forms/d/e/1FAIpQLSeIxoze8fpx0EUM_f9qvSdUYfcxaWhVnPaNqEMyf9yHIBDPOg/formResponse)
