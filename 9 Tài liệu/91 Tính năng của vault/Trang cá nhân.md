@@ -1,0 +1,2 @@
+- [ ] Link đến vault nhu cầu
+- [ ] Sơ đồ radar

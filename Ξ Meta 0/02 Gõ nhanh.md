@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0dd7b9769410df53fcdac556a3adb8a3853db5cf
 # 1 Công việc 
 Kết quả mong muốn:: 		cvk
 Công việc thành phần::		cvt
@@ -52,6 +56,10 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 
 Xem thêm::		xt
 Mâu thuẫn		mt
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 0dd7b9769410df53fcdac556a3adb8a3853db5cf
 # 1 Công việc 
 Kết quả mong muốn:: 		cvk
 Công việc thành phần::		cvt
@@ -106,3 +114,4 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 
 Xem thêm::		xt
 Mâu thuẫn		mt
+>>>>>>> 0dd7b9769410df53fcdac556a3adb8a3853db5cf

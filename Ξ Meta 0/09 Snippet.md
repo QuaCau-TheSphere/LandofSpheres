@@ -133,8 +133,12 @@ foreach ($i in $list) {
 ## Tạo array
 ```PowerShell
 $list|ForEach-Object {"`"$_`"," } |clip
+<<<<<<< HEAD
 ```
 
 # Git
 git config --system core.quotePath false
 git config --system core.longpaths true
+=======
+```
+>>>>>>> 0dd7b9769410df53fcdac556a3adb8a3853db5cf
