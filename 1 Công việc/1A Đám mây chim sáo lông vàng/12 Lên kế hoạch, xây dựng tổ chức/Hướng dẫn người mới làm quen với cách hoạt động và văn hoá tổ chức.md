@@ -22,7 +22,7 @@ Nhân sự::
 
 Câu hỏi:: [[Có những cách nào để các thành viên tự chủ động đề ra mục tiêu cho công việc của mình？]]
 
-Kết quả mong muốn:: Các thành viên xem hết [[00.0 Bảng chỉ đường]], cài Obsidian
+Kết quả mong muốn:: Các thành viên xem hết [[Bảng chỉ đường dành cho người mới]], cài Obsidian
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
 ```dataview

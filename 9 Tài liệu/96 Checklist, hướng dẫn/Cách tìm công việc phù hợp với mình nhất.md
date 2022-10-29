@@ -8,7 +8,7 @@ flatten file.etags as tags Where startswith(tags,"#tc") Group by tags
 ```
 
 # Không tốn nhiều thời gian, Không phải suy nghĩ nhiều
-- Đọc [[00.0 Bảng chỉ đường]]
+- Đọc [[Bảng chỉ đường dành cho người mới]]
 - Trả lời câu hỏi, làm khảo sát
 - Thường là các công việc trong [[Tổ chức sự kiện – Truyền thông]]. Xem [[Hướng dẫn truyền thông]]
 ```dataview 

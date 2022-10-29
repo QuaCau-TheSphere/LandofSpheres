@@ -12,9 +12,6 @@ Mục tiêu của bản đồ này là đẩy thành viên trở thành [[Một 
 > [!Tip] Mẹo
 > Bấm <kbd>Alt + O</kbd> để hiển thị mục lục
 
-> [!info] Thông tin
-> Trong [[62 Thành viên (Người chơi)|hồ sơ cá nhân của bạn]] cũng sẽ có lại bản đồ này
-
 # Hiểu kế hoạch chiến lược
 2. Viết bản kế hoạch 1 năm cho bản thân mình
 1. Đọc hiểu:
@@ -79,19 +76,12 @@ flowchart TD
 style 7 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff
 ```
 # Hiểu cách sự vận hành hiện tại
-- Hiểu được, nắm được, biết được:
-	- [[00.1 Lịch họp hằng tuần|Tuần này sẽ họp những gì]]
-	- [[00.2 Kế hoạch tổng thể|Kế hoạch ngắn hạn của QC (các công việc PNM)]]
-	- [[2 Các vùng đất (Sản phẩm và mục tiêu)|Kế hoạch dài hạn của QC]]
-	- [[3 Các bên liên quan (NPC)#1 Các bên liên quan đã hỗ trợ được QC|Những ai đóng góp cho QC]]
-	- [[6 Tổ chức|Cơ cấu tổ chức và công việc trong ban mình muốn làm]] 
-	- [[62 Thành viên (Người chơi)|Hồ sơ công việc của mình và của các thành viên khác]]
-	- [[Cách tìm công việc phù hợp với mình nhất]]
-	- [[66 Hướng dẫn xử lý các trường hợp cụ thể|Cách xử lý các tình huống khác nhau trong quá trình làm việc]]
-	- [[Hướng dẫn truyền thông|Cách khi giới thiệu cho người ngoài]] 
-- Thảo luận với các thành viên khác trong ban để chia công việc
-- Nhận một công việc hoặc đề xuất một công việc phù hợp với mình
-- Kết nối Google Calendar của mình với nhóm
+Hiểu được, nắm được, biết được:
+- [[2 Các vùng đất (Sản phẩm và mục tiêu)|Kế hoạch dài hạn của QC]]
+- [[62 Thành viên (Người chơi)|Hồ sơ công việc của mình và của các thành viên khác]]
+- [[Cách tìm công việc phù hợp với mình nhất]]
+- [[66 Hướng dẫn xử lý các trường hợp cụ thể|Cách xử lý các tình huống khác nhau trong quá trình làm việc]]
+- [[Hướng dẫn truyền thông|Cách khi giới thiệu cho người ngoài]] 
 # Tương tác với mọi người
 1. Tham gia [[00.1 Lịch họp hằng tuần|các buổi họp hằng tuần]]
 2. Tham gia [Discord](https://discord.gg/jWTk4EHFK2)
