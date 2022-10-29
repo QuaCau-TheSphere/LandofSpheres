@@ -34,7 +34,7 @@ Các bài không phù hợp với mục tiêu nhóm:
 -   Các bài viết diễn giải những khái niệm đã quá phổ biến, những quan niệm không mới lạ
 -   Các bài viết không liên quan gì đến triết học phương Đông và cũng không nằm trong mục chấp nhận đăng
 
-🔶 Các bài viết cần có ít nhất 2 thẻ, VD: #phậtgiáo, #muabánsách, #câuhỏithảoluận, #meme, v.v.
+🔶 Các bài viết cần có ít nhất 2 thẻ, VD: # phậtgiáo, # muabánsách, # câuhỏithảoluận, # meme, v.v.
 
 🔶 Khi tranh luận thành viên cần đưa ra dẫn chứng, không đưa ra nhận xét suông. Nhóm khuyến khích thành viên đi đến tận cùng tranh luận, sử dụng logic làm kim chỉ nam. Việc nhận xét người khác là hý luận, bám chấp là không cần thiết. Không đả kích, thóa mạ, khinh thường người khác. Luôn sẵn sàng chào đón những quan điểm khác biệt.
 

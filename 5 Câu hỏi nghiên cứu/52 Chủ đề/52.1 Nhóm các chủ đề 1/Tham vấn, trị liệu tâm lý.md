@@ -6,7 +6,7 @@ Nội dung: true
 Câu hỏi:: [[Sự khác biệt giữa việc tham vấn để hỏi cách thay đổi người thân bạn bè của mình với việc nhờ họ mentor để mình trở thành một nhà công tác xã hội không chuyên？]] 
 
 Câu hỏi:: [[Liệu có dạng đồng đẳng viên dịch vụ, được trả tiền để đến giải quyết cho một trường hợp cụ thể không？]] 
-#Côngtácxãhội
+Chủ đề:: [[công tác xã hội]] 
 
 Câu hỏi:: [[Cách xử lý khi lệ thuộc]] 
 Câu hỏi:: [[Tôn trọng cảm xúc khi họ có những niềm tin maladaptive？]]

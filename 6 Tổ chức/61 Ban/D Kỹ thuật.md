@@ -1,18 +1,18 @@
 Thành viên:
 ```dataview
 list 
-From "6 Tổ chức/62 Thành viên" 
+From "6 Tổ chức/62 Thành viên (Người chơi)" 
 where contains(ban, [[]])
 ```
 ## Công việc PNML
 ```dataview
-list from "1 Công việc" where contains(ban, [[]]) and (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) 
+list from "1 Công việc" where contains(ban, [[]]) and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) 
 ```
 ## Công việc khác
 ```dataview
 list rows.file.link
 from "1 Công việc"
-where contains(ban, [[]]) and !(độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) 
+where contains(ban, [[]]) and !(độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) 
 Group by độ-cấp-thiết 
 ```
 

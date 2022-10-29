@@ -1,7 +1,7 @@
 Thành viên:
 ```dataview
 list
-From "6 Tổ chức/62 Thành viên" 
+From "6 Tổ chức/62 Thành viên (Người chơi)" 
 where contains(ban, [[]])
 ```
 
@@ -11,7 +11,7 @@ where contains(ban, [[]])
 ```dataview
 list rows.file.link 
 from "1 Công việc" 
-Where contains(ban, [[]]) and (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) 
+Where contains(ban, [[]]) and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) 
 group by độ-cấp-thiết 
 ```
 ### Các công việc thành phần, trạng thái và kết quả mong muốn
@@ -21,7 +21,7 @@ table
 	trạng-thái as "Trạng thái", 
 	kết-quả-mong-muốn as "Kết quả mong muốn"
 from "1 Công việc" 
-Where contains(ban, [[]]) and (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) 
+Where contains(ban, [[]]) and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) 
 ```
 ### Các mục tiêu và công việc cần hoàn thành trước và sau đó
 ```dataview
@@ -32,7 +32,7 @@ TABLE
 	filter(file.inlinks, (i) => i.next) as "Công việc cần làm trước đó",
 	next as "Công việc sẽ làm sau đó"
 from "1 Công việc"   
-Where contains(ban, [[]]) and (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) 
+Where contains(ban, [[]]) and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) 
 Sort next
 ```
 ## Không PNML và cũng không phải tổ chức 
@@ -40,7 +40,7 @@ Sort next
 ```dataview
 list rows.file.link 
 from "1 Công việc" 
-Where contains(ban, [[]]) and !(độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) and !contains(file.name, "Tổ chức")
+Where contains(ban, [[]]) and !(độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) and !contains(file.name, "Tổ chức")
 group by độ-cấp-thiết 
 ```
 ### Các công việc thành phần, trạng thái và kết quả mong muốn
@@ -50,7 +50,7 @@ table
 	trạng-thái as "Trạng thái", 
 	kết-quả-mong-muốn as "Kết quả mong muốn"
 from "1 Công việc" 
-Where contains(ban, [[]]) and !(độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) and !contains(file.name, "Tổ chức")
+Where contains(ban, [[]]) and !(độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) and !contains(file.name, "Tổ chức")
 ```
 ### Các mục tiêu và công việc cần hoàn thành trước và sau đó
 ```dataview
@@ -61,7 +61,7 @@ TABLE
 	filter(file.inlinks, (i) => i.next) as "Công việc cần làm trước đó",
 	next as "Công việc sẽ làm sau đó"
 from "1 Công việc"   
-Where contains(ban, [[]]) and !(độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" ) and !contains(file.name, "Tổ chức")
+Where contains(ban, [[]]) and !(độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" ) and !contains(file.name, "Tổ chức")
 Sort next
 ```
 

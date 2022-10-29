@@ -7,4 +7,4 @@ Sự chủ quan trong việc diễn giải câu chuyện. Hệ thống niềm ti
 Chủ đề:: [[Sự bất lực học được (bài truyền thông)]], [[Trợ giúp]], [[Mạng lưới niềm tin]], [[Sự diễn giải chủ quan]]
 #Thôngdiễnhọc 
 #Tâmlýhọc/trịliệu 
-#Đạođứchọc 
+Chủ đề:: [[Đạo đức]] 

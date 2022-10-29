@@ -15,7 +15,7 @@ Xem thêm:: [[Nhật không chịu đi làm để hiểu thế giới mọi ngư
 
 | Giải pháp gợi ý                   | Vấn đề phát sinh |
 | --------------------------------- | ---------------- |
-| [[28 Nhóm nghiên cứu liên ngành]] |                  |
+| [[2H Nhóm nghiên cứu liên ngành]] |                  |
 
  
 

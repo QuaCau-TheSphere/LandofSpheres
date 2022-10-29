@@ -22,21 +22,17 @@ Alias: Google Drive, Syncthing, Git
 - Lúc đầu là tải folder .obsidian như ở upstream, nhưng sau đó không sync gì cả (ignore files), nhưng vẫn giữ quyền overwrite khi cần dùng
 - lock edit Hoặc auto merge
 
-| Cấp độ               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore |
-| -------------------- | ------------------- | ---------------------------- | ---------------------------- | ---------------------------- | --------- | ---------- |
-| Mới biết về Obsidian | 1-way<br>chặn PR    | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | 1-way     |            |
-| Biết sơ sơ           | 2-way<br>gỡ chặn PR | ignore                       | ignore                       | ignore                       | 1-way     |            |
-| Đã rành về plugin    | 2-way               | ignore                       | ignore                       | ignore                       | ignore    |            |
-|                      |                     |                              |                              |                              |           |            |
+| Cấp độ               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore | communityplugins.json | plugins |
+| -------------------- | ------------------- | ---------------------------- | ---------------------------- | ---------------------------- | --------- | ---------- | --------------------- | ------- |
+| Mới biết về Obsidian | 1-way<br>chặn PR    | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | 1-way     |            | 1-way                 | 1-way   |
+| Biết sơ sơ           | 2-way<br>gỡ chặn PR | ignore                       | ignore                       | ignore                       | 1-way     |            | 1-way                 | 1-way   |
+| Đã rành về plugin    | 2-way               | ignore                       | ignore                       | ignore                       | ignore    |            | 1-way                 | 1-way   |
+
 [A Comparison Study for File Synchronisation](https://core.ac.uk/download/pdf/82255612.pdf)
 
 ## Khi có conflict
 - Merge the rest files
 - Keep two version 
-# Git
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DjYbsq3FXfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Tải Git](https://git-scm.com/downloads). Hướng dẫn sử dụng: [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Yêu cầu git
 - Có autosave và autosync
@@ -84,3 +80,7 @@ branch develop
 
 
 ## Phụ
+# Lợi thế
+- Luôn có wifi
+- Khi có conflict thì cứ merge hết là được
+- Chỉ là dữ liệu nên không phải quá lo lắng về final product. Không sợ bug

@@ -2,7 +2,7 @@
 Nội dung: [thảo luận chung]
 ---
 Trạng thái:: Đã giải quyết xongd
-Là vấn đề cho hoạt động:: [[Tổ chức các buổi họp]]
+Là vấn đề cho hoạt động:: [[Hậu cần các buổi họp]]
 Lý do:: [[Các thành viên không nắm rõ lịch họp]]
 Lý do:: [[Khó tìm được thời điểm tất cả mọi người đều cùng rảnh]]
 

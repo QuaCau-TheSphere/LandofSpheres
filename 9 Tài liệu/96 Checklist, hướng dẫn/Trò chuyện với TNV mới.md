@@ -41,11 +41,11 @@ Tôi hứng thú với việc thảo luận với mọi người để tìm ra c
 Tôi không có vấn đề gì khi được giao những việc mình không có ý định làm,
 ## Giới thiệu cộng đồng
 - [ ] Mình có thể hỗ trợ được gì cho chị
-- [ ] [[00.0 Bản đồ trong QC]]
+- [ ] [[00.0 Bảng chỉ đường]]
       - [ ] [[00.2 Kế hoạch tổng thể]]
 - [ ] Giới thiệu về Discord
 - [ ] Group Mạng lưới người thân, bạn bè của ncnttc
-- [ ] [[Cho người lần đầu tham gia buổi họp QC]]
+- [ ] [[Hướng dẫn cho người lần đầu tham gia buổi họp QC]]
 - [ ] Sync vault
 - [ ] Kế hoạch của bạn trong tuần đầu tiên
 ## Hướng dẫn thiết lập Obsidian, Google Calendar

@@ -13,7 +13,3 @@ List where contains(lý-do,[[]])
 |                 |                  |
 
 
-Anh làm dự án vì thấy với tình hình mọi người hiện nay đang bị luẩn quẩn
-Muốn có đột phá thì phải thật tập trung
-Lý do mn luẩn quẩn vì phải đi kiếm tiền
-Muốn giải quyết vấn đề thì trước hết phải ko nằm trong vấn đề cái đã

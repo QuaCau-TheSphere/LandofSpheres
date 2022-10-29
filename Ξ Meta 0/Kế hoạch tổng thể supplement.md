@@ -8,20 +8,20 @@ KeepLinksWithoutDest: true #Only draw links that end at an imported node
 # Array of DQL queries to pull in nodes - see ReadMe
 # | Link | DisplayName | OpenBracket | CloseBracket | Style |
 Nodes:
- - 'TABLE "", "([", "])", "doing" from "1 Công việc" where (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay") and trạng-thái="Đang làm"'
- - 'TABLE "", "([", "])", "nondoing" from "1 Công việc" where (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay") and trạng-thái!="Đang làm"'
+ - 'TABLE "", "([", "])", "doing" from "1 Công việc" where (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") and trạng-thái="#tt-▶️/xong50٪"'
+ - 'TABLE "", "([", "])", "nondoing" from "1 Công việc" where (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") and trạng-thái!="#tt-▶️/xong50٪"'
 
 # Array of DQL queries to pull in relationships between nodes - see ReadMe
 # | Source | Destination | Arrow |
 Links:  
- - 'TABLE công-việc-thành-phần AS NodeB, "-->" AS Link where công-việc-thành-phần and (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay") FLATTEN công-việc-thành-phần'
+ - 'TABLE công-việc-thành-phần AS NodeB, "-->" AS Link where công-việc-thành-phần and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") FLATTEN công-việc-thành-phần'
 
 # Custom node styles if you don't like the built in colours (like red, purple, etc) - see ReadMe
 Styles: 
  - 'classDef doing fill:#DDEEFF,color:#000,stroke:#000,stroke-width:1px'
 ---
 
-# Các công việc phải làm ngay, muốn làm ngay hoặc nên làm ngay (PNM) 
+# Các công việc #đct-⏫Phảilàmngay, #đct-🔼/muốnlàmngay hoặc #đct-🔼/nênlàmngay (PNM) 
 ``` dataviewjs
 //YAML Settings
 let c = dv.current();
@@ -196,8 +196,8 @@ function cleanLabel(node, display) {
 graph TD
 1(["✔ Đã xong (ít nhất là phần lớn)"]) 
 2(["✔✔ Đã thống nhất"]) 
-a([Đang làm nhưng<br>phải tạm dừng])
-b([Đang làm])
+a([#tt-▶️/xong50٪ nhưng<br>phải tạm dừng])
+b([#tt-▶️/xong50٪])
 c([Không đang làm])
 d[Không phải PNM]
 
@@ -212,18 +212,18 @@ linkStyle 1,2 stroke:none
 
 # Node
 ```dataview
-TABLE "", "([", "])", "doing" from "1 Công việc" where (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay") and trạng-thái="Đang làm"
+TABLE "", "([", "])", "doing" from "1 Công việc" where (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") and trạng-thái="#tt-▶️/xong50٪"
 ```
 ```dataview
-TABLE "", "([", "])", "grey" from "1 Công việc" where (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay") and (trạng-thái="Đang bị kẹt" or trạng-thái="Đang làm dở nhưng chưa có thời gian để làm tiếp" or trạng-thái="Chưa tới thời điểm để bắt đầu")
+TABLE "", "([", "])", "grey" from "1 Công việc" where (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") and (trạng-thái="#tt-🔃/chờkếtquảtừviệckhác" or trạng-thái="#tt-🔃/cầntậptrunglàmviệckhác" or trạng-thái="#tt-⏹️/chưađếnlúclàm")
 ```
 
  ```dataview
-TABLE "", "([", "])", "nondoing" from "1 Công việc" where (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay") and trạng-thái!="Đang làm"
+TABLE "", "([", "])", "nondoing" from "1 Công việc" where (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") and trạng-thái!="#tt-▶️/xong50٪"
 ```
 
 # Link
 ```dataview
-TABLE công-việc-thành-phần AS NodeB, "-->" AS Link where công-việc-thành-phần and (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay") FLATTEN công-việc-thành-phần
+TABLE công-việc-thành-phần AS NodeB, "-->" AS Link where công-việc-thành-phần and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") FLATTEN công-việc-thành-phần
 ```
 

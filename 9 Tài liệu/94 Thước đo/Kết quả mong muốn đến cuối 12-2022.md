@@ -6,14 +6,14 @@ Các công việc PNML
 ```dataview
 List rows.file.link
 From "1 Công việc"
-where độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" 
+where độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" 
 group by độ-cấp-thiết 
 ```
 
 ```dataview 
 Table without id kết-quả-mong-muốn, file.link
 From "1 Công việc"
-Where (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại" )
+Where (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" )
 ```
 
 # Chỉ tiêu đầu ra

@@ -1,50 +1,54 @@
 {
   "main": {
-    "id": "4174cbb345164616",
+    "id": "4ef27fb4ac3be587",
     "type": "split",
     "children": [
       {
-        "id": "e24e1684a29d211c",
+        "id": "95f0d7e9f6214946",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc58408c5835ee4",
+            "id": "84b559f5cee3cdab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md",
-                "mode": "source",
+                "file": "00.0 Bảng chỉ đường.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "ccb94d9f3a81c966",
+            "id": "1f3687aab1672908",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Trang chủ.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c65bbb4d544fa964",
+    "id": "8905bae6819dcaa0",
     "type": "split",
     "children": [
       {
-        "id": "d9b2d8393ef1c3b3",
+        "id": "dd8807e855f524f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b80939ada61ff70a",
+            "id": "cccd283ac0a08396",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,22 +58,7 @@
             }
           },
           {
-            "id": "ae54df2cbd8c34a2",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "kiểm sai",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "3dad0568b881ebfd",
+            "id": "1f0a1f01fd2d0813",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,35 +66,49 @@
             }
           },
           {
-            "id": "1a9226f0f7de17bf",
+            "id": "fa485bd21f4eb7a4",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
+            }
+          },
+          {
+            "id": "c6432117742db42a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#điệnảnh",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 294.5026054382324
   },
   "right": {
-    "id": "f1f10495e80e5b9f",
+    "id": "53c005eb65d0a202",
     "type": "split",
     "children": [
       {
-        "id": "5e1b5147ebd03e26",
+        "id": "44f73bbcd1784f2a",
         "type": "tabs",
         "children": [
           {
-            "id": "6979aaf961aff99b",
+            "id": "0b35c8b1c7166c37",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md",
+                "file": "Trang chủ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,29 +120,40 @@
             }
           },
           {
-            "id": "95065534c29d467c",
+            "id": "d3e2467e220d0d74",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md",
+                "file": "Trang chủ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51928c2cc72e64cf",
+            "id": "3e89d4092e7fa080",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "8 Gặp mặt/Gặp Viễn Đông.md"
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "bc3d7ad492bf826f",
+            "id": "6a54f10da575adc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trang chủ.md"
+              }
+            }
+          },
+          {
+            "id": "f18c3c6c7b28cfd3",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -147,34 +161,32 @@
             }
           },
           {
-            "id": "3255077a5483e0bd",
+            "id": "1b998bc9042a8899",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 321.0237731933594,
+    "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4fc58408c5835ee4",
+  "active": "1f3687aab1672908",
   "lastOpenFiles": [
-    "2 Sản phẩm và mục tiêu/2 Sản phẩm và mục tiêu.md",
-    "8 Gặp mặt/Gặp Viễn Đông.md",
-    "Untitled 1.md",
-    "00.0 Bản đồ trong QC.sync-conflict-20221013-184308-LDHXXXZ.md",
-    "6 Tổ chức/63 Hình thức tham gia/63.01 Thành viên nòng cốt.md",
-    "5 Câu hỏi nghiên cứu/52 Chủ đề/52.8 Xây dựng dự án/Xây dựng nhóm nòng cốt.md",
-    "3 Các bên liên quan/Tổ chức/37 Mô hình/Doanh nghiệp xã hội.md",
-    "Ξ Meta 0/04 Đồng bộ dữ liệu.md",
-    "9 Tài liệu/98 Truyền thông/Hướng dẫn truyền thông.md",
-    "9 Tài liệu/98 Truyền thông/982 Các nội dung khác/Tham việc. Đa nhiệm. Làm việc hiệu quả.md"
+    "6 Tổ chức/62 Thành viên (Người chơi)/Trang (Chuối).md",
+    "Trang chủ.md",
+    "conflict-files-obsidian-git.md",
+    "00.0 Bảng chỉ đường.md",
+    "6 Tổ chức/6 Tổ chức.md",
+    "7 Nhu cầu/7 Nhu cầu.md",
+    "6 Tổ chức/62 Thành viên (Người chơi)/Tuyên.md",
+    "6 Tổ chức/62 Thành viên (Người chơi)/Ân.md",
+    "6 Tổ chức/62 Thành viên (Người chơi)/Thịnh.md",
+    "6 Tổ chức/62 Thành viên (Người chơi)/Nhật.md"
   ]
 }

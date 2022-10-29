@@ -2,6 +2,15 @@
 Nội dung: true
 Định nghĩa: true
 ---
+Câu hỏi liên quan đến chủ đề này:
+```dataview
+List from "5 Câu hỏi nghiên cứu/51 Câu hỏi" where contains(chủ-đề,[[]]) 
+```
+
+Chủ đề quan tâm đến chủ đề này:
+```dataview
+List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
+```
 
 Cái đẹp vừa có thể xem là cảm xúc (bên trong ta), vừa có thể xem là một đặc tính của đối tượng (bên ngoài ta), giống như màu sắc hay kích cỡ vậy. Một đặc điểm quan trọng của nó là nó chiếm trọn mối quan tâm của chúng ta, nhưng lại không kích động ham muốn nào
 
@@ -34,6 +43,6 @@ Câu hỏi:: [[Sự mỉa mai và dung tục trong thơ ca và rap, game bạo l
 Câu hỏi:: [[Giá trị của sự diễn giải chủ quan nếu nó không khớp với ý của tác giả]] 
 [Tại sao chúng ta vẫn yêu những gã nghệ sĩ “khốn nạn”？](https://luxuo.vn/culture/tai-sao-chung-ta-van-yeu-nhung-ga-nghe-si-khon-nan-luxuo-vn.html "Tại sao chúng ta vẫn yêu những gã nghệ sĩ “khốn nạn”?")
 
-#Mỹhọc
+
 
 [Black metal](https://vi.wikipedia.org/wiki/Black metal "Black metal – Wikipedia tiếng Việt")

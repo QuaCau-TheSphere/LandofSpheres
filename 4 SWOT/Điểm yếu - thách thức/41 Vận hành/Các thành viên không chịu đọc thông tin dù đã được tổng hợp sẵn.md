@@ -1,4 +1,4 @@
-Là vấn đề cho hoạt động:: [[Tổ chức các buổi họp]]
+Là vấn đề cho hoạt động:: [[Hậu cần các buổi họp]]
 
 Lý do:: [[Sự giao tiếp trực tiếp đem lại sự thoải mái hơn]]
 Lý do:: [[Không giữ được cảm hứng lâu dài cho người tham gia]]

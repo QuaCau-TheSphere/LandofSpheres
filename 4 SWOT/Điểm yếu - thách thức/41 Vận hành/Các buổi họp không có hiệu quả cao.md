@@ -1,4 +1,4 @@
-Là vấn đề cho hoạt động:: [[Tổ chức các buổi họp]]
+Là vấn đề cho hoạt động:: [[Hậu cần các buổi họp]]
 
 Lý do:: [[Các thành viên không có thông tin cập nhật về nhóm]]
 Lý do:: [[Các thành viên không chịu đọc thông tin dù đã được tổng hợp sẵn]]

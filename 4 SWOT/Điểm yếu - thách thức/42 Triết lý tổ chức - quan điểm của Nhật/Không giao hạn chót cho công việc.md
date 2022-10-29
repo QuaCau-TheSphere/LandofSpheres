@@ -14,7 +14,7 @@ List where contains(lý-do,[[]])
 
 | Giải pháp gợi ý                                                                              | Vấn đề phát sinh |
 | -------------------------------------------------------------------------------------------- | ---------------- |
-| Đổi thành hạn báo cáo. Chỉ hỏi tình hình thôi chứ không có bảo phải làm ngay bây giờ         |                  |
+| Đổi thành hạn báo cáo. Chỉ hỏi tình hình thôi chứ không có bảo #đct-⏫Phảilàmngay bây giờ         |                  |
 | Chỉ giao việc nếu đó là điều họ hăm hở làm. Nếu họ chưa thấy hăm hở thì cần cho hạn báo cáo. |                  |
 | Hỏi thăm vào các buổi họp                                                                    | Phải hẹn giờ họp |
 |                                                                                              |                  |
@@ -24,7 +24,7 @@ List where contains(lý-do,[[]])
 Em thấy việc báo cáo tốt nhma kiểu công việc chưa có tiến triển hay khó khăn gì nên em hay quên để báo cáo
 
 Vì anh biết việc báo cáo cũng bị tốn một khoảng workload để nói, nhưng việc báo cáo thì mn sẽ cùng nắm được tình hình. Hơn nữa nếu ko phải báo cáo thì mình cũng cảm thấy chưa làm cũng đc. Nhưng anh cũng muốn tạo sự thoải mái cho tụi em
-##🤔 Lý do để không muốn ra hạn chót
+## 🤔 Lý do để không muốn ra hạn chót
 
 1. Không muốn cắt đứt sự tập trung. Không muốn tạo thêm gánh nặng suy nghĩ khi đang có một việc khác cần suy nghĩ hoặc khi đang nghỉ ngơi. Việc được tập trung làm việc cho đến khi công việc dứt hẳn thì thật là sảng khoái
 -> không có khi đang họp

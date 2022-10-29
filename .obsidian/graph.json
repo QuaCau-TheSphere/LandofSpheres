@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"1 Công việc\"",
+  "search": "path:\"5 Câu hỏi và kiến thức\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"5 Câu hỏi nghiên cứu/52 Chủ đề\"",
+      "query": "path:\"5 Câu hỏi và kiến thức/52 Chủ đề\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"3 Các bên liên quan/Cá nhân/33 Nhu cầu của đối tượng\"",
+      "query": "path:51",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -39,6 +39,6 @@
   "repelStrength": 11.1128219484882,
   "linkStrength": 0.640677491601344,
   "linkDistance": 250,
-  "scale": 0.23029869141353093,
+  "scale": 0.25802362109470905,
   "close": true
 }

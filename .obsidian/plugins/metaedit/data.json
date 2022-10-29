@@ -27,11 +27,11 @@
       {
         "name": "Độ cấp thiết",
         "choices": [
-          "Phải làm ngay",
-          "Muốn làm ngay",
-          "Nên làm ngay",
+          "#đct-⏫Phảilàmngay",
+          "#đct-🔼/muốnlàmngay",
+          "#đct-🔼/nênlàmngay",
           "Chưa cần làm ngay nhưng sẽ sớm phải làm",
-          "Chưa cần làm ngay nhưng nếu có người làm giúp thì cũng đỡ được nhiều thứ",
+          "#đct-⏸️/đợingườinhậnlàm ",
           "Không quan trọng",
           "Đã xong",
           "Công việc lặp lại"
@@ -40,17 +40,17 @@
       {
         "name": "Trạng thái",
         "choices": [
-          "Vấn đề chưa rõ ràng/chưa thống nhất xong",
-          "Chưa bắt đầu",
-          "Đang làm",
-          "Đang bị kẹt",
-          "Đang làm dở nhưng chưa có thời gian để làm tiếp",
+          "#tt-⏹️/chưabắtđầubàn",
+          "#tt-⏹️/chưađếnlúclàm",
+          "#tt-▶️/xong50٪",
+          "#tt-🔃/chờkếtquảtừviệckhác",
+          "#tt-🔃/cầntậptrunglàmviệckhác",
           "Công việc lặp lại",
-          "Còn vài mục nhưng cũng không cần làm ngay",
-          "Chuyển sang hướng tiếp cận khác tốt hơn",
-          "Đã hoàn thành tất cả các mục",
-          "Chưa tới thời điểm để bắt đầu",
-          "Cần đánh giá lại"
+          "#tt-▶️/xong75٪",
+          "#tt-chuyểnsanghướngtiếpcậnkhác",
+          "#tt-✔️/đãđánhgiá",
+          "#tt-⏹️/chưađếnlúclàm",
+          "#tt-✔️/chưađánhgiá"
         ]
       },
       {
@@ -94,15 +94,15 @@
       {
         "name": "Tính chất công việc",
         "choices": [
-          "Không phải suy nghĩ nhiều",
-          "Tương tác nhiều với loài người",
-          "Không phải cắm mặt vào máy tính",
-          "Có thể làm qua mạng",
-          "Có thể làm một mình",
-          "Làm xong không cần hỏi ý kiến",
+          "#tc-🧠Khôngphảisuynghĩnhiều",
+          "#tc-🥳Tuongtácnhiềuvớiloàingười",
+          "#tc-💻Khôngphảicắmmặtvàomáytính",
+          "#tc-🌐Cóthểlàmquamạng",
+          "#tc-🧍Cóthểlàmmộtmình",
+          "#tc-💬Làmxongkhôngcầnhỏiýkiến ",
           "Chỉ nên làm khi gặp mặt trực tiếp",
           "Chỉ nên làm qua mạng",
-          "Cần họp thường xuyên",
+          "#tc-💬Cầnhọpthườngxuyên ",
           "Cần sự tư duy",
           "Chỉ nên giao cho người có chuyên môn cao"
         ]

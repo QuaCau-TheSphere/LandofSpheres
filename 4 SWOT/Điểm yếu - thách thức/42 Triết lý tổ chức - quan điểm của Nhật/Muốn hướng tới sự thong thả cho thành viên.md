@@ -16,7 +16,7 @@ List where contains(lý-do,[[]])
 | Chủ động nắm bắt thông tin                                                         | [[Muốn bảo vệ sự tập trung]]                                        |
 | [[Đăng các câu hỏi nghiên cứu lên các group]]                                                         | [[Thảo luận qua chat, comment không sôi nổi]]                       |
 | Tìm coreteam                                                                       | [[Không đi tìm coreteam]]                                           |
-| Làm danh sách [[Tìm công việc phù hợp với mình nhất]] |                                                                     |
+| Làm danh sách [[Cách tìm công việc phù hợp với mình nhất]] |                                                                     |
 
 Thật ra ở trong đây luôn có một mâu thuẫn tiềm tàng. Để có thể bảo vệ sự thong thả của thành viên thì mình 
 

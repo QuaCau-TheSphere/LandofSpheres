@@ -1,12 +1,10 @@
 {
-  "enabledCssSnippets": [
-    "New Text Document",
-    "supercharged-links-gen",
-    "Horizontal tabs",
-    "Custom"
-  ],
+  "accentColor": "",
   "theme": "moonstone",
-  "baseFontSize": 20,
-  "cssTheme": "",
-  "accentColor": ""
+  "enabledCssSnippets": [
+    "Custom",
+    "Horizontal tabs",
+    "supercharged-links-gen"
+  ],
+  "nativeMenus": true
 }

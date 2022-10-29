@@ -116,3 +116,21 @@ function getGravatarURL( email ) {
   return `https://www.gravatar.com/avatar/${ hash }`;
 }
 ```
+
+# PowerShell
+## Tạo nhiều folder
+```PowerShell
+$list=(ls -name -directory).substring(1)
+foreach ($i in $list) {
+	$index=$i.substring(0,1)
+	cd "2$i" 
+	new-item "2$index`1 Mục tiêu" -type directory;
+	new-item "2$index`2 Sự kiện" -type directory;
+	new-item "2$index`3 Tài liệu" -type directory;
+	Cd ..
+}
+```
+## Tạo array
+```PowerShell
+$list|ForEach-Object {"`"$_`"," } |clip
+```

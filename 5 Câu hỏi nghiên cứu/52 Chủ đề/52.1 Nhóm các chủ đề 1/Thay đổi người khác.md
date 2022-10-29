@@ -6,7 +6,7 @@ Câu hỏi:: [[Những người đang mê muội và sau này tỉnh ra có cả
 Câu hỏi:: [[Tỉ lệ những người cảm thấy từ "thay đổi" thật đáng sợ trong xã hội？]] 
 
 Chủ đề:: [[Yêu thương, chấp nhận]]
-Chủ đề:: [[Phát triển cộng đồng]] 
+Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/52.8 Xây dựng dự án/Phát triển cộng đồng]] 
 Chủ đề:: [[Định kiến]]
 Chủ đề:: [[Tin giả & nguỵ khoa học]]
 Chủ đề:: [[Bóc phốt trên mạng]] 

@@ -1,5 +1,5 @@
 {
   "showFullPath": false,
-  "linkStyle": "none",
-  "listStyle": "-"
+  "linkStyle": "markdown",
+  "listStyle": "*"
 }

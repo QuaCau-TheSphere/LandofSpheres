@@ -15,7 +15,7 @@ Câu hỏi:: [[Nếu các bên liên quan không muốn sử dụng công lý ph
 
 Câu hỏi:: [[Có bằng chứng, số liệu nào cho thấy công lý phục hồi có hiệu quả "hoàn lương", "phục hồi nhân phẩm" tốt hơn nhà tù và các trại phục hồi nhân phẩm không？Có ví dụ nào trên một trường hợp cụ thể không？]] 
 
-#Đạođứchọc
+Chủ đề:: [[Đạo đức]]
 Chủ đề:: [[Nguyên tắc]]
 Chủ đề:: [[Tính khả thi]]
 Chủ đề:: [[Luật pháp]]

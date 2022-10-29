@@ -1,4 +1,4 @@
-Là vấn đề cho hoạt động:: [[Tổ chức các buổi họp]]
+Là vấn đề cho hoạt động:: [[Hậu cần các buổi họp]]
 
 Lý do:: [[Không chuẩn bị agenda cho các buổi họp]]
 Lý do:: [[✔️ Các buổi họp không có đầy đủ người muốn tham dự]]

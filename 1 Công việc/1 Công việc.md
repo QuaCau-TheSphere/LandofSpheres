@@ -1,13 +1,13 @@
 > [!Info] Xem thêm
-> [[Tìm công việc phù hợp với mình nhất]]
+> [[Cách tìm công việc phù hợp với mình nhất]]
 # Các PNML chưa có ai nhận làm
 ```dataview
-List from "1 Công việc" where !nhân-sự and (độ-cấp-thiết="Phải làm ngay" or độ-cấp-thiết="Muốn làm ngay" or độ-cấp-thiết="Nên làm ngay" or độ-cấp-thiết="Công việc lặp lại")
+List from "1 Công việc" where !nhân-sự and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại")
 ```
-# Cần họp thường xuyên
+# #tc-💬Cầnhọpthườngxuyên 
 ```dataview
 List from "1 Công việc" 
-where contains(tính-chất-công-việc,"Cần họp thường xuyên")
+where contains(tính-chất-công-việc,"#tc-💬Cầnhọpthườngxuyên ")
 ```
 # Không có ban nào
 ```dataview
@@ -21,7 +21,7 @@ list from "1 Công việc" where filter(file.inlinks, (f)=>contains(hoạt-độ
 
 # Công việc lặp lại
 ```dataview 
-list trạng-thái
+table trạng-thái, độ-cấp-thiết
 from "1 Công việc" where độ-cấp-thiết="Công việc lặp lại" 
 ```
 # Tất cả công việc

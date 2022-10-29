@@ -1,4 +1,4 @@
-Là vấn đề cho hoạt động:: [[Tổ chức các buổi họp]]
+Là vấn đề cho hoạt động:: [[Hậu cần các buổi họp]]
 
 Lý do:: [[Những người tham gia lâu không chịu nhận làm coreteam]]
 Lý do:: [[Người tham gia vẫn hết lòng nói cho Nhật hiểu]]

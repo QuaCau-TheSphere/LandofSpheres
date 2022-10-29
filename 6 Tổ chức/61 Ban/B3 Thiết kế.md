@@ -1,7 +1,7 @@
 Thành viên:
 ```dataview
 list
-From "6 Tổ chức/62 Thành viên" 
+From "6 Tổ chức/62 Thành viên (Người chơi)" 
 where contains(ban, [[]])
 ```
 

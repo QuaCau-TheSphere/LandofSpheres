@@ -33,7 +33,7 @@ Câu hỏi:: [[Nếu như việc sử dụng triết học phương Đông cũng
 Câu hỏi:: [[Các tôn giáo khác như Công giáo học tập Phật giáo như thế nào？]]
 
 
-#Đạođứchọc
+Chủ đề:: [[Đạo đức]]
 Chủ đề:: [[Cảm xúc]]
 Chủ đề:: [[Bản ngã]]
 Chủ đề:: [[New Age]]

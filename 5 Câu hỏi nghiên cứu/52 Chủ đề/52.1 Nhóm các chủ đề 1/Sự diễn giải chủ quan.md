@@ -20,4 +20,4 @@ Chủ đề:: [[Public opinion]]
 #Logichọc
 #Tộiphạmhọc
 #Thôngdiễnhọc
-#Đạođứchọc
+Chủ đề:: [[Đạo đức]]
