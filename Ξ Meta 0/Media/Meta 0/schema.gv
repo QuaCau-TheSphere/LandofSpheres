@@ -1,0 +1,92 @@
+<<<<<<< HEAD
+digraph {
+overlap = scale
+//overlap = false;
+splines = true
+
+node [shape=box] 
+2 [label="2 Mục tiêu"] 
+4 [label="4 SWOT"] 
+
+11 [label="11 Công việc cấp ban"] 
+12 [label="12 Công việc cấp tiểu ban"] 
+
+31 [label="31 Loại đối tượng"] 
+32 [label="32 Điều đối\ntượng thấy ở QC"] 
+33 [label="33 Nhu cầu của\nđối tượng"] 
+34 [label="34 Nhu cầu của\nmình về đối tượng"] 
+35 [label="35 Đối tượng cụ thể" color=blue] 
+36 [label="36 Tên tổ chức" color=blue] 
+37 [label="37 Loại tổ chức"] 
+38 [label="38 Loại sản phẩm"] 
+39 [label="39 Loại sứ mạng"] 
+
+61 [label="61 Tiểu ban"] 
+62 [label="62 Thành viên (Người chơi)" color=blue] 
+
+
+35 -> {31,32, 33} [label="||" ]
+31 -> {32} [label="~35"] 
+31 -> 33 [label="~35"] 
+31 -> 34 [label="||"] 
+32 -> 4 [label="Lý do khiến\nđiều này hiện\ndiện trong\nmắt họ"] 
+32 -> 33 [label="Nhu cầu ẩn\nđằng sau\nnhận định này"] 
+{34, 32} -> 2 [label="Tương ứng\nvới mục tiêu" ] 
+35 -> 36 [label="Thuộc tổ chức"]
+36 -> {37, 38, 39} [label="||"]
+35 -> 11 [label="Sẵn sàng tham\ngia hoạt động"]
+31 -> 11 [label="Hoạt động\ndành cho họ"]
+2 -> 11 [label="Hoạt động"] 
+4 -> 11 [label="Là vấn đề\ncho hoạt động"]
+
+11 -> 12 [label="||"]
+
+62 -> {11, 12} [label="Công việc"]
+62 -> 61 [label="||"]
+=======
+digraph {
+overlap = scale
+//overlap = false;
+splines = true
+
+node [shape=box] 
+2 [label="2 Mục tiêu"] 
+4 [label="4 SWOT"] 
+
+11 [label="11 Công việc cấp ban"] 
+12 [label="12 Công việc cấp tiểu ban"] 
+
+31 [label="31 Loại đối tượng"] 
+32 [label="32 Điều đối\ntượng thấy ở QC"] 
+33 [label="33 Nhu cầu của\nđối tượng"] 
+34 [label="34 Nhu cầu của\nmình về đối tượng"] 
+35 [label="35 Đối tượng cụ thể" color=blue] 
+36 [label="36 Tên tổ chức" color=blue] 
+37 [label="37 Loại tổ chức"] 
+38 [label="38 Loại sản phẩm"] 
+39 [label="39 Loại sứ mạng"] 
+
+61 [label="61 Tiểu ban"] 
+62 [label="62 Thành viên (Người chơi)" color=blue] 
+
+
+35 -> {31,32, 33} [label="||" ]
+31 -> {32} [label="~35"] 
+31 -> 33 [label="~35"] 
+31 -> 34 [label="||"] 
+32 -> 4 [label="Lý do khiến\nđiều này hiện\ndiện trong\nmắt họ"] 
+32 -> 33 [label="Nhu cầu ẩn\nđằng sau\nnhận định này"] 
+{34, 32} -> 2 [label="Tương ứng\nvới mục tiêu" ] 
+35 -> 36 [label="Thuộc tổ chức"]
+36 -> {37, 38, 39} [label="||"]
+35 -> 11 [label="Sẵn sàng tham\ngia hoạt động"]
+31 -> 11 [label="Hoạt động\ndành cho họ"]
+2 -> 11 [label="Hoạt động"] 
+4 -> 11 [label="Là vấn đề\ncho hoạt động"]
+
+11 -> 12 [label="||"]
+
+62 -> {11, 12} [label="Công việc"]
+62 -> 61 [label="||"]
+>>>>>>> origin/master
+}

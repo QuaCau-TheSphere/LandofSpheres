@@ -1,0 +1,12 @@
+digraph {    
+	subgraph clusterLegend { 
+	rankdir="TB";
+    label = "Chú thích";
+	fontsize = 20
+	fontname = Lato
+	node [ style="filled, rounded" fontname="SVN-Avo" margin=0.2 ]
+	"Ban"  [ shape="plaintext	" fillcolor="#81b29a" fontcolor="#000000" ]
+	"Tiểu ban"  [ shape="plaintext	" fillcolor="#f2cc8f" fontcolor="#000000" ]
+	"Ban" -> "Tiểu ban" [style=invis ]
+	{rank=same; "Ban", "Tiểu ban" }
+}}
