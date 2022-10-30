@@ -1,4 +1,4 @@
-Trạng thái:: #tt-✅/đãđánhgiá
+Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 Độ cấp thiết:: Chưa cần nghĩ đến
 Giai đoạn trong tư duy thiết kế:: [Xây dựng tổ chức]
 Ban:: [[C Nhân sự]]

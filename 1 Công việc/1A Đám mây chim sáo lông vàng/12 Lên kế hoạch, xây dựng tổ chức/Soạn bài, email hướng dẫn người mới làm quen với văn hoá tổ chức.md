@@ -7,8 +7,8 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🤷/đangbịviệckháccuốn
-Độ cấp thiết:: #đct-⏫Phảilàmngay 
+Trạng thái:: #tt-✅/chưacóthànhviênkhácchoýkiến
+Độ cấp thiết:: #đct-✅Đãxong 
 Tính chất công việc:: 
 
 === end-column ===

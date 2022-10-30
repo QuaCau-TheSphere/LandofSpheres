@@ -4,6 +4,8 @@ Sự co giãn của không gian, sự thay đổi về cường độ, dòng ch�
 Playlist về hình dạng của QC
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJHpgh0M58TnaCJ5Rheb5qTE6e2879JOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![[Những dòng chảy trên một quả cầu - Copy.png]]
+
 ## Quả cầu
 “Bằng trí tưởng tượng và logic thuần tuý, ta dựng một quả cầu lên trên thế giới thực. Từ trên cao, một điểm sáng rọi xuyên qua mặt cầu và chiếu lên thế giới thực ảnh của nó” 
 

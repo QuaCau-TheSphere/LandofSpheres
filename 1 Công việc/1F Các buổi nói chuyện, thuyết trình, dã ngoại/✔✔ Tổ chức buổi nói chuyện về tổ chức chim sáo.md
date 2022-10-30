@@ -7,7 +7,7 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-✅/đãđánhgiá
+Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 Độ cấp thiết:: Đã xong
 Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên , #tc-🌐Cóthểlàmquamạng
 

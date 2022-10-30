@@ -1,7 +1,4 @@
-> [!NOTE] Hoàn thành công việc này bạn sẽ đạt được các danh hiệu sau đây
-> ```dataview
-> List from "6 Tổ chức/65 Kỹ năng, thử thách" where contains(file.outlinks,[[]])
->```
+# Đồng bộ bằng Google Drive
 
 # Đồng bộ bằng Git (khuyến khích) 
 ## Tạo tài khoản và token trên GitHub

@@ -1,5 +1,5 @@
 Độ cấp thiết:: Không quan trọng
-Trạng thái:: #tt-✅/đãđánhgiá
+Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 Ban:: [[D Kỹ thuật]]
 Nhân sự::
 Thuộc công việc loại A:

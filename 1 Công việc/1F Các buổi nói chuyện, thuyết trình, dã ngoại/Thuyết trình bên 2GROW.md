@@ -8,7 +8,7 @@ border: off
 ```
 
 Độ cấp thiết:: Đã xong
-Trạng thái:: #tt-✅/chưađánhgiá
+Trạng thái:: #tt-✅/chưalượnggiá
 Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên , #tc-🌐Cóthểlàmquamạng
 
 === end-column ===

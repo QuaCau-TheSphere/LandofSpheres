@@ -1,4 +1,4 @@
-Trạng thái:: #tt-✅/chưađánhgiá
+Trạng thái:: #tt-✅/chưalượnggiá
 Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: Thu thập thông tin/thấu cảm
 Ban:: [[A1 Điều phối mạng lưới]]

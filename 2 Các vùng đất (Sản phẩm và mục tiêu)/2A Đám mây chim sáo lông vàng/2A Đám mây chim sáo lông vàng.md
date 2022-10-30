@@ -9,7 +9,7 @@ Yếu tố hỗ trợ::
 
 Điểm mạnh::
 Điểm yếu::
-Đối tượng thụ hưởng:: [[Người thân, bạn bè của người có niềm tin tiêu cực (Danish)]], [[Tình nguyện viên QC]], [[Người tham gia các buổi họp]], [[Người muốn xây dựng QC, lan toả tinh thần QC]]
+Đối tượng thụ hưởng:: [[Người thân, bạn bè của người có niềm tin tiêu cực (Danish)]], [[Tình nguyện viên QC]], [[Người tham gia các buổi họp]], [[Người muốn xây dựng QC, lan toả tinh thần QC]], 
 
 # Thực thể khi được nhìn như là sản phẩm
 Game hóa chỉ là cách để bọc đường những thứ nhàm chán, trong khi yếu tố tuyệt vời nhất của game là bản đồ thì

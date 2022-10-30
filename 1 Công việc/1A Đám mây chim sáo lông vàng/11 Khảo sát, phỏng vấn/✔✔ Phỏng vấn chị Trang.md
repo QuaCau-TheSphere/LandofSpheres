@@ -1,5 +1,5 @@
 
-Trạng thái:: #tt-✅/đãđánhgiá
+Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 Độ cấp thiết:: Đã xong
 Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
 Ban:: [[C Nhân sự]]

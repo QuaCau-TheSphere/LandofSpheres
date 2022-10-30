@@ -137,8 +137,6 @@ $list|ForEach-Object {"`"$_`"," } |clip
 ```
 
 # Git
-git config --system core.quotePath false
-git config --system core.longpaths true
-=======
-```
->>>>>>> 0dd7b9769410df53fcdac556a3adb8a3853db5cf
+git config --global core.quotePath false
+git config --global core.longpaths true
+git config --global core.autocrlf true

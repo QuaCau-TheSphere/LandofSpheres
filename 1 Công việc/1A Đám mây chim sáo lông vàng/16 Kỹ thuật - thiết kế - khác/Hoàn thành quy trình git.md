@@ -1,4 +1,4 @@
-Trạng thái:: #tt-🤷/đangbịviệckháccuốn
+Trạng thái:: #tt-🤷/đangbịviệckháccuốn/khôngliênquan
 Độ cấp thiết:: #đct-🔼/muốnlàmngay
 Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
 Ban:: [[D Kỹ thuật]]

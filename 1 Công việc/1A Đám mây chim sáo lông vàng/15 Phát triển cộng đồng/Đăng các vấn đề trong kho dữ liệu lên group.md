@@ -7,7 +7,7 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🤷/đangbịviệckháccuốn
+Trạng thái:: #tt-🤷/đangbịviệckháccuốn/khôngliênquan
 Độ cấp thiết:: #đct-🔼/nênlàmngay , #đct-🔼/muốnlàmngay 
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 
 

@@ -1,2 +1,2 @@
 Chủ đề:: [[Mạng lưới niềm tin]]
-#Xãhộihọc 
+Chủ đề:: [[Xã hội học]] 

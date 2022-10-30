@@ -23,5 +23,5 @@ Do Xuan Phuong: Bạn tham khảo sự liên hệ giữa CFT và đại số Vir
 [Aiviet Nguyen](https://www.facebook.com/groups/211764062356835/user/100001966872861)
 Tôi nghĩ ý tưởng này tốt và đúng hướng. Tôi cũng tìm cách giải thích sự xuất hiện các nhóm đối xứng gauge. Có điều ở đây mới chỉ là liên tưởng, còn hơi mơ hồ so với một ý tưởng. Quả cầu Riemann là một đa tạp, nó có thể có những phép biến đổi đối xứng (cũng như nhóm Poincare là phép biến đổi đối xứng trên đa tạp không thời gian). Có các vấn đề sau phải suy nghĩ thêm 1) Sự liên quan của quả cầu Riemann với nền tảng của vật lý. Tốt nhất là liên hệ của nó với không thời gian. Nếu sự liên hệ đó chưa có hoặc không hiển nhiên thì phải tìm cách xây dựng mối liên hệ đó trước. Chẳng hạn xây dựng GR trên quả cầu Riemann cũng là một hướng tốt. Cái chính là chỉ ra Quả cầu Riemann là một đối tượng tự nhiên trong Vật lý chứ không phải chỉ là một concept Toán học. 2) Tìm các phép biến đổi trên Quả cầu Riemann và ý nghĩa vật lý của chúng. Trong số đó cố tìm ra SU(2) X SU(1). Tôi nghĩ khả năng tìm ra cấu trúc SU(3) X SU(2) X U(1) sẽ thấp vì nó quá lớn so với quả cầu Riemann.
 Chủ đề:: [[Vật lý]]
-#Vậtlý
+Chủ đề:: [[Vật lý]]
 
