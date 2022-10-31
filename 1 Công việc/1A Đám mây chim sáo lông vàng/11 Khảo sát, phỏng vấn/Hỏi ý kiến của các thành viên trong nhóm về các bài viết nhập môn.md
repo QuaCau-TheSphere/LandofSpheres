@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: Hiểu được lý do họ không cảm thấy cần thiết phải đọc
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

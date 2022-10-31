@@ -2,7 +2,7 @@
 [Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử]  ⠀•⠀ [Tính chất công việc:: Chỉ nên làm khi gặp mặt trực tiếp]
 Ban:: [[Tổ chức sự kiện – Truyền thông]], [[B1 Nghiên cứu]], [[E Hậu cần]]
 Nhân sự:: [[Ân]]
-Tài nguyên:: [[Chức năng của người thân, bạn bè]]
+Tài liệu:: [[Chức năng của người thân, bạn bè]]
 Kết quả mong muốn:: 10 người tham gia, 6 người quay lại 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

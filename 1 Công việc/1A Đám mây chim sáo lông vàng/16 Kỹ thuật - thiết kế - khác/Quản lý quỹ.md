@@ -18,7 +18,7 @@ Nhân sự:: [[Hội]]
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

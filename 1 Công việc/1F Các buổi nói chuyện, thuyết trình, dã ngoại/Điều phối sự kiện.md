@@ -18,7 +18,7 @@ Nhân sự:: [[Ân]]
 
 === end-multi-column
 
-Tài nguyên:: [[6 Tổ chức/66 Hướng dẫn xử lý các trường hợp cụ thể/Điều phối cuộc họp]]
+Tài liệu:: [[6 Tổ chức/66 Hướng dẫn xử lý các trường hợp cụ thể/Điều phối cuộc họp]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

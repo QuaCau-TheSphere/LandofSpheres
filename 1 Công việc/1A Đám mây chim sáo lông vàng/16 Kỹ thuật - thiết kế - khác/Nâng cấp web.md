@@ -10,7 +10,7 @@ Thuộc công việc loại A:
 list where contains(công-việc-thành-phần, [[]])
 ```
 
-Tài nguyên:: [Cải thiện tốc độ tải web](https://blog.codinghorror.com/performance-is-a-feature/)
+Tài liệu:: [Cải thiện tốc độ tải web](https://blog.codinghorror.com/performance-is-a-feature/)
 Kết quả mong muốn::
 Tương quan với các công việc khác:
 ```dataview 

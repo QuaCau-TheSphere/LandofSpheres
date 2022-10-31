@@ -1,8 +1,8 @@
 ---
 Alias: "93.04"
 ---
-Xem thêm:: [[Thoả mãn, vui, thoải mái]]
-Xem thêm:: [[Tò mò thử, hứng thú, mong muốn, ý định, động lực nội sinh, đam mê, ưu tiên, sẵn sàng, cam kết, gắn bó, trách nhiệm]]
+Tài liệu:: [[Thoả mãn, vui, thoải mái]]
+Tài liệu:: [[Tò mò thử, hứng thú, mong muốn, ý định, động lực nội sinh, đam mê, ưu tiên, sẵn sàng, cam kết, gắn bó, trách nhiệm]]
 
 |                 | Hứng thú                                                               | Mong muốn, động lực   | Ý định                      | Động lực nội sinh    | Đam mê                                                                           | Ưu tiên                          | Sẵn sàng          | Cam kết    | Gắn bó     | Trách nhiệm    |
 | --------------- | ---------------------------------------------------------------------- | --------------------- | --------------------------- | -------------------- | -------------------------------------------------------------------------------- | -------------------------------- | ----------------- | ---------- | ---------- | -------------- |

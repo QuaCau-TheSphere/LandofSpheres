@@ -18,7 +18,7 @@ Kỹ năng::
 
 === end-multi-column
 
-Tài nguyên:: <% tp.file.cursor() %>
+Tài liệu:: <% tp.file.cursor() %>
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 

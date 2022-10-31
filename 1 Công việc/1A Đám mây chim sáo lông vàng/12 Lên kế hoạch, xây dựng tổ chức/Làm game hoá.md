@@ -7,9 +7,9 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-🔼/muốnlàmngay
-Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên 
+Trạng thái:: #tt-▶️/khôngthểbiếtkhinàoxong
+Độ cấp thiết:: #đct-⏸️/thấmđẫmtrongnhữngviệckhác
+Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên, #tc-🧍Cóthểlàmmộtmình, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-💻Cầnlàmtrênmáytính, #tc-🌐Cóthểlàmquamạng 
 
 === end-column ===
 
@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [[Tính năng của vault#Game hóa]]
+Tài liệu:: [[Game hóa]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 

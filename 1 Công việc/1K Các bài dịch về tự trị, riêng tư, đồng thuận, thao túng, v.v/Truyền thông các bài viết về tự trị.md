@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [[Hướng dẫn truyền thông]]
+Tài liệu:: [[Hướng dẫn truyền thông]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

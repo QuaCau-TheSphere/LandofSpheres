@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
+Tài liệu:: [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

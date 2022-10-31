@@ -41,7 +41,7 @@ Tôi hứng thú với việc thảo luận với mọi người để tìm ra c
 Tôi không có vấn đề gì khi được giao những việc mình không có ý định làm,
 ## Giới thiệu cộng đồng
 - [ ] Mình có thể hỗ trợ được gì cho chị
-- [ ] [[Bản đồ dành cho người mới]]
+- [ ] [[== Bản đồ dành cho người mới ==]]
       - [ ] [[00.2 Kế hoạch tổng thể]]
 - [ ] Giới thiệu về Discord
 - [ ] Group Mạng lưới người thân, bạn bè của ncnttc

@@ -1,10 +1,38 @@
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-🔼/muốnlàmngay
-Giai đoạn trong tư duy thiết kế:: 
-Ban:: [[C Nhân sự]], [[Ω Điều hành]]
+<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
+
+=== start-multi-column: headingData
+```column-settings  
+number of columns: 2
+largest column: left
+border: off
+```
+
+Trạng thái:: #tt-✅/cầnđánhgiálại
+Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm
+Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên
+
+=== end-column ===
+
+Ban::
 Nhân sự::
+Kỹ năng:: [[Xây dựng tổ chức]]
+
+=== end-multi-column
+
+Tài liệu:: 
+Kết quả mong muốn:: 
+##### Chỉ số trước
+
 ```dataview
-list where contains(công-việc, [[]])
+List without id công-việc-thành-phần.kết-quả-mong-muốn
+Where file.name=this.file.name
+```
+Công việc thành phần:: 
+
+=== multi-column-start: extraInfo
+```column-settings
+Number of Columns: 2
+Largest Column: standard
 ```
 
 Phục vụ cho mục tiêu:
@@ -15,7 +43,14 @@ Nằm trong công việc lớn hơn:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])
 ```
-Hướng tới loại đối tượng:
+Khi làm thì có thể gặp những vấn đề này
+```dataview
+list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
+```
+
+=== end-column ===
+
+Hướng tới loại đối tượng::
 ```dataview
 list where contains(hoạt-động-dành-cho-họ,[[]])
 ```
@@ -27,14 +62,9 @@ Người sẵn sàng làm cùng:
 ```dataview
 list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
-Khi làm thì có thể gặp những vấn đề này
-```dataview
-list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
-```
 
-Tài nguyên::
-Kết quả mong muốn:: Tới hết tháng 9 có được 1 TNV kỹ thuật, 3 TNV nghiên cứu
-next:: [[Tuyển thêm TNV]]
+=== multi-column-end
+
 prev:
 ```breadcrumbs
 type: tree
@@ -42,10 +72,9 @@ dir: prev
 title: false
 ```
 
-Công việc thành phần:: [[✔ Thống nhất quy trình khi có người mới đăng ký làm TNV]]
-# Các công việc chưa hoàn thành
-```dataview
-Task from outgoing([[]]) where !completed
+Tương quan với các công việc khác:
+```dataview 
+list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
+WHERE contains(công-việc-thành-phần, [[]])
 ```
-
 

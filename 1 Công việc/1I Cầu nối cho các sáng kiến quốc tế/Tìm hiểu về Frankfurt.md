@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-⏹️/chưađếnlúclàm
 Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng , #tc-🧠Côngviệcnghiêncứu 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng , #tc-🧠Cầnsựtưduy 
 
 === end-column ===
 
@@ -18,7 +18,7 @@ Nhân sự:: [[Trang (Chuối)]]
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-⏹️/chưađếnlúclàm
 Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
-Tính chất công việc:: Cần sự tư duy
+Tính chất công việc:: #tc-🧠Cầnsựtưduy
 
 === end-column ===
 
@@ -18,7 +18,7 @@ Nhân sự:: [[Nhật]]
 
 === end-multi-column
 
-Tài nguyên:: [[Các ghi chú cũ của Nhật khi học vật lý]]
+Tài liệu:: [[Các ghi chú cũ của Nhật khi học vật lý]]
 Kết quả mong muốn:: <% tp.file.cursor() %>
 ##### Chỉ số trước
 

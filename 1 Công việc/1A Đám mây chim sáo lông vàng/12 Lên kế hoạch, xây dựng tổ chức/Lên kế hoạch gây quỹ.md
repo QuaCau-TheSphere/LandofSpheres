@@ -29,7 +29,7 @@ Khi làm thì có thể gặp những vấn đề này
 list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 
 
 prev:

@@ -18,7 +18,7 @@ Nhân sự:: [[Nhật]], [[Thịnh]], [[Tuyên]], [[Ân]], [[Trang (Chuối)]]
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 8/10 thành viên trả lời được kế hoạch tháng tới của mình là gì
 Kết quả mong muốn:: file [[00.2 Kế hoạch tổng thể]] dễ hiểu với mọi người
 ![[Chu kỳ lên kế hoạch chiến lược.jpg]]

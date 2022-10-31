@@ -28,7 +28,7 @@ Quá trình mất hứng:
 - Người ta nhìn vào thấy ko cam kết → mất giá
 
 
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/52.8 Xây dựng dự án/Phát triển cộng đồng]]
+Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]]
 Chủ đề:: [[Xây dựng nhóm nòng cốt]]
 Chủ đề:: [[Hứng thú]]
 #Hànhvitổchức/nhânsự 

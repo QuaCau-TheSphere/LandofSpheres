@@ -18,7 +18,7 @@ Nhân sự:: [[Nhật]], [[Ân]], [[Tuyên]], [[Thịnh]]
 
 === end-multi-column
 
-Tài nguyên:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
+Tài liệu:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [x] Lên nội dung chi tiết

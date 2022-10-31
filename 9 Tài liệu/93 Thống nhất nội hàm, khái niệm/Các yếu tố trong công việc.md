@@ -96,7 +96,7 @@ Group by tags
 [[Kể chuyện]]
 
 [[Khảo sát]]
-[[5 Câu hỏi nghiên cứu/52 Chủ đề/52.8 Xây dựng dự án/Phát triển cộng đồng]]
+[[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]]
 [[Thiết kế dự án]]
 [[Xây dựng tổ chức]]
 
@@ -106,7 +106,7 @@ Group by tags
 [[Thuyết trình]]
 
 [[Tin học]]
-[[Thiết kế đồ hoạ]]
+[[Thiết kế đồ hoạ, video]]
 [[Dùng Git]]
 [[Dùng Obsidian]]
 

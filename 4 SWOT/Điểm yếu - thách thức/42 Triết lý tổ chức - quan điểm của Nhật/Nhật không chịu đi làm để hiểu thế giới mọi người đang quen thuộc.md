@@ -8,7 +8,7 @@ Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])
 ```
-Xem thêm:: [[Nhật không học văn bằng 2 các ngành liên quan]]
+Tài liệu:: [[Nhật không học văn bằng 2 các ngành liên quan]]
 
 # 👀 [[Nhật nên tạm ngưng làm QC một thời gian để thấy được bế tắc của mình]] 
 ## 🤔 Lý do để vẫn tiếp tục làm QC dù biết nó gây ra hệ quả trên

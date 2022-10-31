@@ -1,3 +1,6 @@
+![](https://upload.wikimedia.org/wikipedia/commons/2/21/Octalysis_Framework.png)
+[Mô hình phân tích Game hoá Octalysis - by Hùng Vũ](https://www.gamehoa.org/p/mo-hinh-octalysis)
+
 | Thực thể                                    | Trò chơi                                              |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Nhu cầu                                     | Hải lưu, cơn gió                                      |

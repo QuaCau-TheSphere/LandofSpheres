@@ -6,7 +6,7 @@
 Kết quả mong muốn:: 		cvk
 Công việc thành phần::		cvt
 next::		cvn
-Tài nguyên:: [[|]]		cvt
+Tài liệu:: [[|]]		cvt
 
 # 2 Mục tiêu
 Mục tiêu::		mmm
@@ -54,7 +54,7 @@ Tóc đen:: 		td
 độ-cấp-thiết="Chưa cần làm ngay nhưng sẽ sớm phải làm" or độ-cấp-thiết="#đct-⏸️/đợingườinhậnlàm "		cc
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 		tccv
 
-Xem thêm::		xt
+Tài liệu::		xt
 Mâu thuẫn		mt
 <<<<<<< HEAD
 =======
@@ -64,7 +64,7 @@ Mâu thuẫn		mt
 Kết quả mong muốn:: 		cvk
 Công việc thành phần::		cvt
 next::		cvn
-Tài nguyên:: [[|]]		cvt
+Tài liệu:: [[|]]		cvt
 
 # 2 Mục tiêu
 Mục tiêu::		mmm
@@ -112,6 +112,6 @@ Tóc đen:: 		td
 độ-cấp-thiết="Chưa cần làm ngay nhưng sẽ sớm phải làm" or độ-cấp-thiết="#đct-⏸️/đợingườinhậnlàm "		cc
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 		tccv
 
-Xem thêm::		xt
+Tài liệu::		xt
 Mâu thuẫn		mt
 >>>>>>> 0dd7b9769410df53fcdac556a3adb8a3853db5cf

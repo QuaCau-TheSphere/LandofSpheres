@@ -29,7 +29,7 @@ Khi làm thì có thể gặp những vấn đề này
 list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
-Tài nguyên:: [[Điểm mạnh - cơ hội]]
+Tài liệu:: [[Điểm mạnh - cơ hội]]
 Kết quả mong muốn:: 1 publication của một cộng đồng và 1 package tài trợ
 
 prev:

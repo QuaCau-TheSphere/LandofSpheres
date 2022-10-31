@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [[6 Tổ chức/66 Hướng dẫn xử lý các trường hợp cụ thể/Xếp lịch]]
+Tài liệu:: [[6 Tổ chức/66 Hướng dẫn xử lý các trường hợp cụ thể/Xếp lịch]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

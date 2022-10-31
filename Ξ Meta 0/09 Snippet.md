@@ -140,3 +140,5 @@ $list|ForEach-Object {"`"$_`"," } |clip
 git config --global core.quotePath false
 git config --global core.longpaths true
 git config --global core.autocrlf true
+git pull origin branchname --allow-unrelated-histories
+git config --global alias.add-commit '!git add -A && git commit'

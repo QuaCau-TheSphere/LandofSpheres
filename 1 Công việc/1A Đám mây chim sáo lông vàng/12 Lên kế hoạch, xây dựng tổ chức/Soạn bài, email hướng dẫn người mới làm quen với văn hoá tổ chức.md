@@ -18,7 +18,7 @@ Nhân sự:: [[Nhật]]
 
 === end-multi-column
 
-Tài nguyên:: [[Hướng dẫn tham gia vào Quả Cầu]]
+Tài liệu:: [[Hướng dẫn tham gia vào Quả Cầu]]
 Kết quả mong muốn:: Người mới thấy hướng dẫn rõ ràng
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

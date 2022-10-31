@@ -5,7 +5,7 @@ Alias: Setup vault
 Ban:: [[D Kỹ thuật]]
 Nhân sự:: [[Nhật]]
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: Các thành viên có thể sync setting tốt
 ##### Chỉ số trước
 ```dataview
@@ -39,7 +39,7 @@ Các bước thực hiện:
 - [x] Argdown
 - [x] Làm kanban
 - [x] Graphviz kế hoạch chiến lược 
-- [x] Bản đồ bấm link được cho [[Bản đồ dành cho người mới]]
+- [x] Bản đồ bấm link được cho [[== Bản đồ dành cho người mới ==]]
 - [x] Giải pháp cho từng vấn đề 
 - [x] Tìm hiểu Dataview example vault
 - [x] Tạo Argdown cho từng tình huống

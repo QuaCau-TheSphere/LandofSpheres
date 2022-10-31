@@ -19,7 +19,7 @@ Kỹ năng::
 
 === end-multi-column
 
-Tài nguyên:: 
+Tài liệu:: 
 Kết quả mong muốn:: Các công việc được điền đầy đủ tính chất công việc, kỹ năng sử dụng, tài nguyên, kết quả mong muốn, mục tiêu, đối tượng
 
 ##### Chỉ số trước

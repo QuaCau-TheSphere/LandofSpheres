@@ -18,7 +18,7 @@ Nhân sự:: [[Nhật]]
 
 === end-multi-column
 
-Tài nguyên:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện...]] 
+Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện...]] 
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] Chọn địa điểm

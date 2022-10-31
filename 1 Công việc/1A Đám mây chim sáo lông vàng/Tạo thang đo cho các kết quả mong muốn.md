@@ -19,7 +19,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: Có cách để đảm bảo là mình không quên đánh giá xem có ok chưa
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

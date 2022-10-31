@@ -7,4 +7,4 @@ Theo Daniel Kahneman, nhà kinh tế học và tâm lý học đoạt giải Nob
 • Nhận được sự phản hồi nhanh chóng cho những gì mình làm (làm sai biết sai, làm đúng biết đúng)
 
 https://www.youtube.com/watch?v=ksopQLMQsq8
-Xem thêm:: [[Chuyên gia]]
+Tài liệu:: [[Chuyên gia]]

@@ -29,7 +29,7 @@ Khi làm thì có thể gặp những vấn đề này
 list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
-Tài nguyên:: [[Trò chuyện với TNV mới]]
+Tài liệu:: [[Trò chuyện với TNV mới]]
 Kết quả mong muốn:: ứng viên hiểu được mục tiêu QC là gì, hiểu được kế hoạch sắp tới
 Kết quả mong muốn:: mình hiểu được ứng viên là ai, mạng lưới của họ có ai, nhu cầu hứng thú của họ, và mình có thể hỗ trợ được gì cho họ
 next:: 

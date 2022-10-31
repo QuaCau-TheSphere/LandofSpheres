@@ -9,7 +9,7 @@ Thuộc công việc loại A:
 list where contains(công-việc-thành-phần, [[]])
 ```
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn::
 Tương quan với các công việc khác:
 ```dataview 

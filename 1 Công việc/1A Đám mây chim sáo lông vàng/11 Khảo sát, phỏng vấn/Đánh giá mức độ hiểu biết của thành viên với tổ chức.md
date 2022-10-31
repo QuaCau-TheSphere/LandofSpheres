@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [[Khảo sát TNV định kỳ]]
+Tài liệu:: [[Khảo sát TNV định kỳ]]
 Kết quả mong muốn:: thấy được những điểm mn còn lầm tưởng 
 
 ##### Chỉ số trước

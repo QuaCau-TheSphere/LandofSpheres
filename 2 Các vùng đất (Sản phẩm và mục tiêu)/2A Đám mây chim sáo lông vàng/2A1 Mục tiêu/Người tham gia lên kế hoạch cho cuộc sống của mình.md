@@ -7,7 +7,7 @@ Phục vụ cho những nhu cầu này của mình:
 list where contains(tương-ứng-với-mục-tiêu,[[]])
 ```
 
-Mục tiêu::
+Mục tiêu:: 
 Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::
@@ -15,3 +15,5 @@ Hoạt động::
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng::
+
+Tài liệu:: [[Lên kế hoạch cho bản thân]]

@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [Gift economy - Wikipedia](https://en.wikipedia.org/wiki/Gift_economy "Gift economy - Wikipedia")
+Tài liệu:: [Gift economy - Wikipedia](https://en.wikipedia.org/wiki/Gift_economy "Gift economy - Wikipedia")
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

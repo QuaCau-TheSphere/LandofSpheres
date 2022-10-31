@@ -26,7 +26,7 @@ list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể"
 ```
 
 Kết quả mong muốn:: Các thành viên trong nhóm chia sẻ bài nhiều hơn
-Tài nguyên:: [[Điểm khác biệt giữa QC và các nơi khác]]
+Tài liệu:: [[Điểm khác biệt giữa QC và các nơi khác]]
 
 Công việc thành phần:: [[Đăng các câu hỏi nghiên cứu lên các group]] 
 Công việc thành phần:: Trả lời câu hỏi [[Hữu xạ có thể tự nhiên hương không？]]

@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: Thấy được lý do khiến các thành viên không thấy việc tham gia vào hệ thống sẽ giúp ích cho nhu cầu của mình
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

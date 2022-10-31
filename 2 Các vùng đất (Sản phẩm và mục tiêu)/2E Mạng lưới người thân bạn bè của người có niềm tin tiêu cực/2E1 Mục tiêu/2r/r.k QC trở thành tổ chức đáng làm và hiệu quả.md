@@ -11,7 +11,7 @@ Mục tiêu:: [[r.k.10 Độc lập tài chính]]
 Yếu tố hỗ trợ:: [[r.k.i Các TNV đóng góp sôi nổi]]
 Hoạt động:: [[Hoàn thiện tài liệu cho người mới. Tạo nhập môn QC đại cương]]
 Hoạt động:: [[Xây dựng hệ thống quản lý dự án]]
-- [ ] 8/10 thành viên không cảm thấy [[Bản đồ dành cho người mới]] mơ hồ, có thể biết rõ ràng trong đây có những thứ gì
+- [ ] 8/10 thành viên không cảm thấy [[== Bản đồ dành cho người mới ==]] mơ hồ, có thể biết rõ ràng trong đây có những thứ gì
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng::

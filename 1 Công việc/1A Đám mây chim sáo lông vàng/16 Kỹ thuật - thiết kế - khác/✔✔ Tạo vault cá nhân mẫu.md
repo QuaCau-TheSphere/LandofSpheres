@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 Độ cấp thiết:: Đã xong
-Tính chất công việc:: Cần sự tư duy
+Tính chất công việc:: #tc-🧠Cầnsựtưduy
 
 === end-column ===
 
@@ -18,7 +18,7 @@ Nhân sự:: [[Nhật]]
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

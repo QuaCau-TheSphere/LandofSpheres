@@ -18,6 +18,6 @@ Làm thử
 - [ ] Lên kế hoạch cho cuộc sống của mình
 - [ ] Thảo luận về những quan điểm với nhau
 - [ ] Lắng nghe mà không phán xét gì cả
-
+- [ ] [[Tạo một vault cho riêng mình]]
 
 [[66 Hướng dẫn xử lý các trường hợp cụ thể]]

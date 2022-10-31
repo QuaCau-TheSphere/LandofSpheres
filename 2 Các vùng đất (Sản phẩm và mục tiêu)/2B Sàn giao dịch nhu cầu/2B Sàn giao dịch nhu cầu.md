@@ -35,7 +35,7 @@ Sàn nhu cầu có giao diện là một trang website trên Quacau.cc để ng�
 ## FAQ
 ### Có những nhu cầu không muốn người khác biết mình có
 Đó là do chưa tạo được môi trường an toàn để nói ra
-Xem thêm:: [[Quyền truy cập thông tin]]
+Tài liệu:: [[Quyền truy cập thông tin]]
 ### Nếu ngồi với những người cùng bí với nhau thì sao có giải pháp được
 Muốn có giải pháp thì phải kiếm chuyên gia. Nếu đơn giản chỉ kể với nhau thì sẽ mất thời gian của nhau. 
 

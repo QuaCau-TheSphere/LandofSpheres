@@ -14,7 +14,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo môi trường để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình]]
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng sự gắn kết giữa những người quan tâm]]
-Đáp ứng cho nhu cầu của mình:: [[Gây quỹ]]
+Đáp ứng cho nhu cầu của mình:: [[7 Nhu cầu/Gây quỹ]]
 # Thực thể khi được nhìn như là mục tiêu
 
 

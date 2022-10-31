@@ -16,7 +16,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên:: [[Kế hoạch truyền thông]]
+Tài liệu:: [[Kế hoạch truyền thông]]
 Kết quả mong muốn:: Có tagline
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

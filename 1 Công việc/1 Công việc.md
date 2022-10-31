@@ -1,5 +1,7 @@
-> [!Info] Xem thêm
-> [[Cách tìm công việc phù hợp với mình nhất]]
+```button
+Id timcongviecphuhop
+```
+
 # Các PNML chưa có ai nhận làm
 ```dataview
 List from "1 Công việc" where !nhân-sự and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại")

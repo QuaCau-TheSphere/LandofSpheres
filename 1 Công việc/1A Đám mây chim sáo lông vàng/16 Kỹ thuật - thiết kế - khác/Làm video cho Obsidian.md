@@ -8,17 +8,19 @@ border: off
 ```
 
 Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-🔼/muốnlàmngay
-Tính chất công việc:: Cần sự tư duy
+Độ cấp thiết:: #đct-🔼/nênlàmngay, #đct-🔼/muốnlàmngay
+Tính chất công việc:: #tc-🧠Cầnsựtưduy, #tc-💬Cầnhọpthườngxuyên
+
 
 === end-column ===
 
 Ban:: [[Tổ chức sự kiện – Truyền thông]]
 Nhân sự:: 
+Kỹ năng:: [[Thiết kế đồ hoạ, video]]
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 
 
 ##### Chỉ số trước
@@ -77,4 +79,3 @@ Tương quan với các công việc khác:
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
 WHERE contains(công-việc-thành-phần, [[]])
 ```
-

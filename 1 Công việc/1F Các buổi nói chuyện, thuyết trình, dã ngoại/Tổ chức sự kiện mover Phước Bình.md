@@ -18,7 +18,7 @@ Nhân sự:: [[Tuyên]]
 
 === end-multi-column
 
-Tài nguyên:: [[Nội dung chuyến đi]], [[Bài truyền thông sự kiện...]] 
+Tài liệu:: [[Nội dung chuyến đi]], [[Bài truyền thông sự kiện...]] 
 Kết quả mong muốn:: WS bầy chim sáo trong ngày 8, khoảng 30 - 45 phút
 Kết quả mong muốn:: người tham gia có thể tự chủ động trong việc tự vận hành và làm bài tập truyền thông (quay phim, chụp hình
 Kết quả mong muốn:: Các em nhỏ ở Raglai và Churu hiểu SDG là cái gì và tại sao mình cần nó

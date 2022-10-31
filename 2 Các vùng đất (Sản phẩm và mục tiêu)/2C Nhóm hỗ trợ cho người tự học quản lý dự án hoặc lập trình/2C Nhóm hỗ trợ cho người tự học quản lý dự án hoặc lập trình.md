@@ -1,24 +1,18 @@
 # Thực thể khi được nhìn như là nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV lập trình]]
 Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
-Đáp ứng cho nhu cầu của mình:: [[Gây quỹ]]
+Đáp ứng cho nhu cầu của mình:: [[7 Nhu cầu/Gây quỹ]]
 Đáp ứng cho nhu cầu của mình:: [[Cho mọi người thấy QC có những sản phẩm thú vị, cần thiết, rõ ràng, dễ làm]]
 Đáp ứng cho nhu cầu của mình:: [[Thu hút sự chú ý]]
 # Thực thể khi được nhìn như là mục tiêu
-Mục tiêu:: [[trao đổi nhu cầu]], [[Sàn giao dịch nhu cầu có 1000 thành viên hoạt động]], 
 
-Điểm mạnh:: 
-- xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu → Dễ gây hứng thú và giúp người dùng đọc được những bài viết khác của Quả Cầu.
-Điểm yếu::
-- Database lưu trữ trên Wordpress. Mất thời gian để chuyển format từ dạng Table trên Wordpress sang dạng Text trên Obsidian để sync. (có Plug-in để chuyển đổi). 
-Đối tượng thụ hưởng: 
-- Người có nhu cầu + tài nguyên để trao đổi
-- Đội nhóm có nhu cầu + tài nguyên để trao đổi.
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault kết nối nhu cầu]]
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công việc]]
 Hoạt động:: [[Truyền thông cho nhóm lập trình]]
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
+Hoạt động:: [[Làm chuỗi video ngắn về git]]
+Hoạt động:: [[Làm video cho Obsidian]]
 # Thực thể khi được nhìn như là sản phẩm
 Công thái học 
 Mô tả ý tưởng sàn trao đổi nhu cầu:

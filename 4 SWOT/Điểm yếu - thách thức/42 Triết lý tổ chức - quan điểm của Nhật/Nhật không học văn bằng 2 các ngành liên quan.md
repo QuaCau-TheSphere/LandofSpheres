@@ -11,7 +11,7 @@ Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])
 ```
-Xem thêm:: [[Nhật không chịu đi làm để hiểu thế giới mọi người đang quen thuộc]]
+Tài liệu:: [[Nhật không chịu đi làm để hiểu thế giới mọi người đang quen thuộc]]
 
 | Giải pháp gợi ý                   | Vấn đề phát sinh |
 | --------------------------------- | ---------------- |

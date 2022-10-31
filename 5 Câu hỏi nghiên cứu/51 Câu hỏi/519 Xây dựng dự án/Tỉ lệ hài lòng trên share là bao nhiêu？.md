@@ -1,5 +1,5 @@
 Câu hỏi:: [[Tỉ lệ người cần nhưng fb ko hiện bài lên là bao nhiêu]]
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/52.8 Xây dựng dự án/Marketing]]
+Chủ đề:: [[Marketing]]
 ## The 5 Key Reasons Why People Share (According to Psychology)
 
 1.  To bring value and entertaining content to others: 49% say sharing allows them to inform others of products they care about and potentially change opinions or encourage action.

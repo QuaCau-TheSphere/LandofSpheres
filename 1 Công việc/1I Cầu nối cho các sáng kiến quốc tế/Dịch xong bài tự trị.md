@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-⏹️/chưađếnlúclàm
 Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, Cần sự tư duy
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Cầnsựtưduy
 
 === end-column ===
 
@@ -18,7 +18,7 @@ Nhân sự::
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] Tìm hiểu xem bài viết đã có bài tiếng Việt tương tự hay không 

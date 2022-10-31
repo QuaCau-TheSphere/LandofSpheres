@@ -197,7 +197,7 @@ Hệ phi tuyến
 [[hậu hiện đại]] 
 Trào lưu [[Giải trung tâm]]
 [[Đặt con người làm trung tâm]]
-[[5 Câu hỏi nghiên cứu/52 Chủ đề/52.8 Xây dựng dự án/Phát triển cộng đồng]] 
+[[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]] 
 [[Cộng đồng tự quản, hợp tác xã (chủ đề)]]
 [[Xây dựng nhóm nòng cốt]]
 thể chế dân chủ

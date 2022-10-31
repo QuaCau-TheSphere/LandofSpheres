@@ -18,7 +18,7 @@ Nhân sự:: [[Thịnh]], [[Nhật]]
 
 === end-multi-column
 
-Tài nguyên:: [[Nội dung sự kiện 2GROW]]
+Tài liệu:: [[Nội dung sự kiện 2GROW]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] Lên nội dung chi tiết

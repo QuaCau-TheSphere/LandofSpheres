@@ -18,7 +18,7 @@ Nhân sự:: [[Tuyên]]
 
 === end-multi-column
 
-Tài nguyên:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
+Tài liệu:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
 Kết quả mong muốn:: Có cách đánh giá sự hiệu quả của buổi đó
 Kết quả mong muốn:: Có kế hoạch truyền thông cho bài viết
 ##### Chỉ số trước

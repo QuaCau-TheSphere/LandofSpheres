@@ -29,7 +29,7 @@ Khi làm thì có thể gặp những vấn đề này
 list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
-Tài nguyên:: [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
+Tài liệu:: [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
 Kết quả mong muốn:: Có đủ các khải niệm cần thiết để hoàn thiện triết lý tổ chức
 next:: [[Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu]]
 prev:

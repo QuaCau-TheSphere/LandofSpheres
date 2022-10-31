@@ -29,7 +29,7 @@ Khi làm thì có thể gặp những vấn đề này
 list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
-Tài nguyên:: [[63.01 Thành viên nòng cốt#^d19e16\|Cung cấp thông tin về những việc khác mình đang làm]]
+Tài liệu:: [[63.01 Thành viên nòng cốt#^d19e16\|Cung cấp thông tin về những việc khác mình đang làm]]
 Kết quả mong muốn:: Có mqh hợp tác với các tổ chức khác của 80% thành viên
 next::
 prev:

@@ -10,7 +10,7 @@ Yếu tố hỗ trợ:: [[n Megan, Danish hoặc Beret đối thoại với nh�
 Yếu tố hỗ trợ:: [[o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn]]
 Yếu tố hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]
 Yếu tố hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
-Yếu tố hỗ trợ:: [[2E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
+Yếu tố hỗ trợ:: [[2r Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
 Yếu tố hỗ trợ:: [[s Megan xử lý được sự xấu hổ của mình khi phải thừa nhận mình sai]]
 
 Tham khảo:: [[Cảm giác nhẹ nhõm khi nhận ra mình sai nhưng được tự tiêu hóa và không phải xin lỗi]], [[Quyền được lãng quên]], [[Cảm giác khó chịu khi phải thừa nhận mình mâu thuẫn]]

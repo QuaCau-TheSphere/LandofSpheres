@@ -5,7 +5,7 @@ From "6 Tổ chức/62 Thành viên (Người chơi)"
 where contains(ban, [[]])
 ```
 
-Xem thêm:: [[Nhân sự]]
+Tài liệu:: [[Nhân sự]]
 # Công việc
 ## PNML
 ### Danh sách chung

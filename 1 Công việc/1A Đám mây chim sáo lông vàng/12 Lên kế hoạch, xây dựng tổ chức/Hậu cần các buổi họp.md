@@ -16,7 +16,7 @@ Nhân sự:: [[Ân]]
 
 === end-multi-column
 
-Tài nguyên::
+Tài liệu::
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] Chuẩn bị nội dung họp
