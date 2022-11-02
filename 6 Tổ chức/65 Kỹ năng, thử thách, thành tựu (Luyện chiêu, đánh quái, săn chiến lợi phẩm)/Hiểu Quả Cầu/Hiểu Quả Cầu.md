@@ -9,10 +9,9 @@
 # 🌓 Đỉa ngựa
 - [ ] [[Kết nối Google Calendar của mình với nhóm]]
 - [ ] Hiểu cách vận hành hiện tại
-	- [ ] [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
-
+- Không sợ sự thiếu chuyên nghiệp
 # 🌔 Tóc vàng
-Làm thử
+Làm thử [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
 
 # 🌕 Trong trong
 - [ ] Lên kế hoạch cho cuộc sống của mình

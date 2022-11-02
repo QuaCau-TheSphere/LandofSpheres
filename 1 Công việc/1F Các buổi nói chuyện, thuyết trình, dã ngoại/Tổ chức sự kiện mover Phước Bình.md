@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-▶️/xong50٪
 Độ cấp thiết:: #đct-⏫Phảilàmngay
-Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên , #tc-🌐Cóthểlàmquamạng
+Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng
 
 === end-column ===
 

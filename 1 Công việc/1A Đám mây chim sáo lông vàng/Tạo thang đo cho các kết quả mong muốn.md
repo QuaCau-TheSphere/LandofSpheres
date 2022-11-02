@@ -10,7 +10,7 @@ border: off
 
 Trạng thái:: #tt-⏹️/chưathốngnhất 
 Độ cấp thiết:: #đct-🔼/nênlàmngay
-Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên 
+Tính chất công việc:: #tc-💬Họpthườngxuyên 
 
 === end-column ===
 

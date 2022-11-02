@@ -49,7 +49,7 @@ Group by tags
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1. #đct-⏫Phảilàmngay                                                           |                                                                                                                                                                                                                                                                                      |
 | 2. #đct-🔼/muốnlàmngay                                                            | Thiên về công việc quan trọng trong dài hạn. Những thứ mình có hứng thú và chỉ muốn được làm nó hoài, hoặc nếu không làm cảm thấy nhức đầu                                                                                                                                                                                                        |
-| 3. #đct-🔼/nênlàmngay                                                             | Thiên về công việc quan trọng trong ngắn hạn. Chưa làm ngay do phải ưu tiên nguồn lực cho những thứ #đct-⏫Phảilàmngayhay #đct-🔼/muốnlàmngay khác. Hoặc là #đct-⏫Phảilàmngaynhưng do đang làm rồi nên cũng không cần phải ép mình. Những thứ mình cần phải ép bản thân để đạt được thứ mình muốn |
+| 3. #đct-🔼/nênlàmngay                                                             | Thiên về công việc quan trọng trong ngắn hạn. Chưa làm ngay do phải ưu tiên nguồn lực cho những thứ phải làm ngay hay muốn làm ngay khác. Hoặc là phải làm ngay nhưng do đang làm rồi nên cũng không cần phải ép mình. Những thứ mình cần phải ép bản thân để đạt được thứ mình muốn |
 | 4. Chưa cần làm ngay nhưng sẽ sớm phải làm                                  |                                                                                                                                                                                                                                                                                      |
 | 5. Chưa cần làm ngay nhưng nếu có người làm giúp thì cũng đỡ được nhiều thứ |                                                                                                                                                                                                                                                                                      |
 | 6. Không quan trọng                                                         | Hãy để sự ngẫu nhiên dẫn dắt hành động                                                                                                                                                                                                                                               |
@@ -69,28 +69,43 @@ flatten file.etags as tags
 Where startswith(tags,"#tc")
 Group by tags
 ```
+
 #tc-🧍Cóthểlàmmộtmình
-#tc-🧠Khôngphảisuynghĩnhiều
-#tc-☕Chỉnênlàmkhigặpmặttrựctiếp
-#tc-🌐Chỉnênlàmquamạng
-#tc-🚴Cầnphảiđilạinhiều
-#tc-🌐Cóthểlàmquamạng
-#tc-💬Cầnhọpthườngxuyên
-#tc-💬Làmxongkhôngcầnhỏiýkiến
+#tc-🌐Cóthểlàmquamạng 
 #tc-📱Cóthểlàmtrênđiệnthoại
-#tc-💻Cầnlàmtrênmáytính
-#tc-💻Khôngphảicắmmặtvàomáytính
+#tc-🔓Làmlúcnàocũngđược
 #tc-🔁Côngviệclặplại
 #tc-🔁Kếtquảthayđổithườngxuyên
+#tc-🧠Khôngphảisuynghĩnhiều
+#tc-💬Làmxongkhôngcầnhỏiýkiến
+
+#tc-🔁Kếtquảthayđổithườngxuyên 
+#tc-🔁Côngviệclặplại
+#tc-💬Họpthườngxuyên
 #tc-🥳Tươngtácnhiềuvớiloàingười
+
+#tc-☕Chỉnênlàmkhigặpmặttrựctiếp
+#tc-🥳Tươngtácnhiềuvớiloàingười
+#tc-💬Họpthườngxuyên
+#tc-🔁Côngviệclặplại
+#tc-🔁Kếtquảthayđổithườngxuyên
+#tc-🗣️Nóinhiều
+#tc-💻Khôngphảicắmmặtvàomáytính
+
+#tc-💻Khôngphảicắmmặtvàomáytính
 #tc-🌳Tiếpxúcvớiđộngvậtthiênnhiên
-#tc-🔓Làmlúcnàocũngđược
-#tc-🧠Côngviệcnghiêncứu
+#tc-🚴Đilạinhiềunơi
+
+#tc-🌐Cóthểlàmquamạng 
+#tc-💻Cầnlàmtrênmáytính
+#tc-🧠Tưduynhiều
 #tc️-🏋️Tìmngườicóchuyênmôncaolàmsẽtốthơn
+
+#tc-🌐Chỉnênlàmquamạng 
 # Kỹ năng 
-[[Gặng xét]]
+[[Lập luận, ra quyết định]]
 [[Lắng nghe]]
-[[Thuyết phục]]
+[[Bán hàng]]
 [[Ra quyết định]]
 [[Giải quyết mâu thuẫn]]
 [[Kể chuyện]]

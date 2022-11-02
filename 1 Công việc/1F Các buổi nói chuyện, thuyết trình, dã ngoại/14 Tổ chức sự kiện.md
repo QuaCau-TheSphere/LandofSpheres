@@ -68,7 +68,7 @@ list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể"
 ## PNML
 ```dataview 
 List from "1 Công việc/14 Tổ chức sự kiện" 
-Where file.name!=this.file.name and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" )
+Where file.name!=this.file.name and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" )
 ```
 ## Tất cả
 ```dataview 

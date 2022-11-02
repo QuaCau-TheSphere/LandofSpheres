@@ -23,20 +23,10 @@ id hieutrietlytochuc
 ```
 ^button-hieuchinhbanthanminh
 
-
 ```button
-name Hiểu kế hoạch chiến lược
+name Hiểu cách hoạt động trong QC
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2FHi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FT%C3%A0i%20li%E1%BB%87u%2FHi%E1%BB%83u%20k%E1%BA%BF%20ho%E1%BA%A1ch%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c
-id hieutrietlytochuc
-```
-^button-hieukehoachchienluoc
-
-
-```button
-name Hiểu cách vận hành hiện tại
-type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2FHi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FT%C3%A0i%20li%E1%BB%87u%2FHi%E1%BB%83u%20c%C3%A1ch%20v%E1%BA%ADn%20h%C3%A0nh%20hi%E1%BB%87n%20t%E1%BA%A1i
+Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2FHi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FT%C3%A0i%20li%E1%BB%87u%2FHi%E1%BB%83u%20c%C3%A1ch%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20trong%20QC
 id hieutrietlytochuc
 ```
 ^button-hieucachvanhanhhientai

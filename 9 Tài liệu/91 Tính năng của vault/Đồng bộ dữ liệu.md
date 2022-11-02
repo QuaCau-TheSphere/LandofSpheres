@@ -73,7 +73,6 @@ obsidian-auto-link-title
 obsidian-autocomplete-plugin
 obsidian-banners
 obsidian-chartsview-plugin
-obsidian-commits
 obsidian-custom-frames
 obsidian-database-plugin
 obsidian-day-planner
@@ -119,7 +118,10 @@ templater-obsidian
 various-complements
 ## Dễ gây xung đột
 recent-files-obsidian
-
+obsidian-commits
+workspace-mobile.json
+appearance.json
+community-plugins.json
 ## Yêu cầu git
 - Có autosave và autosync
 - Người chưa biết gì về git cũng có thể sử dụng được

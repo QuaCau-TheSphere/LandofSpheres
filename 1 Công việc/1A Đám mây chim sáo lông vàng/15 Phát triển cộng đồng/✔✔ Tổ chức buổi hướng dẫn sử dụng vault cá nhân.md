@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 Độ cấp thiết:: Đã xong
-Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên 
+Tính chất công việc:: #tc-💬Họpthườngxuyên 
 
 === end-column ===
 

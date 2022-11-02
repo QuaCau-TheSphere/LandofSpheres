@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-⏹️/chưađếnlúclàm
 Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
-Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên 
+Tính chất công việc:: #tc-💬Họpthườngxuyên 
 
 === end-column ===
 

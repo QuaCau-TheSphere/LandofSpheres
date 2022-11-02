@@ -4,9 +4,9 @@ Id timcongviecphuhop
 
 # Các PNML chưa có ai nhận làm
 ```dataview
-List from "1 Công việc" where !nhân-sự and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại")
+List from "1 Công việc" where !nhân-sự and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay")
 ```
-# #tc-💬Cầnhọpthườngxuyên 
+# #tc-💬Họpthườngxuyên 
 ```dataview
 List from "1 Công việc" 
 where contains(tính-chất-công-việc,"#tc-💬Cầnhọpthườngxuyên ")

@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-⏹️/chưabắtđầubàn
 Độ cấp thiết:: #đct-🔼/muốnlàmngay 
-Tính chất công việc:: #tc-💬Cầnhọpthườngxuyên, #tc-🔁Côngviệclặplại 
+Tính chất công việc:: #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại 
 
 === end-column ===
 

@@ -19,7 +19,7 @@ Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[Nội dung video làm git]]
+Tài liệu:: [[Chuỗi video hướng dẫn sử dụng vault]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 

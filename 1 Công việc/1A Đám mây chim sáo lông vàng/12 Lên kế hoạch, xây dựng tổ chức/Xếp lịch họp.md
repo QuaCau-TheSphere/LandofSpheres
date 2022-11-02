@@ -15,10 +15,11 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 
 Ban:: [[C Nhân sự]]
 Nhân sự::
+Kỹ năng:: [[Quản lý dự án]]
 
 === end-multi-column
 
-Tài liệu:: [[6 Tổ chức/66 Hướng dẫn xử lý các trường hợp cụ thể/Xếp lịch]]
+Tài liệu:: [[Xếp lịch]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

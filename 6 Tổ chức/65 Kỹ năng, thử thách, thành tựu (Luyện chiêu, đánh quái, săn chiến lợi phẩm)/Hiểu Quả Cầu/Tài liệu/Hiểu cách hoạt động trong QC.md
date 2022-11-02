@@ -1,7 +1,13 @@
+```button
+Id timcongviecphuhop
+```
+
 1. [[Lên kế hoạch cho bản thân]]
-2. Đọc hiểu:
+2. Tìm hiểu:
 - [[2 Các vùng đất (Sản phẩm và mục tiêu)|Các mục tiêu dài hạn]]
-- [[00.2 Kế hoạch tổng thể|Các mục tiêu ngắn hạn]]
+- [[== Tổng quan tình hình hiện tại ==|Các mục tiêu ngắn hạn]]
+- [[Cách tìm công việc phù hợp với mình nhất]]
+- [[66 Hướng dẫn xử lý các trường hợp cụ thể|Cách xử lý các tình huống khác nhau trong quá trình làm việc]]
 3. Tìm xem bản kế hoạch của bạn và bản kế hoạch của Quả Cầu giao với nhau ở những điểm nào. Bạn có thể đề xuất một bản kế hoạch mới cho Quả Cầu nếu bạn tháy chưa có điểm chung
 
 ```mermaid

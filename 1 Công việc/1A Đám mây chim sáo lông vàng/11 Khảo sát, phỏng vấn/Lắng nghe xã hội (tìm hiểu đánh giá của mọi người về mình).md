@@ -15,7 +15,7 @@ Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🔁Côngviệcl�
 
 Ban:: [[A1 Điều phối mạng lưới]]
 Nhân sự:: [[Trang (Chuối)]]
-Kỹ năng:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]], [[Lắng nghe]], [[Gặng xét]], [[Khảo sát]], [[Nghiên cứu]]
+Kỹ năng:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]], [[Lắng nghe]], [[Lập luận, ra quyết định]], [[Khảo sát]], [[Nghiên cứu]]
 
 === end-multi-column
 

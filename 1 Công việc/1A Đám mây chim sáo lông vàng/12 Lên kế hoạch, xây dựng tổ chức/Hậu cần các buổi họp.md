@@ -7,7 +7,7 @@ border: off
 
 Trạng thái:: #tt-⏹️/chưađếnlúclàm 
 Độ cấp thiết:: #đct-🔼/nênlàmngay 
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến, #tc-🔁Côngviệclặplại 
 
 === end-column ===
 
@@ -19,10 +19,9 @@ Nhân sự:: [[Ân]]
 Tài liệu::
 Kết quả mong muốn:: 
 ##### Chỉ số trước
-- [ ] Chuẩn bị nội dung họp
-- [ ] Xem nội dung họp trong [[00.1 Lịch họp hằng tuần]]
-- [ ] Lên danh sách chủ đề các buổi họp để mọi người lựa chọn
-- [ ] Đăng thông báo lên group
+- [ ] Chuẩn bị nội dung họp: Xem trong [[00.1 Lịch họp hằng tuần]]
+- [ ] [[Đăng thông báo họp lên group]]
+	- [ ] Tổng hợp các chủ đề mọi người muốn họp nhất
 	- [ ] [[Chọn nơi họp]]
 	- [ ] [[Xếp lịch họp]]: Xác định ngày họp nhiều người tham gia được nhất
 	- [ ] Tạo lịch Google Calendar
@@ -48,7 +47,7 @@ Nếu có thành viên online thì cần đảm bảo:
 	- Tuần sau như thế nào?
 
 Công việc thành phần:: [[Xếp lịch họp]]
-
+Công việc thành phần:: 
 
 === multi-column-start: extraInfo
 ```column-settings

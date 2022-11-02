@@ -8,7 +8,7 @@ border: off
 ```
 
 Trạng thái:: #tt-▶️/khôngthểbiếtkhinàoxong
-Độ cấp thiết:: Công việc lặp lại
+Độ cấp thiết:: #đct-🔼/muốnlàmngay
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 
 
 === end-column ===

@@ -1,3 +1,5 @@
+<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
+
 === start-multi-column: headingData
 ```column-settings  
 number of columns: 2
@@ -5,25 +7,27 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-🔼/muốnlàmngay
-Tính chất công việc:: #tc-💬Họpthườngxuyên 
+Trạng thái:: #tt-⏹️/chưaainhậnlàm
+Độ cấp thiết:: #đct-🔼/nênlàmngay, #đct-⏸️/đợingườinhậnlàm 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình,
 
 === end-column ===
 
-Ban:: [[Ω Điều hành]], [[Tổ chức sự kiện – Truyền thông]]
+Ban:: 
 Nhân sự::
+Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[Kế hoạch truyền thông]]
-Kết quả mong muốn:: Có tagline
+Tài liệu:: <% tp.file.cursor() %>
+Kết quả mong muốn:: 
 ##### Chỉ số trước
-- [ ] [est:: ] [ ]
+
 ```dataview
 List without id công-việc-thành-phần.kết-quả-mong-muốn
 Where file.name=this.file.name
 ```
+Công việc thành phần:: 
 
 === multi-column-start: extraInfo
 ```column-settings
