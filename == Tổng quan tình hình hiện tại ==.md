@@ -40,36 +40,30 @@ Sort độ-cấp-thiết
 Xem thêm: [[Cách tìm công việc phù hợp với mình nhất]]
 # Lịch các thành viên
 ```gEvent
-type: web 
+type: month
 width: 100%
 ```
 
 # Nội dung họp đề xuất cho buổi tiếp theo
 - [[Dữ liệu, quyền riêng tư, bảo mật]]
 
-# Sự kiện sắp tới
+# Các mốc thời gian cần lưu ý
 ```mermaid
 gantt
-    dateFormat  YYYY-MM-DD
-	axisFormat  %d/%m
-    title       Tháng 11-12
+    dateFormat  D
+	axisFormat  %d
+    title       Tháng 11
 	
-	Section Nhật
-	Hoàn thành quy trình git: active, des1,now, 1w
+	Section Phước Bình
+	Hôm nay: milestone, now, 0d
+	Bonding: milestone, 5, 0d
+	Tập huấn online: milestone, 6, 0d
+	Chuyến đi: crit, mainevent, 11, 13
+	Hoàn thiện sản phẩm sau chuyến đi: after mainevent, 19
+	Báo cáo ở Hải Đăng: 19, 3d
 	
-	Section Ân
-	Phước Bình: active, now, 2w
-	
-	Section Tuyên
-	Phước Bình: active, now, 2w
-	Hải Đăng: 2022-11-19, 2022-11-22
-	
-	Section Trang
-	Placeholder:now,1w
-	
-	Section Thịnh
-	Placeholder:now,1w
-	
+	Section Obsidian October
+	Hạn chót Obsidian October: milestone, 13, 0d
 ```
 
 Số tiền quỹ hiện tại:

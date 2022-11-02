@@ -1,5 +1,6 @@
 ---
 Alias: Hành trình thành viên
+banner: "https://i.embed.ly/1/display/resize?width=800&height=800&key=3e750996b20f47be9451da09d3fffa5b&url=http%3A%2F%2Fimgur.com%2F1b2hgVf.jpg"
 ---
 # Chào mừng bạn đến với vùng đất của Quả Cầu
 Quả Cầu là một vùng đất đặc biệt, ở đó các thành viên đều được **tự quyết định việc mình sẽ làm**, để họ thấy được công việc đem đến **sự tiến bộ và thành thạo**, và đang tạo nên một điều gì đó **có ý nghĩa** cho mình và cho mọi người như thế nào. Nó không có hạn chót, nó lấy nhu cầu của bạn làm trọng tâm, và nó sẽ cố gắng hết mức để đem lại sự tự do cho bạn. Bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng mình, và việc nhận việc chỉ là vì bạn cảm thấy nó sẽ giúp đỡ cho bản thân bạn trước tiên. Việc bạn làm điều tốt nhất cho chính mình chính là làm điều tốt nhất cho Quả Cầu.
@@ -7,16 +8,24 @@ Quả Cầu là một vùng đất đặc biệt, ở đó các thành viên đ�
 Khám phá xem Quả Cầu có thể làm được gì cho bạn bằng cách:
 
 ```button
-name Triết lý tổ chức
+name Hiểu triết lý tổ chức
 type link
 action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2FHi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FT%C3%A0i%20li%E1%BB%87u%2FHi%E1%BB%83u%20tri%E1%BA%BFt%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c
 color blue
 ```
 ^button-hieutrietlytochuc
 
+```button
+name Hiểu chính bản thân mình
+type link
+Action obsidian://open?vault=Land%20of%20Spheres&file=2%20C%C3%A1c%20v%C3%B9ng%20%C4%91%E1%BA%A5t%20(S%E1%BA%A3n%20ph%E1%BA%A9m%20v%C3%A0%20m%E1%BB%A5c%20ti%C3%AAu)%2F2A%20%C4%90%C3%A1m%20m%C3%A2y%20chim%20s%C3%A1o%20l%C3%B4ng%20v%C3%A0ng%2F2A3%20T%C3%A0i%20li%E1%BB%87u%2FL%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20cho%20b%E1%BA%A3n%20th%C3%A2n
+id hieutrietlytochuc
+```
+^button-hieuchinhbanthanminh
+
 
 ```button
-name Kế hoạch chiến lược
+name Hiểu kế hoạch chiến lược
 type link
 Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2FHi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FT%C3%A0i%20li%E1%BB%87u%2FHi%E1%BB%83u%20k%E1%BA%BF%20ho%E1%BA%A1ch%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c
 id hieutrietlytochuc
@@ -25,7 +34,7 @@ id hieutrietlytochuc
 
 
 ```button
-name Cách vận hành hiện tại
+name Hiểu cách vận hành hiện tại
 type link
 Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2FHi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FT%C3%A0i%20li%E1%BB%87u%2FHi%E1%BB%83u%20c%C3%A1ch%20v%E1%BA%ADn%20h%C3%A0nh%20hi%E1%BB%87n%20t%E1%BA%A1i
 id hieutrietlytochuc
@@ -48,7 +57,7 @@ id hieutrietlytochuc
 ```
 ^button-trochuyenvoimoinguoi
 
-![[Cách vận hành.png]]
+![](https://i.embed.ly/1/display/resize?width=800&height=800&key=3e750996b20f47be9451da09d3fffa5b&url=http%3A%2F%2Fimgur.com%2F1b2hgVf.jpg)
 
 > [!Tip] Sự thú vị đầu tiên của Obsidian
 > Hãy thử bấm <kbd>Ctrl + E</kbd> vài lần để xem chuyện gì sẽ xảy ra

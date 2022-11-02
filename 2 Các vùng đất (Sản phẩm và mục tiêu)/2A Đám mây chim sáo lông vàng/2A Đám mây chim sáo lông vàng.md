@@ -4,6 +4,7 @@ Mô tả:: một tổ chức không có sự phân cấp và người tham gia k
 Đáp ứng cho nhu cầu của mình:: [[Thử nghiệm ý tưởng một tổ chức không cần hạn chót và trách nhiệm. Chứng minh sự bền vững của sự thong thả]]
 # Thực thể khi được nhìn như là mục tiêu
 Mục tiêu:: [[Người tham gia lên kế hoạch cho cuộc sống của mình]]
+Mục tiêu:: [[Các thành viên đều sử dụng vault]]
 Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::
 

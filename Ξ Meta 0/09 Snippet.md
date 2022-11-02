@@ -1,3 +1,5 @@
+#
+
 # Dataview 
 ## Tổng thời gian các công việc:
 Inline: `= sum(default(filter(this.file.tasks, (t) => t.completed = false).dur, dur(0m))).hours`  
@@ -133,7 +135,6 @@ foreach ($i in $list) {
 ## Tạo array
 ```PowerShell
 $list|ForEach-Object {"`"$_`"," } |clip
-<<<<<<< HEAD
 ```
 
 # Git

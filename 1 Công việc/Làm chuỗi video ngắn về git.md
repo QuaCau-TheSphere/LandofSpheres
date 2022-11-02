@@ -19,7 +19,7 @@ Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: <% tp.file.cursor() %>
+Tài liệu:: [[Nội dung video làm git]]
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 

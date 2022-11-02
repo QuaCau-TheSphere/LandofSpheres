@@ -46,7 +46,7 @@ Các bước thực hiện:
 - [x] Supercharged links/admonition/multiple columns
 - [>] Thiết kế vault phù hợp cho khảo sát
 - [>] business strategy map
-- [ ] [[04 Đồng bộ dữ liệu]]
+- [ ] [[Đồng bộ dữ liệu]]
 	- [ ] Kết nối dữ liệu từ git sang Discord
 - [ ] Nhập thông tin hai chiều được
 - [ ] Tạo database cho từng note

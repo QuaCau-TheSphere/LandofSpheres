@@ -22,25 +22,103 @@ Alias: Google Drive, Syncthing, Git
 - Lúc đầu là tải folder .obsidian như ở upstream, nhưng sau đó không sync gì cả (ignore files), nhưng vẫn giữ quyền overwrite khi cần dùng
 - lock edit Hoặc auto merge
 
-<<<<<<< HEAD
 | Cấp độ               | Nhu cầu                                               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore | communityplugins.json | plugins | Giải pháp                       |
 | -------------------- | ----------------------------------------------------- | ------------------- | ---------------------------- | ---------------------------- | ---------------------------- | --------- | ---------- | --------------------- | ------- | ------------------------------- |
 | Mới biết về Obsidian | Biết tổng thể có gì, không cần phải cập nhật liên tục | 1-way               | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | 1-way     |            | 1-way                 | 1-way   | Đưa link google drive để tải về |
 | Biết sơ sơ           | Cập nhật để nắm tình hình nhóm tốt hơn                | 2-way<br>gỡ chặn PR | ignore                       | ignore                       | ignore                       | 1-way     |            | 1-way                 | 1-way   |                                 |
 | Đã rành về plugin    | Chỉnh sửa                                             | 2-way               | ignore                       | ignore                       | ignore                       | ignore    |            | 1-way                 | 1-way   |                                 |
-=======
-| Cấp độ               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore | communityplugins.json | plugins |
-| -------------------- | ------------------- | ---------------------------- | ---------------------------- | ---------------------------- | --------- | ---------- | --------------------- | ------- |
-| Mới biết về Obsidian | 1-way<br>chặn PR    | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | 1-way     |            | 1-way                 | 1-way   |
-| Biết sơ sơ           | 2-way<br>gỡ chặn PR | ignore                       | ignore                       | ignore                       | 1-way     |            | 1-way                 | 1-way   |
-| Đã rành về plugin    | 2-way               | ignore                       | ignore                       | ignore                       | ignore    |            | 1-way                 | 1-way   |
->>>>>>> 0dd7b9769410df53fcdac556a3adb8a3853db5cf
 
 [A Comparison Study for File Synchronisation](https://core.ac.uk/download/pdf/82255612.pdf)
 
 ## Khi có conflict
 - Merge the rest files
 - Keep two version 
+
+# Plugin
+## Quan trọng: Cần giữ đồng bộ dữ liệu
+advanced-toolbar
+alx-folder-note
+alx-folder-note-folderv
+auto-note-mover
+better-inline-fields
+breadcrumbs
+buttons
+cm-editor-syntax-highlight-obsidian
+cmenu-plugin
+copy-url-in-preview
+dataview
+dbfolder
+file-tree-alternative
+folder-note-core
+folder-note-plugin
+google-calendar
+graph-analysis
+heatmap-calendar
+hot-reload
+import-into-obsidian
+key-promoter
+language-translator
+metadata-menu
+metaedit
+mrj-jump-to-link
+multi-column-markdown
+nldates-obsidian
+note-refactor-obsidian
+notion-like-tables
+obsidian-admonition
+obsidian-advanced-slides
+obsidian-another-quick-switcher
+obsidian-argdown-plugin
+obsidian-auto-link-title
+obsidian-autocomplete-plugin
+obsidian-banners
+obsidian-chartsview-plugin
+obsidian-commits
+obsidian-custom-frames
+obsidian-database-plugin
+obsidian-day-planner
+obsidian-divide-and-conquer
+obsidian-editor-shortcuts
+obsidian-embedded-note-titles
+obsidian-excalidraw-plugin
+obsidian-filename-heading-sync
+obsidian-frontmatter-tag-suggest
+obsidian-full-calendar
+obsidian-git
+obsidian-graphviz
+obsidian-heading-shifter
+obsidian-icon-folder
+obsidian-import-json
+obsidian-kanban
+obsidian-leaflet-plugin
+obsidian-list-modified
+obsidian-party
+obsidian-projects
+obsidian-quickshare
+obsidian-regex-pipeline
+obsidian-regex-replace
+obsidian-shellcommands
+obsidian-snippet-downloader
+obsidian-style-settings
+obsidian-tabs
+obsidian-tasks-plugin
+obsidian-user-plugins
+obsidian-version-history-diff
+obsidian-wikipedia
+obsidian42-brat
+open-with
+plugin
+quick-explorer
+quickadd
+search-on-internet
+supercharged-links-obsidian
+table-editor-obsidian
+tag-word-cloud
+tag-wrangler
+templater-obsidian
+various-complements
+## Dễ gây xung đột
+recent-files-obsidian
 
 ## Yêu cầu git
 - Có autosave và autosync

@@ -19,8 +19,8 @@ Kỹ năng:: [[Dùng Git]]
 
 === end-multi-column
 
-Tài liệu:: [[04 Đồng bộ dữ liệu]]
-Kết quả mong muốn:: Hoàn thành [[04 Đồng bộ dữ liệu#Yêu cầu git]]
+Tài liệu:: [[Đồng bộ dữ liệu]]
+Kết quả mong muốn:: Hoàn thành [[Đồng bộ dữ liệu#Yêu cầu git]]
 ##### Chỉ số trước
 
 ```dataview
