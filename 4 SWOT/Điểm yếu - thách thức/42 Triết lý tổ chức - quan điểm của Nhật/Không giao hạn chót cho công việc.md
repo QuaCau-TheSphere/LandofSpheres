@@ -14,7 +14,7 @@ List where contains(lý-do,[[]])
 
 | Giải pháp gợi ý                                                                              | Vấn đề phát sinh |
 | -------------------------------------------------------------------------------------------- | ---------------- |
-| Đổi thành hạn báo cáo. Chỉ hỏi tình hình thôi chứ không có bảo #đct-⏫Phảilàmngay bây giờ         |                  |
+| Đổi thành hạn báo cáo. Chỉ hỏi tình hình thôi chứ không có bảo #đct-🔥🔥Phảilàmngay bây giờ         |                  |
 | Chỉ giao việc nếu đó là điều họ hăm hở làm. Nếu họ chưa thấy hăm hở thì cần cho hạn báo cáo. |                  |
 | Hỏi thăm vào các buổi họp                                                                    | Phải hẹn giờ họp |
 |                                                                                              |                  |

@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===
 
-Ban:: [[B3 Thiết kế]], [[Tổ chức sự kiện – Truyền thông]], [[B1 Nghiên cứu]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Thiết kế đồ hoạ, video]], [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
 
 === end-multi-column
 

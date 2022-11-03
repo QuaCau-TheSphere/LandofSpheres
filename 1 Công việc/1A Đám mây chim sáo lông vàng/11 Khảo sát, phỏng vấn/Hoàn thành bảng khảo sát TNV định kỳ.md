@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🤷/đangbịviệckháccuốn/khôngliênquan
+Trạng thái:: #tt-🟡/đangbịviệckháccuốn/khôngliênquan
 Độ cấp thiết:: Chưa cần làm ngay nhưng sẽ sớm phải làm
 Tính chất công việc:: #tc-💬Họpthườngxuyên 
 
 === end-column ===
 
-Ban:: [[C Nhân sự]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 
 === end-multi-column
 

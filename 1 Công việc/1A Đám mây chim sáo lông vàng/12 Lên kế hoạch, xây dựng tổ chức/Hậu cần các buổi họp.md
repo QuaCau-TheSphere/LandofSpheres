@@ -5,14 +5,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm 
-Độ cấp thiết:: #đct-🔼/nênlàmngay 
+Trạng thái:: #tt-⚪/chưađếnlúclàm 
+Độ cấp thiết:: #đct-🔥/nênlàmngay 
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến, #tc-🔁Côngviệclặplại 
 
 === end-column ===
 
-Ban:: [[E Hậu cần]]
-Nhân sự:: [[Ân]]
+Người chơi:: [[Ân]]
+Kỹ năng:: [[Hậu cần]]
 
 === end-multi-column
 

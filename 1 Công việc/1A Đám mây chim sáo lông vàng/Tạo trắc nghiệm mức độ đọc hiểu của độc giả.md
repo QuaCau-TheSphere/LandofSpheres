@@ -1,8 +1,8 @@
 Trạng thái:: #tt-✅/chưalượnggiá
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: Thu thập thông tin/thấu cảm
-Ban:: [[A1 Điều phối mạng lưới]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]]
 
 Phục vụ cho mục tiêu:
 ```dataview

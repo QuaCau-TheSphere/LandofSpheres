@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-▶️/khôngthểbiếtkhinàoxong
-Độ cấp thiết:: #đct-🔼/nênlàmngay
+Trạng thái:: #tt-🟢/khôngthểbiếtkhinàoxong
+Độ cấp thiết:: #đct-🔥/nênlàmngay
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===
 
-Ban:: [[D Kỹ thuật]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[Tin học]]
 Kỹ năng:: [[Dùng Git]]
 
 === end-multi-column

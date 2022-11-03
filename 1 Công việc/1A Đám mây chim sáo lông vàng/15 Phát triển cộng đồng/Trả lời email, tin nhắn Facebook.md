@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm 
-Độ cấp thiết:: #đct-🔼/nênlàmngay 
+Trạng thái:: #tt-⚪/chưađếnlúclàm 
+Độ cấp thiết:: #đct-🔥/nênlàmngay 
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến, #tc-🔁Côngviệclặplại 
 
 === end-column ===
 
-Ban:: [[A3 Đối ngoại – gây quỹ]]
-Nhân sự:: [[Trang (Chuối)]]
+Người chơi:: [[Trang (Chuối)]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]]
 
 === end-multi-column
 

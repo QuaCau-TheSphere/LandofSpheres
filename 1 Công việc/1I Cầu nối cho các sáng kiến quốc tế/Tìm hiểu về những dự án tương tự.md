@@ -1,7 +1,7 @@
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
-Ban::
-Nhân sự::
+Trạng thái:: #tt-⚪/chưađếnlúclàm
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
+Người chơi::
+Kỹ năng::
 Thuộc công việc loại A:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])

@@ -1,9 +1,9 @@
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
+Trạng thái:: #tt-⚪/chưađếnlúclàm
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: 
-Ban::
-Nhân sự::
+Người chơi::
+Kỹ năng::
 Thuộc công việc loại A:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])

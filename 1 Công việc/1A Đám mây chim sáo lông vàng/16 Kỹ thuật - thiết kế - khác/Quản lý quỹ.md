@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưaainhậnlàm
-Độ cấp thiết:: Không quan trọng
+Trạng thái:: #tt-⚪/chưaainhậnlàm
+#đct-❄️Khôngquantrọng
 Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===
 
-Ban:: [[F Tài chính]]
-Nhân sự:: [[Hội]]
+Người chơi:: [[Hội]]
+Kỹ năng:: [[Tài chính]]
 
 === end-multi-column
 

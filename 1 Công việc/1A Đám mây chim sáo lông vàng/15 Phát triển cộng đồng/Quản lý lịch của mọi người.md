@@ -10,19 +10,19 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưathốngnhất 
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-💬Làmxongkhôngcầnhỏiýkiến , #tc-🥳Tươngtácnhiềuvớiloàingười
+Trạng thái:: #tt-⚪/chưathốngnhất 
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
 
 === end-column ===
 
-Ban:: [[C Nhân sự]], [[E Hậu cần]], [[A1 Điều phối mạng lưới]]
-Nhân sự:: [[Trang (Chuối)]]
+Người chơi:: [[Trang (Chuối)]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Hậu cần]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]]
 
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 
+Kết quả mong muốn:: biết được lượng thời gian có chất lượng của từng dành cho QC
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
 ```dataview

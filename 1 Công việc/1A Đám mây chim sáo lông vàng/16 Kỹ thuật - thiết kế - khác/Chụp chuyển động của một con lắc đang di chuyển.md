@@ -1,9 +1,9 @@
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: Không quan trọng
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+#đct-❄️Khôngquantrọng
 Giai đoạn trong tư duy thiết kế:: [Tạo mẫu thử]
-Ban::
-Nhân sự::
+Người chơi::
+Kỹ năng::
 Thuộc công việc loại A:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])

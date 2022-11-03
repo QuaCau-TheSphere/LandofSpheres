@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 
 
 === end-column ===
 
-Ban:: [[Tổ chức sự kiện – Truyền thông]], [[C Nhân sự]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 
 === end-multi-column
 

@@ -32,14 +32,14 @@ scale: 1
 
 <small>`#đct-⏫Phảilàmngay or #đct-🔼/nênlàmngay or #đct-🔼/muốnlàmngay`</small>
 ```dataview 
-table string(nhân-sự) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
+table string(người-chơi) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
 from "1 Công việc" and (#đct-⏫Phảilàmngay or #đct-🔼/nênlàmngay or #đct-🔼/muốnlàmngay) 
 Sort độ-cấp-thiết
 ```
 ### Các công việc lặp lại
 <small>`#tc-🔁Côngviệclặplại and (#đct-⏫Phảilàmngay or #đct-🔼/nênlàmngay or #đct-🔼/muốnlàmngay)`</small>
 ```dataview 
-table string(nhân-sự) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
+table string(người-chơi) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
 from "1 Công việc" and (#tc-🔁Côngviệclặplại) and (#đct-⏫Phảilàmngay or #đct-🔼/nênlàmngay or #đct-🔼/muốnlàmngay)
 Sort độ-cấp-thiết
 ```

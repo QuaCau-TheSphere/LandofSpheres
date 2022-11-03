@@ -21,7 +21,7 @@ Styles:
  - 'classDef doing fill:#DDEEFF,color:#000,stroke:#000,stroke-width:1px'
 ---
 
-# Các công việc #đct-⏫Phảilàmngay, #đct-🔼/muốnlàmngay hoặc #đct-🔼/nênlàmngay (PNM) 
+# Các công việc #đct-🔥🔥Phảilàmngay, #đct-🔥/muốnlàmngay hoặc #đct-🔥/nênlàmngay (PNM) 
 ``` dataviewjs
 //YAML Settings
 let c = dv.current();

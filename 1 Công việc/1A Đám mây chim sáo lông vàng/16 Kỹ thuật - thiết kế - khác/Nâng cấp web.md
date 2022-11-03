@@ -1,9 +1,9 @@
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
-Độ cấp thiết:: Không quan trọng
+Trạng thái:: #tt-⚪/chưađếnlúclàm
+#đct-❄️Khôngquantrọng
 Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
-Ban:: [[D Kỹ thuật]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tin học]]
 
 Thuộc công việc loại A:
 ```dataview

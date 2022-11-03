@@ -8,13 +8,13 @@ border: off
 ```
 
 Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
-Độ cấp thiết:: Đã xong
+Độ cấp thiết:: #đct-✅Đãxong
 Tính chất công việc:: #tc-🧠Tưduynhiều
 
 === end-column ===
 
-Ban:: [[D Kỹ thuật]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[Tin học]]
 
 === end-multi-column
 

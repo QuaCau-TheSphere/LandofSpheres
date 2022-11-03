@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm 
-Độ cấp thiết:: #đct-⏸️/sớmphảilàm 
+Trạng thái:: #tt-⚪/chưađếnlúclàm 
+Độ cấp thiết:: #đct-🍃/sớmphảilàm 
 Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-🔁Côngviệclặplại, #tc-🗣️Nóinhiều
 
 === end-column ===
 
-Ban:: [[Tổ chức sự kiện – Truyền thông]]
-Nhân sự:: [[Ân]]
+Người chơi:: [[Ân]]
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 
 === end-multi-column
 
@@ -69,7 +69,7 @@ type: tree
 dir: prev
 title: false
 ```
-#tt-⏹️/chưaainhậnlàm
+#tt-⚪/chưaainhậnlàm
 Tương quan với các công việc khác:
 ```dataview 
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))

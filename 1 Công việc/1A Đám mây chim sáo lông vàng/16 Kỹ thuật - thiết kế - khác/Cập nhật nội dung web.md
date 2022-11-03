@@ -1,7 +1,7 @@
-Độ cấp thiết:: Không quan trọng
+#đct-❄️Khôngquantrọng
 Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
-Ban:: [[D Kỹ thuật]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tin học]]
 Thuộc công việc loại A:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])

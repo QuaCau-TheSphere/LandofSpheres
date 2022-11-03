@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: Chưa cần làm ngay nhưng sẽ sớm phải làm
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+Độ cấp thiết:: #đct-🍃/sớmphảilàm
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng
 
 === end-column ===
 
-Ban:: [[A3 Đối ngoại – gây quỹ]], [[C Nhân sự]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 
 === end-multi-column
 

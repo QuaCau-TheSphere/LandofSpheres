@@ -7,18 +7,18 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🤷/chờkếtquảtừngườikhác
-Độ cấp thiết:: #đct-🔼/muốnlàmngay
+Trạng thái:: #tt-🟡/chờkếtquảtừngườikhác
+Độ cấp thiết:: #đct-🔥/muốnlàmngay
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-💬Làmxongkhôngcầnhỏiýkiến 
 
 === end-column ===
 
-Ban:: [[C Nhân sự]], [[D Kỹ thuật]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Tin học]]
 
 === end-multi-column
 
-Tài liệu::
+Tài liệu:: [[Bài đăng tuyển TNV kỹ thuật]] 
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

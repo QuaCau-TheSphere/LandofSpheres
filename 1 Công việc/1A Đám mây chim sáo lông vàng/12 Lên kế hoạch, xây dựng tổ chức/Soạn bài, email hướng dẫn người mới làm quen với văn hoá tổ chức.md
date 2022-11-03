@@ -13,8 +13,8 @@ Tính chất công việc::
 
 === end-column ===
 
-Ban:: [[C Nhân sự]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 
 === end-multi-column
 

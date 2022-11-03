@@ -8,13 +8,13 @@ border: off
 ```
 
 Trạng thái:: #tt-✅/chưalượnggiá
-Độ cấp thiết:: Đã xong
+Độ cấp thiết:: #đct-✅Đãxong
 Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng
 
 === end-column ===
 
-Ban:: [[Tổ chức sự kiện – Truyền thông]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 
 === end-multi-column
 

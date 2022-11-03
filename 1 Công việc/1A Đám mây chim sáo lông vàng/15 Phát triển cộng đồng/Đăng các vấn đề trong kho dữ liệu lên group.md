@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🤷/đangbịviệckháccuốn/khôngliênquan
-Độ cấp thiết:: #đct-🔼/nênlàmngay , #đct-🔼/muốnlàmngay 
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 
+Trạng thái:: #tt-⚪/chưaainhậnlàm, #tt-🟡/đangbịviệckháccuốn/khôngliênquan 
+Độ cấp thiết:: #đct-🔥/nênlàmngay , #đct-🔥/muốnlàmngay 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
 
 === end-column ===
 
-Ban:: [[Tổ chức sự kiện – Truyền thông]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 
 === end-multi-column
 
@@ -49,7 +49,7 @@ list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-
 
 === end-column ===
 
-Hướng tới loại đối tượng::
+Hướng tới loại đối tượng:
 ```dataview
 list where contains(hoạt-động-dành-cho-họ,[[]])
 ```

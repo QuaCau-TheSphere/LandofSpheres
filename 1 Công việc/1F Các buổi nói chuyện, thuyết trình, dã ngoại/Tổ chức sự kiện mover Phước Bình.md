@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-▶️/xong50٪
-Độ cấp thiết:: #đct-⏫Phảilàmngay
+Trạng thái:: #tt-🟢/xong50٪
+Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
 Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng
 
 === end-column ===
 
-Ban:: [[Tổ chức sự kiện – Truyền thông]]
-Nhân sự:: [[Tuyên]]
+Người chơi:: [[Tuyên]]
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 
 === end-multi-column
 

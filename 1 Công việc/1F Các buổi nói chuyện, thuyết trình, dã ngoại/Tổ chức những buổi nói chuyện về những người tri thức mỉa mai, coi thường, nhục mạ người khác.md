@@ -1,8 +1,8 @@
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: [Tạo mẫu thử]
-Ban::
-Nhân sự::
+Người chơi::
+Kỹ năng::
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

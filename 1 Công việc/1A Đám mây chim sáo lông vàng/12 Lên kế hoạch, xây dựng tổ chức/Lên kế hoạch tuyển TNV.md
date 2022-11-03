@@ -8,13 +8,13 @@ border: off
 ```
 
 Trạng thái:: #tt-✅/cầnđánhgiálại
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm
 Tính chất công việc:: #tc-💬Họpthườngxuyên
 
 === end-column ===
 
-Ban::
-Nhân sự::
+Người chơi::
+Kỹ năng::
 Kỹ năng:: [[Xây dựng tổ chức]]
 
 === end-multi-column

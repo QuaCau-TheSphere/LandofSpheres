@@ -8,14 +8,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
-Độ cấp thiết:: Chưa cần làm ngay nhưng sẽ sớm phải làm
+Trạng thái:: #tt-⚪/chưađếnlúclàm
+Độ cấp thiết:: #đct-🍃/sớmphảilàm
 Tính chất công việc:: #tc-🧠Tưduynhiều, #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười
 
 === end-column ===
 
-Ban:: [[B1 Nghiên cứu]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
 
 === end-multi-column
 

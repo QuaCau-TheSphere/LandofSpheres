@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
-Độ cấp thiết:: #đct-🔼/muốnlàmngay
+Trạng thái:: #tt-⚪/chưađếnlúclàm
+Độ cấp thiết:: #đct-🔥/muốnlàmngay
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===
 
-Ban:: [[Ω Điều hành]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]]
 
 === end-multi-column
 

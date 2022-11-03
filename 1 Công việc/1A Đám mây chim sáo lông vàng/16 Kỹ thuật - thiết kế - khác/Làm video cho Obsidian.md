@@ -7,15 +7,15 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-🔼/nênlàmngay, #đct-🔼/muốnlàmngay
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+Độ cấp thiết:: #đct-🍃/sớmphảilàm 
 Tính chất công việc:: #tc-🧠Tưduynhiều, #tc-💬Họpthườngxuyên
 
 
 === end-column ===
 
-Ban:: [[Tổ chức sự kiện – Truyền thông]]
-Nhân sự:: 
+Người chơi:: 
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 Kỹ năng:: [[Thiết kế đồ hoạ, video]]
 
 === end-multi-column

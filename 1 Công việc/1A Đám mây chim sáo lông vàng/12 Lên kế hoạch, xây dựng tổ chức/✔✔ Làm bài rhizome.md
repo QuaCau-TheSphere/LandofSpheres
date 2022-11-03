@@ -6,13 +6,13 @@ border: off
 ```
 
 Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
-Độ cấp thiết:: Đã xong
+Độ cấp thiết:: #đct-✅Đãxong
 
 === end-column ===
 
 Tính chất công việc::
-Ban:: [[Ω Điều hành]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]]
 
 === end-multi-column
 

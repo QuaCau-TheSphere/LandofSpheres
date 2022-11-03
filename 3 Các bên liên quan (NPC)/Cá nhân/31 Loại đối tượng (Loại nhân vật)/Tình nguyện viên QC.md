@@ -11,4 +11,4 @@ Nhu cầu của mình về đối tượng:: [[Tìm hiểu QC kỹ hơn]], [[Tha
 Hoạt động dành cho họ:: [[Hoàn thiện tài liệu cho người mới. Tạo nhập môn QC đại cương]]
 
 Họ được gì khi tham gia:: 
-Họ tham gia vào bước nào trong dự án:: [[Nhân sự]], [[Thấu cảm]], [[Xác định vấn đề]], [[Lên giải pháp]], [[Tạo mẫu thử]], [[Kiểm tra]]
+Họ tham gia vào bước nào trong dự án:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Nhân sự]], [[Thấu cảm]], [[Xác định vấn đề]], [[Lên giải pháp]], [[Tạo mẫu thử]], [[Kiểm tra]]

@@ -1,7 +1,7 @@
 # Hướng dẫn sử dụng
 **<font style="font-size: 2em" >C</font>ó 3 cách phân loại công việc:** theo trạng thái, độ cấp thiết hoặc tính chất. Mỗi trạng thái, độ cấp thiết hoặc tính chất đều bắt đầu bằng một tag (`#`). Ví dụ:
-- Trạng thái: #tt-⏹️/chưabắtđầubàn, #tt-▶️/xong50٪, #tt-✅/cầnđánhgiálại 
-- Độ cấp thiết: #đct-⏫Phảilàmngay, #đct-⏸️/đợingườinhậnlàm, #đct-🔽Khôngquantrọng 
+- Trạng thái: #tt-⚪/chưabắtđầubàn, #tt-🟢/xong50٪, #tt-✅/cầnđánhgiálại 
+- Độ cấp thiết: #đct-🔥🔥Phảilàmngay, #đct-🍃/đợingườinhậnlàm, #đct-❄️Khôngquantrọng 
 - Tính chất: #tc-🧍Cóthểlàmmộtmình, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-📱Cóthểlàmtrênđiệnthoại 
 
 **<font style="font-size: 2em" >Ở</font> cuối bài viết này có một đoạn Dataview liệt kê danh sách các công việc.** Trong đó có một dòng bắt đầu bằng chữ `FROM`. Đây chính là dòng mà bạn cần phải sửa để tìm ra công việc phù hợp với bạn nhất. Ví dụ, để tìm tất cả những công việc #tc-🔓Làmlúcnàocũngđược, hãy sửa dòng đó thành:
@@ -22,7 +22,7 @@ FROM #tc-🔓Làmlúcnàocũngđược and #tc-🥳Tươngtácnhiềuvớiloàin
 > - `#tc-🔁Kếtquảthayđổithườngxuyên  or #tc-🔁Côngviệclặplại or #tc-💬Họpthườngxuyên or #tc-🥳Tươngtácnhiềuvớiloàingười`
 > - `#tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính`
 > - `#tc-💻Khôngphảicắmmặtvàomáytính or #tc-🌳Tiếpxúcvớiđộngvậtthiênnhiên or #tc-🚴Đilạinhiềunơi`
-> - `#tc-🌐Cóthểlàmquamạng  or #tc-💻Cầnlàmtrênmáytính or #tc-🧠Tưduynhiều or #tc️-🏋️Tìmngườicóchuyênmôncaolàmsẽtốthơn`
+> - `#tc-🧍Cóthểlàmmộtmình or #tc-🔓Làmlúcnàocũngđược or #tc-🌐Cóthểlàmquamạng  or #tc-💻Cầnlàmtrênmáytính or #tc-🧠Tưduynhiều or #tc️-🏋️Tìmngườicóchuyênmôncaolàmsẽtốthơn`
 
 Xem thêm: 
 - [[Các yếu tố trong công việc|Danh sách tất cả các tag]]

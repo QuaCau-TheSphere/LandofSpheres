@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #đct-⏸️/đợingườinhậnlàm 
-Độ cấp thiết:: #đct-🔼/nênlàmngay
+Trạng thái:: #đct-🍃/đợingườinhậnlàm 
+Độ cấp thiết:: #đct-🔥/nênlàmngay
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến , #tc-🔁Côngviệclặplại 
 
 === end-column ===
 
-Ban:: [[C Nhân sự]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 Kỹ năng:: [[Quản lý dự án]]
 
 === end-multi-column

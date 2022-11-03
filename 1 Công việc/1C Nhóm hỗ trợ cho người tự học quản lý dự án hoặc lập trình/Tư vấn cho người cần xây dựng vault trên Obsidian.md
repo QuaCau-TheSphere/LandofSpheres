@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-▶️/khôngthểbiếtkhinàoxong
-Độ cấp thiết:: #đct-🔼/muốnlàmngay
+Trạng thái:: #tt-🟢/khôngthểbiếtkhinàoxong
+Độ cấp thiết:: #đct-🔥/muốnlàmngay
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 
 
 === end-column ===
 
-Ban:: [[A1 Điều phối mạng lưới]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]]
 
 === end-multi-column
 

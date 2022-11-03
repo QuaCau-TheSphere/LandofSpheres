@@ -1,8 +1,8 @@
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: Chưa cần làm ngay nhưng sẽ sớm phải làm
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+Độ cấp thiết:: #đct-🍃/sớmphảilàm
 Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
-Ban:: [[Tổ chức sự kiện – Truyền thông]], [[C Nhân sự]], [[Ω Điều hành]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]]
 
 Phục vụ cho mục tiêu:
 ```dataview

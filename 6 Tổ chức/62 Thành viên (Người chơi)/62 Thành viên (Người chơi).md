@@ -15,7 +15,7 @@ Sort hình-thức-tham-gia
 ```
 Công việc nhận làm
 ```dataview 
-List filter(file.inlinks, (f) => contains(f.nhân-sự, file.link))
+List filter(file.inlinks, (f) => contains(f.người-chơi, file.link))
 From "6 Tổ chức/62 Thành viên (Người chơi)"
 Where file.name!=this.file.name 
 ```

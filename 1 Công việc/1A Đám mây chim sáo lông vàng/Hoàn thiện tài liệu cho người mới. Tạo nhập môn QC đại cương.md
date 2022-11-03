@@ -8,14 +8,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-▶️/xong50٪
-Độ cấp thiết:: Chưa cần làm ngay nhưng sẽ sớm phải làm
+Trạng thái:: #tt-🟢/xong50٪
+Độ cấp thiết:: #đct-🍃/sớmphảilàm
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===
 
-Ban:: [[Ω Điều hành]], [[C Nhân sự]] 
-Nhân sự:: [[Thịnh]]
+Người chơi:: [[Thịnh]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]] 
 
 === end-multi-column
 

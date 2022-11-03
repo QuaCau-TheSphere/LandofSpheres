@@ -1,25 +1,31 @@
 Tài liệu:: [[Hướng dẫn truyền thông]]
-# Thành viên:
+
+# Người chơi
 ```dataview
 list
 From "6 Tổ chức/62 Thành viên (Người chơi)" 
-where contains(ban, [[]])
+where contains(kỹ-năng, [[]])
 ```
-# Công việc
-## Công việc PNML
+
+# Thử thách
+## PNML
 ```dataview
-list from "1 Công việc" 
-where contains(ban, [[]]) and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") 
+table 
+	trạng-thái as "Trạng thái", 
+	filter(file.inlinks, (i) => i.hoạt-động) as "Mục tiêu",
+	người-chơi as "Người chơi"
+from "1 Công việc" and (#đct-⏫Phảilàmngay or #đct-🔼/muốnlàmngay or #đct-🔼/nênlàmngay)
+Where contains(kỹ-năng, [[]]) or contains(ban, [[]])
 ```
-## Công việc không PNML và cũng không phải là tổ chức sự kiện
+## Không PNML và cũng không phải là tổ chức sự kiện
 ```dataview
-list from "1 Công việc" 
-where contains(ban, [[]]) and !(độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay") and !contains(file.name, "Tổ chức")
+list from "1 Công việc" and !(#đct-⏫Phảilàmngay or #đct-🔼/muốnlàmngay or #đct-🔼/nênlàmngay)
+where contains(kỹ-năng, [[]]) and !contains(file.name, "Tổ chức")
 ```
 ## Tất cả các công việc tổ chức sự kiện
 ```dataview
 list rows.file.link
 from "1 Công việc" 
-where contains(ban, [[]]) and contains(file.name, "Tổ chức")
+where contains(kỹ-năng, [[]]) and contains(file.name, "Tổ chức")
 Group by độ-cấp-thiết
 ```

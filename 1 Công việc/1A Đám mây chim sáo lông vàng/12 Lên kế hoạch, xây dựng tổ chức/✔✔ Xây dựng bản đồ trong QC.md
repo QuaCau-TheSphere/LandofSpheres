@@ -1,8 +1,8 @@
-Trạng thái:: #tt-▶️/xong50٪
-Độ cấp thiết:: Đã xong
+Trạng thái:: #tt-🟢/xong50٪
+Độ cấp thiết:: #đct-✅Đãxong
 Giai đoạn trong tư duy thiết kế:: 
-Ban:: [[C Nhân sự]], [[Ω Điều hành]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

@@ -1,6 +1,28 @@
-| Cấp độ     | Điều kiện | Cách để lên cấp tiếp theo                                         |
-| ---------- | --------- | ----------------------------------------------------------------- |
-| 🌒 Gà con  |           | ⬜ Dùng AutoHotKey lần đầu<br>⬜ <br>⬜ <br>⬜ Vào Stack Overflow |
-| 🌓 Gà nhà  |           | ⬜ <br>⬜ <br>⬜ HTML/CSS <br>⬜ Regex                            |
-| 🌔 Gà rừng |           | ⬜ JavaScript/Python <br>⬜ PowerShell/Bash <br>⬜ <br>⬜ Neo4j   |
-| 🌕 Gà chọi |           | ⬜ <br>⬜ <br>⬜ <br>⬜                                           |
+# 🌒 Gà con
+- [ ] Dùng AutoHotKey lần đầu
+- [ ] Vào Stack Overflow
+# 🌓 Gà nhà
+- [ ] HTML/CSS 
+- [ ] Regex
+# 🌔 Gà rừng 
+- [ ] JavaScript/Python 
+- [ ] PowerShell/Bash
+- [ ] Neo4j
+# 🌕 Gà chọi
+
+# Người chơi
+```dataview
+list
+From "6 Tổ chức/62 Thành viên (Người chơi)" 
+where contains(kỹ-năng, [[]])
+```
+
+# Thử thách
+```dataview
+table 
+	trạng-thái as "Trạng thái", 
+	filter(file.inlinks, (i) => i.hoạt-động) as "Mục tiêu",
+	người-chơi as "Người chơi"
+from "1 Công việc"
+Where contains(kỹ-năng, [[]]) or contains(ban, [[]])
+```

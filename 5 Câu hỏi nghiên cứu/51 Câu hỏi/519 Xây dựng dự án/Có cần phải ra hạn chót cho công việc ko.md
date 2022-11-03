@@ -8,7 +8,7 @@ Nội dung: true
 2. Nếu cứ nghĩ ra mà nhắn thì chắc việc đè đầu mất
 -> không có khi đang họp
 3. Định luật Hofstadter: "Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter."
-Ko cần xin lỗi đâu. Hôm qua anh chỉ hỏi tình hình thôi chứ không có bảo em #đct-⏫Phảilàmngay bây giờ
+Ko cần xin lỗi đâu. Hôm qua anh chỉ hỏi tình hình thôi chứ không có bảo em #đct-🔥🔥Phảilàmngay bây giờ
 # ✅ Giải pháp
 - Đổi thành hạn báo cáo
 - Khuyến khích nhận việc trên Notion

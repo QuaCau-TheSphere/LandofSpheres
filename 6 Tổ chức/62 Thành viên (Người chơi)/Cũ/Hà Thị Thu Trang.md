@@ -12,7 +12,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 # Hà Thị Thu Trang
 Hình thức tham gia:: [[63.02 Tình nguyện viên]]
-Ban:: [[Tổ chức sự kiện – Truyền thông]], [[A1 Điều phối mạng lưới]], [[A3 Đối ngoại – gây quỹ]], [[B1 Nghiên cứu]], [[C Nhân sự]]
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 📱:: 0394413181
 🏠:: Thái Nguyên
 ✉:: hatrang2981@gmail.com
@@ -32,18 +32,18 @@ Ban:: [[Tổ chức sự kiện – Truyền thông]], [[A1 Điều phối mạn
 > > > [!tab-content]
 >>>## Công việc tôi nhận làm
 >>>```dataview
->>>list where contains(nhân-sự,[[]]) and trạng-thái!="#tt-✔️/đãđánhgiá" 
+>>>list where contains(người-chơi,[[]]) and trạng-thái!="#tt-✔️/đãđánhgiá" 
 >>>```
 >>>## Công việc PNML trong các ban nhận làm
 >>>```dataview
->>>List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔼/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔼/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.nhân-sự  )
+>>>List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔼/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔼/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
 >>>From "6 Tổ chức/61 Ban" 
 >>>Where contains(this.ban, file.link)
 >>>```
 >>>
 >>>## Công việc tôi đã làm xong
 >>>```dataview
->>>list where contains(nhân-sự,[[]]) and trạng-thái="#tt-✔️/đãđánhgiá" 
+>>>list where contains(người-chơi,[[]]) and trạng-thái="#tt-✔️/đãđánhgiá" 
 >>>```
 > >
 > > > [!tab-content]  

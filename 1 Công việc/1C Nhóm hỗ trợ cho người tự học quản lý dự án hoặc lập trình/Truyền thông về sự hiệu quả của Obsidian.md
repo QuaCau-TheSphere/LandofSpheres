@@ -1,5 +1,5 @@
 ---
-Độ cấp thiết: #đct-⏸️/đợingườinhậnlàm 
+Độ cấp thiết: #đct-🍃/đợingườinhậnlàm 
 ---
 <sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
 
@@ -10,13 +10,13 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
+Trạng thái:: #tt-⚪/chưađếnlúclàm
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng
 
 === end-column ===
 
-Ban:: [[Tổ chức sự kiện – Truyền thông]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 
 === end-multi-column
 

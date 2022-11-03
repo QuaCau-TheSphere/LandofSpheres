@@ -15,7 +15,7 @@ Ngành học:: Thiết kế thời trang
 Năm sinh:: 1995
 Nơi $1:: TP.HCM
 Profile:: Lan Vy
-Ban:: 
+Kỹ năng:: 
 Vấn đề quan tâm:: Hoà hợp với vũ trụ 🤩
 
 [[Lan Vy.jpg]]

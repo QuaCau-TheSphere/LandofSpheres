@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn 
-Độ cấp thiết:: #đct-⏫Phảilàmngay
+Trạng thái:: #tt-⚪/chưabắtđầubàn 
+Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
 Tính chất công việc:: #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🌐Cóthểlàmquamạng 
 
 === end-column ===
 
-Ban:: [[Ω Điều hành]]
-Nhân sự:: [[Nhật]], [[Thịnh]], [[Tuyên]], [[Ân]], [[Trang (Chuối)]]
+Người chơi:: [[Nhật]], [[Thịnh]], [[Tuyên]], [[Ân]], [[Trang (Chuối)]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]]
 
 === end-multi-column
 

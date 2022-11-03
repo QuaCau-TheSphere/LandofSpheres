@@ -1,8 +1,8 @@
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
+Trạng thái:: #tt-⚪/chưađếnlúclàm
 Độ cấp thiết:
 Giai đoạn trong tư duy thiết kế:: 
-Ban::
-Nhân sự::
+Người chơi::
+Kỹ năng::
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

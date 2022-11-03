@@ -11,7 +11,7 @@ Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công
 Hoạt động:: [[Truyền thông cho nhóm lập trình]]
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
-Hoạt động:: [[Làm chuỗi video ngắn về git]]
+Hoạt động:: [[Làm chuỗi video hướng dẫn sử dụng vault]]
 Hoạt động:: [[Làm video cho Obsidian]]
 # Thực thể khi được nhìn như là sản phẩm
 Công thái học 

@@ -2,8 +2,8 @@ Giai đoạn trong tư duy thiết kế:: [Xây dựng tổ chức, Xác định
 Hỏi trong nhóm: 15/3/2022
 Trạng thái:: #tt-🔀Chuyểnsanghướngtiếpcậnkhác
 Độ cấp thiết:: Không quan trọng
-Ban:: [[C Nhân sự]], [[A1 Điều phối mạng lưới]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]]
 Thuộc công việc loại A:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])

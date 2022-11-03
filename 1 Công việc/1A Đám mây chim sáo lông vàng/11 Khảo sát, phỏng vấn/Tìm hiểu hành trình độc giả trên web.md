@@ -1,8 +1,8 @@
-Trạng thái:: #tt-⏹️/chưađếnlúclàm
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
+Trạng thái:: #tt-⚪/chưađếnlúclàm
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
-Ban:: [[A1 Điều phối mạng lưới]], [[D Kỹ thuật]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]], [[Tin học]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

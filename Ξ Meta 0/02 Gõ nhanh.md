@@ -46,8 +46,8 @@ Tóc vàng:: 		tv
 Tóc đen:: 		td
 
 [label="|"]		ll
-độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay"		PNML
-độ-cấp-thiết="Chưa cần làm ngay nhưng sẽ sớm phải làm" or độ-cấp-thiết="#đct-⏸️/đợingườinhậnlàm "		cc
+(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM
+độ-cấp-thiết="#đct-🍃/sớmphảilàm" or độ-cấp-thiết="#đct-🍃/đợingườinhậnlàm "		cc
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến		tccv
 
 Tài liệu::		xt

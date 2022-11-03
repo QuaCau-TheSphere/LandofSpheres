@@ -20,7 +20,7 @@ where contains(tính-chất-công-việc,"#tc-🧠Khôngphảisuynghĩnhiều")
 ```
 
 # Tương tác nhiều với loài người
-- Thường là các công việc trong [[Tổ chức sự kiện – Truyền thông]], [[C Nhân sự]], [[E Hậu cần]]
+- Thường là các công việc trong [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Hậu cần]]
 ```dataview
 List from "1 Công việc" 
 where contains(tính-chất-công-việc,"#tc-🥳Tươngtácnhiềuvớiloàingười")

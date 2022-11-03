@@ -13,4 +13,4 @@ Hoạt động dành cho họ:: [[Làm nội dung]], [[Tìm người cố vấn]
 
 Họ tham gia vào bước nào trong dự án:: [[Thấu cảm]], [[Xác định vấn đề]], [[Lên giải pháp]]
 
-Ghi chú:: đang học khác đang làm Đang học: chứng nhận, điểm rèn luyện, cv: Những cái nhiều nơi cho #tt-▶️/xong50٪: mqh với thầy cô khác, mẫu làm nghiên cứu, nếu đủ impact thì sẽ là điểm sáng trong cv  
+Ghi chú:: đang học khác đang làm Đang học: chứng nhận, điểm rèn luyện, cv: Những cái nhiều nơi cho #tt-🟢/xong50٪: mqh với thầy cô khác, mẫu làm nghiên cứu, nếu đủ impact thì sẽ là điểm sáng trong cv  

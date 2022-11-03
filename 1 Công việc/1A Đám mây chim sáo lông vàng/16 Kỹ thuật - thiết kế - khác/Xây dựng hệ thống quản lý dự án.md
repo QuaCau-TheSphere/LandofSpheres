@@ -1,9 +1,9 @@
 ---
 Alias: Setup vault
 ---
-[Trạng thái:: #tt-▶️/xong50٪]  ⠀•⠀ [Độ cấp thiết:: #đct-🔼/muốnlàmngay]  ⠀•⠀ [Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình]
-Ban:: [[D Kỹ thuật]]
-Nhân sự:: [[Nhật]]
+[Trạng thái:: #tt-🟢/xong50٪]  ⠀•⠀ [Độ cấp thiết:: #đct-🔥/muốnlàmngay]  ⠀•⠀ [Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[Tin học]]
 
 Tài liệu::
 Kết quả mong muốn:: Các thành viên có thể sync setting tốt

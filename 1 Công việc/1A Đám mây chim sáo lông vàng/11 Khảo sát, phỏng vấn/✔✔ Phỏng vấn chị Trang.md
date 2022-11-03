@@ -1,9 +1,9 @@
 
 Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
-Độ cấp thiết:: Đã xong
+Độ cấp thiết:: #đct-✅Đãxong
 Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
-Ban:: [[C Nhân sự]]
-Nhân sự:: [[Nhật]]
+Người chơi:: [[Nhật]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 
 Thuộc công việc loại A:
 ```dataview

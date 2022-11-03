@@ -11,7 +11,7 @@ Largest Column: right
 
 # Lý Minh Nhật 
 Hình thức tham gia:: [[Người đứng đầu|Đỉa ngựa lông vàng 🐴]]
-Ban:: [[Ω Điều hành]], [[B1 Nghiên cứu]], [[C Nhân sự]], [[D Kỹ thuật]], [[F Tài chính]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Tin học]], [[Tài chính]]
 📱:: 0912214006
 🏠:: Q4, TPHCM
 ✉:: lyminhnhat911@gmail.com
@@ -35,18 +35,18 @@ Kỹ năng:
 > > > [!tab-content]
 >>>## Công việc tôi nhận làm
 >>>```dataview
->>>list where contains(nhân-sự,[[]]) and trạng-thái!="#tt-✔️/đãđánhgiá" 
+>>>list where contains(người-chơi,[[]]) and trạng-thái!="#tt-✔️/đãđánhgiá" 
 >>>```
 >>>## Công việc PNML trong các ban nhận làm
 >>>```dataview
->>>List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔼/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔼/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.nhân-sự  )
+>>>List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔼/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔼/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
 >>>From "6 Tổ chức/61 Ban" 
 >>>Where contains(this.ban, file.link)
 >>>```
 >>>
 >>>## Công việc tôi đã làm xong
 >>>```dataview
->>>list where contains(nhân-sự,[[]]) and trạng-thái="#tt-✔️/đãđánhgiá" 
+>>>list where contains(người-chơi,[[]]) and trạng-thái="#tt-✔️/đãđánhgiá" 
 >>>```
 > >
 > > > [!tab-content]  

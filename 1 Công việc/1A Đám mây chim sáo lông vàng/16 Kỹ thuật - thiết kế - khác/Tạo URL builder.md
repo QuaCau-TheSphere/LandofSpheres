@@ -7,14 +7,14 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: Không quan trọng
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+#đct-❄️Khôngquantrọng
 Tính chất công việc:: #tc-🌐Cóthểlàmquamạng
 
 === end-column ===
 
-Ban:: [[D Kỹ thuật]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tin học]]
 
 === end-multi-column
 

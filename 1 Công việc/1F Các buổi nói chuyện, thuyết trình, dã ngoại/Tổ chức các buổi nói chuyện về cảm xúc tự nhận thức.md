@@ -1,8 +1,8 @@
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: #đct-⏸️/đợingườinhậnlàm 
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
-Ban:: [[Tổ chức sự kiện – Truyền thông]], [[B1 Nghiên cứu]], [[E Hậu cần]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[Hậu cần]]
 
 Phục vụ cho mục tiêu:
 ```dataview

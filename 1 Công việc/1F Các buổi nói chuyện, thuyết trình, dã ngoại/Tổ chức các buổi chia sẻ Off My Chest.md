@@ -1,8 +1,8 @@
-Trạng thái:: #tt-⏹️/chưabắtđầubàn
-Độ cấp thiết:: Không quan trọng
+Trạng thái:: #tt-⚪/chưabắtđầubàn
+#đct-❄️Khôngquantrọngtrọng
 Giai đoạn trong tư duy thiết kế:: [Tạo mẫu thử]
-Ban:: [[Tổ chức sự kiện – Truyền thông]]
-Nhân sự::
+Người chơi::
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])
