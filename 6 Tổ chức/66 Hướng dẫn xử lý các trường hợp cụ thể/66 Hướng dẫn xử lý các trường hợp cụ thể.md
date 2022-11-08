@@ -57,4 +57,4 @@ Quan trọng là hiểu được tại sao điều như vậy lại không thể
 Đây thực chất chính là [[2A Đám mây chim sáo lông vàng]]
 # Thế lưỡng nan của Nhật
 Nên sống toàn tóc vàng để mọi người có hình mẫu, hay nên có nhiều tóc đen để mọi người cảm thấy gần gũi? Nếu chọn cái đầu thì những người tóc đen sẽ cảm thấy xa cách, Nhật không thấu cảm được họ, còn nếu chọn cái sau thì sẽ bị nói là tiêu chuẩn kép, đạo đức giả.
-Câu hỏi:: [[Việc đặt con người làm trung tâm bị chính người ở trung tâm phản đối]]
+❓:: [[Việc đặt con người làm trung tâm bị chính người ở trung tâm phản đối]]

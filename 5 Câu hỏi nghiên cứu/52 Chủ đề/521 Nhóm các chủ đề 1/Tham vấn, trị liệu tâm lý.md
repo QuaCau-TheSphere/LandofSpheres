@@ -3,13 +3,13 @@ Nội dung: true
 ---
 
 
-Câu hỏi:: [[Sự khác biệt giữa việc tham vấn để hỏi cách thay đổi người thân bạn bè của mình với việc nhờ họ mentor để mình trở thành một nhà công tác xã hội không chuyên？]] 
+❓:: [[Sự khác biệt giữa việc tham vấn để hỏi cách thay đổi người thân bạn bè của mình với việc nhờ họ mentor để mình trở thành một nhà công tác xã hội không chuyên？]] 
 
-Câu hỏi:: [[Liệu có dạng đồng đẳng viên dịch vụ, được trả tiền để đến giải quyết cho một trường hợp cụ thể không？]] 
+❓:: [[Liệu có dạng đồng đẳng viên dịch vụ, được trả tiền để đến giải quyết cho một trường hợp cụ thể không？]] 
 Chủ đề:: [[công tác xã hội]] 
 
-Câu hỏi:: [[Cách xử lý khi lệ thuộc]] 
-Câu hỏi:: [[Tôn trọng cảm xúc khi họ có những niềm tin maladaptive？]]
+❓:: [[Cách xử lý khi lệ thuộc]] 
+❓:: [[Tôn trọng cảm xúc khi họ có những niềm tin maladaptive？]]
 
 Khách quan độc lập  
 Người kia cũng có định kiến về mình
@@ -20,7 +20,7 @@ Khi thân chủ muốn được ra lệnh. Mình chỉ thực hành quyền củ
 
 Chủ đề:: [[Tìm hiểu thế giới quan]] 
 
-Câu hỏi:: [[Tại sao có những nhà tham vấn không giải quyết triệt để tổn thương của mình？]] 
+❓:: [[Tại sao có những nhà tham vấn không giải quyết triệt để tổn thương của mình？]] 
 #Tâmlýhọc/trịliệu 
 
 Chủ đề:: [[Confronting therapy]]

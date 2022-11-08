@@ -8,6 +8,7 @@
 
 # Thực thể khi được nhìn như là mục tiêu
 Mục tiêu:: [[trao đổi nhu cầu]], [[Sàn giao dịch nhu cầu có 1000 thành viên hoạt động]], 
+Yếu tố hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 
 Điểm mạnh:: 
 - xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu → Dễ gây hứng thú và giúp người dùng đọc được những bài viết khác của Quả Cầu.
@@ -20,7 +21,6 @@ Mục tiêu:: [[trao đổi nhu cầu]], [[Sàn giao dịch nhu cầu có 1000 t
 
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
-Hoạt động:: Xây dựng [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 
 # Thực thể khi được nhìn như là sản phẩm
 Mô tả ý tưởng sàn trao đổi nhu cầu:
@@ -98,7 +98,6 @@ Quy định 1: Phải làm rõ nhu cầu của mình thông qua trao đổi, n�
 Quy định 2: Về vấn đề thống nhât trong trao đổi
 
 Hoạt động:: [[Tìm hiểu về các nỗ lực xây dựng trước đây]]
-Hoạt động:: [[Xây dựng nền tảng công nghệ kết nối nhu cầu của nhau ]]
 
 ## dfsdfsdf
 Đây là một thử nghiệm của Quả Cầu để mọi người tìm được bạn đồng hành cho những mục tiêu của mình. Luật chơi: Bạn hãy nêu ra tối đa 5 điều bạn muốn tìm được người cùng tham gia với mình nhất. Bạn cũng có thể đính kèm thêm những link giúp tăng khả năng nhận được sự trợ giúp. VD: giới thiệu về bản thân, CV của bạn, lý do bạn muốn đạt được những mục tiêu này, những thứ bạn có thể giúp lại người khác, v.v. 

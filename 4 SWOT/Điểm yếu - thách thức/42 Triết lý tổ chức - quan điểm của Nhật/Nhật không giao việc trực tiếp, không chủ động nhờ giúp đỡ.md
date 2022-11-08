@@ -39,10 +39,10 @@ Với một số người sự quyết định của người đứng đầu là
 ## Cách để tiếp tục không giao việc trực tiếp mà không còn nhược điểm
 - Thường xuyên nói chuyện với họ
 
-Câu hỏi:: [[Làm sao để các bạn cảm thấy không nhút nhát？]
-Câu hỏi:: [[Tại sao việc muốn đóng góp cho QC ko cảm giác tự tin và chủ động？]
-Câu hỏi:: [[Tại sao việc vào Notion chọn việc không làm các bạn cảm thấy bớt e dè hơn？Tại sao việc được chọn việc mình hứng thú nhất lại trở thành mông lung？]
-Câu hỏi:: [[Tại sao khi cảm thấy mông lung không hỏi lại？]
-Câu hỏi:: [[Các bài hướng dẫn chọn công việc có tạo cảm giác tự tin để họ chủ động chọn việc? Nếu không thì những bài đó thiếu gì để họ cảm thấy thực sự tự tin？]
-Câu hỏi:: [[Việc trực tiếp giao việc có ảnh hưởng thế nào đến sự tự quyết của nhân viên？]
-Câu hỏi:: [[Khi nào thì câu "nếu họ không muốn làm thì họ sẽ không làm" không áp dụng được trong đây？]
+❓:: [[Làm sao để các bạn cảm thấy không nhút nhát？]
+❓:: [[Tại sao việc muốn đóng góp cho QC ko cảm giác tự tin và chủ động？]
+❓:: [[Tại sao việc vào Notion chọn việc không làm các bạn cảm thấy bớt e dè hơn？Tại sao việc được chọn việc mình hứng thú nhất lại trở thành mông lung？]
+❓:: [[Tại sao khi cảm thấy mông lung không hỏi lại？]
+❓:: [[Các bài hướng dẫn chọn công việc có tạo cảm giác tự tin để họ chủ động chọn việc? Nếu không thì những bài đó thiếu gì để họ cảm thấy thực sự tự tin？]
+❓:: [[Việc trực tiếp giao việc có ảnh hưởng thế nào đến sự tự quyết của nhân viên？]
+❓:: [[Khi nào thì câu "nếu họ không muốn làm thì họ sẽ không làm" không áp dụng được trong đây？]

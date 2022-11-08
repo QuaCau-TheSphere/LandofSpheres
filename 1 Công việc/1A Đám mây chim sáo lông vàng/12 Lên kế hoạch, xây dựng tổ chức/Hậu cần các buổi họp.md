@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàm
 === end-column ===
 
 Người chơi:: [[Ân]]
-Kỹ năng:: [[Hậu cần]]
+Kỹ năng:: [[Hậu cần – logistics]]
 
 === end-multi-column
 

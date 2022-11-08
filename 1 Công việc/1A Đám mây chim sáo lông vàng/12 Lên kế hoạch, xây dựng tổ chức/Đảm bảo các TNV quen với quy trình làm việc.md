@@ -34,7 +34,7 @@ dir: prev
 title: false
 ```
 
-Câu hỏi:: [[Có những cách nào để các thành viên tự chủ động đề ra mục tiêu cho công việc của mình？]]
+❓:: [[Có những cách nào để các thành viên tự chủ động đề ra mục tiêu cho công việc của mình？]]
 
 # Các công việc chưa hoàn thành
 ```dataview

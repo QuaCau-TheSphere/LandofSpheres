@@ -1,6 +1,6 @@
-Câu hỏi:: [[Tại sao việc đặt câu hỏi lại khiến cho người nghe cảm thấy không được lắng nghe]] 
-Câu hỏi:: [[vì sao việc ra quyết định lại hấp dẫn]]
-Câu hỏi:: [[Vì sao có những người đam mê tri thức lại không thấy việc đặt câu hỏi cho mọi quan niệm của mình là cần thiết]]
+❓:: [[Tại sao việc đặt câu hỏi lại khiến cho người nghe cảm thấy không được lắng nghe]] 
+❓:: [[vì sao việc ra quyết định lại hấp dẫn]]
+❓:: [[Vì sao có những người đam mê tri thức lại không thấy việc đặt câu hỏi cho mọi quan niệm của mình là cần thiết]]
 
 
 # Quá trình phản tư

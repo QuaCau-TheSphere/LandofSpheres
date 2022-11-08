@@ -24,10 +24,10 @@ Chủ đề:: [[Cộng đồng tự quản, hợp tác xã (chủ đề)]]
 Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Gây quỹ]]
 Chương trình phát triển nông hộ: đến tiếp cận nông dân để giới thiệu về mình. Thuyết phục họ thay đổi mô hình 
 Nhóm đồng đẳng trong ctxh
-Câu hỏi:: [[Cách tiếp cận số liệu cần được bảo mật]]
+❓:: [[Cách tiếp cận số liệu cần được bảo mật]]
 
 Có 2 loại kinh nghiệm: kinh nghiệm phát triển cộng đồng, và kinh nghiệm ở trong cộng đồng cụ thể đó
 
 Phải xây dựng được một nhóm nòng cốt trong cộng đồng
 
-Câu hỏi:: [[Việc mình có quá nhiều cam kết ban đầu có làm giảm tính tự nhiên của mình khi tham gia không？]]
+❓:: [[Việc mình có quá nhiều cam kết ban đầu có làm giảm tính tự nhiên của mình khi tham gia không？]]

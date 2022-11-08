@@ -13,5 +13,5 @@ Hệ quả của vấn đề này:
 List where contains(lý-do,[[]])
 ```
 
-Câu hỏi:: [[Mối quan hệ giữa thành viên nòng cốt, động lực nội sinh của tnv và sự hứng thú của những người theo dõi]]
+❓:: [[Mối quan hệ giữa thành viên nòng cốt, động lực nội sinh của tnv và sự hứng thú của những người theo dõi]]
 

@@ -11,7 +11,7 @@ Chủ đề quan tâm đến chủ đề này:
 ```dataview
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
-Câu hỏi:: [[Nếu một người lấy các kiến thức học trường tâm lý học đi giúp bạn mình thì có gọi là trị liệu không？]]  
+❓:: [[Nếu một người lấy các kiến thức học trường tâm lý học đi giúp bạn mình thì có gọi là trị liệu không？]]  
 
 Huấn luyện cách lắng nghe thì
 

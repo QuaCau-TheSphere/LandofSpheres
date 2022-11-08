@@ -37,4 +37,4 @@ List where contains(mâu-thuẫn,[[]])
 |                |                  |
 
 >>>>>>> origin/master
-Câu hỏi:: [[Một người khen là bài rất hay thì nó có nghĩa gì？]]
+❓:: [[Một người khen là bài rất hay thì nó có nghĩa gì？]]

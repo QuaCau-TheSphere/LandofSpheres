@@ -1,6 +1,6 @@
 # Vật lý
 [How to capture a swinging pendulum？](https://photo.stackexchange.com/q/94857/70665)
-Câu hỏi:: [[Mô hình Ising liên quan gì đến dao động tử？]]
+❓:: [[Mô hình Ising liên quan gì đến dao động tử？]]
 
 Chủ đề:: [[Khoa học]]
 Chủ đề:: [[Phép so sánh]] 

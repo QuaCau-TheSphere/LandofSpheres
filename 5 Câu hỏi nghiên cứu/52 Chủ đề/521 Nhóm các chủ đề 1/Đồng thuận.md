@@ -11,7 +11,7 @@ Chủ đề:: [[Năng lực ra quyết định]], [[Tự trị]], [[Nhân quyề
 Chủ đề:: [[Cảm xúc]], [[Sợ hãi]], [[Can thiệp luận]]
 Chủ đề:: [[Luật pháp]]
  
-Câu hỏi:: [[Khi nào thì mình có thể không cần đồng thuận？]], [[Nếu sự vi phạm sự đồng thuận sẽ dẫn đến lời cảm ơn sau đó thì sao？]]
-Câu hỏi:: [[Sự khác biệt giữa đồng thuận ngầm và không đồng thuận nhưng cũng không phản đối là gì]]
-Câu hỏi:: [[Một sự đồng thuận rõ ràng luôn đi kèm với vô số sự đồng thuận ngầm. Bản thân sự kỳ vọng là có đồng thuận cũng là một sự đồng thuận ngầm rồi. Tại sao lại chọn cái này để đòi hỏi sự đồng thuận mà không phải cái kia?]]
-Câu hỏi:: [[Sự khác biệt giữa đồng thuận và hợp đồng là gì]] 
+❓:: [[Khi nào thì mình có thể không cần đồng thuận？]], [[Nếu sự vi phạm sự đồng thuận sẽ dẫn đến lời cảm ơn sau đó thì sao？]]
+❓:: [[Sự khác biệt giữa đồng thuận ngầm và không đồng thuận nhưng cũng không phản đối là gì]]
+❓:: [[Một sự đồng thuận rõ ràng luôn đi kèm với vô số sự đồng thuận ngầm. Bản thân sự kỳ vọng là có đồng thuận cũng là một sự đồng thuận ngầm rồi. Tại sao lại chọn cái này để đòi hỏi sự đồng thuận mà không phải cái kia?]]
+❓:: [[Sự khác biệt giữa đồng thuận và hợp đồng là gì]] 

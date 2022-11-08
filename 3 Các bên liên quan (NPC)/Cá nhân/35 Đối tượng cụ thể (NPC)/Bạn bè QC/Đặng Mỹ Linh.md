@@ -1,7 +1,7 @@
 ```dataview
-LIST WITHOUT ID câu-hỏi
+LIST WITHOUT ID ❓
 WHERE file.path = this.file.path
-FLATTEN câu-hỏi
+FLATTEN ❓
 ```
 Hoạt động nhận làm trong tổ chức::
 Hoạt động đã làm trong tổ chức:: [[2K Các bài dịch về tự trị, riêng tư, đồng thuận, thao túng, v.v.]]

@@ -26,3 +26,8 @@ table
 from "1 Công việc"
 Where contains(kỹ-năng, [[]]) or contains(ban, [[]])
 ```
+```dataview 
+List
+from "1 Công việc"
+Where contains(kỹ-năng, [[]]) or contains(ban, [[]])
+```

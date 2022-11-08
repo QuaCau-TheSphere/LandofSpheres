@@ -15,10 +15,10 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 
 Định nghĩa:: Quyền là tấm khiên cuối cùng trước khi nhân phẩm bị xâm phạm. Và nhân phẩm của một người thì luôn có ở đó, người khác có muốn cũng không làm nó mất đi được
 
-Câu hỏi:: [[Tự trị mà UN nói tới là mô hình nào？]] 
-Câu hỏi:: [[Tại sao điều trị phải có sự cho phép của bệnh nhân, trong khi yêu cầu về sự đồng thuận chủ yếu là để bảo vệ khỏi nghiên cứu？]] 
-Câu hỏi:: [[Nhân quyền được thừa nhận tại LHQ đáp ứng mô hình công lý của Locke hay Rawl như thế nào]]
-Câu hỏi:: [[Tại sao việc đưa ra nhận xét nhưng trốn tránh lập luận lại trở thành một quyền]]
+❓:: [[Tự trị mà UN nói tới là mô hình nào？]] 
+❓:: [[Tại sao điều trị phải có sự cho phép của bệnh nhân, trong khi yêu cầu về sự đồng thuận chủ yếu là để bảo vệ khỏi nghiên cứu？]] 
+❓:: [[Nhân quyền được thừa nhận tại LHQ đáp ứng mô hình công lý của Locke hay Rawl như thế nào]]
+❓:: [[Tại sao việc đưa ra nhận xét nhưng trốn tránh lập luận lại trở thành một quyền]]
 
 Chủ đề:: [[Tự trị]], [[Nhân phẩm]]
 Chủ đề:: [[Đồng thuận]]

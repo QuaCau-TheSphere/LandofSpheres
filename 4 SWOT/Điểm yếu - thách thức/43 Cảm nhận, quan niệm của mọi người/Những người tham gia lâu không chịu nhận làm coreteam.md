@@ -51,7 +51,7 @@ Các loại thong thả:
 - Vô xong rồi ra
 
 
-Câu hỏi:: [[Coreteam có cần trách nhiệm ngang hàng？]] 
+❓:: [[Coreteam có cần trách nhiệm ngang hàng？]] 
 
 
 Hiện tại Nhật đang muốn cả ba thứ:

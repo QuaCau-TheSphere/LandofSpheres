@@ -1,8 +1,8 @@
 https://www.facebook.com/phuong.chuthiminh
 ```dataview
-LIST WITHOUT ID câu-hỏi
+LIST WITHOUT ID ❓
 WHERE file.path = this.file.path
-FLATTEN câu-hỏi
+FLATTEN ❓
 ```
 
 Thuộc tổ chức:: VSOD

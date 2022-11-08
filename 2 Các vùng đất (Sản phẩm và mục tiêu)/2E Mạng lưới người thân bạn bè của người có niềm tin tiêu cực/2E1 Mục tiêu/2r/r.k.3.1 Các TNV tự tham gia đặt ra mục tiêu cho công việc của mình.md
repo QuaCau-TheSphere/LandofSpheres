@@ -13,5 +13,5 @@ Yêu cầu đối với mục tiêu công việc:
 Mục tiêu:: [[r.k.3.1.1 Các TNV hỏi lại khi công việc không cụ thể, phù hợp, thiếu sự thách thức]]
 Hoạt động:: [[Đảm bảo các TNV quen với quy trình làm việc]]
 
-Câu hỏi:: [[Có những cách nào để các thành viên tự chủ động đề ra mục tiêu cho công việc của mình？]]
-Câu hỏi:: [[Nếu TNV đã chủ động nộp đơn vào rồi, thì tại sao họ lại không có sự chủ động？]]
+❓:: [[Có những cách nào để các thành viên tự chủ động đề ra mục tiêu cho công việc của mình？]]
+❓:: [[Nếu TNV đã chủ động nộp đơn vào rồi, thì tại sao họ lại không có sự chủ động？]]

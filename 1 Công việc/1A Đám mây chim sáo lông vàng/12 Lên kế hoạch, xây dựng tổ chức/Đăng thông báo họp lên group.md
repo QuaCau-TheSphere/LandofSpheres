@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Hậu cần]] 
+Kỹ năng:: [[Hậu cần – logistics]] 
 Kỹ năng:: [[Quản lý dự án]], [[Phát triển cộng đồng]], [[Xây dựng tổ chức]]
 
 === end-multi-column

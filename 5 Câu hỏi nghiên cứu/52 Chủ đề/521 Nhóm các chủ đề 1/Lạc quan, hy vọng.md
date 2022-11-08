@@ -16,4 +16,4 @@ Chủ đề:: [[Tính khả thi]]
 Chủ đề:: [[Lý tưởng, ý hệ]]
 Chủ đề:: [[Ngây thơ]]
 
-Câu hỏi:: [[Mqh giữa kỳ vọng và hy vọng là gì？]]
+❓:: [[Mqh giữa kỳ vọng và hy vọng là gì？]]

@@ -27,7 +27,7 @@ list where contains(người-chơi,[[]]) and trạng-thái!="#tt-✔️/đãđá
 ```
 ## Công việc PNML trong các ban nhận làm
 ```dataview
-List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔼/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔼/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
+List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔥/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔥/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
 From "6 Tổ chức/61 Ban" 
 Where contains(this.ban, file.link)
 ```

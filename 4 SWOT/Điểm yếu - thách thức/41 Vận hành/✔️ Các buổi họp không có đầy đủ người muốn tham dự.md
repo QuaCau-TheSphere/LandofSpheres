@@ -51,7 +51,7 @@ Những người có thời gian rảnh không bao giờ trùng với buổi h�
 - Với những người đặc biệt quan tâm đến chủ đề đó thì ưu tiên cho họ
 
 
-Câu hỏi:: [[Số lượng người tham gia tối thiểu, tối đa để cuộc họp có hiệu quả？]] 
+❓:: [[Số lượng người tham gia tối thiểu, tối đa để cuộc họp có hiệu quả？]] 
 
 Chủ đề:: [[Tổ chức họp]]
 #Hànhvitổchức/nhânsự 

@@ -5,7 +5,14 @@
 Đáp ứng cho nhu cầu của mình:: [[Cho mọi người thấy QC có những sản phẩm thú vị, cần thiết, rõ ràng, dễ làm]]
 Đáp ứng cho nhu cầu của mình:: [[Thu hút sự chú ý]]
 # Thực thể khi được nhìn như là mục tiêu
-
+- Công thái học 
+- Cách học: evergreen, SRS, không phải highlight
+- Quản lý dự án
+	- các quan niệm thường gặp
+- Lập trình, git
+- Concept map
+- Lập trình 
+- Những quan niệm đến từ nền kinh tế dùng tiền và chủ nghĩa tân tự do
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault kết nối nhu cầu]]
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công việc]]
 Hoạt động:: [[Truyền thông cho nhóm lập trình]]
@@ -14,15 +21,6 @@ Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian
 Hoạt động:: [[Làm chuỗi video hướng dẫn sử dụng vault]]
 Hoạt động:: [[Làm video cho Obsidian]]
 # Thực thể khi được nhìn như là sản phẩm
-Công thái học 
-Mô tả ý tưởng sàn trao đổi nhu cầu:
-Sàn trao đổi nhu cầu là một nền tảng online để cộng đồng người dùng có thể đăng ký thông tin cá nhân (bản thân họ có nhu cầu gì và có gì để trao đổi) và tìm đối tượng / đội nhóm để trao đổi. Thứ dùng để trao đổi là nhu cầu cá nhân (học ngoại ngữ, cải thiện kỹ năng, vv) hoặc đồ vật, vân vân.  
-Sàn nhu cầu có giao diện là một trang website trên Quacau.cc để người dùng có thể làm những điều sau:
-- đăng ký / đăng nhập tài khoản.
-- cập nhât thông tin cá nhân + nhu cầu trao đổi + địa điểm.
-- tìm đối tượng phù hợp để trao đổi nhu cầu.
-- hiển thị khu vực - vị trí người dùng và nhu cầu cuả họ trên google map để dễ trao đổi.
-- chatbox trên web.
 
 You can't think about thinking if you don't think about something
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu

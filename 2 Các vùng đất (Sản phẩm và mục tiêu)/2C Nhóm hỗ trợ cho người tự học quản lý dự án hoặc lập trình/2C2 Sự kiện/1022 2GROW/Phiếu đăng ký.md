@@ -2,7 +2,7 @@ Trong 3 năm mình tham gia vào các mạng lưới, cộng đồng phi lợi n
 
 Để một hệ sinh thái hoạt động thực sự hiệu quả thì lượng năng lượng dành ra để nắm bắt tín hiệu của môi trường phải giảm tới mức gần như bằng 0. Bạn không cần phải hỏi mà vẫn biết nhu cầu của những thành viên xung quanh, và họ không cần phải hỏi cũng biết bạn đang cần gì. Mặc dù chúng ta luôn khuyến khích đặt câu hỏi, nhưng một hệ sinh thái không hoạt động bằng cách đặt câu hỏi, mà bằng cách không cần hỏi cũng biết câu trả lời là gì. Và các công cụ quản lý dự án hiện nay không có chức năng cung cấp thông tin của nhóm cho những nhóm khác. Chỉ khi nào nhu cầu của các bên liên quan hiện ra ngay trong kho dữ liệu của nhóm mà không cần phải hỏi họ hay thậm chí là nhập liệu, thì lúc đó chúng ta mới có thể bắt đầu nói về một hệ sinh thái mà những thành viên mới -- vốn rất thiếu nhân lực -- vẫn có thể hưởng lợi.
 
-Trong những phần mềm quản lý công việc trên thị trường hiện nay, mình thấy có duy nhất Obsidian là có thể đáp ứng nhu cầu đó. Cho nên trong buổi thảo luận này mình sẽ nói về cách bọn mình sử dụng nó ra sao. Cùng với đó là mô hình tổ chức mà loại công nghệ này đem lại: tổ chức không phân cấp, không người lãnh đạo, và thành viên không phải làm vì trách nhiệm. Mô hình này dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, nền kinh tế không dùng tiền, và game phiêu lưu nhập vai.
+Trong những phần mềm quản lý công việc trên thị trường hiện nay, mình thấy có duy nhất Obsidian là có thể đáp ứng nhu cầu đó. Cho nên trong buổi thảo luận này mình sẽ nói về cách bọn mình sử dụng nó ra sao. Cùng với đó là mô hình tổ chức mà loại công nghệ này đem lại: 
 
 Xem thêm: Một đám mây chim sáo: https://quacau.space/f025
 

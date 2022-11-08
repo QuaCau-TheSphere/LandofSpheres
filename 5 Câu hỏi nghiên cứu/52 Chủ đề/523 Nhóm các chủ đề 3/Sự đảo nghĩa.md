@@ -25,7 +25,7 @@ Quá tải nhận thức
 
 Lý tính vs hậu hiện đại
 
-Câu hỏi:: [[Bản ngã là gì nếu không phải là sự chú ý？]] 
+❓:: [[Bản ngã là gì nếu không phải là sự chú ý？]] 
 Hiện tượng đồng âm khác nghĩa
 
 Cái cảm giác thấy một câu hỏi hiển nhiên, nhưng không thấy được rồi mình cũng sẽ hỏi những câu hiển nhiên

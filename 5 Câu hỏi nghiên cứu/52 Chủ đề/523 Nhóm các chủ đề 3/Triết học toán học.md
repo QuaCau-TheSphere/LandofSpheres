@@ -13,7 +13,7 @@ Giấy khai sinh: Russell, Moore
 
 Austin là ông tổ của phái Oxford 
 
-Câu hỏi:: Triết học phân tích trong bối cảnh hậu hiện đại thế nào? 
+❓:: Triết học phân tích trong bối cảnh hậu hiện đại thế nào? 
 
 Hình thức luận: chỉ có hệ thống
 Logic luận: 

@@ -9,6 +9,6 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 ```
 
 Chủ đề:: [[Tự trị]]
-Câu hỏi:: [[Liệu việc không đối thoại có đem lại cơ sở cho quan điểm của mình？ ]]
+❓:: [[Liệu việc không đối thoại có đem lại cơ sở cho quan điểm của mình？ ]]
 
 ![[Pragmatism-Venn-Diagram.webp]]

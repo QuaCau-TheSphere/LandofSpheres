@@ -9,4 +9,4 @@ List where contains(lý-do,[[]])
 | --------------- | ---------------- |
 |                 |                  |
 
-Câu hỏi:: [[Việc đặt con người làm trung tâm bị chính người ở trung tâm phản đối]]
+❓:: [[Việc đặt con người làm trung tâm bị chính người ở trung tâm phản đối]]

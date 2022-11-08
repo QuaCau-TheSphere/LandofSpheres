@@ -12,7 +12,7 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
  
-Câu hỏi:: [[Tại sao bắt nạt không phải là phạm tội, khi nó ảnh hưởng đến tinh thần của người khác？]], [[Tại sao đa số ca về bạo hành tinh thần không xử lý được？]] 
+❓:: [[Tại sao bắt nạt không phải là phạm tội, khi nó ảnh hưởng đến tinh thần của người khác？]], [[Tại sao đa số ca về bạo hành tinh thần không xử lý được？]] 
 
 
 Chủ đề::[[Luật pháp]]

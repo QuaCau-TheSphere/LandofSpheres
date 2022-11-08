@@ -58,7 +58,7 @@ lẽ ra không nên ở đó.​
 Cơ thể không sản xuất ra ham muốn là cơ thể không bộ phận
 các cỗ máy ham muốn cần đến cơ-thể-không-bộ-phận,  đóng vai trò là lực đẩy. Họ cũng tìm thấy sự tương ứng song song giữa sự sản xuất ham muốn và sản xuất xã hội, nghĩa là sự song song giữa cơ thể người và cơ thể xã hội (socius)
 
-Câu hỏi:: Bộ phận là cỗ máy ham muốn thì đồng ý, nhưng nó sản xuất ra ham muốn như thế nào?
+❓:: Bộ phận là cỗ máy ham muốn thì đồng ý, nhưng nó sản xuất ra ham muốn như thế nào?
 
 « Cơ thể trọn vẹn không-bộ-phận là cái không sản xuất, cái cạn kiệt, cái không sinh thành, cái không tiêu thụ. Antonin Artaud đã khám phá ra nó, ở nơi mà ông từng tồn tại, không hình, không dạng. Bản năng chết, đó là tên của nó, và cái chết không phải là không có mô hình. Bởi vì ham muốn cũng muốn chính điều đó, muốn chính cái chết, bởi vì cơ thể trọn vẹn của cái chết là cái động cơ bất động của nó, vì nó muốn sự sống, bởi vì các cơ quan của sự sống là working machine (cỗ máy đang hoạt động). » L’Anti-Œdipe, tr. 14.
 

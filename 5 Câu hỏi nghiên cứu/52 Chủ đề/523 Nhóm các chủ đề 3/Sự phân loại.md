@@ -9,5 +9,5 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 ```
 Chủ đề:: [[Mẫu hình (pattern)]]
 Chủ đề:: [[Lý tính]]
-Câu hỏi:: [[Khi nào mình hứng thú với sự phân loại, chia nhỏ, khi nào thì không? ]]
+❓:: [[Khi nào mình hứng thú với sự phân loại, chia nhỏ, khi nào thì không? ]]
 #Tâmlýhọc/nhậnthức #Ngônngữhọc/trinhận 

@@ -7,21 +7,22 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưabắtđầubàn
-Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
-Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🧍Cóthểlàmmộtmình
+Trạng thái:: null
+Độ cấp thiết:: null
+Tính chất công việc:: null
 
 === end-column ===
 
-Người chơi::
-Kỹ năng:: [[Tin học]]
+Ban:: 
+Nhân sự::
+Kỹ năng::
 
 === end-multi-column
 
-Tài liệu::
+Tài liệu:: <% tp.file.cursor() %>
 Kết quả mong muốn:: 
 ##### Chỉ số trước
-- [ ] [est:: ] [ ]
+
 ```dataview
 List without id công-việc-thành-phần.kết-quả-mong-muốn
 Where file.name=this.file.name

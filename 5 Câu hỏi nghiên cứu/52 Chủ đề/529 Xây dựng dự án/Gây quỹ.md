@@ -8,4 +8,4 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
 
-Câu hỏi:: [[Có những cách gây quỹ nào cho quá trình tích lũy kiến thức ban đầu？Có những quỹ nghiên cứu nào cho những người làm hoạt động？]] 
+❓:: [[Có những cách gây quỹ nào cho quá trình tích lũy kiến thức ban đầu？Có những quỹ nghiên cứu nào cho những người làm hoạt động？]] 

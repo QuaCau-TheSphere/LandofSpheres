@@ -8,6 +8,6 @@ Hệ quả của vấn đề này:
 List where contains(lý-do,[[]])
 ```
 
-Câu hỏi:: [[Ai là người nên được nhận hỗ trợ？]]
+❓:: [[Ai là người nên được nhận hỗ trợ？]]
 Gia đình có thể cấp thoải mái nhưng không muốn 
 Việc thu tiền thì mình sẽ nghiêm túc hơn, chứng tỏ người ta sẽ bỏ tiền ra để nghe mình. Nếu mình nói tệ mà free thì họ sẽ ko nói mình nghe

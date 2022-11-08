@@ -4,7 +4,7 @@
 Điểm yếu::
 Mục tiêu:: [[p.1 Beret cảm thấy hợp lý về hướng đi của mình]]
 
-Hoạt động:: [[Tổ chức những buổi nói chuyện về chức năng của người thân bạn bè, và mối liên hệ của nó với tự trị và năng lực ra quyết định, chủ nghĩa cá nhân và chủ nghĩa cộng đồng]]
+Hoạt động:: [[1 Công việc/null/Untitled 1]]
 Hoạt động:: [[Tổ chức những buổi nói chuyện về nét họ hàng giống nhau của Wittgenstein]]
 Hoạt động:: [[Tổ chức những buổi nói chuyện về lý thuyết phê phán Frankfurt cho người làm truyền thông và thời trang]]
 Hoạt động:: [[Tổ chức những buổi nói chuyện về mối quan hệ giữa Đạo gia và LGBT]]

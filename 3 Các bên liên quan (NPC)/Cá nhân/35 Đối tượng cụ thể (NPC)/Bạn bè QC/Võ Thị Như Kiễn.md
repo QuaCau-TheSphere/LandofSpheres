@@ -53,7 +53,7 @@ Bắt tay làm thì sẽ thấy hứng thú
 
 Chiến lược rõ ràng → Cụ thể những cái sẽ làm → bắt tay vào làm
 
-Câu hỏi:: [[Em có muốn ]]
+❓:: [[Em có muốn ]]
 
 Điều đối tượng thấy ở QC:: [[Các bài viết khó hiểu]]
 Điều đối tượng thấy ở QC:: [[Có tiềm năng rất lớn. Hãy kiên trì]]

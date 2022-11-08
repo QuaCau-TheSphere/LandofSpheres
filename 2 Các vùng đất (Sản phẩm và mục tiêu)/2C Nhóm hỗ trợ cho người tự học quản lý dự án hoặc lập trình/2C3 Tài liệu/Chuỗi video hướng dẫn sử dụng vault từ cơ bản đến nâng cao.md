@@ -5,6 +5,9 @@ Mục tiêu:
 # Phần 1: Obsidian – phần mềm lập trình cho tư duy của bạn
 ## 1.1 Giới thiệu Obsidian
 ## 1.2 Obsidian cho việc học và nghiên cứu
+Sự lưu chuyển ngữ nghĩa
+Concept map
+Evergreen
 ## 1.2 Obsidian cho quản lý dự án và tài nguyên
 https://erpviet.vn/phan-mem-erp-cho-doanh-nghiep-vua-va-nho/
 ## 1.3 Obsidian cho kết nối nhu cầu cộng đồng
@@ -25,3 +28,4 @@ Git có thể đem lại điều gì mà Google Drive không thể làm được
 ## 3.4 Làm việc với remote. hiểu về merge
 ## Làm việc với GitHub
 Website của GitHub sẽ giả vờ như là bạn đang ở trên máy chủ
+![[Phương pháp học hiệu quả.png]]

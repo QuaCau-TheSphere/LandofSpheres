@@ -24,8 +24,8 @@ Nguyễn Thị Minh Khai: nữ bí thư đầu tiên của Sài Gòn - Gia Đị
 
 Mù chữ nhưng không mù đọc, mà học qua kể lại, nên truyền thống văn hoá không bị đứt gãy
 
-Câu hỏi:: [[Những người đó có phải là liberal feminism không？]]
-Câu hỏi:: [[Nếu như sự đề kháng văn hoá về tự do tình dục là mạnh, vậy tại sao bây giờ chúng ta lại phải chật vật đấu tranh nữa]]
+❓:: [[Những người đó có phải là liberal feminism không？]]
+❓:: [[Nếu như sự đề kháng văn hoá về tự do tình dục là mạnh, vậy tại sao bây giờ chúng ta lại phải chật vật đấu tranh nữa]]
 
 # Quyền SKSS-SKTD 
 Phá thai dễ dàng được phép ở VN hơn các nước khác, do ngày xưa cần phải được kiểm soát dân số
@@ -56,8 +56,8 @@ Nguyễn Thị Minh Khai: nữ bí thư đầu tiên của Sài Gòn - Gia Đị
 
 Mù chữ nhưng không mù đọc, mà học qua kể lại, nên truyền thống văn hoá không bị đứt gãy
 
-Câu hỏi:: [[Những người đó có phải là liberal feminism không？]]
-Câu hỏi:: [[Nếu như sự đề kháng văn hoá về tự do tình dục là mạnh, vậy tại sao bây giờ chúng ta lại phải chật vật đấu tranh nữa]]
+❓:: [[Những người đó có phải là liberal feminism không？]]
+❓:: [[Nếu như sự đề kháng văn hoá về tự do tình dục là mạnh, vậy tại sao bây giờ chúng ta lại phải chật vật đấu tranh nữa]]
 
 # Quyền SKSS-SKTD 
 Phá thai dễ dàng được phép ở VN hơn các nước khác, do ngày xưa cần phải được kiểm soát dân số

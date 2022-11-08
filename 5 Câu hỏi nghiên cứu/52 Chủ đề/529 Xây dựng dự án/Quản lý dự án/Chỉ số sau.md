@@ -8,4 +8,4 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
 
-Câu hỏi:: [[Chỉ số sau và kết quả mong muốn của công việc thành phần có phải là một？]]
+❓:: [[Chỉ số sau và kết quả mong muốn của công việc thành phần có phải là một？]]

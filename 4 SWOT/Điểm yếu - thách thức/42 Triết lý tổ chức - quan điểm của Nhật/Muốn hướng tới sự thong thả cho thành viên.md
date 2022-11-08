@@ -43,7 +43,7 @@ Các loại thong thả:
 - Không tạo được cơ sở cho sự tin tưởng, cắt đứt điều gây hại. Không phải ngẫu nhiên mà luật pháp được sinh ra
 - Khó quản lý được người ra người vào
 
-Câu hỏi:: [[Tại sao việc hướng đến động lực nội sinh là không đủ để tạo ra các ưu điểm của sự kỷ luật？]] 
+❓:: [[Tại sao việc hướng đến động lực nội sinh là không đủ để tạo ra các ưu điểm của sự kỷ luật？]] 
 [[Nếu họ không tuân thủ thì xử lý thế nào?]] 
 
 #Hànhvitổchức/nhânsự 

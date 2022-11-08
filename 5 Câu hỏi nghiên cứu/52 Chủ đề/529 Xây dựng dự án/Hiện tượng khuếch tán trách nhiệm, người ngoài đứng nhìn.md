@@ -11,7 +11,7 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
 Chủ đề:: [[Động lực]]
-Câu hỏi:: [[Động lực làm việc không liên quan đến sự khuếch tán trách nhiệm？]]
+❓:: [[Động lực làm việc không liên quan đến sự khuếch tán trách nhiệm？]]
 
 # 1. Khái niệm
 🔎 Phân tán trách nhiệm là một hiện tượng tâm lý mà một người sẽ cảm thấy bản thân ít có trách nhiệm phải hành động khi có nhiều người cùng chứng kiến một sự việc nào đó [1]. Số người chứng kiến càng tăng, thì khả năng họ giúp đỡ một ai đó đang cần hỗ trợ càng thấp.

@@ -13,7 +13,7 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 - Trong tình trạng khẩn cấp (phải được ghi rõ) 
 - An ninh quốc gia
 - Đạo đức/trật tự xã hội (phải giải thích cụ thể, phải có bước cụ thể, phải tính toán thiệt hại của việc cấm, ) 
-Câu hỏi:: Tại sao tự do biểu đạt lại bao hàm công kích? Không công kích thì cũng vẫn có thể truyền đạt ý của mình mà?
+❓:: Tại sao tự do biểu đạt lại bao hàm công kích? Không công kích thì cũng vẫn có thể truyền đạt ý của mình mà?
 
 Những người có thể phản biện lại không phải lúc nào cũng có nguồn lực để phản bác lại
 

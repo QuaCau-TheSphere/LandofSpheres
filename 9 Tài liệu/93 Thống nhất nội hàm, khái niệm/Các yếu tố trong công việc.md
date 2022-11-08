@@ -125,7 +125,7 @@ Group by tags
 [[Dùng Obsidian]]
 
 [[Tài chính]]
-[[Hậu cần]]
+[[Hậu cần – logistics]]
 
 [[6 Tổ chức/65 Kỹ năng, thử thách (Chiêu và quái)/Quản lý dự án/Quản lý dự án]]
 [[Quản lý thời gian]]

@@ -10,4 +10,4 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 Chủ đề:: [[Mẫu hình (pattern)]]
 Chủ đề:: [[Phong cách]]
 Chủ đề:: [[Sự đơn giản hoá]]
-Câu hỏi:: [[Sự kỷ luật có phải là một dạng khuôn mẫu không]] 
+❓:: [[Sự kỷ luật có phải là một dạng khuôn mẫu không]] 

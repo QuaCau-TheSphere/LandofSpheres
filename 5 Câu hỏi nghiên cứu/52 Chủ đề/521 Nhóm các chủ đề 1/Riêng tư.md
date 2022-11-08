@@ -8,8 +8,8 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
 
-Câu hỏi:: [[Sự tin tưởng nghĩa là đã cho phép. Lập hồ sơ mà người kia chưa biết thì có phạm luật không？]] 
-Câu hỏi:: [[Đưa hồ sơ cho người khác mà người kia chưa biết thì có phạm luật không？]] 
+❓:: [[Sự tin tưởng nghĩa là đã cho phép. Lập hồ sơ mà người kia chưa biết thì có phạm luật không？]] 
+❓:: [[Đưa hồ sơ cho người khác mà người kia chưa biết thì có phạm luật không？]] 
 
 Chủ đề:: [[Luật pháp]]
 Chủ đề:: [[Rủi ro]]
@@ -17,7 +17,7 @@ Chủ đề:: [[Tôn trọng]]
 Chủ đề:: [[Nguyên tắc]]
 Chủ đề:: [[Tin tưởng]]
 Chủ đề:: [[Sợ hãi]]
-Câu hỏi:: [[Đồng thuận]]
+❓:: [[Đồng thuận]]
 
 sđt bây giờ mới thành thứ cá nhân, chứ ngày xưa nó nằm trong danh bạ đt, là một thứ để nhận diện như là tên. Sự khó chịu khi bị bán sđt đến từ việc bị theo dõi
 

@@ -1,7 +1,7 @@
 [Trạng thái:: #tt-⚪/chưađếnlúclàm]  ⠀•⠀ [Độ cấp thiết:: #đct-🍃/sớmphảilàm]
 [Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử]  ⠀•⠀ [Tính chất công việc:: Chỉ nên làm khi gặp mặt trực tiếp]
 Người chơi:: [[Ân]]
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[Hậu cần]]
+Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[Hậu cần – logistics]]
 Tài liệu:: [[Chức năng của người thân, bạn bè]]
 Kết quả mong muốn:: 10 người tham gia, 6 người quay lại 
 ##### Chỉ số trước

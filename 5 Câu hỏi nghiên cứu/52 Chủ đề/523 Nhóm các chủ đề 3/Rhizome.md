@@ -6,14 +6,14 @@ Câu hỏi liên quan đến chủ đề này:
 ```dataview
 List from "5 Câu hỏi nghiên cứu/51 Câu hỏi" where contains(chủ-đề,[[]]) 
 ```
-Câu hỏi:: [[Câu hỏi nè]]
+❓:: [[Câu hỏi nè]]
 Chủ đề quan tâm đến chủ đề này:
 ```dataview
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
 Chủ đề:: [[Lý thuyết đồ thị]]
 Chủ đề:: [[Giải trung tâm]]
-Câu hỏi:: [[Sự phân loại]]
+❓:: [[Sự phân loại]]
 ## Sách rễ cọc
 Mô hình nhị phân có sự thống nhất căn bản, là sự thống nhất của rễ cọc, là trụ cột cho cấu trúc tư duy của con người
 
@@ -28,12 +28,12 @@ Tạo thành rhizome cùng với thế giới, không phản ánh thế giới �
 VD: sách Kafka mô tả một người một ngày thức dậy thành con bọ, chứ không phải một người tư sản
 cách con người phi nhân tính hoá, mặc dù WW2 chưa xảy ra
 
-### Câu hỏi:: Có phải ý của Deleuze là cấu trúc rhizome mới là cấu trúc của thực tại, còn cấu trúc rễ cọc thì chỉ là sự mô phỏng của con người? 
+### ❓:: Có phải ý của Deleuze là cấu trúc rhizome mới là cấu trúc của thực tại, còn cấu trúc rễ cọc thì chỉ là sự mô phỏng của con người? 
 Triết học của Deleuze là triết học nội tại, không phải triết học siêu việt - triết học ở đây
 Thực tại trong chiến tranh lạnh là thực tại của rễ cọc. Thực tại rễ cọc đã từng tồn tại. Sau chiến tranh lạnh, Nga không còn là rễ cọc của LX
 
-### Câu hỏi:: Có phải những cấu trúc rễ cọc nay phải sửa lại không? Bản thân rhizome trong sinh vật cũng là một nhánh trong cây phân loại, mà cái cây đó là cũng không phải rhizome
-### Câu hỏi:: Khi nào thì ý tưởng về rhizome áp dụng được? Ví dụ như virus là một rhizome, nhưng vaccine thì vẫn phân phối theo cách có cấu trúc.
+### ❓:: Có phải những cấu trúc rễ cọc nay phải sửa lại không? Bản thân rhizome trong sinh vật cũng là một nhánh trong cây phân loại, mà cái cây đó là cũng không phải rhizome
+### ❓:: Khi nào thì ý tưởng về rhizome áp dụng được? Ví dụ như virus là một rhizome, nhưng vaccine thì vẫn phân phối theo cách có cấu trúc.
 ### Cú pháp theo kiểu rhizome sẽ trông như thế nào? 
 Ý nghĩa, cú pháp bị phá vỡ, mã ngôn ngữ bị rối loạn, thường thấy trong ngôn ngữ của các nhóm thiểu số, người có rối loạn ngôn ngữ, ngôn ngữ văn học. Ở VN có thể có Bùi Giáng có thể có ngôn ngữ rhizome:
 > Tôi sẽ ra đi bỏ lại đời  
@@ -103,11 +103,11 @@ Rizôm cũng được sử dụng để chỉ một hình thức tổ�
     
 -   Deleuze nhìn thấy ở nước Mỹ một phương Tây có tính ri-zôm, nước Mỹ thoát khỏi truyền thống phương Tây theo mô hình cây. Chính ở nước Mỹ là nơi diễn ra hiện tượng chuyển hóa từ cây thành ri-zôm, nơi mà cây tạo thành ri-zôm.​
 
-Câu hỏi:: nếu trong rễ cọc có rhizome thì tại sao phải tới Deleuze thì rhizome mới được khám phá? Điều gì khiến cho rễ cọc sớm chiếm lĩnh được tư duy loài người như vậy? Nếu rhizome vừa là cách con người tư duy vừa là cách thế giới cấu trúc, vậy tại sao tư duy rhizome không sớm nhận thấy cấu trúc rhizome, còn tư duy rễ cọc lại dễ dàng nhận thấy cấu trúc rễ cọc? Phải chăng là chỉ đến khi các nhà thực vật học khám phá ra rhizome thì ta mới có từ vựng để miêu tả nó? 
-Câu hỏi:: Có bao nhiêu loại nhị phân? Em nghe nói nhị phân phương Tây cũng khác nhị phân phương Đông (mà điển hình là Đạo giáo) 
-Câu hỏi:: Tư duy nhị phân (binary, duality) có phải là một dạng phân loại (classification, categorization, taxonomy) không? Tư duy rhizome có loại trừ sự phân loại không hay chỉ loại trừ sự nhị phân? Sự gỡ bỏ phân loại có phải là rhizomification? Nó có giống như mối quan hệ giữa cấu trúc luận và hậu cấu trúc luận?
-Câu hỏi:: nếu rhizome rồi cũng sẽ xảy ra từ cấu trúc, vậy thì có phải ta cũng không cần cố gắng tư duy như rhizome làm gì, mà cứ tiếp tục tư duy như rễ cọc là được? 
-Câu hỏi:: sự khác biệt giữa rhizome và mạng lưới là gì? Một rhizome các khái niệm khác gì với một mạng lưới các khái niệm? 
-Câu hỏi:: một ví dụ cho thấy sự kết hợp giữa rễ cọc và rhizome (VD: con ong - hoa lan, internet)
-Câu hỏi:: cao nguyên là từng điểm trong rhizome, hay là toàn bộ rhizome? Cao nguyên trong cơn ong - hoa lan và trong internet là thế nào? 
-Câu hỏi:: Có khi nào một rhizome lại trình diện trong mắt chúng ta như là một rễ cọc (hoặc ngược lại) không?
+❓:: nếu trong rễ cọc có rhizome thì tại sao phải tới Deleuze thì rhizome mới được khám phá? Điều gì khiến cho rễ cọc sớm chiếm lĩnh được tư duy loài người như vậy? Nếu rhizome vừa là cách con người tư duy vừa là cách thế giới cấu trúc, vậy tại sao tư duy rhizome không sớm nhận thấy cấu trúc rhizome, còn tư duy rễ cọc lại dễ dàng nhận thấy cấu trúc rễ cọc? Phải chăng là chỉ đến khi các nhà thực vật học khám phá ra rhizome thì ta mới có từ vựng để miêu tả nó? 
+❓:: Có bao nhiêu loại nhị phân? Em nghe nói nhị phân phương Tây cũng khác nhị phân phương Đông (mà điển hình là Đạo giáo) 
+❓:: Tư duy nhị phân (binary, duality) có phải là một dạng phân loại (classification, categorization, taxonomy) không? Tư duy rhizome có loại trừ sự phân loại không hay chỉ loại trừ sự nhị phân? Sự gỡ bỏ phân loại có phải là rhizomification? Nó có giống như mối quan hệ giữa cấu trúc luận và hậu cấu trúc luận?
+❓:: nếu rhizome rồi cũng sẽ xảy ra từ cấu trúc, vậy thì có phải ta cũng không cần cố gắng tư duy như rhizome làm gì, mà cứ tiếp tục tư duy như rễ cọc là được? 
+❓:: sự khác biệt giữa rhizome và mạng lưới là gì? Một rhizome các khái niệm khác gì với một mạng lưới các khái niệm? 
+❓:: một ví dụ cho thấy sự kết hợp giữa rễ cọc và rhizome (VD: con ong - hoa lan, internet)
+❓:: cao nguyên là từng điểm trong rhizome, hay là toàn bộ rhizome? Cao nguyên trong cơn ong - hoa lan và trong internet là thế nào? 
+❓:: Có khi nào một rhizome lại trình diện trong mắt chúng ta như là một rễ cọc (hoặc ngược lại) không?

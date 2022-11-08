@@ -8,12 +8,12 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
 
-Câu hỏi:: [[Liệu rối loạn tâm lý có thể hết được không？]]
-Câu hỏi:: [[Việc giải thích cho việc mình bị bất lực đóng vai trò thế nào trong việc duy trì sự bất lực đó？]] 
-Câu hỏi:: [[Tỉ lệ người có sự bất lực học được trong dân số？]] 
-Câu hỏi:: [[Bất lực học được có tạo ra những vấn đề như định kiến, tin giả hay né tránh bằng tâm linh không？]]
-Câu hỏi:: [[Tỉ lệ người có blhd trong những người làm nghệ thuật và tôn giáo？]] 
-Câu hỏi:: [[Mối quan hệ giữa giận dữ, định kiến và bất lực là gì？]] 
+❓:: [[Liệu rối loạn tâm lý có thể hết được không？]]
+❓:: [[Việc giải thích cho việc mình bị bất lực đóng vai trò thế nào trong việc duy trì sự bất lực đó？]] 
+❓:: [[Tỉ lệ người có sự bất lực học được trong dân số？]] 
+❓:: [[Bất lực học được có tạo ra những vấn đề như định kiến, tin giả hay né tránh bằng tâm linh không？]]
+❓:: [[Tỉ lệ người có blhd trong những người làm nghệ thuật và tôn giáo？]] 
+❓:: [[Mối quan hệ giữa giận dữ, định kiến và bất lực là gì？]] 
 
 Chủ đề:: [[Sự khỏe mạnh và hạnh phúc toàn diện]]
 Chủ đề:: [[Tự trị]]

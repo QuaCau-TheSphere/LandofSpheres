@@ -30,4 +30,4 @@ có những trường hợp quan tâm đến chủ đề trong lúc họ đang n
 - Những vấn đề không quan trọng nhưng không vào chủ đề chính của cuộc họp thì không được trả lời
 - Không nghe được tiếng nói của những người không tham gia. Không biết họ có những khúc mắc/ý kiến gì để giải đáp. Phải đến khi trực tiếp hỏi mới nói lên vấn đề, trong khi giải pháp đã có sẵn
 
-Câu hỏi:: [[Liệu quy luật 90-9-1 vẫn còn đúng cho nhóm nòng cốt？]]
+❓:: [[Liệu quy luật 90-9-1 vẫn còn đúng cho nhóm nòng cốt？]]

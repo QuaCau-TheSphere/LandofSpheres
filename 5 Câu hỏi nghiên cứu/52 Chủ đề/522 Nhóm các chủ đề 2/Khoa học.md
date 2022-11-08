@@ -33,7 +33,7 @@ Thuyết kiểm sai của Popper được xây dựng từ năm 30 được xây
 
 
 Thomas Kuhn. Khoa học phức hợp. Hậu hiện đại
-Câu hỏi:: [[Popper nói chuyện với các triết gia hậu hiện đại cùng thời như thế nào？]]
+❓:: [[Popper nói chuyện với các triết gia hậu hiện đại cùng thời như thế nào？]]
 Rusell: chính cái thế giới thần thoại do người Hy Lạp tạo ra  500 năm trước Socrates là tiền đề để hình thành tư duy duy lý, và từ cái nền đó là tiền đề để tạo ra khoa học. Chúng luôn mâu thuẫn nhau nhưng sẽ cùng tồn tại với nhau và bổ sung cho nhau
 
 Từ thời Newton thì ta sống trong thế giới duy vật, duy lý, duy thực chứng
@@ -41,7 +41,7 @@ Từ thời Newton thì ta sống trong thế giới duy vật, duy lý, duy th�
 
 
 
-Câu hỏi:: [[Tinh thần khoa học luôn tự hào với việc có thể bác bỏ chính mình, nhưng có vẻ như cộng đồng khoa học lại khó mà khoan dung với crackpot？]]
+❓:: [[Tinh thần khoa học luôn tự hào với việc có thể bác bỏ chính mình, nhưng có vẻ như cộng đồng khoa học lại khó mà khoan dung với crackpot？]]
 
 
 

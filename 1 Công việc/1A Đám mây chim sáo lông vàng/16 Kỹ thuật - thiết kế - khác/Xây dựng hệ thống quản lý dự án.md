@@ -1,18 +1,29 @@
 ---
 Alias: Setup vault
 ---
-[Trạng thái:: #tt-🟢/xong50٪]  ⠀•⠀ [Độ cấp thiết:: #đct-🔥/muốnlàmngay]  ⠀•⠀ [Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình]
+<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
+
+=== start-multi-column: headingData
+```column-settings  
+number of columns: 2
+largest column: left
+border: off
+```
+
+Trạng thái:: #tt-🟢/khôngthểbiếtkhinàoxong
+Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🔓Làmlúcnàocũngđược, #tc-🌐Cóthểlàmquamạng, #tc-💻Cầnlàmtrênmáytính, #tc-🧠Tưduynhiều, #tc️-🏋️Tìmngườicóchuyênmôncaolàmsẽtốthơn
+
+=== end-column ===
+
 Người chơi:: [[Nhật]]
 Kỹ năng:: [[Tin học]]
 
-Tài liệu::
-Kết quả mong muốn:: Các thành viên có thể sync setting tốt
+=== end-multi-column
+
+Tài liệu:: 
+Kết quả mong muốn:: 
 ##### Chỉ số trước
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
-Các bước thực hiện:
 - [x] Python script Notion to Obsidian
 - [x] Cộng tổng các khoảng thời gian thực hiện lại [dur:: 1h] 
 - [x] Minh hoạ công việc tiếp theo [dur:: 1h] 
@@ -61,7 +72,18 @@ Các bước thực hiện:
 - [ ] Daily task & log review
 
 Công việc thành phần:: [[Hoàn thành quy trình git]]
-next:: [[Đánh giá tính tiện dụng của hệ thống dữ liệu]]
+next:: [[Đánh giá tính tiện dụng của hệ thống dữ liệu]] 
+```dataview
+List without id công-việc-thành-phần.kết-quả-mong-muốn
+Where file.name=this.file.name
+```
+
+=== multi-column-start: extraInfo
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])
@@ -70,6 +92,13 @@ Nằm trong công việc lớn hơn:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])
 ```
+Khi làm thì có thể gặp những vấn đề này
+```dataview
+list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
+```
+
+=== end-column ===
+
 Hướng tới loại đối tượng::
 ```dataview
 list where contains(hoạt-động-dành-cho-họ,[[]])
@@ -82,10 +111,8 @@ Người sẵn sàng làm cùng:
 ```dataview
 list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
-Khi làm thì có thể gặp những vấn đề này
-```dataview
-list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
-```
+
+=== multi-column-end
 
 prev:
 ```breadcrumbs
@@ -99,7 +126,4 @@ Tương quan với các công việc khác:
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
 WHERE contains(công-việc-thành-phần, [[]])
 ```
-
-
-
 

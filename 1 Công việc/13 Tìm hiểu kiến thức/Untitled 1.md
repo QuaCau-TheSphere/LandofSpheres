@@ -7,18 +7,19 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưađếnlúclàm
-Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
+Trạng thái:: null
+Độ cấp thiết:: null
+Tính chất công việc:: null
 
 === end-column ===
 
-Người chơi::
+Ban:: 
+Nhân sự::
 Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: 
+Tài liệu:: <% tp.file.cursor() %>
 Kết quả mong muốn:: 
 ##### Chỉ số trước
 

@@ -2,8 +2,8 @@
 Nội dung: true
 ---
 
-Câu hỏi:: [[Những người đang mê muội và sau này tỉnh ra có cảm thấy giá như lúc đó có người kéo mình ra khỏi không？]] 
-Câu hỏi:: [[Tỉ lệ những người cảm thấy từ "thay đổi" thật đáng sợ trong xã hội？]] 
+❓:: [[Những người đang mê muội và sau này tỉnh ra có cảm thấy giá như lúc đó có người kéo mình ra khỏi không？]] 
+❓:: [[Tỉ lệ những người cảm thấy từ "thay đổi" thật đáng sợ trong xã hội？]] 
 
 Chủ đề:: [[Yêu thương, chấp nhận]]
 Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]] 
@@ -16,9 +16,9 @@ Chủ đề:: [[Truyền thông, quảng cáo, vận động bầu cử, truyề
 Chủ đề:: [[Xử lý khủng hoảng truyền thông]]
 Chủ đề:: [[Mạng lưới xã hội]]
 
-Câu hỏi:: [[Khi nào thì cần phải tác động, vì sự khoẻ mạnh và hạnh phúc toàn diện của họ？]] 
+❓:: [[Khi nào thì cần phải tác động, vì sự khoẻ mạnh và hạnh phúc toàn diện của họ？]] 
 
-Câu hỏi:: [[Tỉ lệ thành công của phỏng vấn tạo động lực là bao nhiêu？]] 
+❓:: [[Tỉ lệ thành công của phỏng vấn tạo động lực là bao nhiêu？]] 
 
 Chủ đề:: [[Đặt mình vào vị trí của người khác, nghĩ cho người khác]]
 

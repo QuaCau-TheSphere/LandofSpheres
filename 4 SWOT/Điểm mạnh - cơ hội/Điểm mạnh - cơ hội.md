@@ -35,4 +35,4 @@ list From "3 Các bên liên quan (NPC)" where đánh-giá-tích-cực-hay-tiêu
 ```
 
 Tham khảo:: [[Các sản phẩm khó định lượng, đo lường]]
-Câu hỏi:: [[Một người khen là bài rất hay thì nó có nghĩa gì？]]
+❓:: [[Một người khen là bài rất hay thì nó có nghĩa gì？]]

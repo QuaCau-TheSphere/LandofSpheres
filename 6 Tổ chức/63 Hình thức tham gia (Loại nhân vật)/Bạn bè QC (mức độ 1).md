@@ -18,4 +18,4 @@ Những người như vậy sẽ được thông báo về lịch các buổi h�
 - Hiểu rằng trong cuộc họp tất cả các thành viên đều được góp ý kiến, và người đứng đầu sẽ chỉ chốt ý kiến cuối cùng khi các thành viên còn lại không thể đi đến sự nhất trí chung
 - Hiểu rằng mọi thắc mắc cần phải vét cạn để thuyết phục nhau (xem thêm: lập luận thợ rèn)  
 
-## Câu hỏi:: Có yêu cầu phải làm trước bản khảo sát hoặc tự giới thiệu về bản thân gì không?
+## ❓:: Có yêu cầu phải làm trước bản khảo sát hoặc tự giới thiệu về bản thân gì không?

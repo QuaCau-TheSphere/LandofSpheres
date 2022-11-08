@@ -34,7 +34,7 @@ Chơi không thật ra là đang hồi phục cho những hoạt động mình c
 
 #### Các phần mềm mã nguồn mở phần lớn đều không có ai giúp dù ai cũng sử dụng
 
-Câu hỏi:: [[Động lực làm việc không liên quan đến sự khuếch tán trách nhiệm？]]
+❓:: [[Động lực làm việc không liên quan đến sự khuếch tán trách nhiệm？]]
 [Uy Ngo - GIỮ CAM KẾT LÀ CHỊU TRÁCH NHIỆM CHO HÀNH ĐỘNG CỦA... | Facebook](https://m.facebook.com/story.php?story_fbid=pfbid03CzvZ4xcTBmJ7XifErRpUnPWHoKPn4yUqH1dEYkqtTTMMoqzK3Nr32mapHtwTNEal&id=100006895908695&m_entstream_source=feed_mobile)
 
 ### Sự hứng thú sẽ không lâu dài

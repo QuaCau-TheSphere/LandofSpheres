@@ -19,4 +19,4 @@ Tham khảo:: [[Điểm mạnh - cơ hội]]
 
 Sản phẩm QC thiên về tâm lý, nên phải kê ra được những thang đo. Nhưng những thứ đó cũng khó mà đo
 
-Câu hỏi:: [[Các dự án giáo dục đo lường mức độ thành công của mình thế nào？ ]]
+❓:: [[Các dự án giáo dục đo lường mức độ thành công của mình thế nào？ ]]

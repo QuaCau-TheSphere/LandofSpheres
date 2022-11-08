@@ -9,27 +9,27 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 ```
 
 Chủ đề:: [[Sự diễn giải chủ quan]]
-Câu hỏi:: [[Mối quan hệ giữa luật bất thành văn và tacit knowledge là gì？]]
-Câu hỏi:: [[Tại sao luật lại không thể tránh khỏi sự kém linh hoạt？]]  [[Tại sao biết kém linh hoạt nhưng vẫn đưa ra？]], [[Vì sao ta phải tuân theo sự kém linh hoạt của luật, nếu như nó cản trở sự hiệu quả hoặc quyền chính đáng của người khác, mà việc vi phạm nó cũng không gây hại cho ai？]] 
+❓:: [[Mối quan hệ giữa luật bất thành văn và tacit knowledge là gì？]]
+❓:: [[Tại sao luật lại không thể tránh khỏi sự kém linh hoạt？]]  [[Tại sao biết kém linh hoạt nhưng vẫn đưa ra？]], [[Vì sao ta phải tuân theo sự kém linh hoạt của luật, nếu như nó cản trở sự hiệu quả hoặc quyền chính đáng của người khác, mà việc vi phạm nó cũng không gây hại cho ai？]] 
 
-Câu hỏi:: [[Hành vi lăng mạ hoặc cố ý khác xúc phạm danh dự, nhân phẩm (điều 2b luật phòng chống bạo lực gia đình) được quy định cụ thể thế nào？]] 
+❓:: [[Hành vi lăng mạ hoặc cố ý khác xúc phạm danh dự, nhân phẩm (điều 2b luật phòng chống bạo lực gia đình) được quy định cụ thể thế nào？]] 
 
-Câu hỏi:: [[Nếu một hành vi nào đó là trái luật nhưng được chứng minh là có lợi nhất cho người khác thì tòa xử lý thế nào？]] 
+❓:: [[Nếu một hành vi nào đó là trái luật nhưng được chứng minh là có lợi nhất cho người khác thì tòa xử lý thế nào？]] 
 
-Câu hỏi:: [[Luật bảo vệ một thứ mà mối nguy đó được chứng minh là không tồn tại, thì dù là phạm luật thì có bị truy cứu ko？]]  
+❓:: [[Luật bảo vệ một thứ mà mối nguy đó được chứng minh là không tồn tại, thì dù là phạm luật thì có bị truy cứu ko？]]  
 
-Câu hỏi:: [[Các điều luật là để bảo vệ sự tự chủ của một người. Nhưng một người có thể không ở trạng thái tự chủ được mà vẫn có đầy đủ năng lực hành vi dân sự. Vậy]] 
+❓:: [[Các điều luật là để bảo vệ sự tự chủ của một người. Nhưng một người có thể không ở trạng thái tự chủ được mà vẫn có đầy đủ năng lực hành vi dân sự. Vậy]] 
 
 
-Câu hỏi:: [[Người làm luật lựa chọn tiêu chí gì để luật hóa quan điểm của mình？Tại sao lại chọn nó？]]
-Câu hỏi:: [[Có sự khác biệt nào giữa việc làm điều luật không cho phép và phạm tội không？]]
-Câu hỏi:: [[Nếu trong một tình huống cụ thể nào đó việc sử dụng một khung lý thuyết khác với khung lý thuyết mà luật sử dụng thì sẽ tốt hơn, thì tòa sẽ xử thế nào？]] 
+❓:: [[Người làm luật lựa chọn tiêu chí gì để luật hóa quan điểm của mình？Tại sao lại chọn nó？]]
+❓:: [[Có sự khác biệt nào giữa việc làm điều luật không cho phép và phạm tội không？]]
+❓:: [[Nếu trong một tình huống cụ thể nào đó việc sử dụng một khung lý thuyết khác với khung lý thuyết mà luật sử dụng thì sẽ tốt hơn, thì tòa sẽ xử thế nào？]] 
 
-Câu hỏi:: [[Sự khác biệt giữa tố cáo nhưng không có bằng chứng và vu khống gì]]
-Câu hỏi:: [[Tại sao việc không biết về luật không phải là lý do để biện hộ]]
-Câu hỏi:: [[Niềm tin vào luật pháp]]
+❓:: [[Sự khác biệt giữa tố cáo nhưng không có bằng chứng và vu khống gì]]
+❓:: [[Tại sao việc không biết về luật không phải là lý do để biện hộ]]
+❓:: [[Niềm tin vào luật pháp]]
 
-Câu hỏi:: [[Tại sao bạo hành tinh thần thì ta không có quyền can thiệp？]]
+❓:: [[Tại sao bạo hành tinh thần thì ta không có quyền can thiệp？]]
 Chủ đề:: [[Nhân quyền]]
 Chủ đề:: [[Tự do]]
 Chủ đề:: [[Công lý]]

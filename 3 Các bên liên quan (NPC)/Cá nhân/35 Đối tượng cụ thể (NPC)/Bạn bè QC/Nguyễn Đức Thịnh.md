@@ -1,7 +1,7 @@
 ```dataview
-LIST WITHOUT ID câu-hỏi
+LIST WITHOUT ID ❓
 WHERE file.path = this.file.path
-FLATTEN câu-hỏi
+FLATTEN ❓
 ```
 
 Loại đối tượng:: [[Người tham gia các buổi họp]], [[Người theo dõi QC]], [[Người muốn xây dựng QC, lan toả tinh thần QC]], [[Người quan tâm đến Nhật]], [[Nghệ sĩ]], [[Người có niềm tin tâm linh]], [[Bạn bè của Nhật]], [[Người mong được lắng nghe, chia sẻ]]
@@ -37,7 +37,7 @@ Bạn thấy cách thức làm việc của QC thế nào:: Có vẻ thú vị
 Bạn thấy điều gì đang cản trở QC đạt được mục tiêu của mình:: Người tham gia, 
 
 
-Câu hỏi:: Tại sao việc mua đồ ăn em lại thích, mà đặt phòng thì em ko thích?
+❓:: Tại sao việc mua đồ ăn em lại thích, mà đặt phòng thì em ko thích?
 
 # Trách nhiệm và sự tin tưởng
 hmm nhưng việc dán nhãn đó cản trở niềm vui của em à?

@@ -12,7 +12,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 # Lê Bảo Ân
 Hình thức tham gia:: [[63.01 Thành viên nòng cốt]]
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Hậu cần]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Hậu cần – logistics]]
 📱:: 0941546494
 🏠:: Q5, TPHCM
 ✉:: lebaoan042001@gmail.com
@@ -26,7 +26,7 @@ list where contains(người-chơi,[[]])
 ```
 # Công việc PNML trong các ban nhận làm
 ```dataview
-List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔼/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔼/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
+List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔥/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔥/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
 From "6 Tổ chức/61 Ban" 
 Where contains(this.ban, file.link)
 ```
@@ -102,7 +102,7 @@ Where contains(this.ban, file.link)
 ---
 
 # Các tổ chức khác tôi đã hoặc đang từng tham gia
-Câu hỏi:: Có cảm thấy công việc này hấp dẫn hơn bên kia không? 
+❓:: Có cảm thấy công việc này hấp dẫn hơn bên kia không? 
 
 ---
 # Thông tin khác về tôi
@@ -141,29 +141,29 @@ Ngành nghề hiện tại/dự tính sẽ làm:: Sinh viên/Nhân sự
 Trong năm nay bạn đang có những mục tiêu gì?:: Thi IELTS, có mục tiêu thực tập hoặc đi học một cái gì đó
 
 Dự định tương lai trong 5 năm tới:: Được tự chủ hơn trong cuộc sống của mình
-Câu hỏi:: Thế nào là tự chủ hơn? Liệu việc không kiếm tiền có giúp tự chủ hơn?
+❓:: Thế nào là tự chủ hơn? Liệu việc không kiếm tiền có giúp tự chủ hơn?
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo?:: Tới đâu thì tới
 
 Bạn cảm thấy mình nhận được gì ở QC?:: Giải trí. Có bạn. Thích buổi nào ít người tham gia 
 
-Câu hỏi:: Tại sao lại vào clb? Clb với ss khác gì nhau? 
-Câu hỏi:: Tại sao thấy ko muốn invest vào mà lại bảo là rất muốn làm cho QC? Nó hoàn toàn ko liên quan gì đến việc em tham gia các cuộc họp vì em hướng ngoại
+❓:: Tại sao lại vào clb? Clb với ss khác gì nhau? 
+❓:: Tại sao thấy ko muốn invest vào mà lại bảo là rất muốn làm cho QC? Nó hoàn toàn ko liên quan gì đến việc em tham gia các cuộc họp vì em hướng ngoại
 Lý do không cảm thấy có một nhu cầu tham gia nghiêm túc hơn vì thấy việc tham gia nó bị cào bằng
 
-Câu hỏi:: Tại sao không thấy những gì QC đang làm sẽ cho em những cơ hội phát triển bản thân?
-Câu hỏi:: Tại sao không nghĩ là làm điều mình hứng thú thì tự động cơ hội phát triển bản thân sẽ tự động đến?
-Câu hỏi:: Việc ca hát, hiphop giúp em phát triển bản thân thế nào?
-Câu hỏi:: Em đã phát triển bản thân như thế nào? 
+❓:: Tại sao không thấy những gì QC đang làm sẽ cho em những cơ hội phát triển bản thân?
+❓:: Tại sao không nghĩ là làm điều mình hứng thú thì tự động cơ hội phát triển bản thân sẽ tự động đến?
+❓:: Việc ca hát, hiphop giúp em phát triển bản thân thế nào?
+❓:: Em đã phát triển bản thân như thế nào? 
 
-Câu hỏi:: Tại sao việc được giao nhiệm vụ cụ thể lại quan trọng với em đến mức độ vậy? Tại sao việc nói là em tìm trong đây xem cái nào em cần nhất lại chưa đủ cụ thể với em? 
-Câu hỏi:: Em hiểu thế nào về tinh thần QC? 
-Câu hỏi:: Chị Hội đã nói vậy, có khác gì thay anh năn nỉ hay không? 
-Câu hỏi:: Anh hỏi nhiều như vậy em có thấy là năn nỉ ko? 
-Câu hỏi:: Tại sao em không thấy điều mà thằng Tuyên nó thấy?
+❓:: Tại sao việc được giao nhiệm vụ cụ thể lại quan trọng với em đến mức độ vậy? Tại sao việc nói là em tìm trong đây xem cái nào em cần nhất lại chưa đủ cụ thể với em? 
+❓:: Em hiểu thế nào về tinh thần QC? 
+❓:: Chị Hội đã nói vậy, có khác gì thay anh năn nỉ hay không? 
+❓:: Anh hỏi nhiều như vậy em có thấy là năn nỉ ko? 
+❓:: Tại sao em không thấy điều mà thằng Tuyên nó thấy?
 
 
-Câu hỏi:: Nhóm của em thoải mái nhưng cũng nghiêm túc. Sao em ko có cảm giác
-Câu hỏi:: Việc tổ chức các buổi như vây có làm em cảm thấy muốn invest ko? 
+❓:: Nhóm của em thoải mái nhưng cũng nghiêm túc. Sao em ko có cảm giác
+❓:: Việc tổ chức các buổi như vây có làm em cảm thấy muốn invest ko? 
 
 
 

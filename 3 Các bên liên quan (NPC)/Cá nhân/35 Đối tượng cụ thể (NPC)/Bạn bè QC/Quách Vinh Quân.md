@@ -1,7 +1,7 @@
 ```dataview
-LIST WITHOUT ID câu-hỏi
+LIST WITHOUT ID ❓
 WHERE file.path = this.file.path
-FLATTEN câu-hỏi
+FLATTEN ❓
 ```
 
 Hoạt động đã làm trong tổ chức:: Dịch bài về thông tin Shannon
@@ -109,9 +109,9 @@ miễn là quan điểm của bạn này không ảnh hưởng gì đến tổ c
 Bạn có muốn chia sẻ thêm gì về bản thân không?
 Em chia sẻ với anh nhiều rồi, giờ hỏi chia sẻ gì thêm thì cũng ko biết chia sẻ gì, anh muốn biết gì thêm thì hỏi em trực tiếp luôn, em trả lời.
 
-# Câu hỏi:: Em nghĩ một coreteam cần làm những gì?
-# Câu hỏi:: Em có nghĩ _____________________ là công việc của coreteam không?
-# Câu hỏi:: Tại sao không làm những việc mà một coreteam cần làm?
+# ❓:: Em nghĩ một coreteam cần làm những gì?
+# ❓:: Em có nghĩ _____________________ là công việc của coreteam không?
+# ❓:: Tại sao không làm những việc mà một coreteam cần làm?
 
 # Lý do tham gia QC
 Vô vì muốn được có động lực để làm

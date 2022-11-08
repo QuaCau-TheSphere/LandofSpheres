@@ -1,11 +1,11 @@
 ```dataview 
-List without id câu-hỏi
+List without id ❓
 Where file.path=this.file.path
 ```
 ```dataview
-LIST WITHOUT ID câu-hỏi
+LIST WITHOUT ID ❓
 WHERE file.path = this.file.path
-FLATTEN câu-hỏi
+FLATTEN ❓
 ```
 Hoạt động nhận làm trong tổ chức::
 Hoạt động đã làm trong tổ chức:: Góp ý kiến cho một số nhiệm vụ
@@ -28,4 +28,4 @@ Trust / faith: progress
 belief network
 
 
-Câu hỏi:: Sao dành nhiều thời gian chăm lo cho từng người quá vậy? Ví dụ như việc làm cái HNTĐ mày bám sát tiến độ
+❓:: Sao dành nhiều thời gian chăm lo cho từng người quá vậy? Ví dụ như việc làm cái HNTĐ mày bám sát tiến độ

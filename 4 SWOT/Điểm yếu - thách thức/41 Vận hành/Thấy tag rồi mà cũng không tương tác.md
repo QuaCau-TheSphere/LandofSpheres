@@ -9,5 +9,5 @@ Hệ quả của vấn đề này:
 List where contains(lý-do,[[]])
 ```
 
-Câu hỏi:: [[Tại sao việc cập nhật trên Notion không làm cảm giác hiệu quả？]]
-Câu hỏi:: [[Nếu đã tag rồi mà không trả lời thì có nên hiểu là họ không hứng thú, và mình thôi không cần tag nữa không？]]
+❓:: [[Tại sao việc cập nhật trên Notion không làm cảm giác hiệu quả？]]
+❓:: [[Nếu đã tag rồi mà không trả lời thì có nên hiểu là họ không hứng thú, và mình thôi không cần tag nữa không？]]

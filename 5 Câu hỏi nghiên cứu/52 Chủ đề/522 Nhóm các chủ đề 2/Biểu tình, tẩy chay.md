@@ -13,4 +13,4 @@ Chủ đề:: [[Can thiệp luận]]
 Chủ đề:: [[Công bằng]]
 Chủ đề:: [[Suy đoán vô tội]]
 
-Câu hỏi:: [[Việc kết luận là một người là độc hại liệu có làm giảm sự thấu cảm của chúng ta với họ không？]], [[Một lượng không nhỏ những người có hiểu biết về sự độc hại vẫn mỉa mai người khác. Vì sao lại như vậy？]]
+❓:: [[Việc kết luận là một người là độc hại liệu có làm giảm sự thấu cảm của chúng ta với họ không？]], [[Một lượng không nhỏ những người có hiểu biết về sự độc hại vẫn mỉa mai người khác. Vì sao lại như vậy？]]

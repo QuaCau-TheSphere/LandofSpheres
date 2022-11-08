@@ -12,11 +12,11 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
  
-Câu hỏi:: [[Một lượng không nhỏ những người có hiểu biết về sự độc hại vẫn mỉa mai người khác. Vì sao lại như vậy？]]
-Câu hỏi:: [[Đã có những nỗ lực nào để giới thiệu những kiến thức về phê phán Frankfurt đến những nhóm đối tượng？]]
-Câu hỏi:: [[Có sự khác biệt nào giữa những người được hưởng đặc quyền và những người hút thuốc lá không]]
-Câu hỏi:: [[Tại sao sự tiếp cận ôn hòa không có tác dụng thay đổi thực trạng？]]
-Câu hỏi:: [[Quan điểm của Frankfurtian về New Age]]
+❓:: [[Một lượng không nhỏ những người có hiểu biết về sự độc hại vẫn mỉa mai người khác. Vì sao lại như vậy？]]
+❓:: [[Đã có những nỗ lực nào để giới thiệu những kiến thức về phê phán Frankfurt đến những nhóm đối tượng？]]
+❓:: [[Có sự khác biệt nào giữa những người được hưởng đặc quyền và những người hút thuốc lá không]]
+❓:: [[Tại sao sự tiếp cận ôn hòa không có tác dụng thay đổi thực trạng？]]
+❓:: [[Quan điểm của Frankfurtian về New Age]]
 
 Em cũng suy nghĩ nhiều về chuyện này. Một chất độc có thể kích hoạt phản ứng nhổ bỏ ra và mình có thể yên tâm là phản xạ đó là đúng, nhưng việc gọi một quan điểm nào đó là độc hại thì là có phải mình đã yên tâm rằng nó đúng mà mình ko cần chất vấn lại? Em cũng hiểu là nếu mà cứ hỏi như vậy thì có khi là mình đang làm chậm trễ sự phát triển. Nhưng nếu ngay cả một chất độc nếu biết cách dùng thì nó cũng là thuốc. Vậy thì liệu một quan điểm độc hại nếu biết cách dùng thì nó cũng chẳng độc nữa?
 

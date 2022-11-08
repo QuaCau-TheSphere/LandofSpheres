@@ -27,5 +27,5 @@ việc trò chuyện thì sẽ đụng phải nhiều vấn đề chồng chéo 
 Giao diện của Slack phức tạp chỗ nào? 
 Bản thân việc copy cái này lên Trello để mọi người cùng đọc cũng là khá mất công?
 
-Câu hỏi:: [[Việc mọi người tham gia họp chứng tỏ mọi người đã muốn dành thời gian tham gia rồi. Tại sao mọi người ko cảm thấy mình muốn dành thời gian để chat？]]
-Câu hỏi:: [[Việc ngắt ngang ý muốn bàn và chuyển qua Trello thì có làm mất cảm hứng để nói không？]]
+❓:: [[Việc mọi người tham gia họp chứng tỏ mọi người đã muốn dành thời gian tham gia rồi. Tại sao mọi người ko cảm thấy mình muốn dành thời gian để chat？]]
+❓:: [[Việc ngắt ngang ý muốn bàn và chuyển qua Trello thì có làm mất cảm hứng để nói không？]]
