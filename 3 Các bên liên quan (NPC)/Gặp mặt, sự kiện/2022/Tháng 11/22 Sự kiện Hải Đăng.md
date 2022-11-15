@@ -26,7 +26,7 @@ Xem thêm: [[Phiếu đăng ký]]
 
 # Phần 0: Chuẩn bị trước của người tham dự
 - Có laptop để sử dụng Obsidian (dùng điện thoại cũng được nhưng sẽ không thấy hết). Có thể dùng chung lap với người khác, nhưng sẽ không có dữ liệu khi về nhà
-- [[Hướng dẫn đồng bộ Obsidian]]
+- [[Đồng bộ dữ liệu với nhóm]]
 
 Không bắt buộc, nhưng làm thì sẽ tốt:
 - Tải [vault này](https://quacau.space/o49f) và mở bằng Obsidian để làm quen

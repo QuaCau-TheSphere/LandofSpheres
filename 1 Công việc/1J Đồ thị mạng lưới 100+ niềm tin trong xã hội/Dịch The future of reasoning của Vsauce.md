@@ -19,7 +19,8 @@ Kỹ năng:: [[Dịch]], [[Tiếng Anh]]
 === end-multi-column
 
 Tài liệu:: [The Future Of Reasoning](https://youtu.be/_ArVh3Cj9rw "https://youtu.be/_ArVh3Cj9rw")
-Kết quả mong muốn:: <% tp.file.cursor() %>
+##### Kết quả mong muốn
+- [ ] <% tp.file.cursor() %>
 ##### Chỉ số trước
 - [ ] Tìm hiểu xem bài viết đã có bài tiếng Việt tương tự hay không 
 - [ ] Tìm hiểu xem có ai cũng muốn dịch cùng không?

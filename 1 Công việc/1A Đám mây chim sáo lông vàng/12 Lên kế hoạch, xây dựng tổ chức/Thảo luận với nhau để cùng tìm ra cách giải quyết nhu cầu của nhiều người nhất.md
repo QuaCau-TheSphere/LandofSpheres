@@ -9,8 +9,10 @@ Thuộc công việc loại A:
 list where contains(công-việc-thành-phần, [[]])
 ```
 
-Kết quả mong muốn:: Các thành viên hiểu thêm về con người của nhau hơn, cảm thấy mình thuộc về một tập thể, thấy được việc mình tham gia vào đây đem lại nhiều ý nghĩa
-Kết quả mong muốn:: Các thành viên cảm thấy việc tham gia sẽ giúp mình đạt được mục tiêu trong năm nay
+##### Kết quả mong muốn
+- [ ] Các thành viên hiểu thêm về con người của nhau hơn, cảm thấy mình thuộc về một tập thể, thấy được việc mình tham gia vào đây đem lại nhiều ý nghĩa
+##### Kết quả mong muốn
+- [ ] Các thành viên cảm thấy việc tham gia sẽ giúp mình đạt được mục tiêu trong năm nay
 
 Tương quan với các công việc khác:
 ```dataview 

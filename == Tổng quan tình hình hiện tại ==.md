@@ -51,7 +51,7 @@ width: 100%
 ```
 
 # Nội dung họp đề xuất cho buổi tiếp theo
-- [[Dữ liệu, quyền riêng tư, bảo mật]]
+- [[Quyền riêng tư, bảo mật dữ liệu, thông tin nội bộ]]
 
 # Các mốc thời gian cần lưu ý
 ```mermaid

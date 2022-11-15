@@ -1,5 +1,5 @@
 # Quan trọng: Cần giữ đồng bộ giữa nhiều người
-|                                 |                                        | Cần giữ đồng bộ giữa các thiết bị | Dễ gây xung đột |
+|                                 | Mô tả                                  | Cần giữ đồng bộ giữa các thiết bị | Dễ gây xung đột |
 | ------------------------------- | -------------------------------------- | --------------------------------- | --------------- |
 | advanced-toolbar                |                                        | ✔                                 |                 |
 | dataview                        |                                        |                                   |                 |
@@ -32,7 +32,7 @@
 | community-plugins.json          |                                        | ✔                                 | ✔               |
 | core-plugins.json               |                                        |                                   |                 |
 | hotkey.json                     |                                        |                                   |                 |
-| .git                                |                                        |                                   |                 |
+| .git                            |                                        |                                   |                 |
 
 
 # Có thể tắt

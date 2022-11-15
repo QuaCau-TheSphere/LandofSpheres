@@ -20,14 +20,12 @@ Kỹ năng::
 === end-multi-column
 
 Tài liệu:: 
-Kết quả mong muốn:: Các công việc được điền đầy đủ tính chất công việc, kỹ năng sử dụng, tài nguyên, kết quả mong muốn, mục tiêu, đối tượng
+##### Kết quả mong muốn
+- [ ] Các công việc được điền đầy đủ tính chất công việc, kỹ năng sử dụng, tài nguyên, kết quả mong muốn, mục tiêu, đối tượng
 
 ##### Chỉ số trước
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 
 === multi-column-start: extraInfo

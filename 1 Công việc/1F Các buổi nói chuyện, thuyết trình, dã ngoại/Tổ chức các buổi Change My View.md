@@ -11,7 +11,8 @@ Nằm trong công việc lớn hơn:
 list where contains(công-việc-thành-phần, [[]])
 ```
 
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 Đầu vào cho công việc loại A khác::Phù hợp với dạng tính cách::
 
 Công việc thành phần::

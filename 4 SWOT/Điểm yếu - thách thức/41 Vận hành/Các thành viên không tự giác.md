@@ -1,4 +1,3 @@
-# Các thành viên không tự giác
 Lý do:: [[Chưa có quy trình TNV rõ ràng]]
 Lý do:: [[TNV không bị buộc phải cam kết hoàn thành đúng thời hạn]]
 Lý do:: [[Các thành viên phải ưu tiên làm những việc quan trọng khác]] 

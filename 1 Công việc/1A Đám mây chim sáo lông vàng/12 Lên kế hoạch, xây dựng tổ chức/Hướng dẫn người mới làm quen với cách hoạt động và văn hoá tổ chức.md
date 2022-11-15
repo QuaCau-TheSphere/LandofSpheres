@@ -21,14 +21,12 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 
 ❓:: [[Có những cách nào để các thành viên tự chủ động đề ra mục tiêu cho công việc của mình？]]
 
-Kết quả mong muốn:: Các thành viên xem hết [[== Bản đồ dành cho người mới ==]], cài Obsidian
+##### Kết quả mong muốn
+- [ ] Các thành viên xem hết [[== Bản đồ dành cho người mới ==]], cài Obsidian
 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 next:: [[Đánh giá mức độ hiểu biết của thành viên với tổ chức]]
 

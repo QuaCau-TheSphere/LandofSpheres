@@ -35,4 +35,4 @@ LIST
 FROM #tc-🔓Làmlúcnàocũngđược
 WHERE contains(file.path, "1 Công việc")
 ```
-Xem thêm: [[Cách viết Dataview]]
+Xem thêm: [[Viết truy vấn Dataview]]

@@ -20,13 +20,11 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: Có cách để đảm bảo là mình không quên đánh giá xem có ok chưa
+##### Kết quả mong muốn
+- [ ] Có cách để đảm bảo là mình không quên đánh giá xem có ok chưa
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu]]
 
 === multi-column-start: extraInfo

@@ -17,7 +17,8 @@ Kỹ năng:: [[Hậu cần – logistics]]
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] Chuẩn bị nội dung họp: Xem trong [[00.1 Lịch họp hằng tuần]]
 - [ ] [[Đăng thông báo họp lên group]]

@@ -19,13 +19,11 @@ Kỹ năng:: [[Tin học]]
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] Có vault mẫu
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[✔✔ Tạo vault cá nhân mẫu]]
 
 === multi-column-start: extraInfo

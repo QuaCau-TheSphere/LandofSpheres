@@ -17,13 +17,11 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu:: [[Kế hoạch truyền thông]]
-Kết quả mong muốn:: Có tagline
+##### Kết quả mong muốn
+- [ ] Có tagline
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 
 === multi-column-start: extraInfo
 ```column-settings

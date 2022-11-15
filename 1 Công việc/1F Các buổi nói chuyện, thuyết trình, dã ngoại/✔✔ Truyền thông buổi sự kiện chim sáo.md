@@ -19,16 +19,14 @@ Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện...]] 
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] Chọn địa điểm
 - [x] Làm khảo sát trước sự kiện [est:: ] [ ]
 - [x] Giới thiệu sự kiện trên page, group liên quan
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: Tạo bản khảo sát
 
 next:: [[01.1A3 Hậu cần buổi sự kiện...]]

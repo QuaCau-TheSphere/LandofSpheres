@@ -20,13 +20,11 @@ Kỹ năng:: [[Dùng Git]]
 === end-multi-column
 
 Tài liệu:: [[Đồng bộ dữ liệu]]
-Kết quả mong muốn:: Hoàn thành [[Đồng bộ dữ liệu#Yêu cầu git]]
+##### Kết quả mong muốn
+- [ ] Hoàn thành [[Đồng bộ dữ liệu#Yêu cầu git]]
 ##### Chỉ số trước
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 
 Công việc thành phần:: [[Tìm cố vấn kỹ thuật]]
 

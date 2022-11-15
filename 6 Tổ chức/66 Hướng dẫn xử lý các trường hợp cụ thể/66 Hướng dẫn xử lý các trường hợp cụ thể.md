@@ -1,5 +1,5 @@
 ---
-Alias : Bảng tóc vàng tóc đen, 66.00
+Alias : Bảng tóc vàng tóc đen, 66.00, xử lý mâu thuẫn
 ---
 
 > [!important] Bài chi tiết: [[Truyện Ngụ Ngôn về Người Nhật – Phần Một (chưa chắc có Phần Hai)]]

@@ -30,7 +30,8 @@ list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-
 ```
 
 Tài liệu:: [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
-Kết quả mong muốn:: Có đủ các khải niệm cần thiết để hoàn thiện triết lý tổ chức
+##### Kết quả mong muốn
+- [ ] Có đủ các khải niệm cần thiết để hoàn thiện triết lý tổ chức
 next:: [[Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu]]
 prev:
 ```breadcrumbs
@@ -46,7 +47,3 @@ Công việc thành phần:: [[Mời người tìm hiểu sâu về chủ nghĩa
 Công việc thành phần:: [[Mời người tìm hiểu sâu về tâm lý học nhân văn đến tham gia]]
 Công việc thành phần:: [[Mời người tìm hiểu sâu về nghịch lý của lý tính đến tham gia]]
 Công việc thành phần:: [[Lên nội dung buổi tóc vàng tóc đen]]
-# Các công việc chưa hoàn thành
-```dataview
-Task from outgoing([[]]) where !completed
-```

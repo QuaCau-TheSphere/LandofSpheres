@@ -30,7 +30,8 @@ list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-
 ```
 
 Tài liệu::
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 
 prev:
 ```breadcrumbs

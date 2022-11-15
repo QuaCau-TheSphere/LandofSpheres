@@ -30,7 +30,8 @@ list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-
 ```
 
 Tài liệu:: [[63.01 Thành viên nòng cốt#^d19e16\|Cung cấp thông tin về những việc khác mình đang làm]]
-Kết quả mong muốn:: Có mqh hợp tác với các tổ chức khác của 80% thành viên
+##### Kết quả mong muốn
+- [ ] Có mqh hợp tác với các tổ chức khác của 80% thành viên
 next::
 prev:
 ```breadcrumbs

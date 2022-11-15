@@ -19,7 +19,8 @@ Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện...]] 
-Kết quả mong muốn:: Trả lời được câu hỏi [[7 sins có vai trò gì trong nghệ thuật？]], [[Giải hậu thuộc đia sẽ nói gì về 7 sin？]]
+##### Kết quả mong muốn
+- [ ] Trả lời được câu hỏi [[7 sins có vai trò gì trong nghệ thuật？]], [[Giải hậu thuộc đia sẽ nói gì về 7 sin？]]
 ##### Chỉ số trước
 - [ ] Lên nội dung chi tiết
 	- [ ] Bảng lượng giá kết quả
@@ -62,10 +63,7 @@ Kết quả mong muốn:: Trả lời được câu hỏi [[7 sins có vai trò 
 	- [ ] Nhắc nhở làm khảo sát
 	- [ ] Đánh giá sau sự kiện
 	- [ ] Làm bài truyền thông sau sự kiện
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[01.1A1 Lên nội dung chi tiết buổi sự kiện...]]
 Công việc thành phần:: [[01.1A2 Truyền thông buổi sự kiện...]]
 Công việc thành phần:: [[01.1A3 Hậu cần buổi sự kiện...]]

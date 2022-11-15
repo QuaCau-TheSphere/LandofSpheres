@@ -22,13 +22,11 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: biết được lượng thời gian có chất lượng của từng dành cho QC
+##### Kết quả mong muốn
+- [ ] biết được lượng thời gian có chất lượng của từng dành cho QC
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 
 === multi-column-start: extraInfo

@@ -20,7 +20,8 @@ Phục vụ cho những nhu cầu này của đối tượng:
 list where contains(row["Cách đáp ứng nhu cầu này"],[[]])
 ```
 
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 next::
 Công việc thành phần:: [[Làm khảo sát về chung thủy]] 
 

@@ -20,13 +20,11 @@ Kỹ năng:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đ
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 
 === multi-column-start: extraInfo

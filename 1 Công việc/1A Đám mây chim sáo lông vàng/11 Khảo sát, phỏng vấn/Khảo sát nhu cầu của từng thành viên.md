@@ -19,16 +19,14 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] Đọc profile của mỗi người trước khi hỏi
 - [x] Hỏi những thành viên thường trực [est:: 1w] [👤:: [[Lê Bình Phương Vi]]]
 - [ ] Hỏi những thành viên cũ [dur:: 1w] 
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 === multi-column-start: extraInfo
 ```column-settings

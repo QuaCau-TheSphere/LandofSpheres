@@ -1,0 +1,5 @@
+- [ ] [[Hiểu triết lý tổ chức]]
+- [ ] [[Đồng bộ dữ liệu với nhóm|Tải vault về]]
+- [ ] [[Kết nối Google Calendar của mình với nhóm]]
+- [ ] Tham gia vào [Discord](https://discord.gg/jWTk4EHFK2) và group Facebook
+	- [ ] Giới thiệu bản thân

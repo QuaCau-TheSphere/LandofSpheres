@@ -19,13 +19,11 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu:: [[Hướng dẫn tham gia vào Quả Cầu]]
-Kết quả mong muốn:: Người mới thấy hướng dẫn rõ ràng
+##### Kết quả mong muốn
+- [ ] Người mới thấy hướng dẫn rõ ràng
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 next:: [[Hướng dẫn người mới làm quen với cách hoạt động và văn hoá tổ chức]]
 
 === multi-column-start: extraInfo

@@ -19,7 +19,8 @@ Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [x] Lên nội dung chi tiết
 	- [x] Bảng đánh giá 
@@ -49,10 +50,7 @@ Kết quả mong muốn::
 	- [ ] Ghi chép: Nhật
 	- [x] Gửi link khảo sát sau sự kiện ✅ 2022-09-13
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[✔✔ Lên nội dung chi tiết buổi sự kiện chim sáo]]
 Công việc thành phần:: [[✔✔ Truyền thông buổi sự kiện chim sáo]]
 Công việc thành phần:: [[Hậu cần buổi sự kiện chim sáo]]

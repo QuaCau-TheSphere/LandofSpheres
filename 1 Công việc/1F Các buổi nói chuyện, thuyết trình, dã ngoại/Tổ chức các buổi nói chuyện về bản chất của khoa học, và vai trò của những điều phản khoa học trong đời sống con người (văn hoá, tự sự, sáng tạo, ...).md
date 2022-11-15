@@ -19,7 +19,8 @@ Phục vụ cho nhu cầu:
 list where contains(row["Cách đáp ứng nhu cầu này"],[[]])
 ```
 
-Kết quả mong muốn:: Trả lời được câu hỏi [[Vai trò của khoa học và phản khoa học trong văn hoá, tự sự, sáng tạo]]
+##### Kết quả mong muốn
+- [ ] Trả lời được câu hỏi [[Vai trò của khoa học và phản khoa học trong văn hoá, tự sự, sáng tạo]]
 Đầu vào cho công việc loại A khác::Phù hợp với dạng tính cách::
 
 Công việc thành phần:: [[

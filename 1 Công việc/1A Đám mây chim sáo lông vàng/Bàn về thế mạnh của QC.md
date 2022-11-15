@@ -30,7 +30,8 @@ list from "4 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-
 ```
 
 Tài liệu:: [[Điểm mạnh - cơ hội]]
-Kết quả mong muốn:: 1 publication của một cộng đồng và 1 package tài trợ
+##### Kết quả mong muốn
+- [ ] 1 publication của một cộng đồng và 1 package tài trợ
 
 prev:
 ```breadcrumbs

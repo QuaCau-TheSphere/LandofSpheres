@@ -22,7 +22,8 @@ Kỹ năng:: [[Tin học]]
 === end-multi-column
 
 Tài liệu:: 
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [x] Python script Notion to Obsidian
 - [x] Cộng tổng các khoảng thời gian thực hiện lại [dur:: 1h] 
@@ -73,10 +74,7 @@ Kết quả mong muốn::
 
 Công việc thành phần:: [[Hoàn thành quy trình git]]
 next:: [[Đánh giá tính tiện dụng của hệ thống dữ liệu]] 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 
 === multi-column-start: extraInfo
 ```column-settings

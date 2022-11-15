@@ -16,7 +16,8 @@ Phục vụ cho nhu cầu:
 list from "3 Các bên liên quan (NPC)/30 Nhu cầu" where contains(row["Cách đáp ứng nhu cầu này"],[[]])
 ```
 
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 Đầu vào cho công việc loại A khác::Phù hợp với dạng tính cách::
 
 Công việc thành phần:: [[

@@ -19,15 +19,14 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 8/10 thành viên trả lời được kế hoạch tháng tới của mình là gì
-Kết quả mong muốn:: file [[00.2 Kế hoạch tổng thể]] dễ hiểu với mọi người
+##### Kết quả mong muốn
+- [ ] 8/10 thành viên trả lời được kế hoạch tháng tới của mình là gì
+##### Kết quả mong muốn
+- [ ] file [[00.2 Kế hoạch tổng thể]] dễ hiểu với mọi người
 ![[Chu kỳ lên kế hoạch chiến lược.jpg]]
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[Tạo thang đo cho các kết quả mong muốn]]
 next:: [[Truyền thông kế hoạch hành động ]]
 next:: [[Đánh giá sự hiệu quả của kế hoạch hành động]]

@@ -21,14 +21,12 @@ Kỹ năng:: [[Thiết kế đồ hoạ, video]]
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 
 ##### Chỉ số trước
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 
 === multi-column-start: extraInfo

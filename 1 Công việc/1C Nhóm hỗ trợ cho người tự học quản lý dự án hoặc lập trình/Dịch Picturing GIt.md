@@ -19,15 +19,13 @@ Kỹ năng:: [[Dịch]], [[Tiếng Anh]], [[Dùng Git]]
 === end-multi-column
 
 Tài liệu:: [Picturing Git: Conceptions and Misconceptions - BiTE Interactive](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] Tìm hiểu xem bài viết đã có bài tiếng Việt tương tự hay không 
 - [ ] Tìm hiểu xem có ai cũng muốn dịch cùng không?
 - [ ] Hỏi tác giả liệu mình có được phép dịch không
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 === multi-column-start: extraInfo
 ```column-settings

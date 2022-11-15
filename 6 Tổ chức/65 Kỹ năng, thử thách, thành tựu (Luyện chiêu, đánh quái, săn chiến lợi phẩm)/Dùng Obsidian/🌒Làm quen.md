@@ -1,3 +1,0 @@
-- [ ] [[Hướng dẫn đồng bộ Obsidian|Tải vault về]]
-- [ ] [[Các phím tắt cho các chức năng cơ bản]]
-- [ ] [[Triết lý của Obsidian]]

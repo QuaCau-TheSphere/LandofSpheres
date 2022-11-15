@@ -1,0 +1,3 @@
+- [ ] [[Sử dụng dữ liệu]]
+- [ ] 
+- Không sợ sự thiếu chuyên nghiệp

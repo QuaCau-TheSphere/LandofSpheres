@@ -24,8 +24,10 @@ Người sẵn sàng làm cùng:
 list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
 
-Kết quả mong muốn:: Các thành viên hiểu được mục tiêu, các bước thực hiện, vai trò của việc mình làm
-Kết quả mong muốn:: Đảm bảo là đã hoàn thành bài https://quacau.atlassian.net/wiki/spaces/IH/pages/5537891/C+ch+th+c+ch+n+c+ng+vi+c.+Qu+n+l+ti+n+c+ng+vi+c
+##### Kết quả mong muốn
+- [ ] Các thành viên hiểu được mục tiêu, các bước thực hiện, vai trò của việc mình làm
+##### Kết quả mong muốn
+- [ ] Đảm bảo là đã hoàn thành bài https://quacau.atlassian.net/wiki/spaces/IH/pages/5537891/C+ch+th+c+ch+n+c+ng+vi+c.+Qu+n+l+ti+n+c+ng+vi+c
 next::
 prev:
 ```breadcrumbs

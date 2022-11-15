@@ -19,13 +19,11 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu:: [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[Lên nội dung buổi tóc vàng tóc đen]]
 next:: [[Tổ chức các buổi nói chuyện về tóc vàng tóc đen]]
 next:: [[Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu]]

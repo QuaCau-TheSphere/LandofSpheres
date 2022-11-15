@@ -25,7 +25,8 @@ Người sẵn sàng làm cùng:
 list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
 
-Kết quả mong muốn:: Các thành viên trong nhóm chia sẻ bài nhiều hơn
+##### Kết quả mong muốn
+- [ ] Các thành viên trong nhóm chia sẻ bài nhiều hơn
 Tài liệu:: [[Điểm khác biệt giữa QC và các nơi khác]]
 
 Công việc thành phần:: [[Đăng các câu hỏi nghiên cứu lên các group]] 

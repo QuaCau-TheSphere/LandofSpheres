@@ -20,7 +20,8 @@ Kỹ năng:: [[Dịch]], [[Tiếng Anh]], [[Tư duy phản biện]]
 === end-multi-column
 
 Tài liệu:: 
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [x] Tìm hiểu xem bài viết đã có bài tiếng Việt tương tự hay không? Không
 - [ ] Tìm hiểu xem có ai cũng muốn dịch cùng không?

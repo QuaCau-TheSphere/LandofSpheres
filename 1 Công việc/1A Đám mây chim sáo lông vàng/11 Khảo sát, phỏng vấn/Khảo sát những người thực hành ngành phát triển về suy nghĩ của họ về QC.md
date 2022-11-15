@@ -23,7 +23,8 @@ Người sẵn sàng làm cùng:
 list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
 
-Kết quả mong muốn:: Hiểu được nhu cầu của họ về các bài dịch tự trị và mạng lưới niềm tin, và vì sao họ không quá hứng thú, hoặc thấy rất hay nhưng chưa thấy cần thiết phải chia sẻ
+##### Kết quả mong muốn
+- [ ] Hiểu được nhu cầu của họ về các bài dịch tự trị và mạng lưới niềm tin, và vì sao họ không quá hứng thú, hoặc thấy rất hay nhưng chưa thấy cần thiết phải chia sẻ
 next:: [[Truyền thông các bài viết về tự trị]]
 prev:
 ```breadcrumbs

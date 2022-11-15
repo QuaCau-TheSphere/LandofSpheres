@@ -20,13 +20,11 @@ Kỹ năng:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự á
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: Các công việc được cập nhật đầy đủ: trạng thái, độ cấp thiết, tính chất công việc, nhân sự, kỹ năng, chỉ số đầu vào, công việc thành phần, mục tiêu, đối tượng
+##### Kết quả mong muốn
+- [ ] Các công việc được cập nhật đầy đủ: trạng thái, độ cấp thiết, tính chất công việc, nhân sự, kỹ năng, chỉ số đầu vào, công việc thành phần, mục tiêu, đối tượng
 ##### Chỉ số trước
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 
 === multi-column-start: extraInfo

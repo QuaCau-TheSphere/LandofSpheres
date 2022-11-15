@@ -19,16 +19,14 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu:: [[Khảo sát TNV định kỳ]]
-Kết quả mong muốn:: thấy được những điểm mn còn lầm tưởng 
+##### Kết quả mong muốn
+- [ ] thấy được những điểm mn còn lầm tưởng 
 
 ##### Chỉ số trước
 - [ ] khảo sát coreteam [est:: ] [ ]
 - [ ] khảo sát tnv
 - [ ] khảo sát bạn bè qc mức độ 2
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 next:: [[Tăng tỉ lệ tương tác của những người ít tương tác trong group]]
 
 === multi-column-start: extraInfo

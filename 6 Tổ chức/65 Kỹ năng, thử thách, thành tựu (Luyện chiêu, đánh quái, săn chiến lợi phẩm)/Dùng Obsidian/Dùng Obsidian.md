@@ -1,4 +1,4 @@
-[[🌒Làm quen]]
-[[🌓]]
-[[🌔 Dùng Dataview tự tin]]
-[[🌕 Dùng console tự tin]]
+[[1 Gà con]]
+[[2 Gà nhà]]
+[[3 Gà rừng]]
+[[4 Gà chọi]]

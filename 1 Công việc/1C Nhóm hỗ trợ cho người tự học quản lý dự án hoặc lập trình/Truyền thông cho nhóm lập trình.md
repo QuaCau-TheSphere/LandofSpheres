@@ -19,13 +19,11 @@ Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: <% tp.file.cursor() %>
+##### Kết quả mong muốn
+- [ ] <% tp.file.cursor() %>
 ##### Chỉ số trước
 
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 
 === multi-column-start: extraInfo

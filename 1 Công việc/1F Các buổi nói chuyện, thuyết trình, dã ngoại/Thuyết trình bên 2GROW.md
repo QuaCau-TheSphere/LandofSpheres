@@ -19,7 +19,8 @@ Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện 2GROW]]
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] Lên nội dung chi tiết
 	- [ ] Bảng lượng giá kết quả
@@ -62,10 +63,7 @@ Kết quả mong muốn::
 	- [ ] Nhắc nhở làm khảo sát
 	- [ ] Đánh giá sau sự kiện
 	- [ ] Làm bài truyền thông sau sự kiện
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 
 === multi-column-start: extraInfo
 ```column-settings

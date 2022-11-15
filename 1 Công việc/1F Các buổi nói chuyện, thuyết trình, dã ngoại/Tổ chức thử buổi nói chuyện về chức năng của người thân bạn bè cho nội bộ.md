@@ -3,13 +3,11 @@
 Người chơi:: [[Ân]]
 Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[Hậu cần – logistics]]
 Tài liệu:: [[Chức năng của người thân, bạn bè]]
-Kết quả mong muốn:: 10 người tham gia, 6 người quay lại 
+##### Kết quả mong muốn
+- [ ] 10 người tham gia, 6 người quay lại 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[Làm khảo sát trước sự kiện]]
 Công việc thành phần:: [[Làm khảo sát sau sự kiện]]
 

@@ -19,14 +19,13 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
-Kết quả mong muốn:: Có cách đánh giá sự hiệu quả của buổi đó
-Kết quả mong muốn:: Có kế hoạch truyền thông cho bài viết
+##### Kết quả mong muốn
+- [ ] Có cách đánh giá sự hiệu quả của buổi đó
+##### Kết quả mong muốn
+- [ ] Có kế hoạch truyền thông cho bài viết
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 
 === multi-column-start: extraInfo
 ```column-settings

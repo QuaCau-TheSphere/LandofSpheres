@@ -19,13 +19,11 @@ Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện 
 === end-multi-column
 
 Tài liệu::
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: [[Liên lạc với từng người để phỏng vấn về suy nghĩ về QC, mạng lưới niềm tin và mạng lưới câu hỏi]]
 Công việc thành phần:: [[Tuyển cố vấn về Wikipedia]]
 

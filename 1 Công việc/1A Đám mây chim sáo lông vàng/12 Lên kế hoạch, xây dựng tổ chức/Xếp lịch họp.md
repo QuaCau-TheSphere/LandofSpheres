@@ -20,13 +20,11 @@ Kỹ năng:: [[Quản lý dự án]]
 === end-multi-column
 
 Tài liệu:: [[Xếp lịch]]
-Kết quả mong muốn:: 
+##### Kết quả mong muốn
+- [ ] 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
-```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
-Where file.name=this.file.name
-```
+
 Công việc thành phần:: 
 
 === multi-column-start: extraInfo

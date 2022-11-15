@@ -9,7 +9,8 @@ Thuộc công việc loại A:
 list where contains(công-việc-thành-phần, [[]])
 ```
 
-Kết quả mong muốn:: Mô tả chi tiết xem tại [How to capture a swinging pendulum?](https://photo.stackexchange.com/q/94857/70665)
+##### Kết quả mong muốn
+- [ ] Mô tả chi tiết xem tại [How to capture a swinging pendulum?](https://photo.stackexchange.com/q/94857/70665)
 Tương quan với các công việc khác:
 ```dataview 
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))

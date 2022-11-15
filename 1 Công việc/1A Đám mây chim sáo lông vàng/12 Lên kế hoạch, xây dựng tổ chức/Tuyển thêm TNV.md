@@ -46,10 +46,14 @@ list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể"
 
 === multi-column-end
 
-Kết quả mong muốn:: Có được một TNV nhân sự có nhiều kinh nghiệm có động lực tham gia dài hạn
-Kết quả mong muốn:: Có được một TNV marketing có nhiều kinh nghiệm có động lực tham gia dài hạn
-Kết quả mong muốn:: Có được một TNV phát triển cộng đồng có nhiều kinh nghiệm có động lực tham gia dài hạn
-Kết quả mong muốn:: Có được một TNV IT có nhiều kinh nghiệm có động lực tham gia dài hạn
+##### Kết quả mong muốn
+- [ ] Có được một TNV nhân sự có nhiều kinh nghiệm có động lực tham gia dài hạn
+##### Kết quả mong muốn
+- [ ] Có được một TNV marketing có nhiều kinh nghiệm có động lực tham gia dài hạn
+##### Kết quả mong muốn
+- [ ] Có được một TNV phát triển cộng đồng có nhiều kinh nghiệm có động lực tham gia dài hạn
+##### Kết quả mong muốn
+- [ ] Có được một TNV IT có nhiều kinh nghiệm có động lực tham gia dài hạn
 
 Công việc thành phần:: [[Lên danh sách những người phù hợp trong các trang kết nối TNV]]
 Công việc thành phần:: [[Phỏng vấn TNV xin tham gia]]
