@@ -106,7 +106,7 @@ Group by tags
 [[Lắng nghe]]
 [[Thuyết trình, bán ý tưởng]]
 [[Ra quyết định]]
-[[Giải quyết mâu thuẫn]]
+[[Giải quyết mâu thuẫn, thương lượng]]
 [[Kể chuyện]]
 
 [[Khảo sát]]

@@ -12,7 +12,7 @@ Những người như vậy sẽ được thông báo về lịch các buổi h�
 
 # Yêu cầu trước khi tham gia buổi họp nội bộ đầu tiên
 - Thông báo trước với nhóm buổi mình sẽ tham gia
-- Đọc trước tối thiểu những bài sau:  ^479642
+- Đọc trước tối thiểu những bài sau:
 -  Hỏi trước những thắc mắc của bạn trong [kênh chat chung trên Discord](https://discord.gg/jWTk4EHFK2) để được giải đáp, vì khả năng cao là thắc mắc của bạn đã được bàn luận trước đó rồi
 - Khuyến khích vào đúng giờ để được nghe tóm tắt đầu buổi họp. Báo trước với mọi người nếu không thể vào sớm hoặc họp được
 - Hiểu rằng trong cuộc họp tất cả các thành viên đều được góp ý kiến, và người đứng đầu sẽ chỉ chốt ý kiến cuối cùng khi các thành viên còn lại không thể đi đến sự nhất trí chung

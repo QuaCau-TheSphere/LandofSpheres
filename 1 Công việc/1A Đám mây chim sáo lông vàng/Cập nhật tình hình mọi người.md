@@ -7,9 +7,9 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🟡/đangbịviệckháccuốn/cóliênquan
-Độ cấp thiết:: #đct-🔥/nênlàmngay
-Tính chất công việc:: #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: #tt-⚪/chưaainhậnlàm
+Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến, #tc-🥳Tươngtácnhiềuvớiloàingười , #tc-🔁Kếtquảthayđổithườngxuyên 
 
 === end-column ===
 
@@ -18,11 +18,9 @@ Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[Viễn Đông]], [[Gặp Viễn Đông]]
+Tài liệu:: 
 ##### Kết quả mong muốn
 - [ ] 
-- [ ] Chốt được lịch với Viễn Đông
-- [ ] Hoàn thành [[Gặp Viễn Đông]]
 ##### Chỉ số trước
 
 

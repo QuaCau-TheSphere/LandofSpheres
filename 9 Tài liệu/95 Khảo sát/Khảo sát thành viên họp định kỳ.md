@@ -1,4 +1,3 @@
-# Khảo sát thành viên họp định kỳ
 Điều gì khiến bạn lựa chọn ngành nghề bạn đang làm?
 
 Trong năm nay bạn đang có những mục tiêu gì?

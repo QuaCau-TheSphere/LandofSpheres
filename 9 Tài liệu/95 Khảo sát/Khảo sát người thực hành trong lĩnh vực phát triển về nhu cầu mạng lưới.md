@@ -1,4 +1,3 @@
-# Khảo sát người thực hành trong lĩnh vực phát triển về nhu cầu mạng lưới
 Điều khiến anh cảm thấy có ý nghĩa nhất với mình hiện tại
 
 Đã biết gì về QC rồi

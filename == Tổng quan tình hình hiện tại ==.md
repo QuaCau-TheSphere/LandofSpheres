@@ -17,6 +17,7 @@ scale: 1
 
 Xem thêm: [[2 Các vùng đất (Sản phẩm và mục tiêu)|Kế hoạch dài hạn]]
 # Tình hình hiện tại các công việc 
+## Tất cả các công việc
 ```leaflet 
 id: công-việc
 image: [[Tầm hoạt động theo công việc.png]]
@@ -29,7 +30,7 @@ defaultZoom: 8
 unit: meters
 scale: 1
 ```
-
+## Các công việc cần làm ngay
 <small>`#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay`</small>
 ```dataview 
 table string(người-chơi) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 

@@ -1,4 +1,3 @@
-# Khảo sát độc giả QC
 Chuyện gì sẽ xả ra nếu...
 
 -   ... ai cũng hỏi "Chuyện gì sẽ xảy ra nếu?"?
