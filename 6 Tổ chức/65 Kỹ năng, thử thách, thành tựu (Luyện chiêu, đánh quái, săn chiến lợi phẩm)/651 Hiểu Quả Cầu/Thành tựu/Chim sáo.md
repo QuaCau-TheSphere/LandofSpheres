@@ -1,0 +1,7 @@
+- [ ] [[Hiểu triết lý của Quả Cầu]]
+- [ ] [[Đồng bộ dữ liệu với nhóm|Tải vault về]]
+- [ ] [[Kết nối Google Calendar của mình với nhóm]]
+- [ ] [[Trò chuyện với mọi người]]
+- [ ] [[Sử dụng dữ liệu của Quả Cầu]]
+- [ ] Từ bỏ việc sử dụng các khái niệm "trách nhiệm", "kỷ luật", "nội bộ"
+- [ ] [[Thay đổi định hướng của Quả Cầu cho phù hợp với định hướng của bạn]]

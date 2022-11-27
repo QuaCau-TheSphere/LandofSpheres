@@ -4,12 +4,10 @@ Alias : Bảng tóc vàng tóc đen, 66.00, xử lý mâu thuẫn
 
 > [!important] Bài chi tiết: [[Truyện Ngụ Ngôn về Người Nhật – Phần Một (chưa chắc có Phần Hai)]]
 
-- vàng: những hành vi gần với tinh thần quả cầu (dám tạo ra vấn đề và vượt qua nó trong sự thong thả và sự tin tưởng tuyệt đối với niềm tin mọi chuyện rồi sẽ ổn thôi). Thường là việc đặt con người làm trung tâm
-- đen: những hành vi thông thường, có liên quan đến các định kiến, quy tắc, nỗi sợ,... Thường là đặt tập thể làm trung tâm
+- Tóc vàng: những hành vi gần với tinh thần quả cầu (dám tạo ra vấn đề và vượt qua nó trong sự thong thả và sự tin tưởng tuyệt đối với niềm tin mọi chuyện rồi sẽ ổn thôi). Thường là việc đặt con người làm trung tâm
+- Tóc đen: những hành vi thông thường, có liên quan đến các định kiến, quy tắc, nỗi sợ,... Thường là đặt tập thể làm trung tâm
 
-không phải hành vi tóc vàng nào cũng vàng và hành vi nào tóc đen cũng đen, vì vấn đề bản chất rất mơ hồ + vấn đề chưa có công cụ hiệu quả để bao quát
-=> tạm thời đóng đinh các khái niệm để sau này bổ sung chỉnh sửa từ từ
-=> việc nhận biết những hành vi này là nền tảng để nội quan và phân tích cách làm việc, định hướng quả cầu vs cách làm việc, định hướng thông thường
+Không phải hành vi tóc vàng nào cũng vàng và hành vi nào tóc đen cũng đen, vì vấn đề bản chất rất mơ hồ + vấn đề chưa có công cụ hiệu quả để bao quát. Nên hiện tại ta chỉ tạm thời đóng đinh các khái niệm để sau này bổ sung chỉnh sửa từ từ. Việc nhận biết những hành vi này là nền tảng để nội quan và phân tích cách làm việc, định hướng ở QC với cách làm việc, định hướng thông thường.
 # Bảng tóc vàng - tóc đen cho từng trường hợp cụ thể
 ## Giao nhận việc
 ```dataview

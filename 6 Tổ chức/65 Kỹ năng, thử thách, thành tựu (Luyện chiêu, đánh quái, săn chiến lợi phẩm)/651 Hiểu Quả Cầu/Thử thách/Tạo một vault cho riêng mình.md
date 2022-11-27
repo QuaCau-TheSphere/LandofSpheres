@@ -1,0 +1,1 @@
+Vault này sẽ được dùng để bạn [[Hiểu chính bản thân mình]]

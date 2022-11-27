@@ -1,0 +1,5 @@
+1. What do you think 
+2. do you worry that if there are many minor commits (e.g. typo fixing, status changing), the history will be fluffed with other more important commits (e.g. new features, new folders, etc) ?
+3. Can you introduce me about the scripts that you are using?
+- Why isn't there a straightforward way to copy posts from the roundup to the hub? I suppose Elenor also use git, so she can push the 
+- Popup guildline

@@ -98,7 +98,7 @@ Kỹ năng:
 >>>	- [x] Những suy tư của mình
 >>>5. [x] Làm khảo sát [Bạn nghĩ gì về Quả Cầu?](https://quảcầu.cc/ban-nghi-gi-ve-qua-cau/?utm_source=Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+H%C3%A0nh+tr%C3%ACnh+th%C3%A0nh+vi%C3%AAn&utm_medium=B%E1%BA%A1n+ngh%C4%A9+g%C3%AC+v%E1%BB%81+Qu%E1%BA%A3+C%E1%BA%A7u%3F&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1)
 >>> ## Sử dụng dữ liệu
->>>1. [x] Đọc [[Hiểu triết lý của Obsidian]]
+>>>1. [x] Đọc [[Triết lý của Obsidian]]
 >>>2. [x] Đồng bộ vault cho máy tính, cho điện thoại
 >>>3. [x] Hiểu được trong vault có những thư mục nào
 >>>4. [x] Chỉnh sửa lần đầu

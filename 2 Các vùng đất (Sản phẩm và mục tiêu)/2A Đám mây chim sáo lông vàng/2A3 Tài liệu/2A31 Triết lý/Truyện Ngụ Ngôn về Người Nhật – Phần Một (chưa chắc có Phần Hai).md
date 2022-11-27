@@ -14,7 +14,7 @@ Và chữ "vì" cũng không thể mở đầu cho một nguyên nhân nào th�
 
 Chưa rõ cuốn sổ tay hướng dẫn sẽ có sức ảnh hưởng đến đâu, nhưng những sợi tóc đen trên đầu cậu đã mọc dài và phủ kín cả chục cm vuông trên đầu.
 
-
+---
 
 cái tin tưởng thì có thể nói là dám chấp nhận dù không quá hiểu nhưng nó chỉ là bước đầu và luôn chứa sự rủi ro ở đó, và nó là cơ hội
 

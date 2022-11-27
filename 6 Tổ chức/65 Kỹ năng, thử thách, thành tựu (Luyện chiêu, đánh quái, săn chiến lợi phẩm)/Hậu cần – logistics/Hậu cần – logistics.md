@@ -1,7 +1,7 @@
-# 🌒
-# 🌓
-# 🌔
-# 🌕
+# Chim sáo có BTC
+
+# Chim sáo không có BTC
+- [ ] [[Công khai tất cả mọi thứ cho tất cả mọi người]]
 
 
 

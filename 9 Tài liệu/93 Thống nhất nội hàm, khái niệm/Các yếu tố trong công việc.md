@@ -102,7 +102,7 @@ Group by tags
 
 #tc-🌐Chỉnênlàmquamạng 
 # Kỹ năng 
-[[Tư duy phản biện]]
+[[Phản biện, lập luận]]
 [[Lắng nghe]]
 [[Thuyết trình, bán ý tưởng]]
 [[Ra quyết định]]

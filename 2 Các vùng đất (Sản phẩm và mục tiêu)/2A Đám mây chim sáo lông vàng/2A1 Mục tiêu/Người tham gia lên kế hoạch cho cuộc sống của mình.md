@@ -16,4 +16,4 @@ Hoạt động::
 Điểm yếu::
 Đối tượng thụ hưởng::
 
-Tài liệu:: [[Lên kế hoạch cho bản thân]]
+Tài liệu:: [[Hiểu chính bản thân mình]]

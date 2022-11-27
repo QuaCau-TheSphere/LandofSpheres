@@ -1,0 +1,9 @@
+- [ ] Tham gia [Discord của Quả Cầu](https://discord.gg/jWTk4EHFK2) `button-discord-button`
+- [ ] Tham gia [group Facebook](https://www.facebook.com/groups/thaydoiniemtintieucuc/)
+- [ ] Giới thiệu bản thân mình trên Discord/group:
+	- [ ] Những gì mình đã, đang và sẽ làm/cần trong vòng 1 tháng qua và 1 tháng tới
+	- [ ] Những bài viết mình thấy thú vị
+	- [ ] Những suy tư về cuộc sống của mình
+- [ ] Điền thông tin vào hồ sơ của mình
+- [ ] Xem hồ sơ của những thành viên khác và xem xem mình có thể làm được gì cho họ
+- [ ] [[Thảo luận về những quan điểm với nhau]]

@@ -15,7 +15,7 @@ Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🔁Côngviệcl�
 
 Người chơi:: [[Trang (Chuối)]]
 Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]]
-Kỹ năng:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]], [[Lắng nghe]], [[Tư duy phản biện]], [[Khảo sát]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu/Nghiên cứu]]
+Kỹ năng:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]], [[Lắng nghe]], [[Phản biện, lập luận]], [[Khảo sát]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu/Nghiên cứu]]
 
 === end-multi-column
 

@@ -15,7 +15,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình. #tc-🔓Làmlúcnào
 === end-column ===
 
 Người chơi:: [[Trang (Chuối)]]
-Kỹ năng:: [[Dịch]], [[Tiếng Anh]], [[Tư duy phản biện]]
+Kỹ năng:: [[Dịch]], [[Tiếng Anh]], [[Phản biện, lập luận]]
 
 === end-multi-column
 
