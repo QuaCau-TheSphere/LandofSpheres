@@ -1,9 +1,9 @@
-| Folder                 | Giải thích                                             | Mô hình sử dụng |
-| ---------------------- | ------------------------------------------------------ | --------------- |
-| 1 Công việc            |                                                        |                 |
+| Folder                                | Giải thích                                             | Mô hình sử dụng |
+| ------------------------------------- | ------------------------------------------------------ | --------------- |
+| 1 Công việc                           |                                                        |                 |
 | 2 Các vùng đất (Sản phẩm và mục tiêu) |                                                        |                 |
-| 51 Câu hỏi             | Những lỗ hổng về mặt kiến thức mà tổ chức cần tìm hiểu |                 |
-| 52 Chủ đề              | Các chủ đề mà QC bàn đến                               |                 |
+| 51 Câu hỏi                            | Những lỗ hổng về mặt kiến thức mà tổ chức cần tìm hiểu |                 |
+| 52 Chủ đề                             | Các chủ đề mà QC bàn đến                               |                 |
 
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
 - Phân loại thư mục: [Johnny•Decimal](https://johnnydecimal.com/)

@@ -1,5 +1,4 @@
-# Đăng ký TNV
-## Thông tin cá nhân
+# Thông tin cá nhân
 
 Họ tên *
 
@@ -15,7 +14,7 @@ Bạn hiện đang sống ở đâu?
 
 Bạn có muốn chia sẻ website/blog/Facebook cá nhân không?
 
-## Kinh nghiệm làm việc và hoạt động tình nguyện
+# Kinh nghiệm làm việc và hoạt động tình nguyện
 
 Bạn học ngành gì? *
 
@@ -70,7 +69,7 @@ Bạn muốn làm việc tới khi nào?*
 
 CV của bạn hoặc các tài liệu khác
 
-## Thông tin thêm
+# Thông tin thêm
 
 Việc hiểu hơn về bạn sẽ giúp Quả Cầu tìm được công việc có ý nghĩa với bạn nhất
 

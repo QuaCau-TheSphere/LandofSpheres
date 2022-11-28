@@ -9,12 +9,12 @@ border: off
 
 Trạng thái:: #tt-⚪/chưaainhậnlàm
 #đct-❄️Khôngquantrọng
-Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🧍Cóthểlàmmộtmình
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
 
 === end-column ===
 
-Người chơi:: [[Hội]]
-Kỹ năng:: [[Tài chính]]
+Người chơi:: 
+Kỹ năng:: [[Quản lý tài chính]]
 
 === end-multi-column
 

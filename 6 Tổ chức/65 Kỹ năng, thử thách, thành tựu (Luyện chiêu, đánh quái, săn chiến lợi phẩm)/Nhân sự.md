@@ -1,4 +1,3 @@
-
 # Người chơi
 ```dataview
 list

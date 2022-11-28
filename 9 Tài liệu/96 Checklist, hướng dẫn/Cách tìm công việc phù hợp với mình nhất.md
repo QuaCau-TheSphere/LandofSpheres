@@ -14,8 +14,6 @@ Nếu muốn lọc kỹ hơn, có thể dùng `and` hoặc `or`. Ví dụ, nếu
 FROM #tc-🔓Làmlúcnàocũngđược and #tc-🥳Tươngtácnhiềuvớiloàingười
 ```
 
-
-
 > [!tip] Một số nhóm tính chất công việc thường đi chung với nhau
 > - `dct ` dct 
 > - `#tc-🧍Cóthểlàmmộtmình or #tc-🌐Cóthểlàmquamạng or #tc-📱Cóthểlàmtrênđiệnthoại or #tc-🔓Làmlúcnàocũngđược or #tc-🔁Côngviệclặplại or #tc-🧠Khôngphảisuynghĩnhiều or #tc-💬Làmxongkhôngcầnhỏiýkiến`

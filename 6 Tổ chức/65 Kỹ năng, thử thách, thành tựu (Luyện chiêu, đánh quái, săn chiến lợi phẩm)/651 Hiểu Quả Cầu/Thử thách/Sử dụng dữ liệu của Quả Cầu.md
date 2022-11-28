@@ -1,4 +1,4 @@
-- [ ] Đọc [[Triết lý của Obsidian]]
+- [ ] [[1 Làm quen với Obsidian]]
 - [ ] [[Đồng bộ dữ liệu với nhóm]]
 - [ ] Hiểu được trong vault có những thư mục nào
 - [ ] [[Dùng Git]]

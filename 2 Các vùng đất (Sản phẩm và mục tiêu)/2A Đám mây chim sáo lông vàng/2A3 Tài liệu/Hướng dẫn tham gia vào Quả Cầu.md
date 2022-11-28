@@ -1,6 +1,6 @@
 Thân chào ____________________,  
 
-Lời đầu tiên, Quả Cầu xin gửi lời cảm ơn chân thành tới bạn vì đã quan tâm tới dự án và có ý định trở thành tình nguyện viên của dự án. Ở Quả Cầu các thành viên đều được **tự quyết định việc mình sẽ làm**, để họ thấy được công việc đem đến **sự tiến bộ và thành thạo**, và đang tạo nên một điều gì đó **có ý nghĩa** cho mình và cho mọi người như thế nào.  
+Chào mừng bạn đến với vùng đất của Quả Cầu. Ở Quả Cầu các thành viên đều được **tự quyết định việc mình sẽ làm**, để họ thấy được công việc đem đến **sự tiến bộ và thành thạo**, và đang tạo nên một điều gì đó **có ý nghĩa** cho mình và cho mọi người như thế nào.  
 
 Mời bạn [tải dữ liệu của Quả Cầu](https://drive.google.com/drive/folders/1jtY95VTvQB5naS0s0XXw7Pd63HNh3Iz0?usp=sharing) và mở bằng phần mềm [Obsidian](https://obsidian.md). Sau khi đã mở được dữ liệu lên rồi, bạn hãy bấm vào file Bản đồ dành cho người mới và Tổng quan tình hình của Quả Cầu. Trong đó sẽ có các link dẫn bạn tham quan thế giới mà Quả Cầu đang xây dựng. (Xem thêm các hình hướng dẫn ở cuối email.)  
   
@@ -12,20 +12,20 @@ Cảm ơn bạn đã có hứng thú đồng hành cùng bọn mình. Chúc bạ
 
 # Hướng dẫn mở dữ liệu Quả Cầu trên Obsidian
 ## 1. Tải dữ liệu trên Google Drive
-![[firefox_2022-11-27_22-12-46.png]]
+![[1. Tải dữ liệu trên Google Drive]]
 Giải nén
 ## 2. Mở dữ liệu trên Obsidian
-![[1. Hướng dẫn mở dữ liệu trên Obsidian.png]]
+![[2. Mở dữ liệu trên Obsidian.png]]
 
 ## 2. Chọn trust author
-![[2 Chọn trust author.png]]
+![[3. Chọn trust author.png]]
 
 ## 3. Mở file cần đọc
-![[3. Mở file cần đọc.png]]
+![[4. Mở file cần đọc.png]]
 
 ## 4. Hình ảnh các file cần đọc
-![[4a. Bản đồ dành cho người mới.png]]
-![[4b. Tổng quan tình hình hiện tại của Quả Cầu.png]]
+![[5a. Bản đồ dành cho người mới.png]]
+![[5b. Tổng quan tình hình hiện tại.png]]
 
 Nếu bạn chỉ thấy những dòng code thì đó là do bạn đang ở chế độ chỉnh sửa. Hãy bấm vào nút có hình cuốn sách ở góc phải trên để chuyển sang chế độ đọc:
-![[5. Bật viewmode.png]]
+![[6. Bật viewmode.png]]

@@ -41,9 +41,9 @@ id hieutrietlytochuc
 ^button-trochuyenvoimoinguoi
 
 ```button
-name Sử dụng dữ liệu
+name Sử dụng dữ liệu của Quả Cầu
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2FHi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FT%C3%A0i%20li%E1%BB%87u%2FS%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u
+Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2F651%20Hi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FTh%E1%BB%AD%20th%C3%A1ch%2FS%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20Qu%E1%BA%A3%20C%E1%BA%A7u
 id hieutrietlytochuc
 ```
 ^button-trochuyenvoimoinguoi

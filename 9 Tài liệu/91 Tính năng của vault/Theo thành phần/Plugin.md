@@ -1,2 +1,3 @@
 - [[Đồng bộ dữ liệu]]
-- [[Có những thông báo khi dùng]] 
+- [[Thông báo khi trang mình theo dõi thay đổi]]
+- [[Test my knowledge]]

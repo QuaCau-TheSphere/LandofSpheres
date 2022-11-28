@@ -14,7 +14,7 @@
 [[Khảo sát người thực hành trong lĩnh vực phát triển về nhu cầu mạng lưới]] 
 
 ```dataview
-list from "9 Tài liệu khác/91 Khảo sát" 
+list from "9 Tài liệu/95 Khảo sát" 
 ```
 
 Bạn tự nhận mình thuộc dạng đối tượng nào? *
