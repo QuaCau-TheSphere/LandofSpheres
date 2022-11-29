@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]]
+Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng]]
 
 === end-multi-column
 

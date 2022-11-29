@@ -31,17 +31,17 @@ unit: meters
 scale: 1
 ```
 ## Các công việc cần làm ngay
-<small>`#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay`</small>
+<small>`(#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and !#tc-🔁Côngviệclặplại`</small>
 ```dataview 
 table string(người-chơi) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
-from "1 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and !(#tc-🔁Côngviệclặplại)
+from "1 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and !#tc-🔁Côngviệclặplại
 Sort độ-cấp-thiết
 ```
 ### Các công việc lặp lại
-<small>`#tc-🔁Côngviệclặplại and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay)`</small>
+<small>`(#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and #tc-🔁Côngviệclặplại`</small>
 ```dataview 
 table string(người-chơi) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
-from "1 Công việc" and (#tc-🔁Côngviệclặplại) and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay)
+from "1 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and #tc-🔁Côngviệclặplại
 Sort độ-cấp-thiết
 ```
 Xem thêm: [[Cách tìm công việc phù hợp với mình nhất]]

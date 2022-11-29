@@ -1,7 +1,5 @@
-# 🌒
-# 🌓Tìm hiểu những 
-# 🌔
-# 🌕
+Tìm hiểu những 
+
 
 - [Community Tool Box](https://ctb.ku.edu/en "Community Tool Box")
 
@@ -21,3 +19,4 @@ table
 from "1 Công việc"
 Where contains(kỹ-năng, [[]]) or contains(ban, [[]])
 ```
+

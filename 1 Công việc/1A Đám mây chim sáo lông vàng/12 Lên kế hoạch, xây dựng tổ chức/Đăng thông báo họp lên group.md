@@ -15,7 +15,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 
 Người chơi::
 Kỹ năng:: [[Hậu cần – logistics]] 
-Kỹ năng:: [[Quản lý dự án]], [[Phát triển cộng đồng]], [[Xây dựng tổ chức]]
+Kỹ năng:: [[Quản lý dự án]], [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]], [[Xây dựng tổ chức]]
 
 === end-multi-column
 

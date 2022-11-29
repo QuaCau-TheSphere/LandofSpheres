@@ -1,9 +1,11 @@
 ---
-Alias: Hành trình thành viên
-banner: "http://imgur.com/1b2hgVf.jpg"
+Alias: Hành trình thành viên, chào mừng, truy cập nhanh, hướng dẫn cho người mới
+banner: "![[Chào mừng đến với LOS (banner).png]]"
+banner_x: .
 banner_y: 1
+banner_lock: true
 ---
-# Chào mừng bạn đến với vùng đất của Quả Cầu
+
 Quả Cầu là một vùng đất đặc biệt, ở đó các thành viên đều được **tự quyết định việc mình sẽ làm**, **thấy mình tiến bộ và thành thạo** trong công việc như thế nào, và đang **tạo nên một điều có ý nghĩa** cho mình và cho mọi người ra sao. Nó là một tổ chức không có người lãnh đạo, thành viên không làm vì trách nhiệm, và công việc không có hạn chót. Nó lấy nhu cầu của bạn làm trọng tâm, vì nó là của bạn. Bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng mình, và việc nhận việc chỉ là vì bạn cảm thấy nó sẽ giúp đỡ cho bản thân bạn trước tiên. Việc bạn làm điều tốt nhất cho chính mình chính là làm điều tốt nhất cho Quả Cầu.
 
 Khám phá xem Quả Cầu có thể làm được gì cho bạn bằng cách:
@@ -48,9 +50,12 @@ id hieutrietlytochuc
 ```
 ^button-trochuyenvoimoinguoi
 
-![](https://i.embed.ly/1/display/resize?width=800&height=800&key=3e750996b20f47be9451da09d3fffa5b&url=http%3A%2F%2Fimgur.com%2F1b2hgVf.jpg)
-
 > [!Tip] Sự thú vị đầu tiên của Obsidian
 > Hãy thử bấm <kbd>Ctrl + E</kbd> vài lần để xem chuyện gì sẽ xảy ra
 
 > [!Info ] Mục tiêu của bản đồ này là đẩy thành viên trở thành [[Một đám mây chim sáo]], để họ có thể xé cái bản đồ này đi và làm cái của riêng họ.
+
+# Link nhanh
+[[Cách tìm công việc phù hợp với mình nhất]]
+
+![[Chào mừng đến với LOS (bản to).svg]] 

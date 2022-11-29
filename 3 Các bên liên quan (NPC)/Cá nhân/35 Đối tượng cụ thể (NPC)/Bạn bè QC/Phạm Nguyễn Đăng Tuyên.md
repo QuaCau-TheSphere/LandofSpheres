@@ -33,7 +33,7 @@ Hãy chọn tất cả những ý bạn thấy đúng với mình::
 - Tôi không cảm thấy có vấn đề khi bị nhắn tin vào bất kỳ lúc nào về công việc (buổi tối, ngày nghỉ, lúc đang tập trung làm việc khác, v.v.)
 - Tôi thích tương tác với những thành viên khác
 
-Bạn muốn tham gia vào các tiểu ban nào?:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng/Phát triển cộng đồng]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
+Bạn muốn tham gia vào các tiểu ban nào?:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
 
 Khi nào bạn muốn bắt đầu? Bạn có thể làm bao nhiêu giờ một tuần? Bạn có thể báo cáo công việc vào ngày nào trong tuần? Bạn muốn làm việc tới khi nào?:: 28/6/2022 - 31/1/2023
 
