@@ -1,5 +1,6 @@
 > [!Tip] Mẹo
 > Bấm <kbd>Alt + O</kbd> để hiển thị mục lục
+> Bấm <kbd>Ctrl + Shift + /</kbd> để thu nhỏ tất cả các mục
 
 [[Nội dung WS trước chuyến đi]]
 # Trong chuyến đi

@@ -1,12 +1,10 @@
 ---
 Alias: Hành trình thành viên, chào mừng, truy cập nhanh, hướng dẫn cho người mới
-banner: "![[Chào mừng đến với LOS (banner).png]]"
-banner_x: .
-banner_y: 1
-banner_lock: true
+banner: "![[Chào mừng đến với LOS (dusty sea).png]]"
+banner_y: 0.7
 ---
 
-Quả Cầu là một vùng đất đặc biệt, ở đó các thành viên đều được **tự quyết định việc mình sẽ làm**, **thấy mình tiến bộ và thành thạo** trong công việc như thế nào, và đang **tạo nên một điều có ý nghĩa** cho mình và cho mọi người ra sao. Nó là một tổ chức không có người lãnh đạo, thành viên không làm vì trách nhiệm, và công việc không có hạn chót. Nó lấy nhu cầu của bạn làm trọng tâm, vì nó là của bạn. Bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng mình, và việc nhận việc chỉ là vì bạn cảm thấy nó sẽ giúp đỡ cho bản thân bạn trước tiên. Việc bạn làm điều tốt nhất cho chính mình chính là làm điều tốt nhất cho Quả Cầu.
+Quả Cầu là một vùng đất đặc biệt, vì ở đó mọi người đều được **tự quyết định việc mình sẽ làm**, **thấy mình tiến bộ và thành thạo** trong công việc như thế nào, và đang **tạo nên một điều có ý nghĩa** cho mình và cho mọi người ra sao. Nó là một tổ chức không có người lãnh đạo, thành viên không làm vì trách nhiệm, và công việc không có hạn chót. Nó lấy nhu cầu của bạn làm trọng tâm, vì nó là của bạn. Bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng mình, và việc nhận việc chỉ là vì bạn cảm thấy nó sẽ giúp đỡ cho bản thân bạn trước tiên. Việc bạn làm điều tốt nhất cho chính mình chính là làm điều tốt nhất cho Quả Cầu.
 
 Khám phá xem Quả Cầu có thể làm được gì cho bạn bằng cách:
 
@@ -35,6 +33,14 @@ id hieutrietlytochuc
 ^button-hieucachvanhanhhientai
 
 ```button
+name Rèn luyện kỹ năng cho bản thân
+type link
+Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)
+id hieutrietlytochuc
+```
+^button-renluyenkynang
+
+```button
 name Trò chuyện với mọi người
 type link
 Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20th%C3%A0nh%20t%E1%BB%B1u%20(Luy%E1%BB%87n%20chi%C3%AAu%2C%20%C4%91%C3%A1nh%20qu%C3%A1i%2C%20s%C4%83n%20chi%E1%BA%BFn%20l%E1%BB%A3i%20ph%E1%BA%A9m)%2F651%20Hi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FTh%E1%BB%AD%20th%C3%A1ch%2FTr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di
@@ -54,8 +60,5 @@ id hieutrietlytochuc
 > Hãy thử bấm <kbd>Ctrl + E</kbd> vài lần để xem chuyện gì sẽ xảy ra
 
 > [!Info ] Mục tiêu của bản đồ này là đẩy thành viên trở thành [[Một đám mây chim sáo]], để họ có thể xé cái bản đồ này đi và làm cái của riêng họ.
-
-# Link nhanh
-[[Cách tìm công việc phù hợp với mình nhất]]
 
 ![[Chào mừng đến với LOS (bản to).svg]] 

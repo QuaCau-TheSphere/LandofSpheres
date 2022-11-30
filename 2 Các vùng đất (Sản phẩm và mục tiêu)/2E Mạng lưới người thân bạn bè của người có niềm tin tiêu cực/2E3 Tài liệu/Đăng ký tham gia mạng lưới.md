@@ -1,4 +1,3 @@
-# Đăng ký tham gia mạng lưới
 Nếu bạn có nhu cầu trở thành tình nguyện viên để hỗ trợ cho Quả Cầu và mạng lưới, xin vui lòng điền phiếu đăng ký tại bài [Mô tả công việc tình nguyện viên](https://xn--qucu-hr5aza.cc/mo-ta-cong-viec-tinh-nguyen-vien/). Phiếu đăng ký dưới đây dành cho những ai có nhu cầu thay đổi một người có niềm tin tiêu cực cụ thể. Nếu bạn chỉ có nhu cầu quan sát cách mạng lưới hoạt động, vui lòng nhắn cho chúng tôi biết. Xin cảm ơn.
 
 Khảo sát người tham gia Mạng lưới hỗ trợ người thân, bạn bè thay đổi niềm tin tiêu cực

@@ -24,7 +24,7 @@ FROM #tc-🔓Làmlúcnàocũngđược and #tc-🥳Tươngtácnhiềuvớiloàin
 
 Xem thêm: 
 - [[Các yếu tố trong công việc|Danh sách tất cả các tag]]
-- [[Tổng hợp các công việc theo tính chất công việc]]
+- [[1 Công việc]]
 
 # 👇Sửa dòng có chữ `FROM` đó ở đây 👇
 Bấm <kbd>Ctrl + E</kbd> để vào chế độ sửa.

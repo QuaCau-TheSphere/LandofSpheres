@@ -100,3 +100,7 @@ Bạn đã đọc được những bài gì trên Quả Cầu rồi?
 Nếu có một thành viên trong Quả Cầu mà bạn thấy có quan điểm không ổn, bạn sẽ làm gì?*
 
 Bạn có muốn chia sẻ thêm gì về bản thân không?
+
+Bạn đã đọc các bài chưa? Bạn thấy chugs thế nào? 
+
+Bạn đã tải dữ liệu về chưa? 

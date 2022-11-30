@@ -15,7 +15,8 @@ scale: 1
 ```
 [Perilous Shores](https://watabou.github.io/perilous-shores/?seed=2006422892&tags=peninsula,woodland,neutral,perilous&name=Qu%E1%BA%A3%20C%E1%BA%A7u&hexes=1)
 
-
+[dusty sea](https://watabou.github.io/perilous-shores/?seed=34941435&tags=bay,chaotic,perilous)
+[gloomy tarm](https://watabou.github.io/perilous-shores/?seed=527587900&tags=lake,highland,wetland,woodland,neutral,perilous)
 Mục tiêu chính của QC là tạo môi trường để những người thù ghét với người khác muốn trò chuyện với người họ thù ghét, và để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình. Để làm được điều đó, cần 
 - Xây dựng [[2r Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]] → 
 - [[2A Đám mây chim sáo lông vàng]] → Có một đội ngũ vững mạnh, hiệu quả; thu hút sự quan tâm của những người cũ
