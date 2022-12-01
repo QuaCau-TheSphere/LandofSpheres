@@ -13,7 +13,7 @@ List from "5 Kiến thức, câu hỏi/52 Chủ đề" where contains(chủ-đ�
 ```
 
 Câu hỏi:: [[Quan điểm của những người theo tâm linh về quan điểm của những người theo Phật giáo nguyên thủy về tâm linh]]
-Chủ đề:: [[Tin giả & nguỵ khoa học]]
+Chủ đề:: [[Tin giả. Nguỵ khoa học]]
 Chủ đề:: [[Nuông chiều]]
 Chủ đề:: [[Bản ngã]]
 Chủ đề:: [[Mạng lưới niềm tin]]

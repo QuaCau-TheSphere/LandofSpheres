@@ -1,3 +1,0 @@
-- [ ] [[Sử dụng dữ liệu của Quả Cầu]]
-- [ ] 
-- Không sợ sự thiếu chuyên nghiệp

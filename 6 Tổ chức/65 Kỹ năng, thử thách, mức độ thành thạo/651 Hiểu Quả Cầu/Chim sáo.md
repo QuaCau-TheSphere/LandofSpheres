@@ -1,6 +1,3 @@
-# Chim sáo có BTC
-
-# Chim sáo không có BTC
 - [ ] [[Công khai tất cả mọi thứ cho tất cả mọi người]]
 - [ ] [[Hiểu triết lý của Quả Cầu]]
 - [ ] [[Kết nối Google Calendar của mình với nhóm]]

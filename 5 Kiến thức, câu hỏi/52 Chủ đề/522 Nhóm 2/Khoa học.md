@@ -15,7 +15,7 @@ Chủ đề:: [[Kiến tạo xã hội]]
 Chủ đề:: [[Quyền lực]]
 Chủ đề:: [[Thời kỳ Khai Sáng]], [[Lý tính]]
 Vai trò của nhà nước và truyền thông. Những người theo các quan điểm như antivax, trái đất phẳng, biến đổi khí hậu là không có thật thường sử dụng lý do là nhà nước và truyền thông chính thống che giấu hoặc nói sai lệch thông tin để làm lợi cho một nhóm tư vấn. Nhưng điều này đúng là có cơ sở. Đến ngay cả đồng sáng lập Wikipedia Larry Sanger sau này còn phản đối lại dự án của mình vì thấy nó có vấn đề, thì đúng là cần phải tìm hiểu vấn đề này kỹ càng. 
-Chủ đề:: [[Tin giả & nguỵ khoa học]]
+Chủ đề:: [[Tin giả. Nguỵ khoa học]]
 Duy khoa học: https://youtu.be/wc4BpXXZybc
 
 François Dagognet (triết gia khoa học): Khi một khoa học gia đo lường một điều chi đó, thì ông ta liền rơi vào ảo tưởng không thể cưỡng lại được, rằng ông ta đã đo lường một điều chi đó, trong khi ông ta chỉ đo lường một điều chi đó.

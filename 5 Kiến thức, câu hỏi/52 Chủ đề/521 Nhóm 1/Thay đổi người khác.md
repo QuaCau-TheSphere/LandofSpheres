@@ -8,7 +8,7 @@ Nội dung: true
 Chủ đề:: [[Yêu thương, chấp nhận]]
 Chủ đề:: [[Phát triển cộng đồng]] 
 Chủ đề:: [[Định kiến]]
-Chủ đề:: [[Tin giả & nguỵ khoa học]]
+Chủ đề:: [[Tin giả. Nguỵ khoa học]]
 Chủ đề:: [[Bóc phốt trên mạng]] 
 Chủ đề:: [[Public service announcement]] 
 Chủ đề:: [Seeding trial](https://en.m.wikipedia.org/wiki/Seeding trial#In marketing)
