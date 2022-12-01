@@ -1,10 +1,7 @@
 # 1 Công việc 
-##### Kết quả mong muốn
-- [ ] 		cvk
 Công việc thành phần::		cvt
 next::		cvn
 Tài liệu:: [[|]]		cvt
-
 # 2 Mục tiêu
 Mục tiêu::		mmm
 Đi chung::		mmd

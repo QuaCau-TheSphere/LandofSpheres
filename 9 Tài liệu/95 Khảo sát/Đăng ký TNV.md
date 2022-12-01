@@ -1,5 +1,7 @@
-v1 13/03/2022
-
+|      |            |
+| ---- | ---------- |
+| v1   | 13/03/2022 |
+| v1.1 | 02/12/2022 |
 # Thông tin cá nhân
 
 Họ tên *
@@ -22,6 +24,7 @@ Bạn học ngành gì? *
 
 Bạn đã từng tình nguyện trước đây chưa? Bạn đã làm ở tổ chức và với công việc gì?
 
+
 Bạn đã đi làm chưa hay còn đang đi học?
 
 -   Đang là học sinh, sinh viên
@@ -32,7 +35,11 @@ Công việc hưởng lương nào bạn đã làm?
 Có những kỹ năng cụ thể nào mà bạn đang muốn phát triển không?
 <small>VD: nghiên cứu, nghệ thuật, lập trình, v.v.</small>
 
+Bạn thấy mình nhận được những điều gì ở tổ chức/công việc cũ?
+
 Môi trường làm việc thế nào sẽ đem lại nguồn năng lượng và cảm hứng làm việc cho bạn nhất?
+
+Điều gì có khả năng trở thành lý do để bạn rời bỏ 1 tổ chức/công việc?
 
 Giữa việc đặt con người làm trung tâm và đặt tập thể và sự hiệu quả công việc làm trung tâm, thì bạn thấy cách làm nào phù hợp với bạn hơn? Vì sao?
 
@@ -47,18 +54,6 @@ Hãy chọn tất cả những ý bạn thấy đúng với mình:
 - [ ] Tôi không cảm thấy có vấn đề khi bị nhắn tin vào bất kỳ lúc nào về công việc (buổi tối, ngày nghỉ, lúc đang tập trung làm việc khác, v.v.)
 - [ ] Tôi thích tương tác với những thành viên khác
 - [ ] Tôi sẵn sàng ưu tiên thời gian họp nếu bị trùng lịch với những bên khác
-
-Bạn muốn tham gia vào các tiểu ban nào? *
-
--   Tổ chức sự kiện
--   Điều phối mạng lưới
--   Đối ngoại – gây quỹ
--   Nghiên cứu
--   Dịch thuật
--   Thiết kế – truyền thông
--   Lập trình – quản lý web
--   Nhân sự
--   Khác:
 
 Khi nào bạn muốn bắt đầu?
 
@@ -98,21 +93,16 @@ Câu hỏi phụ: Có thể có những tổ chức khác cũng đáp ứng đư
 
 Bạn đã đọc được những bài gì trên Quả Cầu rồi?
 
+Bạn đã đọc hai bài <a href="https://quảcầu.cc/mot-dam-may-chim-sao/">Một đám mây chim sáo</a> và <a href="https://quảcầu.cc/truyen-ngu-ngon-ve-nhung-nguoi-mong-doi/">Truyện ngụ ngôn về những người mong đợi</a> chưa? Bạn có suy nghĩ gì về chúng?
+
+Bạn đã tải dữ liệu Quả Cầu về chưa? Bạn có suy nghĩ gì về nó?
+
 Nếu có một thành viên trong Quả Cầu mà bạn thấy có quan điểm không ổn, bạn sẽ làm gì?*
 
 Bạn có muốn chia sẻ thêm gì về bản thân không?
 
 
 ---
+Cám ơn bạn đã dành thời gian làm bản đăng ký. Bản đăng ký này là để giúp bọn mình hiểu hơn thêm về bạn, chứ thực ra bất cứ ai cũng có thể tham gia vào vùng đất Quả Cầu theo nhu cầu của mình. Mời bạn tham gia vào cộng đồng bạn bè Quả Cầu trên [Discord](https://discord.gg/jWTk4EHFK2) hoặc [nhóm Facebook](https://www.facebook.com/groups/landofspheres) để giao lưu và làm quen với những bạn khác. Bạn cũng có thể đăng các câu trả lời của bạn lên trên nhóm để mọi người cùng hiểu hơn về bạn. Chúc bạn một ngày vui vẻ.
 
-Một lần nữa cảm ơn bạn đã quan tâm đến nhóm nhé. Chúc bạn một ngày vui
- vẻ
- Cám ơn bạn đã trả lời. Chúng mình sẽ liên lạc với bạn sớm. Trong thời gian chờ đợi bạn có thể xem qua một số thứ sau:
-<ul>
-<li>Các bài viết trên Quả Cầu</li>
-<li><a href="https://discord.gg/jWTk4EHFK2">Cộng đồng bạn bè Quả Cầu</a> (Discord)</li>
-<li><a href="https://app.gather.town/invite?token=GNoaAk1yB8EZsWCnvOe8J_10VKC54-HF">Văn phòng online họp hằng tuần</a> (Gather)</li>
-<li><a href="https://trello.com/b/LXTuXpLh">Tổng hợp các vấn đề cần giải quyết hoặc đã được thống nhất qua các buổi họp</a> (Trello)</li>
-<li><a href="https://airtable.com/invite/l?inviteId=invZKdV0jGFqtR2oe&amp;inviteToken=6cb6d442ce2d47923d4d3f5e97fdc0ce04a2868d49825ca3becc37d50266201a&amp;utm_source=email">Kết quả khảo sát nhu cầu mọi người</a> (Airtable)</li>
-<li><a href="https://padlet.com/quacau/r9zrjlayqxpp80c9">Thông tin tự giới thiệu của các thành viên trong nhóm</a> (Padlet). Khuyến khích tạo tài khoản nếu bạn định làm một cái cho mình</li>
-</ul>
+Đây là email tự động. Nếu có câu hỏi, bạn vui lòng gửi email đến quacau.thesphere@gmail.com hoặc nhắn trên Facebook page Quả Cầu https://www.facebook.com/quacau.sphere/. Chúc bạn một ngày vui vẻ.
