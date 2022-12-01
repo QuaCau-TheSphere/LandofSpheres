@@ -1,4 +1,4 @@
-CChủ đề:: [[Khoa học]], [[Tin giả. Nguỵ khoa học]], [[Crackpot ]]
+Chủ đề:: [[Khoa học]], [[Tin giả. Nguỵ khoa học]], [[Crackpot ]]
 - Họ đã có cơ hội để đưa ra được lập luận nào cả mà chỉ nói đó là niềm tin của tôi
 - Họ xông vào lớp và yêu cầu gặp hiệu trưởng
 Chính vì như thế nên cũng không thể đòi hỏi sự khoan dung

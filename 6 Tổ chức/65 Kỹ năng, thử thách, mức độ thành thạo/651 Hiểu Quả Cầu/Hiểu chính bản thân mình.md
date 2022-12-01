@@ -7,6 +7,8 @@ Các câu hỏi gợi ý:
 - Điều mình muốn theo đuổi là gì? 
 - Mình muốn giữ vững những giá trị nào? 
 - Mình muốn làm gì trong tương lai? 
+- Mình muốn mình như thế nào trong 6 tháng tới?
+- Mình muốn mình như thế nào trong 5 năm tới?
 
 > [!tip] Gợi ý
 > Có thể sử dụng [vault mẫu này](https://github.com/QuaCau-TheSphere/SampleVault) để việc quản lý cuộc sống bản thân trở nên dễ dàng hơn

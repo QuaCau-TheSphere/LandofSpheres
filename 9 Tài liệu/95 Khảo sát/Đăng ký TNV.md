@@ -1,3 +1,5 @@
+v1 13/03/2022
+
 # Thông tin cá nhân
 
 Họ tên *
@@ -28,8 +30,7 @@ Bạn đã đi làm chưa hay còn đang đi học?
 Công việc hưởng lương nào bạn đã làm?
 
 Có những kỹ năng cụ thể nào mà bạn đang muốn phát triển không?
-
-            VD: nghiên cứu, nghệ thuật, lập trình, v.v.
+<small>VD: nghiên cứu, nghệ thuật, lập trình, v.v.</small>
 
 Môi trường làm việc thế nào sẽ đem lại nguồn năng lượng và cảm hứng làm việc cho bạn nhất?
 
@@ -101,6 +102,17 @@ Nếu có một thành viên trong Quả Cầu mà bạn thấy có quan điểm
 
 Bạn có muốn chia sẻ thêm gì về bản thân không?
 
-Bạn đã đọc các bài chưa? Bạn thấy chugs thế nào? 
 
-Bạn đã tải dữ liệu về chưa? 
+---
+
+Một lần nữa cảm ơn bạn đã quan tâm đến nhóm nhé. Chúc bạn một ngày vui
+ vẻ
+ Cám ơn bạn đã trả lời. Chúng mình sẽ liên lạc với bạn sớm. Trong thời gian chờ đợi bạn có thể xem qua một số thứ sau:
+<ul>
+<li>Các bài viết trên Quả Cầu</li>
+<li><a href="https://discord.gg/jWTk4EHFK2">Cộng đồng bạn bè Quả Cầu</a> (Discord)</li>
+<li><a href="https://app.gather.town/invite?token=GNoaAk1yB8EZsWCnvOe8J_10VKC54-HF">Văn phòng online họp hằng tuần</a> (Gather)</li>
+<li><a href="https://trello.com/b/LXTuXpLh">Tổng hợp các vấn đề cần giải quyết hoặc đã được thống nhất qua các buổi họp</a> (Trello)</li>
+<li><a href="https://airtable.com/invite/l?inviteId=invZKdV0jGFqtR2oe&amp;inviteToken=6cb6d442ce2d47923d4d3f5e97fdc0ce04a2868d49825ca3becc37d50266201a&amp;utm_source=email">Kết quả khảo sát nhu cầu mọi người</a> (Airtable)</li>
+<li><a href="https://padlet.com/quacau/r9zrjlayqxpp80c9">Thông tin tự giới thiệu của các thành viên trong nhóm</a> (Padlet). Khuyến khích tạo tài khoản nếu bạn định làm một cái cho mình</li>
+</ul>

@@ -1,59 +1,103 @@
-![[Chào mừng đến với LOS (dusty sea).png]]
+v1 13/03/2022
+Vì đây là nhóm nội bộ, nên bọn mình cần đảm bảo là những người vào cũng đã tìm hiểu đôi chút về dự án rồi
+# Thông tin cá nhân
 
-Thân chào bạn,  
+Họ tên *
 
-Chào mừng bạn đến với vùng đất Quả Cầu. Đây là một nơi đặc biệt, vì nó được bồi đắp từ các các dòng chảy nhu cầu. Những người ở vùng đất này làm việc mà như không làm việc, không làm gì mà lại làm được tất cả. Vì họ tới nơi đây vì nhu cầu của mình. Sự thoải mái của bạn ở nơi đây chính là sự cống hiến của bạn dành cho nó. Người dân ở nơi đây hướng đến việc đạt những điều sau mà vẫn đạt hiệu quả cao:
-- Mỗi người không vì bị áp lực mà luôn có thời gian để chăm sóc bản thân, học những kiến thức/kỹ năng mới, hoàn thiện những dòng suy nghĩ không liên quan nhưng bất chợt nổi lên khi mình đang làm một công việc gì đó. Sự tập trung của mỗi người được bảo vệ, và khi có điều gì đó nổi lên điều hướng sự tập trung của bạn sang nơi khác thì bạn không bị giằng xé khi buộc phải dứt ra
-- Công việc sẽ không hạn chót, và mỗi người có thể thoải mái tìm hiểu vấn đề theo tiến độ của riêng mình. Bạn làm việc vì bạn muốn làm điều đó chứ không phải vì mọi người cần bạn làm điều đó. Sẽ không có ai là cấp trên của bạn
-- Những thứ ngẫu nhiên được diễn ra, và các câu chuyện được hoàn thành trọn vẹn
+Giới *
 
-Nếu đảm bảo được những điều này thì Quả Cầu sẽ có sự hấp dẫn mà không nơi nào có. Mỗi khi nghĩ đến Quả Cầu bạn sẽ thấy trong mình một cảm giác trong trong và yên ả.
+Năm sinh *
 
-![](https://xn--qucu-hr5aza.cc/wp-content/uploads/2020/09/click_and_drag.png)
-Bức tranh này là một ẩn ý. Để thấy được ẩn ý này bạn cần vào link gốc để xem: https://xkcd.com/1110/
+Email *
 
-[bancobiet] Một tổ chức đáng làm là một tổ chức tạo được động lực nội sinh ở nhân viên, chứ không phải dùng động lực ngoại sinh để thúc đẩy hoạt động (tạo động lực thông qua thưởng/phạt). Một người sẽ có động lực nội sinh khi:
+Số điện thoại
 
-- Họ được **tự quyết định** việc mình sẽ làm (autonomy)
-- Càng làm họ càng thấy mình **tiến bộ** và **thành thạo** hơn (mastery)
-- Công việc đang tạo nên một điều gì đó **có ý nghĩa** cho mình và mọi người (meaningful)
+Bạn hiện đang sống ở đâu?
 
-👉 Bài chi tiết: [Mô hình động lực của Daniel Pink](https://www.gamehoa.org/p/dong-luc-daniel-pink) [/bancobiet]
+Bạn có muốn chia sẻ website/blog/Facebook cá nhân không?
 
-Để biết thêm chi tiết vui lòng đọc qua những bài viết sau:
-- Một đám mây chim sáo
-- Truyện ngụ ngôn về những người mong đợi
+# Kinh nghiệm làm việc và hoạt động tình nguyện
 
-Nếu bạn câu hỏi nào hay chỉ đơn giản là muốn trò chuyện với các thành viên khác, hãy tham gia vào [cộng đồng bạn bè Quả Cầu trên Discord](https://discord.gg/jWTk4EHFK2), hoặc [nhóm Facebook](https://www.facebook.com/groups/landofspheres).
-  
-Cảm ơn bạn đã có hứng thú đồng hành cùng bọn mình. Chúc bạn một ngày có nhiều sự thú vị!🤗
+Bạn học ngành gì? *
 
-# Hướng dẫn mở dữ liệu Quả Cầu trên Obsidian
-## 1. Chuẩn bị
-### 1.1 Tải dữ liệu
-Link tải dữ liệu: [Land of Spheres](https://drive.google.com/drive/u/2/folders/1jtY95VTvQB5naS0s0XXw7Pd63HNh3Iz0)
-![[1. Tải dữ liệu trên Google Drive.png]]
-### 1.2 Giải nén dữ liệu
-Link phần mềm giải nén: [7-Zip](https://www.7-zip.org/ "7-Zip")
-Giải nén bằng cách bấm chuột phải vào file tải về, chọn `Show more options` > `7-Zip` > `Extract Here`
-![](https://i.imgur.com/3MAhIDd.gif)
-- Phần mềm đọc dữ liệu: [Obsidian](https://obsidian.md/ "Obsidian")
+Bạn đã từng tình nguyện trước đây chưa? Bạn đã làm ở tổ chức và với công việc gì?
 
+Bạn đã đi làm chưa hay còn đang đi học?
 
-## 2. Mở dữ liệu trên Obsidian
-![[2. Mở dữ liệu trên Obsidian.png]]
-## 3. Chọn trust author
-![[3. Chọn trust author.png]]
+-   Đang là học sinh, sinh viên
+-   Đã đi làm
 
-## 4. Mở file cần đọc
-![[4. Mở file cần đọc.png]]
+Công việc hưởng lương nào bạn đã làm?
 
-## 5. Hình ảnh các file cần đọc
-![[5a. Bản đồ dành cho người mới.png]]
-![[5b. Tổng quan tình hình hiện tại.png]]
+Có những kỹ năng cụ thể nào mà bạn đang muốn phát triển không?
+<small>VD: nghiên cứu, nghệ thuật, lập trình, v.v.</small>
 
-Nếu bạn chỉ thấy những dòng code thì đó là do bạn đang ở chế độ chỉnh sửa. Hãy bấm vào nút có hình cuốn sách ở góc phải trên để chuyển sang chế độ đọc:
-![[6. Bật viewmode.png.png]]
+Môi trường làm việc thế nào sẽ đem lại nguồn năng lượng và cảm hứng làm việc cho bạn nhất?
 
+Giữa việc đặt con người làm trung tâm và đặt tập thể và sự hiệu quả công việc làm trung tâm, thì bạn thấy cách làm nào phù hợp với bạn hơn? Vì sao?
 
-Xin cảm ơn các bạn Diệu Quỳnh, Đặng Linh, Kiều Khanh, Tuyết Nhi, Nhật Khánh, Lan Vy, Thu Uyên, The Aces, Như Kiễn, Phương Vi, Thảo Nguyên đã đồng hành cùng dự án.
+Hãy chọn tất cả những ý bạn thấy đúng với mình:
+- [ ] Tôi hứng thú với việc hiểu được kế hoạch chiến lược, kế hoạch hành động, hoặc những khía cạnh khác nhau của tổ chức
+- [ ] Tôi hứng thú với việc tạo sản phẩm/hoàn thành mục tiêu
+- [ ] Tôi hứng thú với việc ra quyết định đường hướng/làm kế hoạch chiến lược
+- [ ] Tôi hứng thú với việc tìm hiểu các tinh thần, văn hoá, triết lý của tổ chức, ý tưởng của người đứng đầu
+- [ ] Tôi hứng thú với việc thảo luận với mọi người để tìm ra công việc mình hứng thú làm nhất
+- [ ] Tôi không có vấn đề gì khi được giao những việc mình không có ý định làm
+- [ ] Tôi không cảm thấy việc phải hoàn thành công việc trước hạn chót là một áp lực
+- [ ] Tôi không cảm thấy có vấn đề khi bị nhắn tin vào bất kỳ lúc nào về công việc (buổi tối, ngày nghỉ, lúc đang tập trung làm việc khác, v.v.)
+- [ ] Tôi thích tương tác với những thành viên khác
+- [ ] Tôi sẵn sàng ưu tiên thời gian họp nếu bị trùng lịch với những bên khác
+
+Bạn muốn tham gia vào các tiểu ban nào? *
+
+-   Tổ chức sự kiện
+-   Điều phối mạng lưới
+-   Đối ngoại – gây quỹ
+-   Nghiên cứu
+-   Dịch thuật
+-   Thiết kế – truyền thông
+-   Lập trình – quản lý web
+-   Nhân sự
+-   Khác:
+
+Khi nào bạn muốn bắt đầu?
+
+Bạn có thể làm bao nhiêu giờ một tuần?
+
+Bạn có thể báo cáo công việc vào ngày nào trong tuần?
+
+Bạn muốn làm việc tới khi nào?*
+
+CV của bạn hoặc các tài liệu khác
+
+# Thông tin thêm
+
+Việc hiểu hơn về bạn sẽ giúp Quả Cầu tìm được công việc có ý nghĩa với bạn nhất
+
+Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gia không? Hãy miêu tả về các nhóm này?
+
+Mục tiêu trong năm nay của bạn là gì? Mục tiêu 5 năm tới của bạn là gì? Bạn cần làm những gì để đạt được những mục tiêu đó?
+<small>VD: mục tiêu trong cuộc sống, gia đình, công việc, v.v.</small>
+
+Điều gì khiến bạn lựa chọn ngành nghề bạn đang làm?
+
+Nếu bạn không phải lo lắng về chuyện tiền bạc thì bạn sẽ làm gì?
+
+Điều gì khiến bạn cảm thấy cuộc sống của mình có ý nghĩa?
+
+Bạn đang quan tâm, đau đáu với vấn đề nào? Bạn đã suy nghĩ về nó trong bao lâu rồi?
+
+Giả sử điều bạn quan tâm, đau đáu đã đạt được. Bạn sẽ làm gì tiếp theo?
+
+Ba giá trị cá nhân quan trọng nhất với bạn là gì? Tại sao bạn lại chọn những giá trị này?
+
+Sứ mạng của Quả Cầu là lan tỏa và bảo vệ các giá trị phản tư, tò mò, dũng cảm, trân trọng người khác. Bạn có thể kể về những gì bạn đã làm hoặc dự định làm mà có liên quan đến những giá trị đó không?
+
+Vì sao bạn lại muốn làm cho Quả Cầu? *  
+Câu hỏi phụ: Có thể có những tổ chức khác cũng đáp ứng được những mối quan tâm, đau đáu của bạn. Vì sao bạn lại chọn Quả Cầu thay vì những tổ chức đó?
+
+Bạn đã đọc được những bài gì trên Quả Cầu rồi?
+
+Nếu có một thành viên trong Quả Cầu mà bạn thấy có quan điểm không ổn, bạn sẽ làm gì?*
+
+Bạn có muốn chia sẻ thêm gì về bản thân không?
