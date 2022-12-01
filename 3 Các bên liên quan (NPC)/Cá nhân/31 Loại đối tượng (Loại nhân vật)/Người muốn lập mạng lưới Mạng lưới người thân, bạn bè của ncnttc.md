@@ -9,5 +9,5 @@ Hoạt động dành cho họ:: [[Làm bộ câu hỏi huấn luyện như 7cups
 ```dataview
 list where contains(hướng-tới-loại-đối-tượng,[[]])
 ```
-Họ tham gia vào bước nào trong dự án:: [[Thấu cảm]], [[Xác định vấn đề]], [[Lên giải pháp]], [[Tạo mẫu thử]], [[Kiểm tra]], [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Nhân sự]]
+Họ tham gia vào bước nào trong dự án:: [[Thấu cảm]], [[Xác định vấn đề]], [[Lên giải pháp]], [[Tạo mẫu thử]], [[Kiểm tra]], [[Nhân sự]]
 Người tham gia cuộc họp:: [[Unnamed record]], [[Nguyễn Đức Thịnh]]

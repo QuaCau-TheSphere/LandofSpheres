@@ -5,7 +5,7 @@ Mô tả::
 # Đầu ra
 # Tài liệu
 [[Hướng dẫn truyền thông]]
-[[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]]
+[[Truyền thông]]
 # Người chơi
 ```dataview
 list

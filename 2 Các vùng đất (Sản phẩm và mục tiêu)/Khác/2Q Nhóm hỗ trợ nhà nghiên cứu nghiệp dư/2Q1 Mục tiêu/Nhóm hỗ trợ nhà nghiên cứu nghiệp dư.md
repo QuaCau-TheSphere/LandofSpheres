@@ -5,10 +5,9 @@
 Mục tiêu:: [[Người cho rằng mình có phát kiến mới đặt câu hỏi về...]]
 Mục tiêu:: [[Người cho rằng tâm linh ưu việt hơn khoa học đặt câu hỏi về...]]
 Mục tiêu:: [[Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh đặt câu hỏi về...]]
-Mục tiêu:: [[Người có niềm tin phản khoa học đặt câu hỏi về...]]
+Mục tiêu:: [[Người có niềm tin phản khoa học đặt câu hỏi về tính cơ sở của niềm tin của mình]]
 Mục tiêu:: [[Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về cách hiểu đúng về các khái niệm họ sử dụng]]
-Mục tiêu:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/null/Tri thức bản địa]]
-
+5 Kiến thức, câu hỏi
 Điểm mạnh:: [[Nhật có kiến thức chuyên môn về vật lý]]
 Điểm yếu::
 Đối tượng thụ hưởng::
@@ -17,7 +16,6 @@ Mục tiêu:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/null/Tri thức bản 
 - Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh
 - Người có niềm tin phản khoa học, phê phán khoa học nhưng không vào trọng tâm
 - Người đơn thuần chỉ là có đam mê nghiên cứu nhưng không có nhiều thời gian hoặc được đào tạo chuyên nghiệp
-
 
 # Thực thể khi được nhìn như là sản phẩm
 

@@ -33,7 +33,7 @@ Loại sứ mệnh:: 		bbll
 Lý do::		vvl
 Là vấn đề cho hoạt động::		vvh
 
-# 5 Câu hỏi nghiên cứu
+# 5 Kiến thức, câu hỏi
 ❓::		ttq
 Chủ đề::		ttw
 Trả lời:: 		tte
