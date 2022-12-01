@@ -8,7 +8,7 @@ Vì mỗi người có một cái nhìn khác nhau. Thao túng hoặc anti socia
 ❓:: [[Việc kết luận là một người là độc hại liệu có làm giảm sự thấu cảm của chúng ta với họ không？]] 
 Narrative
 Chủ đề:: [[Cái đẹp, nghệ thuật]], [[Cảm xúc]]
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]]
+Chủ đề:: [[Truyền thông]]
 Chủ đề:: [[Dán nhãn]] 
 Chủ đề:: [[Đối lập luận (contrastivism)]]
 Chủ đề:: [[Sự chú ý]]

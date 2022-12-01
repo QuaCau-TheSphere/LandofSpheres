@@ -9,9 +9,9 @@
 - Cách học: evergreen, SRS, không phải highlight
 - Quản lý dự án
 	- các quan niệm thường gặp
+	- các hiệu ứng tâm lý lên liên quan đến việc làm việc 
 - Lập trình, git
 - Concept map
-- Lập trình 
 - Những quan niệm đến từ nền kinh tế dùng tiền và chủ nghĩa tân tự do
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault kết nối nhu cầu]]
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công việc]]

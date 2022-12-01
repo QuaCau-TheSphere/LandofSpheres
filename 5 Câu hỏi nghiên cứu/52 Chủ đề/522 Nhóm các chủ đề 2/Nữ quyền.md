@@ -21,14 +21,13 @@ Chủ đề:: [[Công bằng]]
 Chủ đề:: [[Hiện sinh]]
 Chủ đề:: [[Tư bản]]
 Chủ đề:: [[Tự trị]]
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]], [[Văn hóa đại chúng]]
+Chủ đề:: [[Truyền thông]], [[Văn hóa đại chúng]]
 Chủ đề:: [[Khuôn mẫu]]
 Chủ đề:: [[Nhị nguyên luận]]
 Chủ đề:: [[Giao thoa, đan xen, liên tầng (Intersectionality)]]
 
 [Tọa đàm "Hình ảnh phụ nữ trong quảng cáo thương mại - Giới hạn và đạo lý - YouTube](https://www.youtube.com/watch?v=rHEjtwJrCCs&t=284s)
 
-<tp.
 # bell hooks 
 Các phong trào bị rời rạc là vì không có định nghĩa chung
 Bà định nghĩa về nữ quyền: các nỗ lực của cá nhân và tập thể hướng tới xoá bỏ phân biệt, áp bức và bóc lột giới tính, giới và tính dục
@@ -106,7 +105,7 @@ Chủ đề:: [[Công bằng]]
 Chủ đề:: [[Hiện sinh]]
 Chủ đề:: [[Tư bản]]
 Chủ đề:: [[Tự trị]]
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]], [[Văn hóa đại chúng]]
+Chủ đề:: [[Truyền thông]], [[Văn hóa đại chúng]]
 Chủ đề:: [[Khuôn mẫu]]
 Chủ đề:: [[Nhị nguyên luận]]
 Chủ đề:: [[Giao thoa, đan xen, liên tầng (Intersectionality)]]

@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàm
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 
 === end-multi-column
 

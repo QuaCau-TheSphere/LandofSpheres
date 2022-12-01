@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]
 
 === end-multi-column
 

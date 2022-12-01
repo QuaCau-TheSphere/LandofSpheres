@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
-Kỹ năng:: [[Tin học]]
+Kỹ năng:: [[653 Công nghệ thông tin]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

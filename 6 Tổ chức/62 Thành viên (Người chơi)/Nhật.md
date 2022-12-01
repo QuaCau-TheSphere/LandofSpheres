@@ -11,7 +11,7 @@ Largest Column: right
 
 # Lý Minh Nhật 
 Hình thức tham gia:: [[Người đứng đầu|Đỉa ngựa lông vàng 🐴]]
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Tin học]], [[Quản lý tài chính]]
+Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Nghiên cứu (kỹ năng)]], [[Nhân sự (kỹ năng)]], [[653 Công nghệ thông tin]], [[Quản lý tài chính]]
 📱:: 0912214006
 🏠:: Q4, TPHCM
 ✉:: lyminhnhat911@gmail.com
@@ -39,7 +39,7 @@ Kỹ năng:
 >>>```
 >>>## Công việc PNML trong các ban nhận làm
 >>>```dataview
->>>List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔥/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔥/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
+>>>List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or f.độ-cấp-thiết="#đct-🔥/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔥/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
 >>>From "6 Tổ chức/61 Ban" 
 >>>Where contains(this.ban, file.link)
 >>>```

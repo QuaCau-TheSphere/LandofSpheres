@@ -8,4 +8,4 @@ Câu hỏi:: [[Khi làm nội bộ nhóm thì các bạn khuyên là đừng qua
 Cần phải có nguồn lực rất lớn và phải liên tục, và đôi khi phải có chính sách của chính quyền áp từ trên xuống. 
 Câu hỏi:: [[Tại sao các công ty lợi nhuận có thể tạo ra nhu cầu với những thứ không cần thiết, nhưng các dự án vì cộng đồng lại ko thể tạo ra những nhu cầu với những thứ cần thiết？]]
 
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]]
+Chủ đề:: [[Phát triển cộng đồng]]

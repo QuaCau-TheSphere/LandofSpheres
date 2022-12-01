@@ -1,4 +1,4 @@
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/522 Nhóm các chủ đề 2/Truyền thông]]
+Chủ đề:: [[Truyền thông]]
 Chủ đề:: [[Nuông chiều]]
 Chủ đề:: [[Cảm xúc]]
 Chủ đề:: [[Cái đẹp, nghệ thuật]]

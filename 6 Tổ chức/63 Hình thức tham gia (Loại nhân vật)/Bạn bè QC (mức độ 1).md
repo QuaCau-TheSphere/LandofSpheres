@@ -1,5 +1,5 @@
 # Đặc điểm
-- Thể hiện sự hứng thú với QC, có thể là nói trực tiếp, có thể là hay tham gia các buổi workshop
+- Thể hiện sự hứng thú với QC, có thể là nói trực tiếp, có thể là hay tham gia các buổi workshop, hoặc mới đăng ký làm TNV
 - Chỉ biết một người trong nhóm
 - Chỉ mới đọc qua một hoặc hai bài trên web. Không biết chiến lược QC là gì
 

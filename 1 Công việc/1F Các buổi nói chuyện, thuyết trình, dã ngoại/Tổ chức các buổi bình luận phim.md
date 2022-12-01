@@ -14,7 +14,7 @@ Tính chất công việc:: Tương tác nhiều với loài người
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 
 === end-multi-column
 

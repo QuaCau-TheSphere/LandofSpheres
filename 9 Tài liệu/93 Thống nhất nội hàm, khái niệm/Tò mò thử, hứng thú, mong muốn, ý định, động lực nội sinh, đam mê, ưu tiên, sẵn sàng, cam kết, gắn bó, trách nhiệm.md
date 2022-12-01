@@ -17,9 +17,9 @@ Chủ đề:: [[Tò mò]]
 Chủ đề:: [[Động lực]]
 Chủ đề:: [[Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn]]
 
-Câu hỏi:: [[Biết rằng một người phải đi làm để kiếm tiền, nhưng tại sao họ lại phải cảm thấy có trách nhiệm nếu phải làm một thứ họ cảm thấy hứng thú？]]
-Câu hỏi:: [[Khi nào một người cần và họ sẽ đóng góp, và khi nào họ thấy rất cần nhưng họ cũng không đóng góp？]]
-Câu hỏi:: [[Tại sao sự tò mò không biết nó sẽ trông như thế nào là chưa đủ để một người đóng góp cho nó？]]
+❓:: [[Biết rằng một người phải đi làm để kiếm tiền, nhưng tại sao họ lại phải cảm thấy có trách nhiệm nếu phải làm một thứ họ cảm thấy hứng thú？]]
+❓:: [[Khi nào một người cần và họ sẽ đóng góp, và khi nào họ thấy rất cần nhưng họ cũng không đóng góp？]]
+❓:: [[Tại sao sự tò mò không biết nó sẽ trông như thế nào là chưa đủ để một người đóng góp cho nó？]]
 
 # Tiền
 Nếu không có tiền thì đã chẳng tìm hiểu

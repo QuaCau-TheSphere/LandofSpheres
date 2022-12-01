@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Tên sự kiện: Triết học về "sống một cuộc đời không hối tiếc" và những khó khăn của nó
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

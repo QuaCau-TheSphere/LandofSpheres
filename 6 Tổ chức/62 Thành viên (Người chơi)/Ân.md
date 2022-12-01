@@ -12,7 +12,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 # Lê Bảo Ân
 Hình thức tham gia:: [[63.01 Thành viên nòng cốt]]
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Hậu cần – logistics]]
+Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Nhân sự (kỹ năng)]], [[Hậu cần – logistics]]
 📱:: 0941546494
 🏠:: Q5, TPHCM
 ✉:: lebaoan042001@gmail.com
@@ -26,7 +26,7 @@ list where contains(người-chơi,[[]])
 ```
 # Công việc PNML trong các ban nhận làm
 ```dataview
-List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-⏫Phảilàmngay" or f.độ-cấp-thiết="#đct-🔥/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔥/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
+List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or f.độ-cấp-thiết="#đct-🔥/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔥/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
 From "6 Tổ chức/61 Ban" 
 Where contains(this.ban, file.link)
 ```

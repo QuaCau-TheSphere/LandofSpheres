@@ -14,8 +14,8 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphải
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]]
-Kỹ năng:: [[Quản lý dự án]]
+Kỹ năng:: [[Nhân sự (kỹ năng)]]
+Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 === end-multi-column
 

@@ -1,6 +1,5 @@
-# Menu
 
-## Dự án
+# Dự án
 - Sự bất lực học được là gì?
 - Hỗ trợ người có sự bất lực học được: rào cản và giải pháp
 - Clip
@@ -9,7 +8,7 @@
 - Giải quyết , một lần cho mãi mãi
 - Dịch các bài viết
 
-## Bài viết sâu
+# Bài viết sâu
 - Mở đầu
 - Sách, thơ, phim
 - Bất lực, bạo hành, tự quyết, can thiệp
@@ -22,7 +21,7 @@
 - Các hiểu lầm thường gặp
 - Lời bạt
 
-## Tài nguyên khác
+# Tài nguyên khác
 - Dịch thuật
 - Bộ sưu tập từ điển chuyên ngành
 - Học tiếng Anh
@@ -32,7 +31,7 @@
 - Các phần mềm hữu ích
 - Nghiên cứu khoa học phong cách truyện tranh
 
-## Meta
+# Meta
 - Giới thiệu dự án
 - Kế hoạch chiến lược
 - Kế hoạch hành động
@@ -45,4 +44,4 @@
 - Khảo sát
 - Giải đáp chất vấn
 
-## Liên hệ và ủng hộ
+# Liên hệ và ủng hộ

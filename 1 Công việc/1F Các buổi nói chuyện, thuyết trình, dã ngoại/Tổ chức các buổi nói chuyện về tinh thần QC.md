@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Độ cấp thiết:: #đct-🍃/sớmphảilàm
 Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

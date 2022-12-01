@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-�
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[Tin học]]
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[653 Công nghệ thông tin]]
 
 === end-multi-column
 

@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-💬Làmxongkhô
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[Tin học]]
+Kỹ năng:: [[Nhân sự (kỹ năng)]], [[653 Công nghệ thông tin]]
 
 === end-multi-column
 

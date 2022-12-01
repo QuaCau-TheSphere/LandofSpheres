@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưađếnlúclàm
 #đct-❄️Khôngquantrọng
 Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
 Người chơi::
-Kỹ năng:: [[Tin học]]
+Kỹ năng:: [[653 Công nghệ thông tin]]
 
 Thuộc công việc loại A:
 ```dataview

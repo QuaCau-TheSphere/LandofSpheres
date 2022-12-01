@@ -7,5 +7,5 @@ Sort length(filter(file.inlinks, (f) => contains(đáp-ứng-cho-nhu-cầu-của
 
 # Các PNML chưa có ai nhận làm
 ```dataview
-List from "1 Công việc" where !người-chơi and (độ-cấp-thiết="#đct-⏫Phảilàmngay" or độ-cấp-thiết="#đct-🔼/muốnlàmngay" or độ-cấp-thiết="#đct-🔼/nênlàmngay")
+List from "1 Công việc" where !người-chơi and (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay")
 ```

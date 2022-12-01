@@ -15,7 +15,7 @@ Tính chất công việc:: #tc-🧠Tưduynhiều, #tc-🧍Cóthểlàmmộtmìn
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
+Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
 
 === end-multi-column
 

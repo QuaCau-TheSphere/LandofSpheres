@@ -1,4 +1,5 @@
 - [ ] Chuẩn bị ảnh [est:: ] [ ]  
-- [ ] Bài liên quan
+- [ ] Thêm bài liên quan
 - [ ] Cho vào menu
 - [ ] Đăng lên [page](https://www.facebook.com/quacau.sphere/)
+- [ ] Thêm link vào AutoHotKey 

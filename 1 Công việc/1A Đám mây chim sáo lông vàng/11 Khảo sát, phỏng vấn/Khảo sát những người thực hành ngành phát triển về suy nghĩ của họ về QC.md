@@ -1,7 +1,7 @@
 Trạng thái:: #tt-⚪/chưađếnlúclàm
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Người chơi::
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
+Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

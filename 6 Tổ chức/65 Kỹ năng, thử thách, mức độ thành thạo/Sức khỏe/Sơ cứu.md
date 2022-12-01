@@ -1,0 +1,3 @@
+- [ ] Để cho rắn cắn rồi sơ cứu
+- [ ] Đập gãy chân rồi sơ cứu 
+- [ ] Tẩm xăng vào người rồi đốt lên rồi sơ cứu 

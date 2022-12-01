@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-🌐Cóthểlàmquamạng
 === end-column ===
 
 Người chơi:: 
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng]]
+Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồng (kỹ năng)]], [[Phát triển cộng đồng (kỹ năng)]]
 
 === end-multi-column
 

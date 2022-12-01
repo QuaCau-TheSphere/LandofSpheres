@@ -1,1 +1,0 @@
-- [ ] Đọc "Bàn về nhiếp ảnh" của Susan Sontag

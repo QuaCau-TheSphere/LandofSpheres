@@ -5,4 +5,4 @@ Phải tham vấn làm sao để cho họ thấy đc lợi ích của họ khi t
 mối quan hệ của em với cộng đồng là biến quan trọng với 
 Để có mối quan hệ tốt với các thủ lĩnh trong cộng đồng 
 
-Chủ đề:: [[Nguyên tắc]], [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]]
+Chủ đề:: [[Nguyên tắc]], [[Phát triển cộng đồng]]

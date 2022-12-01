@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-💬Họpthườngxuyên
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]], [[Tổ chức sự kiện – Truyền thông]]
+Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Truyền thông (kỹ năng)]]
 
 === end-multi-column
 

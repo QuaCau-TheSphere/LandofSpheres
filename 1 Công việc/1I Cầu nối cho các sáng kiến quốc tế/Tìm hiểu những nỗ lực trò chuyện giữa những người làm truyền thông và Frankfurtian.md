@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
+Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
 Thuộc công việc loại A:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])

@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 #đct-❄️Khôngquantrọng
 Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

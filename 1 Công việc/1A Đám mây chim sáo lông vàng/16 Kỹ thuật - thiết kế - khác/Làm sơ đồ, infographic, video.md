@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🧍Cóthểlàmm
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Thiết kế đồ hoạ, video]], [[Tổ chức sự kiện – Truyền thông]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]]
+Kỹ năng:: [[Thiết kế đồ hoạ, video]], [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]
 
 === end-multi-column
 

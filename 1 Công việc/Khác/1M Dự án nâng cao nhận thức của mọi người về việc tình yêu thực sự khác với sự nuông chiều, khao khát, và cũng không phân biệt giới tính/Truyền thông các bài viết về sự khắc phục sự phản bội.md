@@ -2,7 +2,7 @@
 Trạng thái:: #tt-⚪/chưabắtđầubàn
 Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
+Kỹ năng:: [[Truyền thông (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

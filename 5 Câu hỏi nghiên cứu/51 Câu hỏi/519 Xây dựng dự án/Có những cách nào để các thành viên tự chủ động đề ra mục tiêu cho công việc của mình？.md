@@ -9,4 +9,4 @@ Yêu cầu đối với mục tiêu :
 
 Chủ đề:: [[Động lực]]
 Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Nhân sự]]
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]]
+Chủ đề:: [[Phát triển cộng đồng]]

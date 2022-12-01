@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưađếnlúclàm
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
 Người chơi::
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nghiên cứu]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Nhân sự]], [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]]
+Kỹ năng:: [[Nghiên cứu (kỹ năng)]], [[Nhân sự (kỹ năng)]], Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 Phục vụ cho mục tiêu:
 ```dataview

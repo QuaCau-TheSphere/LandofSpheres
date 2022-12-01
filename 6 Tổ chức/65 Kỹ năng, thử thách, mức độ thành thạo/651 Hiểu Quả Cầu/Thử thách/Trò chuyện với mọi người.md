@@ -1,0 +1,10 @@
+- [ ] Tham gia [Discord của Quả Cầu](https://discord.gg/jWTk4EHFK2) `button-discord-button`
+- [ ] Tham gia [group Facebook](https://www.facebook.com/groups/landofspheres/)
+- [ ] Giới thiệu bản thân mình trên Discord/group:
+	- [ ] Những gì mình đã, đang và sẽ làm/cần trong vòng 1 tháng qua và 1 tháng tới
+	- [ ] Những bài viết mình thấy thú vị
+	- [ ] Những suy tư về cuộc sống của mình
+- [ ] Tạo một hồ sơ của mình trong folder 62
+- [ ] Tham gia vault kết nối nhu cầu
+- [ ] [[Thảo luận về những quan điểm với nhau]]
+- [ ] Bật cam khi gọi 👁️

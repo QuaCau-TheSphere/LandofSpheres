@@ -35,7 +35,8 @@ Link tải dữ liệu: [Land of Spheres](https://drive.google.com/drive/u/2/fol
 ![[1. Tải dữ liệu trên Google Drive.png]]
 ### 1.2 Giải nén dữ liệu
 Link phần mềm giải nén: [7-Zip](https://www.7-zip.org/ "7-Zip")
-
+Giải nén bằng cách bấm chuột phải vào file tải về, chọn `Show more options` > `7-Zip` > `Extract Here`
+![](https://i.imgur.com/3MAhIDd.gif)
 - Phần mềm đọc dữ liệu: [Obsidian](https://obsidian.md/ "Obsidian")
 
 

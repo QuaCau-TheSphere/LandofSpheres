@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng:: [[Tin học]]
+Kỹ năng:: [[653 Công nghệ thông tin]]
 Kỹ năng:: [[Dùng Git]]
 
 === end-multi-column

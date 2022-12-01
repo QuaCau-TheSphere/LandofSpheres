@@ -9,4 +9,4 @@ List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề
 ```
 
 Chủ đề:: [[Cộng sản]], [[Chủ nghĩa cộng đồng]]
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]]
+Chủ đề:: [[Phát triển cộng đồng]]

@@ -17,7 +17,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🔓Làmlúcnào
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng:: [[Tin học]]
+Kỹ năng:: [[653 Công nghệ thông tin]]
 
 === end-multi-column
 

@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-💬Họpthườngxuyên
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng:: [[Tin học]]
+Kỹ năng:: [[653 Công nghệ thông tin]]
 
 === end-multi-column
 

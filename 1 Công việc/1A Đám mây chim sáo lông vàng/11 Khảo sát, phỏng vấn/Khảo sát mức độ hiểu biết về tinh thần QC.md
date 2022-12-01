@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 #đct-❄️Khôngquantrọng
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Phát triển cộng đồng]]
+Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

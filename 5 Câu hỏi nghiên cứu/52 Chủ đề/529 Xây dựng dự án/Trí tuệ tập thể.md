@@ -8,7 +8,7 @@ Chủ đề quan tâm đến chủ đề này:
 List from "5 Câu hỏi nghiên cứu/52 Chủ đề" where contains(chủ-đề,[[]]) 
 ```
 
-Chủ đề:: [[5 Câu hỏi nghiên cứu/52 Chủ đề/529 Xây dựng dự án/Phát triển cộng đồng]]
+Chủ đề:: [[Phát triển cộng đồng]]
 Chủ đề:: [[Rhizome]]
 
 ❓:: [[Liệu có thể có trí tuệ tập thể mà không có người dẫn dắt không？]] 

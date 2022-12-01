@@ -3,9 +3,9 @@ Nội dung: [thảo luận chung]
 ---
 
 ```dataview 
-LIST WITHOUT ID câu-hỏi
+LIST WITHOUT ID ❓
 WHERE file.path = this.file.path
-FLATTEN câu-hỏi
+FLATTEN ❓
 ```
 Câu hỏi liên quan đến chủ đề này:
 ```dataview

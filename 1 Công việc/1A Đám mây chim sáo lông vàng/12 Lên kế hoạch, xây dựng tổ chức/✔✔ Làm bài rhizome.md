@@ -12,7 +12,7 @@ Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 
 Tính chất công việc::
 Người chơi:: [[Nhật]]
-Kỹ năng:: [[6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Quản lý dự án/Quản lý dự án]]
+Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 === end-multi-column
 

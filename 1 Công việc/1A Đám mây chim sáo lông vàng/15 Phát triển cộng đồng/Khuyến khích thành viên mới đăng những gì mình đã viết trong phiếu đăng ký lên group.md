@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàm
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện – Truyền thông]]
+Kỹ năng:: [[Lắng nghe]], [[Thuyết trình, bán ý tưởng]]
 
 === end-multi-column
 
