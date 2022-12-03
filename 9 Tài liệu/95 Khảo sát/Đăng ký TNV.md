@@ -103,6 +103,7 @@ Bạn có muốn chia sẻ thêm gì về bản thân không?
 
 Muốn chia sẻ cho mọi người bản 
 
+Bạn có thể tóm tắt và dẫn link bài luận bạn viết gần nhất không? 
 
 
 ---

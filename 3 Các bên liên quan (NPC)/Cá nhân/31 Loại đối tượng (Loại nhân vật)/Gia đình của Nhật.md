@@ -1,5 +1,5 @@
 
-Nhu cầu của loại đối tượng:: [[Không bị khó xử khi mọi người cứ nói hoài về mình]]
+Nhu cầu của loại đối tượng:: [[Không bị khó xử khi mọi người cứ nói hoài về Nhật]]
 Điều loại đối tượng thấy ở QC:: [[Không biết thương mẹ]], [[Nếu không kiếm được tiền thì không nói được gì cả]]
 Nhu cầu của mình về đối tượng:: 
 
