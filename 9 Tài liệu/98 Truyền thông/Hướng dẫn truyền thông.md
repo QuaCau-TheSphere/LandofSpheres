@@ -14,18 +14,18 @@ Giới thiệu chung thì có thể dựa vào [[2 Các vùng đất (Sản ph�
 - **Campaing name:** Giai đoạn 1
 
 ### Campaign source
-| Tên chương trình/nền tảng/website | Nhóm/medium             | Tên bài/video/form     | Vị trí       | Nội dung bình luận |
-| --------------------------------- | ----------------------- | ---------------------- | ------------ | ------------------ |
-| Facebook                          | G Pr Pg » Tên nhóm      | Tên bài                | comment, bài |                    |
-| YouTube                           |                         | Tên video              | Description  |                    |
-| Forum                             |                         |                        |              |                    |
-| example.com                       |                         |                        |              |                    |
-| Form                              |                         | Tên form               | CV           |                    |
-| Email                             |                         | Email người nhận       |              |                    |
-| I                                 |                         | Nick người nhận        |              |                    |
-| Google Docs                       |                         |                        |              |                    |
-| Discord                           | Obsidian » #.tiếng-việt |                        |              | Argument map       |
-| noteshare.space                   |                         | Nội dung sự kiện 2GROW |              |                    |
+| Tên chương trình/nền tảng/website | Nhóm/medium                     | Tên bài/video/form     | Vị trí       | Nội dung bình luận |
+| --------------------------------- | ------------------------------- | ---------------------- | ------------ | ------------------ |
+| Facebook                          | G Pr Pg » Tên nhóm              | Tên bài                | comment, bài |                    |
+| YouTube                           |                                 | Tên video              | Description  |                    |
+| Forum                             |                                 |                        |              |                    |
+| example.com                       |                                 |                        |              |                    |
+| Form                              |                                 | Tên form               | CV           |                    |
+| Email                             |                                 | Email người nhận       |              |                    |
+| I                                 |                                 | Nick người nhận        |              |                    |
+| Google Docs                       | Tên dự án cần phải dùng file đó |                        |              |                    |
+| Discord                           | Obsidian » #.tiếng-việt         |                        |              | Argument map       |
+| noteshare.space                   |                                 | Nội dung sự kiện 2GROW |              |                    |
 ### Campaign medium
 - Tên bài muốn chia sẻ
 - Discord Quả Cầu

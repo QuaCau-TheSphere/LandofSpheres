@@ -101,8 +101,13 @@ Nếu có một thành viên trong Quả Cầu mà bạn thấy có quan điểm
 
 Bạn có muốn chia sẻ thêm gì về bản thân không?
 
+Muốn chia sẻ cho mọi người bản 
+
+
 
 ---
 Cám ơn bạn đã dành thời gian làm bản đăng ký. Bản đăng ký này là để giúp bọn mình hiểu hơn thêm về bạn, chứ thực ra bất cứ ai cũng có thể tham gia vào vùng đất Quả Cầu theo nhu cầu của mình. Mời bạn tham gia vào cộng đồng bạn bè Quả Cầu trên [Discord](https://discord.gg/jWTk4EHFK2) hoặc [nhóm Facebook](https://www.facebook.com/groups/landofspheres) để giao lưu và làm quen với những bạn khác. Bạn cũng có thể đăng các câu trả lời của bạn lên trên nhóm để mọi người cùng hiểu hơn về bạn. Chúc bạn một ngày vui vẻ.
 
 Đây là email tự động. Nếu có câu hỏi, bạn vui lòng gửi email đến quacau.thesphere@gmail.com hoặc nhắn trên Facebook page Quả Cầu https://www.facebook.com/quacau.sphere/. Chúc bạn một ngày vui vẻ.
+
+Lịch gặp mặt hàng tuần
