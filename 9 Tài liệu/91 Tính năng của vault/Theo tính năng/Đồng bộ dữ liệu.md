@@ -34,7 +34,6 @@ Alias: Google Drive, Syncthing, sync, Git
 | multi-column-markdown           |                                        |                                                      |                 |
 | metadata-menu                   |                                        |                                                      |                 |
 | metaedit                        |                                        | ✔                                                    |                 |
-| obsidian-advanced-slides        |                                        |                                                      |                 |
 | obsidian-another-quick-switcher |                                        |                                                      |                 |
 | obsidian-banners                |                                        |                                                      |                 |
 | obsidian-custom-frames          |                                        |                                                      |                 |
@@ -70,6 +69,7 @@ nldates-obsidian
 note-refactor-obsidian
 notion-like-tables
 obsidian-admonition
+obsidian-advanced-slides
 obsidian-argdown-plugin
 obsidian-auto-link-title
 obsidian-autocomplete-plugin

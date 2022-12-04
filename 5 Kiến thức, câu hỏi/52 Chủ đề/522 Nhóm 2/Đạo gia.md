@@ -1,4 +1,3 @@
-# Đạo gia
 ❓:: [[Có phải thứ Đạo gia nói là trực giác hơn là bản năng không？]]
 ❓:: [[Người sống hoà mình vào thế giới có cần quyền riêng tư, đồng thuận không？]]
 ❓:: [[Thuyết âm dương/Jung nói gì về LGBT？]], [[Những người phi dị tính hợp giới nào theo thuyết âm dương /Jung nói gì về sự nhị nguyên của trường phái mình theo？]], [[Có những bạn phi nhị nguyên nào chú trọng phát triển tính nữ？]]
@@ -20,3 +19,5 @@ List from "5 Kiến thức, câu hỏi/52 Chủ đề" where contains(chủ-đ�
 Điểm giống::
 Điểm học hỏi:: Đề cao sự thong thả
 Điểm khác của QC:: không làm gì mà làm được tất cả Không chìm đắm quá sâu
+
+[[Tô Thức]]

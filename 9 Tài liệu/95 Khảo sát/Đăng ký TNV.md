@@ -66,10 +66,11 @@ Bạn muốn làm việc tới khi nào?*
 CV của bạn hoặc các tài liệu khác
 
 # Thông tin thêm
-
 Việc hiểu hơn về bạn sẽ giúp Quả Cầu tìm được công việc có ý nghĩa với bạn nhất
 
 Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gia không? Hãy miêu tả về các nhóm này?
+
+Bài luận bạn viết gần nhất là gì? Bạn có thể tóm tắt và dẫn link không?
 
 Mục tiêu trong năm nay của bạn là gì? Mục tiêu 5 năm tới của bạn là gì? Bạn cần làm những gì để đạt được những mục tiêu đó?
 <small>VD: mục tiêu trong cuộc sống, gia đình, công việc, v.v.</small>
@@ -99,11 +100,16 @@ Bạn đã tải dữ liệu Quả Cầu về chưa? Bạn có suy nghĩ gì v�
 
 Nếu có một thành viên trong Quả Cầu mà bạn thấy có quan điểm không ổn, bạn sẽ làm gì?*
 
+Bạn có muốn chia sẻ những gì bạn vừa ghi cho mọi người cùng đọc không?
+- [ ] Tôi muốn chia sẻ trên vault dữ liệu chung
+- [ ] Tôi muốn chia sẻ lên trên các kênh liên lạc (Facebook, Discord)
+- [ ] Tôi không muốn chia sẻ ở đâu cả
+
+Ở câu trước bạn có nói là không muốn chia sẻ những gì bạn vừa ghi ở đâu cả. Bạn có muốn giải thích tại sao không?
+
 Bạn có muốn chia sẻ thêm gì về bản thân không?
 
-Muốn chia sẻ cho mọi người bản 
 
-Bạn có thể tóm tắt và dẫn link bài luận bạn viết gần nhất không? 
 
 
 ---

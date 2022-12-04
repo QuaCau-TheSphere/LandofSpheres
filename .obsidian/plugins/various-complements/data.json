@@ -1,0 +1,129 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 255,
+  "maxNumberOfWordsAsPhrase": 1,
+  "minNumberOfCharactersTriggered": 2,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": false,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": false,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": false,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "Ξ Meta 0/02 Gõ nhanh.md",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "|",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": false,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": true,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": true,
+  "selectionHistoryTree": {
+    "ttw": {
+      "Chủ đề::": {
+        "customDictionary": {
+          "count": 62,
+          "lastUpdated": 1669876838798
+        }
+      }
+    },
+    "ttq": {
+      "❓::": {
+        "customDictionary": {
+          "count": 21,
+          "lastUpdated": 1667492505006
+        }
+      }
+    },
+    "tv": {
+      "Tóc vàng:: ": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1668593698666
+        }
+      }
+    },
+    "tccv": {
+      "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667412448084
+        }
+      },
+      "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1669823137319
+        }
+      }
+    },
+    "PNM": {
+      "(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)": {
+        "customDictionary": {
+          "count": 7,
+          "lastUpdated": 1667497618094
+        }
+      }
+    },
+    "mmy": {
+      "Yếu tố hỗ trợ::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667755196647
+        }
+      }
+    },
+    "##### Kết quả mong muốn": {
+      "##### Kết quả mong muốn": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1669547185295
+        }
+      }
+    },
+    "td": {
+      "Tóc đen:: ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668593872919
+        }
+      }
+    },
+    "cvk": {
+      "- [ ] ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669924643793
+        }
+      }
+    }
+  }
+}

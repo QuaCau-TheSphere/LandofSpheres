@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBookOpen",
+      "🧐",
+      "FasEarListen",
+      "FasCode",
+      "FarCalendarDays"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "6 Tổ chức/62 Thành viên (Người chơi)": "IbGames",
+  "2 Các vùng đất (Sản phẩm và mục tiêu)": "FarMap",
+  "3 Các bên liên quan (NPC)": "FasPerson",
+  "4 SWOT": "FasTableCellsLarge",
+  "7 Nhu cầu": "FasArrowsUpDownLeftRight",
+  "1 Công việc": "FasHammer",
+  "9 Tài liệu": "FasScroll",
+  "6 Tổ chức": "FasPlaceOfWorship",
+  "6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Lắng nghe": "FasEarListen",
+  "5 Kiến thức, câu hỏi": "FasBookOpen"
+}

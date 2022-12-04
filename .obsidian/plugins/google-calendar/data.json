@@ -1,0 +1,51 @@
+{
+  "googleClientId": "847501765525-uk6e5gq662i4ecg3nef9pv9viin3clq5.apps.googleusercontent.com",
+  "googleClientSecret": "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",
+  "googleApiToken": "AIzaSyBntKik-DRz73uuCaYEtYAhgGjnqFreZWY",
+  "googleRefreshToken": "",
+  "refreshInterval": 10,
+  "showNotice": true,
+  "autoCreateEventNotes": true,
+  "autoCreateEventKeepOpen": false,
+  "importStartOffset": 1,
+  "importEndOffset": 1,
+  "defaultCalendar": "",
+  "calendarBlackList": [],
+  "insertTemplates": [
+    {
+      "name": "sfd",
+      "insertType": "bullet",
+      "tableOptions": [
+        ".summary",
+        ".description"
+      ],
+      "calendarList": [
+        "lyminhnhat911@gmail.com",
+        "quacau.thesphere@gmail.com",
+        "phamnguyentiny@gmail.com",
+        "addressbook#contacts@group.v.calendar.google.com",
+        "7njql4r5q17q1ip7hv55rtgcm8@group.calendar.google.com",
+        "en.vietnamese#holiday@group.v.calendar.google.com",
+        "6i1uqmm7v9u88i8b0g7s3lggas@group.calendar.google.com",
+        "t8mnvciobrjrh2nrjtrvdo2np4@group.calendar.google.com",
+        "hoangthutrang813@gmail.com"
+      ]
+    },
+    {
+      "name": "dgg",
+      "insertType": "bullet",
+      "tableOptions": [
+        ".summary",
+        ".description"
+      ],
+      "calendarList": [
+        "lyminhnhat911@gmail.com",
+        "quacau.thesphere@gmail.com",
+        "phamnguyentiny@gmail.com",
+        "en.vietnamese#holiday@group.v.calendar.google.com",
+        "6i1uqmm7v9u88i8b0g7s3lggas@group.calendar.google.com",
+        "t8mnvciobrjrh2nrjtrvdo2np4@group.calendar.google.com"
+      ]
+    }
+  ]
+}
