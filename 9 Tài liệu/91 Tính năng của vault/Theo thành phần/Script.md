@@ -1,4 +1,0 @@
-Obsidian
-Git
-GitKraken
-Clone

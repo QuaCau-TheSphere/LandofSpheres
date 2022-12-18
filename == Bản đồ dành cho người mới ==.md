@@ -22,7 +22,7 @@ Khám phá xem Quả Cầu có thể làm được gì cho bạn bằng cách:
 ```button
 name Hiểu triết lý của Quả Cầu
 type link
-action obsidian://open?vault=Land%20of%20Spheres&file=6%20Tổ%20chức%2F65%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F651%20Hiểu%20Quả%20Cầu%2FHiểu%20triết%20lý%20của%20Quả%20Cầu
+action obsidian://open?vault=Land%20of%20Spheres&file=2%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F21%20Hiểu%20Quả%20Cầu%2FHiểu%20triết%20lý%20của%20Quả%20Cầu
 color blue
 ```
 ^button-hieutrietlytochuc
@@ -30,7 +30,7 @@ color blue
 ```button
 name Hiểu chính bản thân mình
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20Tổ%20chức%2F65%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F651%20Hiểu%20Quả%20Cầu%2FHi%E1%BB%83u%20ch%C3%ADnh%20b%E1%BA%A3n%20th%C3%A2n%20m%C3%ACnh
+Action obsidian://open?vault=Land%20of%20Spheres&file=2%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F21%20Hiểu%20Quả%20Cầu%2FHi%E1%BB%83u%20ch%C3%ADnh%20b%E1%BA%A3n%20th%C3%A2n%20m%C3%ACnh
 id hieutrietlytochuc
 ```
 ^button-hieuchinhbanthanminh
@@ -38,7 +38,7 @@ id hieutrietlytochuc
 ```button
 name Hiểu mục tiêu và cách Quả Cầu hoạt động
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20Tổ%20chức%2F65%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F651%20Hiểu%20Quả%20Cầu%2FHi%E1%BB%83u%20m%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A1ch%20Qu%E1%BA%A3%20C%E1%BA%A7u%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng
+Action obsidian://open?vault=Land%20of%20Spheres&file=2%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F21%20Hiểu%20Quả%20Cầu%2FHi%E1%BB%83u%20m%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A1ch%20Qu%E1%BA%A3%20C%E1%BA%A7u%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng
 id hieutrietlytochuc
 ```
 ^button-hieucachvanhanhhientai
@@ -46,7 +46,7 @@ id hieutrietlytochuc
 ```button
 name Rèn luyện kỹ năng mới, củng cố kiến thức đã học
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F65%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20th%C3%A0nh%20th%E1%BA%A1o%2F651%20Hi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FTh%E1%BB%AD%20th%C3%A1ch%2FR%C3%A8n%20luy%E1%BB%87n%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%2C%20c%E1%BB%A7ng%20c%E1%BB%91%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%C3%A3%20h%E1%BB%8Dc
+Action obsidian://open?vault=Land%20of%20Spheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F2%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20th%C3%A0nh%20th%E1%BA%A1o%2F21%20Hi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FTh%E1%BB%AD%20th%C3%A1ch%2FR%C3%A8n%20luy%E1%BB%87n%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%2C%20c%E1%BB%A7ng%20c%E1%BB%91%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%C3%A3%20h%E1%BB%8Dc
 id hieutrietlytochuc
 ```
 ^button-renluyenkynang
@@ -54,7 +54,7 @@ id hieutrietlytochuc
 ```button
 name Trò chuyện với mọi người
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20Tổ%20chức%2F65%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F651%20Hiểu%20Quả%20Cầu%2FThử%20thách%2FTr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di
+Action obsidian://open?vault=Land%20of%20Spheres&file=2%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F21%20Hiểu%20Quả%20Cầu%2FThử%20thách%2FTr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di
 id hieutrietlytochuc
 ```
 ^button-trochuyenvoimoinguoi
@@ -62,7 +62,7 @@ id hieutrietlytochuc
 ```button
 name Sử dụng dữ liệu của Quả Cầu
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=6%20Tổ%20chức%2F65%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F651%20Hiểu%20Quả%20Cầu%2FS%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20Qu%E1%BA%A3%20C%E1%BA%A7u
+Action obsidian://open?vault=Land%20of%20Spheres&file=2%20Kỹ%20năng,%20thử%20thách,%20mức%20độ%20thành%20thạo%2F21%20Hiểu%20Quả%20Cầu%2FS%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20Qu%E1%BA%A3%20C%E1%BA%A7u
 id hieutrietlytochuc
 ```
 ^button-trochuyenvoimoinguoi

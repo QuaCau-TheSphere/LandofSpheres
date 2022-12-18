@@ -8,8 +8,8 @@ KeepLinksWithoutDest: true #Only draw links that end at an imported node
 # Array of DQL queries to pull in nodes - see ReadMe
 # | Link | DisplayName | OpenBracket | CloseBracket | Style |
 Nodes:
- - 'TABLE "", "([", "])", "doing" from "1 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái="#tt-▶️/xong50٪"'
- - 'TABLE "", "([", "])", "nondoing" from "1 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái!="#tt-▶️/xong50٪"'
+ - 'TABLE "", "([", "])", "doing" from "7 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái="#tt-▶️/xong50٪"'
+ - 'TABLE "", "([", "])", "nondoing" from "7 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái!="#tt-▶️/xong50٪"'
 
 # Array of DQL queries to pull in relationships between nodes - see ReadMe
 # | Source | Destination | Arrow |
@@ -212,14 +212,14 @@ linkStyle 1,2 stroke:none
 
 # Node
 ```dataview
-TABLE "", "([", "])", "doing" from "1 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái="#tt-▶️/xong50٪"
+TABLE "", "([", "])", "doing" from "7 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái="#tt-▶️/xong50٪"
 ```
 ```dataview
-TABLE "", "([", "])", "grey" from "1 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and (trạng-thái="#tt-🔃/chờkếtquảtừviệckhác" or trạng-thái="#tt-🔃/cầntậptrunglàmviệckhác" or trạng-thái="#tt-⏹️/chưađếnlúclàm")
+TABLE "", "([", "])", "grey" from "7 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and (trạng-thái="#tt-🔃/chờkếtquảtừviệckhác" or trạng-thái="#tt-🔃/cầntậptrunglàmviệckhác" or trạng-thái="#tt-⏹️/chưađếnlúclàm")
 ```
 
  ```dataview
-TABLE "", "([", "])", "nondoing" from "1 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái!="#tt-▶️/xong50٪"
+TABLE "", "([", "])", "nondoing" from "7 Công việc" where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay") and trạng-thái!="#tt-▶️/xong50٪"
 ```
 
 # Link

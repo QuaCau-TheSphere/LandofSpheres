@@ -15,7 +15,7 @@ unit: meters
 scale: 1
 ```
 
-Xem thêm: [[2 Các vùng đất (Sản phẩm và mục tiêu)|Kế hoạch dài hạn]]
+Xem thêm: [[4 Sản phẩm và mục tiêu (Các vùng đất)|Kế hoạch dài hạn]]
 # Tình hình hiện tại các công việc 
 ## Tất cả các công việc
 ```leaflet 
@@ -34,14 +34,14 @@ scale: 1
 <small>`(#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and !#tc-🔁Côngviệclặplại`</small>
 ```dataview 
 table string(người-chơi) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
-from "1 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and !#tc-🔁Côngviệclặplại
+from "7 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and !#tc-🔁Côngviệclặplại
 Sort độ-cấp-thiết
 ```
 ### Các công việc lặp lại
 <small>`(#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and #tc-🔁Côngviệclặplại`</small>
 ```dataview 
 table string(người-chơi) as "Nhân sự", trạng-thái as "Trạng thái", độ-cấp-thiết as "Độ cấp thiết" 
-from "1 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and #tc-🔁Côngviệclặplại
+from "7 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/nênlàmngay or #đct-🔥/muốnlàmngay) and #tc-🔁Côngviệclặplại
 Sort độ-cấp-thiết
 ```
 Xem thêm: [[Cách tìm công việc phù hợp với mình nhất]]

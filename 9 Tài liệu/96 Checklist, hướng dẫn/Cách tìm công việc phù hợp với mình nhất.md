@@ -24,13 +24,13 @@ FROM #tc-🔓Làmlúcnàocũngđược and #tc-🥳Tươngtácnhiềuvớiloàin
 
 Xem thêm: 
 - [[Các yếu tố trong công việc|Danh sách tất cả các tag]]
-- [[1 Công việc]]
+- [[7 Công việc]]
 
 # 👇Sửa dòng có chữ `FROM` đó ở đây 👇
 Bấm <kbd>Ctrl + E</kbd> để vào chế độ sửa.
 ```dataview 
 LIST 
 FROM #tc-🔓Làmlúcnàocũngđược
-WHERE contains(file.path, "1 Công việc")
+WHERE contains(file.path, "7 Công việc")
 ```
 Xem thêm: [[Viết truy vấn Dataview]]

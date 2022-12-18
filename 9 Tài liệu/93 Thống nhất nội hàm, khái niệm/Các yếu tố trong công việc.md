@@ -4,7 +4,7 @@ Alias: "93.03"
 
 # Các mức độ trạng thái/tình trạng của công việc
 ```dataview
-List from "1 Công việc" 
+List from "7 Công việc" 
 flatten file.etags as tags
 Where startswith(tags,"#tt")
 Group by tags
@@ -41,7 +41,7 @@ Group by tags
 
 # Tính chất công việc
 ```dataview
-List from "1 Công việc" 
+List from "7 Công việc" 
 flatten file.etags as tags
 Where startswith(tags,"#tc")
 Group by tags
@@ -81,8 +81,8 @@ Group by tags
 #tc-🌐Chỉnênlàmquamạng 
 # Kỹ năng 
 ```dataview 
-List from "6 Tổ chức/65 Kỹ năng, thử thách, mức độ thành thạo" 
-Where startswith(file.name,"65 ")=false and (file.folder="6 Tổ chức/65 Kỹ năng, thử thách, mức độ thành thạo" or file.name=split(file.folder,"/")[2])
+List from "2 Kỹ năng, thử thách, mức độ thành thạo" 
+Where startswith(file.name,"2 ")=false and (file.folder="2 Kỹ năng, thử thách, mức độ thành thạo" or file.name=split(file.folder,"/")[2])
 Sort file.name
 ```
 # Sản phẩm

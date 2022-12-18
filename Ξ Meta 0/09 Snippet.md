@@ -1,4 +1,3 @@
-
 # Dataview 
 ## Tổng thời gian các công việc:
 Inline: `= sum(default(filter(this.file.tasks, (t) => t.completed = false).dur, dur(0m))).hours`  
@@ -17,7 +16,7 @@ so, first we confirm the field, then we extract the relative path in `hoạt-đ�
 %%
 
 ```dataviewjs 
-dv.list(dv.pages('"1 Công việc/Tổ chức sự kiện"').map(t=>dv.fileLink(t.file.path,false,t["Tên sự kiện"])))
+dv.list(dv.pages('"7 Công việc/Tổ chức sự kiện"').map(t=>dv.fileLink(t.file.path,false,t["Tên sự kiện"])))
 ```
 
 ## Liệt kê các giá trị được dùng nhiều nhất
@@ -52,7 +51,7 @@ SORT length(rows) DESC
 ## Các công việc có trong nhiều công việc khác nhất
 ```dataview
 LIST WITHOUT ID K + ": " + length(rows)
-From "1 Công việc" 
+From "7 Công việc" 
 WHERE công-việc-thành-phần 
 FLATTEN công-việc-thành-phần
 GROUP BY công-việc-thành-phần AS K

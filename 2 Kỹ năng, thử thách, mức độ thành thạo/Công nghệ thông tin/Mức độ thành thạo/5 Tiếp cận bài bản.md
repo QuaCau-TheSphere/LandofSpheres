@@ -1,0 +1,2 @@
+- [ ] Đọc giáo trình của sinh viên 
+	- [Hướng dẫn tự học lập trình PHP | Tự học ICT](https://tuhocict.com/huong-dan-tu-hoc-lap-trinh-php/)

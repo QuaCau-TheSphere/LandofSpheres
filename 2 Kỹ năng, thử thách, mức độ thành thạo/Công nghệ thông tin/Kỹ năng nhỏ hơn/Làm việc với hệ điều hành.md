@@ -1,0 +1,3 @@
+- [ ] [[Hiểu những tính năng của hệ điều hành]]
+- [ ] Cài hệ điều hành
+- [ ] Tìm hiểu về .NET

@@ -1,4 +1,4 @@
-# 1 Công việc 
+# 7 Công việc 
 Công việc thành phần::		cvt
 next::		cvn
 Tài liệu:: [[|]]		cvt
@@ -30,14 +30,14 @@ Loại sứ mệnh:: 		bbll
 Lý do::		vvl
 Là vấn đề cho hoạt động::		vvh
 
-# 5 Kiến thức, câu hỏi
+# 3 Kiến thức, câu hỏi
 ❓::		ttq
 Chủ đề::		ttw
 Trả lời:: 		tte
 
-# 6 Tổ chức
+# 8 Tổ chức
 Công việc:: 		cv
-# 7 Nhu cầu
+# 1 Nhu cầu
 Đáp ứng cho nhu cầu của mình::		nc
 # 9 Tài liệu
 Tóc vàng:: 		tv
@@ -50,3 +50,9 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàm
 
 Tài liệu::		xt
 Mâu thuẫn		mt
+
+Các note cũng nói về chủ đề này:
+```dataview 
+List
+Where contains(file.name,split(this.file.name," \(")[0]) and file.path!=this.file.path
+```

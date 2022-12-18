@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasBookOpen",
-      "🧐",
-      "FasEarListen",
-      "FasCode",
-      "FarCalendarDays"
+      "RiContactsBook2Fill",
+      "RiTaskFill",
+      "FasBuilding",
+      "SiGraphql",
+      "SiHandshake"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,14 +20,17 @@
       "left": 0
     }
   },
-  "6 Tổ chức/62 Thành viên (Người chơi)": "IbGames",
-  "2 Các vùng đất (Sản phẩm và mục tiêu)": "FarMap",
-  "3 Các bên liên quan (NPC)": "FasPerson",
-  "4 SWOT": "FasTableCellsLarge",
-  "7 Nhu cầu": "FasArrowsUpDownLeftRight",
-  "1 Công việc": "FasHammer",
   "9 Tài liệu": "FasScroll",
-  "6 Tổ chức": "FasPlaceOfWorship",
   "6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Lắng nghe": "FasEarListen",
-  "5 Kiến thức, câu hỏi": "FasBookOpen"
+  "1 Nhu cầu": "FasSailboat",
+  "3 Kiến thức, câu hỏi": "FasLightbulb",
+  "4 Các vùng đất (Sản phẩm và mục tiêu)": "FarMap",
+  "6 Các bên liên quan (NPC)": "RiContactsBook2Fill",
+  "7 Công việc": "RiTaskFill",
+  "8 Tổ chức": "FasBuilding",
+  "8 Tổ chức/62 Thành viên (Người chơi)": "IbGames",
+  "2 Kỹ năng, thử thách, mức độ thành thạo": "RiGamepadFill",
+  "5 SWOT": "FasHandsAslInterpreting",
+  "5 SWOT. Giá trị cốt lõi": "FasHandsAslInterpreting",
+  "4 Sản phẩm và mục tiêu (Các vùng đất)": "FasMapLocation"
 }

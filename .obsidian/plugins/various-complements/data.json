@@ -50,16 +50,8 @@
     "ttw": {
       "Chủ đề::": {
         "customDictionary": {
-          "count": 62,
-          "lastUpdated": 1669876838798
-        }
-      }
-    },
-    "ttq": {
-      "❓::": {
-        "customDictionary": {
-          "count": 21,
-          "lastUpdated": 1667492505006
+          "count": 64,
+          "lastUpdated": 1670862842520
         }
       }
     },
@@ -72,32 +64,10 @@
       }
     },
     "tccv": {
-      "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1667412448084
-        }
-      },
       "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến": {
         "customDictionary": {
           "count": 5,
           "lastUpdated": 1669823137319
-        }
-      }
-    },
-    "PNM": {
-      "(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)": {
-        "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1667497618094
-        }
-      }
-    },
-    "mmy": {
-      "Yếu tố hỗ trợ::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1667755196647
         }
       }
     },
@@ -122,6 +92,22 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1669924643793
+        }
+      }
+    },
+    "xt": {
+      "Tài liệu::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1670490328558
+        }
+      }
+    },
+    "ttq": {
+      "❓::": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1670781878950
         }
       }
     }

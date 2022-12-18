@@ -6,9 +6,9 @@ splines = true
 
 node [shape=box] 
 2 [label="2 Mục tiêu"] 
-4 [label="4 SWOT"] 
+4 [label="5 SWOT"] 
 
-11 [label="11 Công việc cấp ban"] 
+11 [label="17 Công việc cấp ban"] 
 12 [label="12 Công việc cấp tiểu ban"] 
 
 31 [label="31 Loại đối tượng"] 
@@ -51,9 +51,9 @@ splines = true
 
 node [shape=box] 
 2 [label="2 Mục tiêu"] 
-4 [label="4 SWOT"] 
+4 [label="5 SWOT"] 
 
-11 [label="11 Công việc cấp ban"] 
+11 [label="17 Công việc cấp ban"] 
 12 [label="12 Công việc cấp tiểu ban"] 
 
 31 [label="31 Loại đối tượng"] 

@@ -12,8 +12,8 @@ Gồm:
 # Danh sách các ban và thành viên các ban
 
 ```dataview
-Table join(filter(file.inlinks, (f) => contains(f.ban, file.link) and f.file.folder="6 Tổ chức/62 Thành viên (Người chơi)")) as "Thành viên" 
-from "6 Tổ chức/61 Ban" 
+Table join(filter(file.inlinks, (f) => contains(f.ban, file.link) and f.file.folder="8 Tổ chức/62 Thành viên (Người chơi)")) as "Thành viên" 
+from "8 Tổ chức/61 Ban" 
 Where file.name!=this.file.name
 ```
 
