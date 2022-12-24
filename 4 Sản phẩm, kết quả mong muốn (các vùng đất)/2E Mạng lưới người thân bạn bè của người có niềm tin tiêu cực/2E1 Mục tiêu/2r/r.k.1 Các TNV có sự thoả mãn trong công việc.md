@@ -1,0 +1,5 @@
+Mục tiêu:: [[r.k.1.1 Các TNV thấy được thành quả làm việc của mình]]
+Mục tiêu:: [[r.k.1.2 Các TNV thấy được sự thách thức trong công việc]]
+Mục tiêu:: [[r.k.1.3 Các TNV mới không cảm thấy mới vào mà đã có nhiều áp lực]]
+Mục tiêu:: [[r.k.1.4 Các TNV thấy được ý nghĩa]]
+Yếu tố hỗ trợ:: [[r.k.3.1 Các TNV tự tham gia đặt ra mục tiêu cho công việc của mình]]
