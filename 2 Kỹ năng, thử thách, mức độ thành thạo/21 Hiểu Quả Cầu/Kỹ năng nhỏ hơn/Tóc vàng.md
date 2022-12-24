@@ -7,4 +7,4 @@ Mô tả:: Thử dám tạo ra vấn đề và vượt qua nó trong sự thong 
 - [ ] [[Thảo luận về những quan điểm với nhau]]
  - [ ] Tìm hiểu về sự bất lực học được
 > [!info] Xem chi tiết
-> [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
+> [[83 Hướng dẫn xử lý các trường hợp cụ thể]]

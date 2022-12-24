@@ -41,9 +41,7 @@
   "metadata-menu",
   "open-with",
   "tag-wrangler",
-  "obsidian-advanced-slides",
   "buttons",
-  "obsidian-user-plugins",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-icon-folder",
   "hot-reload",
@@ -51,5 +49,6 @@
   "obsidian-commits",
   "obsidian-snippet-downloader",
   "obsidian-colorful-tag",
-  "advanced-cursors"
+  "advanced-cursors",
+  "obsidian-user-plugins"
 ]

@@ -34,19 +34,19 @@
     },
     {
       "field": "Hướng tới loại đối tượng",
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/31 Loại đối tượng (Loại nhân vật)"
+      "folder": "3 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật)"
     },
     {
       "field": "Đối tượng thụ hưởng",
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/31 Loại đối tượng (Loại nhân vật)"
+      "folder": "3 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật)"
     },
     {
       "field": "Loại đối tượng",
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/31 Loại đối tượng (Loại nhân vật)"
+      "folder": "3 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật)"
     },
     {
       "field": "Điều đối tượng thấy ở QC",
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/32 Điều đối tượng thấy ở QC"
+      "folder": "3 Các bên liên quan (NPC)/Cá nhân/62 Điều đối tượng thấy ở QC"
     },
     {
       "field": "Nhu cầu của đối tượng",
@@ -58,7 +58,7 @@
     },
     {
       "field": "Mô hình",
-      "folder": "3 Các bên liên quan (NPC)/Tổ chức/37 Mô hình"
+      "folder": "3 Các bên liên quan (NPC)/Tổ chức/66 Mô hình"
     },
     {
       "field": "Loại sứ mệnh",
@@ -66,15 +66,15 @@
     },
     {
       "field": "Loại sản phẩm",
-      "folder": "3 Các bên liên quan (NPC)/Tổ chức/39 Loại sản phẩm"
+      "folder": "3 Các bên liên quan (NPC)/Tổ chức/68 Loại sản phẩm"
     },
     {
       "field": "Điểm yếu",
-      "folder": "4 SWOT/Điểm yếu - thách thức"
+      "folder": "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức"
     },
     {
       "field": "Lý do",
-      "folder": "4 SWOT/Điểm yếu - thách thức"
+      "folder": "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức"
     },
     {
       "field": "Câu hỏi",

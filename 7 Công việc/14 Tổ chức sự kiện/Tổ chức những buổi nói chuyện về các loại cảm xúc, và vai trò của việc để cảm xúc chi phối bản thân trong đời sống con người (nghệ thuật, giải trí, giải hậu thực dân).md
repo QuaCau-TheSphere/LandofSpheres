@@ -84,7 +84,7 @@ list where contains(công-việc-thành-phần, [[]])
 ```
 Khi làm thì có thể gặp những vấn đề này
 ```dataview
-list from "5 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
+list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
 === end-column ===

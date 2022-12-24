@@ -1,7 +1,7 @@
 # Người chơi
 ```dataview
 list
-From "8 Tổ chức/62 Thành viên (Người chơi)" 
+From "8 Tổ chức/82 Thành viên (Người chơi)" 
 where contains(kỹ-năng, [[]])
 ```
 

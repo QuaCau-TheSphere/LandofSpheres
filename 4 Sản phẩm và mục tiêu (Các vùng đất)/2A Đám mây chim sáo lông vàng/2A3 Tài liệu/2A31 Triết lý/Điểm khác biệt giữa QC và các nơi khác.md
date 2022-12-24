@@ -4,7 +4,7 @@ table filter(file.inlinks, (i) => i.mô-hình) as "Ví dụ", ví-dụ,
 	điểm-giống as "Điểm giống",
 	điểm-học-hỏi as "Điểm học học", 
 	điểm-khác-của-qc as "Điểm khác của QC" 
-from "3 Các bên liên quan (NPC)/Tổ chức/37 Mô hình" 
+from "3 Các bên liên quan (NPC)/Tổ chức/66 Mô hình" 
 ```
 # Loại sứ mệnh
 ```dataview

@@ -18,7 +18,7 @@ Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 === end-multi-column
 
-Tài liệu:: [[66 Hướng dẫn xử lý các trường hợp cụ thể]]
+Tài liệu:: [[83 Hướng dẫn xử lý các trường hợp cụ thể]]
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước
@@ -44,7 +44,7 @@ list where contains(công-việc-thành-phần, [[]])
 ```
 Khi làm thì có thể gặp những vấn đề này
 ```dataview
-list from "5 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
+list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
 === end-column ===

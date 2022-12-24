@@ -7,4 +7,4 @@
 - [ ] thong thả, không có áp lực gì cả, các nhu cầu đều được đáp ứng
 - [ ] Có được niềm vui khám phá
 - [ ] Tìm hiểu về bản chất của tiền và lao động
-[[66 Hướng dẫn xử lý các trường hợp cụ thể]]
+[[83 Hướng dẫn xử lý các trường hợp cụ thể]]

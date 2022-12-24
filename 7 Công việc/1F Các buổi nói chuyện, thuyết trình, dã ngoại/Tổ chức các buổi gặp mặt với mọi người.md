@@ -25,7 +25,7 @@ list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể"
 ```
 Khi làm thì có thể gặp những vấn đề này
 ```dataview
-list from "5 SWOT/Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
+list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
 ##### Kết quả mong muốn
