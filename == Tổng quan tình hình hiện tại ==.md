@@ -15,7 +15,7 @@ unit: meters
 scale: 1
 ```
 
-Xem thêm: [[4 Sản phẩm và mục tiêu (Các vùng đất)|Kế hoạch dài hạn]]
+Xem thêm: [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Kế hoạch dài hạn]]
 # Tình hình hiện tại các công việc 
 ## Tất cả các công việc
 ```leaflet 

@@ -47,7 +47,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 > > > [!tab-content]  
 >>>## Hiểu kế hoạch chiến lược
 >>>1. [ ] Đọc hiểu:
->>>	- [ ] [[4 Sản phẩm và mục tiêu (Các vùng đất)|Các mục tiêu dài hạn (Các dự án thành phần)]]
+>>>	- [ ] [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Các mục tiêu dài hạn (Các dự án thành phần)]]
 >>>	- [ ] [[00.2 Kế hoạch tổng thể|Các mục tiêu ngắn hạn (Kế hoạch tổng thể)]]
 >>>2. [ ] Thấy được những mục tiêu này giúp ích gì cho bản thân mình hoặc nơi mình làm tổ chức mình
 >>>3. [ ] Tích hợp được những mục tiêu này vào cuộc sống của mình
@@ -73,7 +73,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 >>>- [ ] Hiểu được, nắm được, biết được:
 >>>	- [ ] [[00.1 Lịch họp hằng tuần|Tuần này sẽ họp những gì]]
 >>>	- [ ] [[00.2 Kế hoạch tổng thể|Kế hoạch ngắn hạn của QC (các công việc PNML)]]
->>>	- [ ] [[4 Sản phẩm và mục tiêu (Các vùng đất)|Kế hoạch dài hạn của QC]]
+>>>	- [ ] [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Kế hoạch dài hạn của QC]]
 >>>	- [ ] [[3 Các bên liên quan (NPC)#1 Các bên liên quan đã hỗ trợ được QC|Những ai đóng góp cho QC]]
 >>>	- [ ] [[8 Tổ chức|Cơ cấu tổ chức và công việc trong ban mình muốn làm]] 
 >>>	- [ ] [[82 Thành viên (Người chơi)|Hồ sơ công việc của mình và của các thành viên khác]]

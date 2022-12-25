@@ -52,7 +52,7 @@ Kỹ năng:
 > > > [!tab-content]  
 >>>## Hiểu kế hoạch chiến lược
 >>>1. [x] Đọc hiểu:
->>>	- [x] [[4 Sản phẩm và mục tiêu (Các vùng đất)|Các mục tiêu dài hạn (Các dự án thành phần)]]
+>>>	- [x] [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Các mục tiêu dài hạn (Các dự án thành phần)]]
 >>>	- [x] [[00.2 Kế hoạch tổng thể|Các mục tiêu ngắn hạn (Kế hoạch tổng thể)]]
 >>>2. [x] Thấy được những mục tiêu này giúp ích gì cho bản thân mình hoặc nơi mình làm tổ chức mình
 >>>3. [x] Tích hợp được những mục tiêu này vào cuộc sống của mình
@@ -77,7 +77,7 @@ Kỹ năng:
 >>>- [x] Hiểu được, nắm được, biết được:
 >>>	- [x] [[00.1 Lịch họp hằng tuần|Tuần này sẽ họp những gì]]
 >>>	- [x] [[00.2 Kế hoạch tổng thể|Kế hoạch ngắn hạn của QC (các công việc PNML)]]
->>>	- [x] [[4 Sản phẩm và mục tiêu (Các vùng đất)|Kế hoạch dài hạn của QC]]
+>>>	- [x] [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Kế hoạch dài hạn của QC]]
 >>>	- [x] [[3 Các bên liên quan (NPC)#1 Các bên liên quan đã hỗ trợ được QC|Những ai đóng góp cho QC]]
 >>>	- [x] [[8 Tổ chức|Cơ cấu tổ chức và công việc trong ban mình muốn làm]] 
 >>>	- [x] [[82 Thành viên (Người chơi)|Hồ sơ công việc của mình và của các thành viên khác]]

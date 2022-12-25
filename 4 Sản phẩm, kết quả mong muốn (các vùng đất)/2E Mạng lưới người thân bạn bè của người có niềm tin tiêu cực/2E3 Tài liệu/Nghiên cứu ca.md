@@ -1,1 +1,0 @@
-Aaron Carter, em trai của Nick Carter trong Backstreet Boys đã vĩnh viễn ra đi ở số tuổi 34 sau những năm tháng trượt dài đi vì ma tuý và khủng hoảng tâm lý. Tại sao anh mình ko thể làm được gì cho em?

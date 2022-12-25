@@ -1,5 +1,5 @@
 # Mục tiêu
-- [ ] Hiểu [[4 Sản phẩm và mục tiêu (Các vùng đất)|các mục tiêu dài hạn]]
+- [ ] Hiểu [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|các mục tiêu dài hạn]]
 - [ ] Hiểu [[== Tổng quan tình hình hiện tại ==|các mục tiêu ngắn hạn]]
 
 # Cách hoạt động

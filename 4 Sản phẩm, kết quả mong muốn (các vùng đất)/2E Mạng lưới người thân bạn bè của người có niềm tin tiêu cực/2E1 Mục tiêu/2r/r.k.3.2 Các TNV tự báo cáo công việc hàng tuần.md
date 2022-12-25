@@ -1,1 +1,0 @@
-Hoạt động:: [[Đảm bảo các TNV quen với quy trình làm việc]]

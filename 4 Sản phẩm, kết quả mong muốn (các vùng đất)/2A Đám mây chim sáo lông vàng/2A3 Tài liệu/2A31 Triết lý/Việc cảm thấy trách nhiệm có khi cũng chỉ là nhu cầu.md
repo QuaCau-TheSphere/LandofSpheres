@@ -1,2 +1,0 @@
-Cảm thấy có trách nhiệm ở những lúc không ai yêu cầu mình phải có trách nhiệm thực ra. Cái nhu cầu mang tên "trách nhiệm" đã dẫn đắt ta đến hành động đó
-Thay vi xét tiền lương và trách nhiệm, có thể xét là mình có nhu cầu bằng đó tiền mỗi tháng, và việc nhu cầu đó được đáp ứng sẽ đem lại sự thong thả để có thể đáp ứng những nhu cầu khác, những nhu cầu vượt ra khỏi sự mong đợi của cả chính mình và mọi người
