@@ -1,4 +1,4 @@
-Nhu cầu của loại đối tượng:: 
+Nhu cầu của loại đối tượng::
 Điều loại đối tượng thấy ở QC:: [[Nếu không kiếm được tiền thì không nói được gì cả]]
 Nhu cầu của mình về đối tượng:: 
 

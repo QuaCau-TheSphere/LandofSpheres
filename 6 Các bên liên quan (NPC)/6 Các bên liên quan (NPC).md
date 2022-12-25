@@ -3,14 +3,14 @@
 
 ```dataview
 table hoạt-động-đã-làm-trong-tổ-chức
-From "3 Các bên liên quan (NPC)" 
+From "6 Các bên liên quan (NPC)/Cá nhân" 
 where hoạt-động-đã-làm-trong-tổ-chức
 ```
 # 2. Các bên liên quan đã nhận lời hỗ trợ QC
 
 ```dataview
 table hoạt-động-nhận-làm-trong-tổ-chức
-From "3 Các bên liên quan (NPC)" 
+From "6 Các bên liên quan (NPC)/Cá nhân" 
 where hoạt-động-nhận-làm-trong-tổ-chức
 ```
 # 3. Các nhu cầu của bạn bè QC chưa có bên liên quan hỗ trợ 

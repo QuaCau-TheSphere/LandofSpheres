@@ -67,7 +67,7 @@ Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+B%E1%BA%A3n+%C4%91%E1%BB%93+trong+QC
 	- [x] [[00.1 Lịch họp hằng tuần|Tuần này sẽ họp những gì]]
 	- [x] [[00.2 Kế hoạch tổng thể|Kế hoạch ngắn hạn của QC (các công việc PNML)]]
 	- [x] [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Kế hoạch dài hạn của QC]]
-	- [ ] [[3 Các bên liên quan (NPC)#1 Các bên liên quan đã hỗ trợ được QC|Những ai đóng góp cho QC]]
+	- [ ] [[6 Các bên liên quan (NPC)/Cá nhân#1 Các bên liên quan đã hỗ trợ được QC|Những ai đóng góp cho QC]]
 	- [ ] [[8 Tổ chức|Cơ cấu tổ chức và công việc trong ban mình muốn làm]] 
 	- [ ] [[82 Thành viên (Người chơi)|Hồ sơ công việc của mình và của các thành viên khác]]
 	- [ ] [[Cách tìm công việc phù hợp với mình nhất]]

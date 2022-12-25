@@ -11,7 +11,7 @@ Yếu tố hỗ trợ::		mmy
 Tham khảo:: [[|]]		mmt
 Hoạt động::		mmh
 
-# 3 Các bên liên quan (NPC)
+# 6 Các bên liên quan (NPC)/Cá nhân
 Loại đối tượng::		bbl
 Nhu cầu của đối tượng::		bbn
 Điều đối tượng thấy ở QC::		bbd

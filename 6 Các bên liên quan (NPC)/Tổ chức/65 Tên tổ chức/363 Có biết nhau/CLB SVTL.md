@@ -1,5 +1,5 @@
 Thành viên: `=filter(this.file.inlinks, (f) => contains(f.thuộc-tổ-chức, this.file.link))`
-Mô hình:: [[Câu lạc bộ sinh hoạt]]
+Mô hình:: [[Câu lạc bộ sinh hoạt]], [[sdfsdfsdf]]
 Đối tượng thụ hưởng:: [[Sinh viên]]
 Loại sứ mệnh:: [[Tâm lý học]]
 Loại sản phẩm:: [[Chuỗi chương trình]], [[Cuộc thi]], [[Bài đăng]], [[Buổi nói chuyện]]

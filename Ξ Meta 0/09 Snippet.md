@@ -136,7 +136,7 @@ $list|ForEach-Object {"`"$_`"," } |clip
 ```
 ## Đổi tên hàng loạt
 ```PowerShell
-gci -recurse | Where-Object Name -cmatch '^2[A-Z]'
+Get-ChildItem -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
 ```
 - `-cmatch`: match có case sensitive 
 # Git

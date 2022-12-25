@@ -12,7 +12,7 @@ list where contains(công-việc-thành-phần, [[]])
 ```
 Phục vụ cho nhu cầu:
 ```dataview
-list from "3 Các bên liên quan (NPC)/30 Nhu cầu" where contains(row["Cách đáp ứng nhu cầu này"],[[]])
+list from "6 Các bên liên quan (NPC)/Cá nhân/30 Nhu cầu" where contains(row["Cách đáp ứng nhu cầu này"],[[]])
 ```
 
 

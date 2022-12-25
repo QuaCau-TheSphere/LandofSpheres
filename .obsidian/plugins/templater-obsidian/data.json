@@ -15,56 +15,58 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "7 Công việc",
-      "template": "Ξ Meta 0/01 Templates/1/01.7 Công việc.md"
+      "folder": "1 Nhu cầu/12 Nhu cầu của mọi người",
+      "template": "Ξ Meta 0/01 Templates/016 Các bên liên quan/01.12 Nhu cầu của mọi người.md"
     },
     {
-      "folder": "2 Các vùng đất (Sản phẩm và mục tiêu)",
+      "folder": "1 Nhu cầu/11 Nhu cầu của Quả Cầu/Nhu cầu của Quả Cầu về mọi người",
+      "template": "Ξ Meta 0/01 Templates/016 Các bên liên quan/01.34 Nhu cầu của mình về đối tượng.md"
+    },
+    {
+      "folder": "3 Kiến thức, câu hỏi/31 Khái niệm, chủ đề",
+      "template": "Ξ Meta 0/01 Templates/01.31 Khái niệm, chủ đề.md"
+    },
+    {
+      "folder": "4 Sản phẩm, kết quả mong muốn (các vùng đất)",
       "template": "Ξ Meta 0/01 Templates/01.2 Sản phẩm và mục tiêu.md"
-    },
-    {
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật)",
-      "template": "Ξ Meta 0/01 Templates/3/01.31 Loại đối tượng.md"
-    },
-    {
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/62 Điều đối tượng thấy ở QC",
-      "template": "Ξ Meta 0/01 Templates/3/01.62 Điều đối tượng thấy ở QC.md"
-    },
-    {
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/33 Nhu cầu của đối tượng",
-      "template": "Ξ Meta 0/01 Templates/3/01.33 Nhu cầu của đối tượng.md"
-    },
-    {
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/34 Nhu cầu của mình về đối tượng",
-      "template": "Ξ Meta 0/01 Templates/3/01.34 Nhu cầu của mình về đối tượng.md"
-    },
-    {
-      "folder": "3 Các bên liên quan (NPC)/Tổ chức/66 Mô hình",
-      "template": "Ξ Meta 0/01 Templates/3/01.66 Mô hình.md"
-    },
-    {
-      "folder": "3 Các bên liên quan (NPC)/Tổ chức/38 Loại sứ mệnh",
-      "template": "Ξ Meta 0/01 Templates/3/01.38 Loại sứ mệnh.md"
-    },
-    {
-      "folder": "3 Các bên liên quan (NPC)/Tổ chức/68 Loại sản phẩm",
-      "template": "Ξ Meta 0/01 Templates/3/01.68 Loại sản phẩm.md"
     },
     {
       "folder": "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức",
       "template": "Ξ Meta 0/01 Templates/01.41 Điểm yếu.md"
     },
     {
-      "folder": "5 Kiến thức, câu hỏi/52 Chủ đề",
-      "template": "Ξ Meta 0/01 Templates/01.52 Chủ đề.md"
+      "folder": "6 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật) (loại nhân vật)",
+      "template": "Ξ Meta 0/01 Templates/016 Các bên liên quan/01.61 Loại đối tượng.md"
     },
     {
-      "folder": "6 Tổ chức/62 Thành viên (Người chơi)",
-      "template": "Ξ Meta 0/01 Templates/01.62 Thành viên.md"
+      "folder": "6 Các bên liên quan (NPC)/Cá nhân/62 Điều đối tượng thấy ở QC",
+      "template": "Ξ Meta 0/01 Templates/016 Các bên liên quan/01.62 Điều đối tượng thấy ở QC.md"
+    },
+    {
+      "folder": "6 Các bên liên quan (NPC)/Tổ chức/66 Mô hình",
+      "template": "Ξ Meta 0/01 Templates/016 Các bên liên quan/01.66 Mô hình.md"
+    },
+    {
+      "folder": "6 Các bên liên quan (NPC)/Tổ chức/67 Loại sứ mệnh, nội dung chủ đạo",
+      "template": "Ξ Meta 0/01 Templates/016 Các bên liên quan/01.67 Loại sứ mệnh, nội dung chủ đạo.md"
+    },
+    {
+      "folder": "6 Các bên liên quan (NPC)/Tổ chức/68 Loại sản phẩm",
+      "template": "Ξ Meta 0/01 Templates/016 Các bên liên quan/01.68 Loại sản phẩm.md"
+    },
+    {
+      "folder": "7 Công việc",
+      "template": "Ξ Meta 0/01 Templates/017 Công việc/01.7 Công việc.md"
+    },
+    {
+      "folder": "8 Tổ chức/82 Thành viên (Người chơi)",
+      "template": "Ξ Meta 0/01 Templates/01.82 Thành viên.md"
     }
   ],
   "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [],
+  "enabled_templates_hotkeys": [
+    ""
+  ],
   "startup_templates": [
     ""
   ],

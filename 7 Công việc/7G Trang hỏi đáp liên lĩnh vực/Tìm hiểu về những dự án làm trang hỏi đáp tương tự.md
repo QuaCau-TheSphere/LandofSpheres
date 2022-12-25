@@ -58,7 +58,7 @@ list where contains(row["Cách đáp ứng nhu cầu này"],[[]])
 ```
 Người sẵn sàng làm cùng:
 ```dataview
-list from "3 Các bên liên quan (NPC)/Cá nhân/35 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
+list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
 
 === multi-column-end
