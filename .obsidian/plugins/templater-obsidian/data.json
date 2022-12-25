@@ -23,12 +23,12 @@
       "template": "Ξ Meta 0/01 Templates/01.2 Sản phẩm và mục tiêu.md"
     },
     {
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/31 Loại đối tượng (Loại nhân vật)",
+      "folder": "3 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật)",
       "template": "Ξ Meta 0/01 Templates/3/01.31 Loại đối tượng.md"
     },
     {
-      "folder": "3 Các bên liên quan (NPC)/Cá nhân/32 Điều đối tượng thấy ở QC",
-      "template": "Ξ Meta 0/01 Templates/3/01.32 Điều đối tượng thấy ở QC.md"
+      "folder": "3 Các bên liên quan (NPC)/Cá nhân/62 Điều đối tượng thấy ở QC",
+      "template": "Ξ Meta 0/01 Templates/3/01.62 Điều đối tượng thấy ở QC.md"
     },
     {
       "folder": "3 Các bên liên quan (NPC)/Cá nhân/33 Nhu cầu của đối tượng",
@@ -39,19 +39,19 @@
       "template": "Ξ Meta 0/01 Templates/3/01.34 Nhu cầu của mình về đối tượng.md"
     },
     {
-      "folder": "3 Các bên liên quan (NPC)/Tổ chức/37 Mô hình",
-      "template": "Ξ Meta 0/01 Templates/3/01.37 Mô hình.md"
+      "folder": "3 Các bên liên quan (NPC)/Tổ chức/66 Mô hình",
+      "template": "Ξ Meta 0/01 Templates/3/01.66 Mô hình.md"
     },
     {
       "folder": "3 Các bên liên quan (NPC)/Tổ chức/38 Loại sứ mệnh",
       "template": "Ξ Meta 0/01 Templates/3/01.38 Loại sứ mệnh.md"
     },
     {
-      "folder": "3 Các bên liên quan (NPC)/Tổ chức/39 Loại sản phẩm",
-      "template": "Ξ Meta 0/01 Templates/3/01.39 Loại sản phẩm.md"
+      "folder": "3 Các bên liên quan (NPC)/Tổ chức/68 Loại sản phẩm",
+      "template": "Ξ Meta 0/01 Templates/3/01.68 Loại sản phẩm.md"
     },
     {
-      "folder": "4 SWOT/Điểm yếu - thách thức",
+      "folder": "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức",
       "template": "Ξ Meta 0/01 Templates/01.41 Điểm yếu.md"
     },
     {

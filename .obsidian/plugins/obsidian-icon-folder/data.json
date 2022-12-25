@@ -20,7 +20,6 @@
       "left": 0
     }
   },
-  "9 Tài liệu": "FasScroll",
   "6 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Lắng nghe": "FasEarListen",
   "1 Nhu cầu": "FasSailboat",
   "3 Kiến thức, câu hỏi": "FasLightbulb",
@@ -28,9 +27,8 @@
   "6 Các bên liên quan (NPC)": "RiContactsBook2Fill",
   "7 Công việc": "RiTaskFill",
   "8 Tổ chức": "FasBuilding",
-  "8 Tổ chức/62 Thành viên (Người chơi)": "IbGames",
   "2 Kỹ năng, thử thách, mức độ thành thạo": "RiGamepadFill",
-  "5 SWOT": "FasHandsAslInterpreting",
-  "5 SWOT. Giá trị cốt lõi": "FasHandsAslInterpreting",
-  "4 Sản phẩm và mục tiêu (Các vùng đất)": "FasMapLocation"
+  "5 SWOT, giá trị cốt lõi": "FasHandsAslInterpreting",
+  "4 Sản phẩm và mục tiêu (Các vùng đất)": "FasMapLocation",
+  "9 Tài liệu khác": "FasScroll"
 }

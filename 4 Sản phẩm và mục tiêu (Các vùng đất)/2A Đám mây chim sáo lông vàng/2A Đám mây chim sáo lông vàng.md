@@ -77,10 +77,10 @@ Hoạt động:: [[Tổ chức các buổi bình luận phim]]
 Không có trách nhiệm, không sống trong trách nhiệm nhưng vẫn tạo được sự tin tưởng tuyệt đối. Không cần sự chủ động có ý thức
 Không cần có hạn chót nhưng vẫn chạy tốt
 
-[[66 Hướng dẫn xử lý các trường hợp cụ thể]]
+[[83 Hướng dẫn xử lý các trường hợp cụ thể]]
 Chúng ta sẽ cùng thảo luận để xem
 ```dataview 
-List from "8 Tổ chức/66 Hướng dẫn xử lý các trường hợp cụ thể"
+List from "8 Tổ chức/83 Hướng dẫn xử lý các trường hợp cụ thể"
 ```
 
 Moonshots are a foundational building block of OKR, but they require a lot of organizational maturity. In my experience, moonshots can cause a few issues:

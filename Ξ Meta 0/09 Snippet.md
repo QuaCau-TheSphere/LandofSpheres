@@ -134,7 +134,11 @@ foreach ($i in $list) {
 ```PowerShell
 $list|ForEach-Object {"`"$_`"," } |clip
 ```
-
+## Đổi tên hàng loạt
+```PowerShell
+gci -recurse | Where-Object Name -cmatch '^2[A-Z]'
+```
+- `-cmatch`: match có case sensitive 
 # Git
 git config --global core.quotePath false
 git config --global core.longpaths true
