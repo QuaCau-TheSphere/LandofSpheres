@@ -5,5 +5,5 @@
 - [ ] [[Sử dụng dữ liệu của Quả Cầu]]
 - [ ] [[Từ bỏ việc sử dụng các khái niệm ❝trách nhiệm❞, ❝kỷ luật❞, ❝nội bộ❞]]
 - [ ] [[Thay đổi định hướng của Quả Cầu cho phù hợp với định hướng của bạn]]
-- [ ] [[Dùng Git]]
+- [ ] [[23 Dùng Git|Dùng Git]]
 - [ ] Tìm hiểu khoa học phức hợp

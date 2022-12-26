@@ -1,7 +1,5 @@
-# 7 Công việc 
-Công việc thành phần::		cvt
-next::		cvn
-Tài liệu:: [[|]]		cvt
+# 1 Nhu cầu
+Đáp ứng cho nhu cầu của mình::		nc
 # 2 Mục tiêu
 Mục tiêu::		mmm
 Đi chung::		mmd
@@ -10,6 +8,15 @@ Yếu tố hỗ trợ::		mmy
 Ý tưởng tốt hơn::		mmy
 Tham khảo:: [[|]]		mmt
 Hoạt động::		mmh
+
+# 3 Kiến thức, câu hỏi
+❓::		ttq
+Chủ đề::		ttw
+Trả lời:: 		tte
+
+# 4 Vấn đề
+Lý do::		vvl
+Là vấn đề cho hoạt động::		vvh
 
 # 6 Các bên liên quan (NPC)/Cá nhân
 Loại đối tượng::		bbl
@@ -26,19 +33,13 @@ Mô hình::		bbm
 Đối tượng thụ hưởng::		bbdd
 Loại sứ mệnh:: 		bbll
 
-# 4 Vấn đề
-Lý do::		vvl
-Là vấn đề cho hoạt động::		vvh
-
-# 3 Kiến thức, câu hỏi
-❓::		ttq
-Chủ đề::		ttw
-Trả lời:: 		tte
+# 7 Công việc 
+Công việc thành phần::		cvt
+next::		cvn
+Tài liệu:: [[|]]		cvt
 
 # 8 Tổ chức
 Công việc:: 		cv
-# 1 Nhu cầu
-Đáp ứng cho nhu cầu của mình::		nc
 # 9 Tài liệu
 Tóc vàng:: 		tv
 Tóc đen:: 		td

@@ -22,7 +22,6 @@
   },
   "8 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Lắng nghe": "FasEarListen",
   "1 Nhu cầu": "FasSailboat",
-  "3 Kiến thức, câu hỏi": "FasLightbulb",
   "4 Các vùng đất (Sản phẩm và mục tiêu)": "FarMap",
   "6 Các bên liên quan (NPC)": "RiContactsBook2Fill",
   "7 Công việc": "RiTaskFill",
@@ -30,5 +29,6 @@
   "2 Kỹ năng, thử thách, mức độ thành thạo": "RiGamepadFill",
   "5 SWOT, giá trị cốt lõi": "FasHandsAslInterpreting",
   "4 Sản phẩm, kết quả mong muốn (các vùng đất)": "FasMapLocation",
-  "9 Tài liệu khác": "FasScroll"
+  "9 Tài liệu khác": "FasScroll",
+  "3 Kiến thức, câu hỏi": "FasLightbulb"
 }

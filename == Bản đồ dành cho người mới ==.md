@@ -12,7 +12,12 @@ banner_y: 0.932
 ╲┃┈┈┈┈┈┈┈┈┈◥▉◤
 ╲┃┈┈┈┈╭━┳━━━━╯
 ╲┣━━━━━━┫
-Nếu bạn đọc được dòng này, hãy bấm Ctrl + E để thấy điều kỳ diệu
+╔═══════════════════╗
+║  Nếu bạn đọc được   ║
+║  dòng này, hãy bấm  ║
+║ **Ctrl + E** để thấy  ║
+║        điều kỳ diệu       ║
+╚═══════════════════╝
 %%%%%%%%%%%%
 
 Quả Cầu là một vùng đất đặc biệt, vì ở đó mọi người đều được **tự quyết định việc mình sẽ làm**, **thấy mình tiến bộ và thành thạo** trong công việc như thế nào, và đang **tạo nên một điều có ý nghĩa** cho mình và cho mọi người ra sao. Nó là một tổ chức không có người lãnh đạo, thành viên không làm vì trách nhiệm, và công việc không có hạn chót. Nó lấy nhu cầu của bạn làm trọng tâm, vì nó là của bạn. Bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng mình, và việc nhận việc chỉ là vì bạn cảm thấy nó sẽ giúp đỡ cho bản thân bạn trước tiên. Việc bạn làm điều tốt nhất cho chính mình chính là làm điều tốt nhất cho Quả Cầu.
