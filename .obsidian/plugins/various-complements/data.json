@@ -55,14 +55,6 @@
         }
       }
     },
-    "tv": {
-      "Tóc vàng:: ": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1668593698666
-        }
-      }
-    },
     "tccv": {
       "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến": {
         "customDictionary": {
@@ -76,14 +68,6 @@
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1669547185295
-        }
-      }
-    },
-    "td": {
-      "Tóc đen:: ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668593872919
         }
       }
     },
@@ -108,6 +92,14 @@
         "customDictionary": {
           "count": 3,
           "lastUpdated": 1670781878950
+        }
+      }
+    },
+    "Mục tiêu::": {
+      "Mục tiêu::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671975956061
         }
       }
     }

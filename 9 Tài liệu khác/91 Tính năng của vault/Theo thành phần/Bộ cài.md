@@ -1,6 +1,12 @@
 ---
 Alias: Installer
 ---
+
+- [ ] Vault tự động pull
+- [ ] Tự mở read mode
+- [ ] Pre config GitKraken 
+- [ ] bỏ npc cụ thể
+
 "Cài Git"
 .\Git-*.exe /SILENT
 
@@ -21,11 +27,3 @@ git config --global --add safe.directory '*'
 
 "git clone https://github.com/QuaCau-TheSphere/LandofSpheres" 
 git clone https://github.com/QuaCau-TheSphere/LandofSpheres
-
-"Cài Obsidian" 
-.\Obsidian*.exe /S
-
-"Cài GitKraken" 
-.\GitKrakenSetup.exe -s
-
-"Dữ liệu đã được lưu thành công. Hãy " 

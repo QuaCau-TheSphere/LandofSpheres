@@ -1,6 +1,6 @@
 # Rèn luyện kỹ năng mới
 - [ ] Hiểu được [những điều kiện để ta thành thạo một kỹ năng](https://www.youtube.com/watch?v=5eW6Eagr9XA) 
-- [ ] Xem [[8 Kỹ năng, thử thách, mức độ thành thạo|danh sách tất cả các kỹ năng]] và chọn một kỹ năng mình muốn luyện
+- [ ] Xem [[2 Kỹ năng, thử thách, mức độ thành thạo|danh sách tất cả các kỹ năng]] và chọn một kỹ năng mình muốn luyện
 	- Nếu chưa có kỹ năng đó hoặc kỹ năng đó còn trống, hãy [[Trò chuyện với mọi người]] để những người có kinh nghiệm hơn giúp bạn
 - [ ] Dạy là cách học tốt nhất
 # Củng cố kiến thức đã học

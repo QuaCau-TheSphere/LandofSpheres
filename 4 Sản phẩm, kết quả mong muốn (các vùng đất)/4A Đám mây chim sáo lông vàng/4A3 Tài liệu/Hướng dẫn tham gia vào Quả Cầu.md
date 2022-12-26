@@ -2,7 +2,9 @@ Thân chào ____________________,
 
 Chào mừng bạn đến với vùng đất của Quả Cầu. Ở Quả Cầu các thành viên đều được **tự quyết định việc mình sẽ làm**, để họ thấy được công việc đem đến **sự tiến bộ và thành thạo**, và đang tạo nên một điều gì đó **có ý nghĩa** cho mình và cho mọi người như thế nào.  
 
-Mời bạn [tải dữ liệu của Quả Cầu](https://drive.google.com/drive/folders/1jtY95VTvQB5naS0s0XXw7Pd63HNh3Iz0?usp=sharing) và mở bằng phần mềm [Obsidian](https://obsidian.md). Sau khi đã mở được dữ liệu lên rồi, bạn hãy bấm vào file Bản đồ dành cho người mới và Tổng quan tình hình của Quả Cầu. Trong đó sẽ có các link dẫn bạn tham quan thế giới mà Quả Cầu đang xây dựng. (Xem thêm các hình hướng dẫn ở cuối email.)  
+Mời bạn bấm vào nút sau để đọc các bài viết hướng dẫn bạn tham quan thế giới mà Quả Cầu đang xây dựng:  
+
+[![Nút tải bản cài đặt.png](blob:https://mail.google.com/89fc54ad-63b8-4689-9cf6-b9d55f3f96a2)](https://quacau.space/b7xl)
   
 Vì bọn mình muốn hướng tới một môi trường làm việc không hạn chót, lấy nhu cầu của bạn làm trọng tâm, đem lại sự tự chủ, tự do cho bạn, nên bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng bạn, và việc nhận việc chỉ là vì bạn cảm thấy việc đó sẽ đem lại điều tốt nhất cho mình.  
   

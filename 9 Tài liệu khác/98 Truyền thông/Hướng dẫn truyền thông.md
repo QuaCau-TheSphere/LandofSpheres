@@ -21,7 +21,7 @@ Giới thiệu chung thì có thể dựa vào [[4 Sản phẩm, kết quả mon
 | Forum                             |                                 |                        |              |                    |
 | example.com                       |                                 |                        |              |                    |
 | Form                              |                                 | Tên form               | CV           |                    |
-| Email                             |                                 | Email người nhận       |              |                    |
+| Email                             | Email người nhận                | Xác nhận TNV           |              |                    |
 | I                                 |                                 | Nick người nhận        |              |                    |
 | Google Docs                       | Tên dự án cần phải dùng file đó |                        |              |                    |
 | Discord                           | Obsidian » #.tiếng-việt         |                        |              | Argument map       |

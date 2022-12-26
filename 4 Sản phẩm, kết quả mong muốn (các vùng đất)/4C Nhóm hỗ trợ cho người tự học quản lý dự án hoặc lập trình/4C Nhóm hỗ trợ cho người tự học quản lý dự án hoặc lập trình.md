@@ -13,6 +13,7 @@
 - Lập trình, git
 - Concept map
 - Những quan niệm đến từ nền kinh tế dùng tiền và chủ nghĩa tân tự do
+- Những quan niệm liên quan đến việc đặt câu hỏi
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault kết nối nhu cầu]]
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công việc]]
 Hoạt động:: [[Truyền thông cho nhóm lập trình]]
@@ -21,15 +22,25 @@ Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian
 Hoạt động:: [[Làm chuỗi video hướng dẫn sử dụng vault]]
 Hoạt động:: [[Làm video cho Obsidian]]
 # Thực thể khi được nhìn như là sản phẩm
+Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
 You can't think about thinking if you don't think about something
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
 Phù hợp cho các bạn đã từng thử cài website Wordpress 
 Thường là ít tiền, nhân sự, phải kiêm nhiệm nhiều nhiệm vụ. Khi cần làm thì lại trongcown nảy ý tưởng 
+Tài nguyên học là rất nhiều
+Khám phá tài nguyên tốt
+Google thì lại vụn vặt 
+Nhưng kể cả khi có được tài nguyên tốt rồi thì nó lại đòi hỏi phải tập trung
+Nó khôngphaphải là thứ có thể ưu tiên cái nào làm trước cái nào làm sau được
+## Kỹ năng không cần lắm 
+Làm phong phú cuộc sống,nhưng chỉ một lúc là sẽ chán
+
 là công cụ cho một mục tiêu khác
 Họ cần giải pháp, sau đó mới hiểu giải pháp đó
 
+Chatgpt 
 Obsidian phức tạp mà mỗi nhiệm kỳ chỉ kéo dàu một năm, hết nhiệm kỳ sẽ lại phải đào tạo lại cho thành viên. Mọi người chấp nhận là nó sẽ lặp lại mỗi năm
 
 Trong 3 năm mình tham gia vào các mạng lưới, cộng đồng phi lợi nhuận, mình cảm thấy mặc dù đã có rất rất nhiều tổ chức muốn thúc đẩy một hệ sinh thái giữa các dự án, nhưng lại chưa cảm thấy sự hiệu quả đạt đến mức tối ưu, mặc dù mình đánh giá rất cao nỗ lực và sự chuyên nghiệp của họ. Mình phải thẳng thắn nói rằng mình thất vọng rất nhiều sau các sự kiện kết nối. Mọi người có biết đến nhau, nhưng sau buổi hôm đó cũng chỉ dừng lại ở đó, không đi xa hơn được. Mình nghĩ rằng nguyên nhân quan trọng nhất là các bên **quá nhiều việc**. Mọi người không thể đi đủ sâu để tìm hiểu về nhau. Vì để có thể đi sâu thì phải tốn rất rất nhiều thời gian, mà thường tổ chức phải phát triển đủ lớn để có một người chuyên về việc kết nối, chứ công việc thì rất rất nhiều. Nếu như các tổ chức kết nối cộng đồng chủ động phân loại và tổ chức các buổi gặp gỡ cho các dự án quy mô nhỏ tương tự nhau thì rất tốt, nhưng mình không thấy được điều đó.

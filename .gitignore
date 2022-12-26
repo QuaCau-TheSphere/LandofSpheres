@@ -1,5 +1,6 @@
 # Syncthing
 .st*
+.zettel-notes
 desktop.ini
 .trash/
 

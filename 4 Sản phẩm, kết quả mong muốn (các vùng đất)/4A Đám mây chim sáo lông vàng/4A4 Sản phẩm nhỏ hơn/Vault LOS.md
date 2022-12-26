@@ -12,5 +12,5 @@ Vault dữ liệu của Quả Cầu dành cho những ai muốn:
 - Củng cố, đào sâu kiến thức học trong trường hoặc tìm gợi ý để tư duy của mình có tính liên ngành hơn
 - Tham khảo cách quản lý dự án trên Obsidian và Git
 - Quan sát hoặc đóng góp cho Quả Cầu
-
+# [⬇️Tải tại đây⬇️](https://github.com/QuaCau-TheSphere/LOS-Installer/releases/tag/v0.1)
 Xin cảm ơn hai bạn _Meigyoku Thmn_ và _VINAGHOST_ trong [Discord của J2TEAM](https://discord.gg/qunw3UD3Fn) đã tư vấn, hỗ trợ xây dựng bộ cài đặt này.
