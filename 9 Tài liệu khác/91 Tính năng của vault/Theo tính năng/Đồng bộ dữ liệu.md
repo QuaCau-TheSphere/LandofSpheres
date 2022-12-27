@@ -22,7 +22,6 @@ Alias: Google Drive, Syncthing, sync, Git
 | community-plugins.json          |                                        | ✔                                                    | ✔               |
 | core-plugins.json               |                                        |                                                      |                 |
 | hotkey.json                     |                                        |                                                      |                 |
-| .git                            |                                        |                                                      |                 |
 |                                 |                                        |                                                      |                 |
 | advanced-toolbar                |                                        | ✔                                                    |                 |
 | dataview                        |                                        |                                                      |                 |
@@ -49,70 +48,8 @@ Alias: Google Drive, Syncthing, sync, Git
 | templater-obsidian              |                                        | ✔                                                    |                 |
 | various-complements             |                                        | ✔                                                    | ✔               |
 
-### Có thể tắt
-| workspace-mobile.json           |                                   | ✔               |
-| workspace.json                  |                                   | ✔               |
-obsidian-commits
-recent-files-obsidian
-auto-note-mover
-breadcrumbs
-cm-editor-syntax-highlight-obsidian
-copy-url- in-preview
-dbfolder
-graph-analysis
-heatmap-calendar
-hot-reload
-import-into-obsidian
-language-translator
-mrj-jump-to-link
-nldates-obsidian
-note-refactor-obsidian
-notion-like-tables
-obsidian-admonition
-obsidian-advanced-slides
-obsidian-argdown-plugin
-obsidian-auto-link-title
-obsidian-autocomplete-plugin
-obsidian-chartsview-plugin
-obsidian-database-plugin
-obsidian-day-planner
-obsidian-divide-and-conquer
-obsidian-embedded-note-titles
-obsidian-excalidraw-plugin
-obsidian-filename-heading-sync
-obsidian-frontmatter-tag-suggest
-obsidian-full-calendar
-obsidian-graphviz
-obsidian-heading-shifter
-obsidian-import-json
-obsidian-kanban
-obsidian-list-modified
-obsidian-projects
-obsidian-regex-pipeline
-obsidian-regex-replace
-obsidian-shellcommands
-obsidian-snippet-downloader
-obsidian-style-settings
-obsidian-tabs
-obsidian-tasks-plugin
-obsidian-user-plugins
-obsidian-wikipedia
-obsidian42-brat
-open-with
-plugin
-search-on-internet
-supercharged-links-obsidian
-table-editor-obsidian
-tag-word-cloud
-tag-wrangler
 - Lúc đầu là tải folder .obsidian như ở upstream, nhưng sau đó không sync gì cả (ignore files), nhưng vẫn giữ quyền overwrite khi cần dùng
 - lock edit Hoặc auto merge
-
-| Cấp độ               | Nhu cầu                                               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore | communityplugins.json | plugins | Giải pháp                       |
-| -------------------- | ----------------------------------------------------- | ------------------- | ---------------------------- | ---------------------------- | ---------------------------- | --------- | ---------- | --------------------- | ------- | ------------------------------- |
-| Mới biết về Obsidian | Biết tổng thể có gì, không cần phải cập nhật liên tục | 1-way               | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | Tải về lần đầu sau đó ignore | 1-way     |            | 1-way                 | 1-way   | Đưa link google drive để tải về |
-| Biết sơ sơ           | Cập nhật để nắm tình hình nhóm tốt hơn                | 2-way<br>gỡ chặn PR | ignore                       | ignore                       | ignore                       | 1-way     |            | 1-way                 | 1-way   |                                 |
-| Đã rành về plugin    | Chỉnh sửa                                             | 2-way               | ignore                       | ignore                       | ignore                       | ignore    |            | 1-way                 | 1-way   |                                 |
 
 [A Comparison Study for File Synchronisation](https://core.ac.uk/download/pdf/82255612.pdf)
 
