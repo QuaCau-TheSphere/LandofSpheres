@@ -1,7 +1,0 @@
-[[6 Các bên liên quan (NPC)/Cá nhân (NPC)/Cá nhân/63 Đối tượng cụ thể (NPC)/Cá nhân khác/Ngọc's network/Tran Chip]] 
-[[6 Các bên liên quan (NPC)/Cá nhân (NPC)/Cá nhân/63 Đối tượng cụ thể (NPC)/Cá nhân khác/Ngọc's network/Yen Le Yilly]]
-[[6 Các bên liên quan (NPC)/Cá nhân (NPC)/Cá nhân/63 Đối tượng cụ thể (NPC)/Cá nhân khác/Ngọc's network/Nguyễn Quỳnh]]
-[[6 Các bên liên quan (NPC)/Cá nhân (NPC)/Cá nhân/63 Đối tượng cụ thể (NPC)/Cá nhân khác/Ngọc's network/Vân Đàm]]
-[[6 Các bên liên quan (NPC)/Cá nhân (NPC)/Cá nhân/63 Đối tượng cụ thể (NPC)/Cá nhân khác/Ngọc's network/Bùi Đức]]
-[[6 Các bên liên quan (NPC)/Cá nhân (NPC)/Cá nhân/63 Đối tượng cụ thể (NPC)/Cá nhân khác/Ngọc's network/Bùi Hường Vân]]
-[[Ngân Sơn]] 
