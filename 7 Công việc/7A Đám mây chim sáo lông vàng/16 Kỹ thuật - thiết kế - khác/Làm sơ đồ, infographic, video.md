@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🧍Cóthểlàmm
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Thiết kế đồ hoạ, video]], [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]
+Kỹ năng:: [[Làm video]], [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]
 
 === end-multi-column
 

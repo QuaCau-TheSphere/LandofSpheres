@@ -16,7 +16,7 @@ Tính chất công việc:: #tc-🧠Tưduynhiều, #tc-💬Họpthườngxuyên
 
 Người chơi:: 
 Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
-Kỹ năng:: [[Thiết kế đồ hoạ, video]]
+Kỹ năng:: [[Làm video]]
 
 === end-multi-column
 
