@@ -16,3 +16,10 @@
 
 [Tuyết Ngọc](https://www.facebook.com/Tuyetngoc801)
 
+# Block 
+
+[Phạm Quang Trung](https://www.facebook.com/profile.php?id=100005508961480&sk=friends)
+
+[Nguyễn Hoàng Duy Mạnh](https://www.facebook.com/zickant)
+
+[Trịnh Minh Đức](https://www.facebook.com/duc.d.dan.7/timeline?lst=1808590784%3A100000206440497%3A1576308520)

@@ -18,7 +18,7 @@ Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Nghiên cứu (kỹ năng)
 🌐:: [Lý Minh Nhật – Human after all](https://lyminhnhat.com?utm_source=Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+Nh%E1%BA%ADt&utm_medium=Homepage&utm_campaign=Homepage)
 Facebook:: [Quả Cầu](https://www.facebook.com/qua.cau.the.sphere)
 Kỹ năng:
-- [[Dùng Git]]: 🌕
+- [[23 Dùng Git]]: 🌕
 - [[Dùng Obsidian]]: 🌕
 
 === multi-column-end

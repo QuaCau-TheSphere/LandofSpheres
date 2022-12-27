@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàm
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Lắng nghe]], [[Thuyết trình, bán ý tưởng]]
+Kỹ năng:: [[Lắng nghe, quan sát, đặt câu hỏi]], [[Thuyết trình, bán ý tưởng]]
 
 === end-multi-column
 

@@ -139,9 +139,3 @@ Em xin chào chị Thuỳ Trang. Em có nhận thấy là mình bị ban trong g
 Không biết chị có thể xem xét trường hợp này giúp em được không?
 Đây là một bài viết về công cụ tăng năng suất làm việc gần đây của em: https://www.facebook.com/groups/1454041224987835/posts/1808693862855901/
 Em cảm ơn chị đã dành thời gian xem xét nhé
-
-[Phạm Quang Trung](https://www.facebook.com/profile.php?id=100005508961480&sk=friends)
-
-[Nguyễn Hoàng Duy Mạnh](https://www.facebook.com/zickant)
-
-[Trịnh Minh Đức](https://www.facebook.com/duc.d.dan.7/timeline?lst=1808590784%3A100000206440497%3A1576308520)

@@ -19,6 +19,7 @@ Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi th�
 # Phân tích từng thư mục
 ## 1 Nhu cầu
 Dẫn tới mạng lưới nhu cầu 
+
 ## 2 Kỹ năng 
 Bằng việc nhận ra rằng hiểu tổ chức cũng chỉ là một kỹ năng, ta không còn cần phải sử dụng đến hệ thống cấp bậc, mà vẫn giữ được  
 
@@ -26,12 +27,18 @@ Nhiều khi cảm giác kỹ năng với thử thách là một. Nhưng nó sẽ
 
 Thử thách với đầu vào đều là những cách để tăng mức độ thành thạo kỹ năng đó. Thử thách là những công việc ở QC. Đầu vào là những công việc ko ở QC
 
+Những tinh thần, triết lý mà tôi muốn lan tỏa, cũng chỉ là một dạng kỹ năng
 Thành tựu với đầu ra là giống nhau
 
 ## 3 Kiến thức
 - 31 Khái niệm, chủ đề: Các chủ đề mà QC bàn đến      
 - 32 Câu hỏi: Những lỗ hổng về mặt kiến thức mà tổ chức cần tìm hiểu
 - 33 Ghi chép: evergreen
+
+## 4 Sản phẩm
+Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
+
+
 | Folder                                | Giải thích                                             | Mô hình sử dụng |
 | ------------------------------------- | ------------------------------------------------------ | --------------- |
 | 7 Công việc                           |                                                        |                 |

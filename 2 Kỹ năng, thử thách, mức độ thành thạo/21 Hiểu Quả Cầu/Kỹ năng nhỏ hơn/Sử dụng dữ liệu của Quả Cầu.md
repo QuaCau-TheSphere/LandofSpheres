@@ -1,7 +1,7 @@
 - [ ] [[1 Làm quen với Obsidian]]
 - [ ] [[Đồng bộ dữ liệu với nhóm]]
-- [ ] Hiểu được trong vault có những thư mục nào
-- [ ] [[Dùng Git]]
+- [ ] Hiểu được [[Cấu trúc thư mục]]
+- [ ] [[23 Dùng Git]]
 - [ ] [[Tạo một vault cho riêng mình]]
 - [ ] [[Thêm ảnh của mình vào folder Media]] 
 - [ ] Tạo note mới
