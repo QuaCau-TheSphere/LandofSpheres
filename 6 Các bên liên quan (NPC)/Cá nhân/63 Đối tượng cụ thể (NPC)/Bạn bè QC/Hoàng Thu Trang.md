@@ -14,7 +14,7 @@ Nhu cầu của đối tượng:: [[Ngăn chặn tự tử]]
 
 Hoạt động nhận làm trong tổ chức:: [[Phát triển page]]
 Hoạt động nhận làm trong tổ chức:: [[Seeding]]
-Hoạt động nhận làm trong tổ chức:: [[2A Đám mây chim sáo lông vàng]]
+Hoạt động nhận làm trong tổ chức:: [[4A Đám mây chim sáo lông vàng]]
 
 Đánh giá chung:: 3/5
 

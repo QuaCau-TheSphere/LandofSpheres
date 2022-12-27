@@ -177,7 +177,7 @@ Nói cách khác, do phải có sự trùng khớp nhu cầu, nên hình thức 
 
 (5) Khó khăn để định giá hàng hóa và dịch vụ: Trong nền kinh tế trao đổi hiện vật, rất khó để biết được giá trị hàng hóa, dịch vụ mà một người đang sở hữu là bao nhiêu.
 
-![[2A Đám mây chim sáo lông vàng#FAQ]]
+![[4A Đám mây chim sáo lông vàng#FAQ]]
 
 # Các thông tin cần cung cấp
 - Lịch rảnh

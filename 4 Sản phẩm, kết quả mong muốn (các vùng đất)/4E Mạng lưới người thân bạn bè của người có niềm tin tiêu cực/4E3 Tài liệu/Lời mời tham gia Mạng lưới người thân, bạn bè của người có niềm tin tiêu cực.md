@@ -1,4 +1,3 @@
-# Lời mời tham gia Mạng lưới người thân, bạn bè của người có niềm tin tiêu cực
 
 Để một người có thể nhận ra rằng niềm tin của mình là gây hại cho mình và người khác và cần phải thay đổi, thì cần phải có một sự kiện từ bên ngoài tác động đến họ. Đây là điều ai cũng biết, không cần phải học hành kiến thức cao siêu, nhưng ngay cả những người học hành cao siêu cũng cảm thấy rằng mình không thể làm gì được, mà chỉ có thể thụ động chờ sự kiện đó đến. Đó thật ra không khác gì nói rằng chúng ta bất lực cả. Dự án Quả Cầu muốn xây dựng một con đường để có thể chủ động thay đổi môi trường sống của họ một cách tự nhiên mà không quá gian lao.
 

@@ -9,7 +9,7 @@ Nhu cầu của mình về đối tượng:: [[Hợp tác nghiên cứu, giúp t
 
 Họ được gì khi tham gia:: [[Sự tự tin khi đối diện với các vấn đề nhạy cảm. Sự rõ ràng trong các vấn đề đạo đức]], [[Các công cụ mạnh để hệ thống hoá quan sát của mình và tư duy hiệu quả]], [[Thấy được mình ở đâu trong một rừng các nghiên cứu]], [[Các phân tích xoay quanh các chủ đề về niềm tin]], [[Là người tạo ra sự rõ ràng cho những gì mình đang cảm thấy mơ hồ]], [[Thấy đại chúng có được kiến thức đúng đắn]], 
 
-Hoạt động dành cho họ:: [[Làm nội dung]], [[Tìm người cố vấn]], [[Xây dựng bản khảo sát đối tượng. Mời từng người làm khảo sát]], [[2A Đám mây chim sáo lông vàng]], [[Truyền thông về sự hiệu quả của Obsidian]]
+Hoạt động dành cho họ:: [[Làm nội dung]], [[Tìm người cố vấn]], [[Xây dựng bản khảo sát đối tượng. Mời từng người làm khảo sát]], [[4A Đám mây chim sáo lông vàng]], [[Truyền thông về sự hiệu quả của Obsidian]]
 
 Họ tham gia vào bước nào trong dự án:: [[Thấu cảm]], [[Xác định vấn đề]], [[Lên giải pháp]]
 

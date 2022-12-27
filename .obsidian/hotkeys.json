@@ -370,5 +370,14 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-git:list-changed-files": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

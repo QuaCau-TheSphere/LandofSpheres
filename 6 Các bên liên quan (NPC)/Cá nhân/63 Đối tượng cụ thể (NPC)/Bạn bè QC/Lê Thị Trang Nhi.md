@@ -15,7 +15,7 @@ Hoạt động nhận làm trong tổ chức:: [[2G Trang hỏi đáp liên lĩn
 Hoạt động nhận làm trong tổ chức:: [[Hậu cần các buổi họp]]
 Hoạt động nhận làm trong tổ chức:: [[Tuyển thêm TNV]]
 Hoạt động nhận làm trong tổ chức:: [[Kêu gọi chia sẻ các bài viết]]
-Hoạt động nhận làm trong tổ chức:: [[2A Đám mây chim sáo lông vàng]]
+Hoạt động nhận làm trong tổ chức:: [[4A Đám mây chim sáo lông vàng]]
 
 em vẫn chưa tác động lên người em muốn tác động yoo
 

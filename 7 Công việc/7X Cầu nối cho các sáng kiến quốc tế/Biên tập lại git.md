@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình. #tc-🔓Làmlúcnào
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Dịch]], [[Tiếng Anh]], [[23 Dùng Git]]
+Kỹ năng:: [[Dịch]], [[Tiếng Anh]], [[23 Dùng Git|Dùng Git]]
 
 === end-multi-column
 

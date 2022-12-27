@@ -38,11 +38,10 @@ Thành tựu với đầu ra là giống nhau
 ## 4 Sản phẩm
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 
+# Nhìn lại lần nữa
+Cách mà các khái niệm như Kỹ năng, Chủ đề, Sản phẩm mở ra (unfold) chính nó. Nghĩa là dưới nó còn có nó
 
-| Folder                                | Giải thích                                             | Mô hình sử dụng |
-| ------------------------------------- | ------------------------------------------------------ | --------------- |
-| 7 Công việc                           |                                                        |                 |
-| 4 Sản phẩm và mục tiêu (Các vùng đất) |                                                        |                 |
+
 
   
 - Tìm nguyên nhân gốc rễ: Cây vấn đề

@@ -11,6 +11,6 @@ Họ được gì khi tham gia:: [[Được là chính mình]], [[Cảm thấy r
 
 Hoạt động dành cho họ:: [[Tuyển thêm TNV]]
 Hoạt động dành cho họ:: [[Tìm hiểu tại sao các bài viết chưa được các thành viên QC chia sẻ]]
-Hoạt động dành cho họ:: [[2A Đám mây chim sáo lông vàng]]
+Hoạt động dành cho họ:: [[4A Đám mây chim sáo lông vàng]]
 
 Họ tham gia vào bước nào trong dự án:: [[Nhân sự]], [[Thấu cảm]], [[Xác định vấn đề]], [[Lên giải pháp]], [[Tạo mẫu thử]], [[Kiểm tra]]

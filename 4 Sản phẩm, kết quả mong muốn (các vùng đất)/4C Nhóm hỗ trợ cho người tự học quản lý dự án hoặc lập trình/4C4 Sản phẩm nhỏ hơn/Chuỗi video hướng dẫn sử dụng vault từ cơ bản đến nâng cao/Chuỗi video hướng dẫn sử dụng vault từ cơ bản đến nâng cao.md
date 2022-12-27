@@ -36,6 +36,7 @@ There are absolutely TONS of uses for a sophisticated version control system lik
 ## 3.2 Commit và branch
 ## 3.3 Working tree, index và repo
 ## 3.4 Làm việc với remote. hiểu về merge
-## Làm việc với GitHub
+## 3.5 Làm việc với GitHub
 Website của GitHub sẽ giả vờ như là bạn đang ở trên máy chủ
+## 3.6 Tạo pull request
 ![[Phương pháp học hiệu quả.png]]

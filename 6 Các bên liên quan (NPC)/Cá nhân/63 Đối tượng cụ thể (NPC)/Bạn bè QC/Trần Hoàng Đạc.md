@@ -14,7 +14,7 @@ Nhu cầu của đối tượng:: [[Làm việc với những dự án có cộn
 Hoạt động nhận làm trong tổ chức:: [[2G Trang hỏi đáp liên lĩnh vực]]
 Hoạt động nhận làm trong tổ chức:: [[Hậu cần các buổi họp]]
 Hoạt động nhận làm trong tổ chức:: [[Xây dựng bản khảo sát đối tượng. Mời từng người làm khảo sát]]
-Hoạt động nhận làm trong tổ chức:: [[2A Đám mây chim sáo lông vàng]]
+Hoạt động nhận làm trong tổ chức:: [[4A Đám mây chim sáo lông vàng]]
 Hoạt động nhận làm trong tổ chức:: [[Phát triển page]]
 Hoạt động nhận làm trong tổ chức:: [[Giới thiệu các bài viết trên web]]
 Hoạt động nhận làm trong tổ chức:: [[Tổ chức các buổi Change My View]]

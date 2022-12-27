@@ -1,2 +1,3 @@
 - [ ] Đọc giáo trình của sinh viên 
 	- [Hướng dẫn tự học lập trình PHP | Tự học ICT](https://tuhocict.com/huong-dan-tu-hoc-lap-trinh-php/)
+	- [Kì Học Bị Thiếu Của Giáo Trình Khoa Học Máy Tính · the missing semester of your cs education](https://missing-semester-vn.github.io/)

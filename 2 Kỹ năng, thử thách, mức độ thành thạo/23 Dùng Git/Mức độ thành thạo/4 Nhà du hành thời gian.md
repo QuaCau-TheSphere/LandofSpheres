@@ -7,3 +7,4 @@
 
 # Đầu vào
 - [[3 Tìm hiểu Git nghiêm túc]]
+[The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)

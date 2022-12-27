@@ -1,4 +1,4 @@
-Ý tưởng tốt hơn:: [[2A Đám mây chim sáo lông vàng]]
+Ý tưởng tốt hơn:: [[4A Đám mây chim sáo lông vàng]]
 
 Mục tiêu:: [[r.k.1 Các TNV có sự thoả mãn trong công việc]]
 Mục tiêu:: [[r.k.2 Các TNV nhiều kinh nghiệm tham gia vào nhóm]]

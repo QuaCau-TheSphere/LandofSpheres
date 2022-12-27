@@ -5,7 +5,7 @@ Alias: Installer
 - [ ] Vault tự động pull
 - [ ] Tự mở read mode
 - [ ] Pre config GitKraken 
-- [ ] bỏ npc cụ thể
+- [x] bỏ npc cụ thể
 
 "Cài Git"
 .\Git-*.exe /SILENT
