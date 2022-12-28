@@ -15,6 +15,3 @@ Hoạt động::
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng::
-
-![[Nhóm rhizome.png]]
-[https://embed.kumu.io/fe4c012ff1c13cdf7bb1c0b33dcf0733](https://embed.kumu.io/fe4c012ff1c13cdf7bb1c0b33dcf0733)

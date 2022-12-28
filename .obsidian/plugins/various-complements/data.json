@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "Ξ Meta 0/02 Gõ nhanh.md",
+  "customDictionaryPaths": "9 Tài liệu khác\\91 Tính năng của vault\\Thiết lập\\Gõ tắt.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -60,14 +60,6 @@
         "customDictionary": {
           "count": 5,
           "lastUpdated": 1669823137319
-        }
-      }
-    },
-    "##### Kết quả mong muốn": {
-      "##### Kết quả mong muốn": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1669547185295
         }
       }
     },
