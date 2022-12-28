@@ -7,9 +7,16 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: null
-Độ cấp thiết:: null
-Tính chất công việc:: null
+Trạng thái:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('tt')).filter((key) => key.includes('/')))) %>
+Độ cấp thiết:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('đct')))) %>
+Tính chất công việc:: <% (await tp.system.suggester(
+	(item) => item, [
+		"#tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến", 
+		"#tc-🧍Cóthểlàmmộtmình, #tc-🔓Làmlúcnàocũngđược, #tc-🌐Cóthểlàmquamạng, #tc-💻Cầnlàmtrênmáytính, #tc-🧠Tưduynhiều, #tc️-🏋️Tìmngườicóchuyênmôncaolàmsẽtốthơn", 
+		"#tc-🔁Kếtquảthayđổithườngxuyên, #tc-🔁Côngviệclặplại, #tc-💬Họpthườngxuyên, #tc-🥳Tươngtácnhiềuvớiloàingười", 
+		"#tc-☕Chỉnênlàmkhigặpmặttrựctiếp, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính", 
+		"#tc-💻Khôngphảicắmmặtvàomáytính, #tc-🌳Tiếpxúcvớiđộngvậtthiênnhiên, #tc-🚴Đilạinhiềunơi", 
+	])) %>
 
 === end-column ===
 

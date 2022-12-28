@@ -11,6 +11,7 @@ desktop.ini
 #!/.obsidian/community-plugins.json
 !/.obsidian/core-plugins.json
 !/.obsidian/hotkeys.json
+!/.obsidian/starred.json
 
 !/.obsidian/plugins/
 /.obsidian/plugins/*

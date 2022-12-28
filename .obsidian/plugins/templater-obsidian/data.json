@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "1 Nhu cầu/12 Nhu cầu của mọi người",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/016 Các bên liên quan/012 Nhu cầu của mọi người.md"
+      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/012 Nhu cầu của đối tượng.md"
     },
     {
       "folder": "1 Nhu cầu/11 Nhu cầu của Quả Cầu/Nhu cầu của Quả Cầu về mọi người",
@@ -32,27 +32,27 @@
     },
     {
       "folder": "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/041 Điểm yếu.md"
+      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/051 Điểm yếu.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật) (loại nhân vật)",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/016 Các bên liên quan/061 Loại đối tượng.md"
+      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/06 Các bên liên quan/061 Loại đối tượng.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Cá nhân/62 Điều đối tượng thấy ở QC",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/016 Các bên liên quan/062 Điều đối tượng thấy ở QC.md"
+      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/06 Các bên liên quan/062 Điều đối tượng thấy ở QC.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Tổ chức/66 Mô hình",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/016 Các bên liên quan/066 Mô hình.md"
+      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/06 Các bên liên quan/066 Mô hình.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Tổ chức/67 Loại sứ mệnh, nội dung chủ đạo",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/016 Các bên liên quan/067 Loại sứ mệnh, nội dung chủ đạo.md"
+      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/06 Các bên liên quan/067 Loại sứ mệnh, nội dung chủ đạo.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Tổ chức/68 Loại sản phẩm",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/016 Các bên liên quan/068 Loại sản phẩm.md"
+      "template": "9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Templates/06 Các bên liên quan/068 Loại sản phẩm.md"
     },
     {
       "folder": "7 Công việc",
