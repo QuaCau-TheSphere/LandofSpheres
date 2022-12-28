@@ -1,7 +1,7 @@
 ---
 banner: "![[Chào mừng đến với LOS (hanoi).png]]"
-Alias: Hành trình thành viên, chào mừng, truy cập nhanh, hướng dẫn cho người mới
 banner_y: 0.932
+Alias: Hành trình thành viên, chào mừng, truy cập nhanh, hướng dẫn cho người mới
 ---
 %%%%%%%%%%%%
 ╭━┳━╭━╭━╮╮

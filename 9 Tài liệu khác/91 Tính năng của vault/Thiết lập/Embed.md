@@ -243,3 +243,17 @@ action https://discord.gg/SW4WQGTCzM
 color blue
 ```
 ^button-discordhotrovault
+
+```button
+name Kiếm trên Google 
+type link
+color blue
+```
+^button-kiemtrengoogle
+
+```button
+name Kiếm trên YouTube
+type link
+color blue
+```
+^button-kiemtrenyoutube

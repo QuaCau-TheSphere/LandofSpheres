@@ -1,22 +1,7 @@
-> [!NOTE] Nội dung cho trang này còn thiếu
-> Nếu bạn đang muốn rèn luyện kỹ năng này, hãy bắt đầu bằng việc tìm hiểu xem có những ai sẵn sàng chia sẻ về nó. 
-> ```button
-> id discordhotrovault
-> ```
-> ```button
-> id kiemtrengoogle
-> action https://www.google.com/search?q=<% tp.file.title.replaceAll(" ","%20")%>
-> ```
-> ```button
-> id kiemtrenyoutube
-> action https://www.youtube.com/search?q=<% tp.file.title.replaceAll(" ","%20")%>
-> ```
-> 
-> Tất cả những điều này sẽ giúp bạn có được [[Kỹ năng rèn luyện kỹ năng (kỹ năng meta)]]
 
-
-Mô tả::
 # Thử thách
+- [ ] [[Tìm người sẵn sàng giúp mình rèn kỹ năng]]
+- [ ] [[Tìm tài liệu hay]]
 # Mức độ thành thạo
 # Tài liệu
 
