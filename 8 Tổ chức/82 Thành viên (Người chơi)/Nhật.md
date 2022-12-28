@@ -104,7 +104,7 @@ Kỹ năng:
 >>>4. [x] Chỉnh sửa lần đầu
 >>>5. [x] Tự động tìm câu trả lời trong vault chứ không hỏi Nhật nữa
 >>>6. [x] Hỗ trợ người khác tìm thông tin trong vault
->>>7. [x] [[Đồng bộ dữ liệu|Tìm hiểu về git]]
+>>>7. [x] [[Phương pháp đồng bộ (phụ lục)|Tìm hiểu về git]]
 >>>8. [x] Sử dụng Git
 >>>9. [x] Tạo một vault cho riêng mình
 >>>- [x] ## Với người muốn tham gia *Mạng lưới người thân, bạn bè của người có niềm tin tiêu cực*

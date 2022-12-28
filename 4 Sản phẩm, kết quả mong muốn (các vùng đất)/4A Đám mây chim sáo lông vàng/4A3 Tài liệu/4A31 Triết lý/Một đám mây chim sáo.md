@@ -5,7 +5,7 @@ Alias: "91.02"
 %% Lưu ý: Nên xem bài này ở edit mode (bấm Ctrl+E) %%
 # Phần 1
 Hẳn bạn đã rất nhiều lần nhìn thấy những sơ đồ tổ chức như thế này:
-![[9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Media/8 Tổ chức/Cơ cấu tổ chức.png]]
+![[9 Tài liệu khác/99 Tài liệu khác/Media/8 Tổ chức/Cơ cấu tổ chức.png]]
 
 Trong một tổ chức như thế này, mọi thứ đều có thứ bậc cao thấp rõ ràng, người ở cấp trên sẽ vạch ra hướng giải quyết, người ở cấp dưới làm theo sự chỉ đạo của cấp trên. Cấu trúc này có từ thời con người sống theo bộ lạc, khi mà người đứng đầu bộ lạc (già làng) được xem là người có nhiều hiểu biết nhất. Khá dễ hiểu khi để người có hiểu biết nhất ra quyết định cuối cùng. Khi dân số phát triển và những bộ lạc chỉ hơn trăm người là cùng trở thành những siêu bộ lạc cả ngàn cả triệu người, mà nay ta gọi là thành phố, là quốc gia, thì sự phân cấp càng cần thiết hơn, để không ai bị quá tải vì phải trao đổi trực tiếp với quá nhiều người. Và vì giữa người cấp cao và người cấp thấp lúc này đã có quá nhiều cấp trung gian đến mức họ trở thành những kẻ xa lạ với nhau, thì với những người ở cấp cao họ càng có lý do để củng cố cấu trúc phân cấp này. Tại sao tôi lại phải quan tâm đến những kẻ xa lạ cơ chứ? Và họ có thể làm điều này bằng cách giữ kín thông tin khiến cho những người ở dưới buộc phải xem họ là kẻ có hiểu biết hơn. Ngay cả khi máy in và báo chí xuất hiện làm tăng tốc cơ hội tiếp cận thông tin, thì việc đó vẫn là tương đối chậm trong nhiều thế kỷ, nên cấu trúc phân cấp vẫn tiếp tục hữu dụng. 
 

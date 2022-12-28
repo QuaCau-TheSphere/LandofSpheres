@@ -7,26 +7,24 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🟢/khôngthểbiếtkhinàoxong
-Độ cấp thiết:: #đct-🔥/nênlàmngay
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
+Trạng thái:: null
+Độ cấp thiết:: null
+Tính chất công việc:: null
 
 === end-column ===
 
-Người chơi:: [[Nhật]]
-Kỹ năng:: [[Công nghệ thông tin]]
-Kỹ năng:: [[23 Dùng Git|Dùng Git]]
+Người chơi::
+Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[Phương pháp đồng bộ (phụ lục)]]
+Tài liệu:: 
 ##### Kết quả mong muốn
-- [ ] Hoàn thành [[Phương pháp đồng bộ (phụ lục)#Yêu cầu git]]
+- [ ] 
 ##### Chỉ số trước
 
 
-
-Công việc thành phần:: [[Tìm cố vấn kỹ thuật]]
+Công việc thành phần:: 
 
 === multi-column-start: extraInfo
 ```column-settings
@@ -64,6 +62,12 @@ list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể"
 
 === multi-column-end
 
+prev:
+```breadcrumbs
+type: tree
+dir: prev
+title: false
+```
 
 Tương quan với các công việc khác:
 ```dataview 

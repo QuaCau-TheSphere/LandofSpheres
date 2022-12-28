@@ -58,7 +58,7 @@ Tài liệu::
 - [x] Supercharged links/admonition/multiple columns
 - [>] Thiết kế vault phù hợp cho khảo sát
 - [>] business strategy map
-- [ ] [[Đồng bộ dữ liệu]]
+- [ ] [[Phương pháp đồng bộ (phụ lục)]]
 	- [ ] Kết nối dữ liệu từ git sang Discord
 - [ ] Nhập thông tin hai chiều được
 - [ ] Tạo database cho từng note

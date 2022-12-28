@@ -1,3 +1,3 @@
-- [[Đồng bộ dữ liệu]]
+- [[Phương pháp đồng bộ (phụ lục)]]
 - [[Thông báo khi trang mình theo dõi thay đổi]]
 - [[Test my knowledge (quick quiz)]]

@@ -2,7 +2,7 @@
 cssClass: cards
 ---
 
-![[9 Tài liệu khác/91 Tính năng của vault/Thiết lập/Media/8 Tổ chức/Cơ cấu tổ chức.png]]
+![[9 Tài liệu khác/99 Tài liệu khác/Media/8 Tổ chức/Cơ cấu tổ chức.png]]
 
 Gồm:
 - Ban: Là nhóm các bên liên quan có nhiệm vụ đặc thù, liên quan đến QC

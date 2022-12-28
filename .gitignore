@@ -6,9 +6,9 @@ desktop.ini
 
 
 /.obsidian/*
-!/.obsidian/app.json
-!/.obsidian/appearance.json
-!/.obsidian/community-plugins.json
+#!/.obsidian/app.json
+#!/.obsidian/appearance.json
+#!/.obsidian/community-plugins.json
 !/.obsidian/core-plugins.json
 !/.obsidian/hotkeys.json
 

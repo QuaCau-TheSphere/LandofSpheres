@@ -105,7 +105,7 @@ Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]], Kỹ năng:: [[Thi�
 >>>4. [ ] Chỉnh sửa lần đầu
 >>>5. [ ] Tự động tìm câu trả lời trong vault chứ không hỏi Nhật nữa
 >>>6. [ ] Hỗ trợ người khác tìm thông tin trong vault
->>>7. [ ] [[Đồng bộ dữ liệu|Tìm hiểu về git]]
+>>>7. [ ] [[Phương pháp đồng bộ (phụ lục)|Tìm hiểu về git]]
 >>>8. [ ] Sử dụng Git
 >>>9. [ ] Tạo một vault cho riêng mình
 >>>
