@@ -8,21 +8,21 @@ border: off
 ```
 
 Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+#đct-❄️/khôngquantrọng
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
 
 === end-column ===
 
-Người chơi:: [[Nhật]]
-Kỹ năng::
+Người chơi:: 
+Kỹ năng:: [[Quản lý tài chính]]
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu:: [[Lên kế hoạch gây quỹ]]] ] 
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước
-
+- [ ] [est:: ] [ ]
 
 Công việc thành phần:: 
 
@@ -74,4 +74,7 @@ Tương quan với các công việc khác:
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
 WHERE contains(công-việc-thành-phần, [[]])
 ```
+
+
+
 

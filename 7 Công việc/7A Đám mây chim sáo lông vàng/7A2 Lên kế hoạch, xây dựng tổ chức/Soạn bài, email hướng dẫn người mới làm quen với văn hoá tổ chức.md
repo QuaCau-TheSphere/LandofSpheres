@@ -7,24 +7,24 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: #tt-✅/chưacóthànhviênkhácchoýkiến
+Độ cấp thiết:: #đct-✅✅Đãxong 
+Tính chất công việc:: 
 
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng::
+Kỹ năng:: [[Nhân sự (kỹ năng)]]
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu:: [[Hướng dẫn tham gia vào Quả Cầu]]
 ##### Kết quả mong muốn
-- [ ] 
+- [ ] Người mới thấy hướng dẫn rõ ràng
 ##### Chỉ số trước
+- [ ] [est:: ] [ ]
 
-
-Công việc thành phần:: 
+next:: [[Hướng dẫn người mới làm quen với cách hoạt động và văn hoá tổ chức]]
 
 === multi-column-start: extraInfo
 ```column-settings

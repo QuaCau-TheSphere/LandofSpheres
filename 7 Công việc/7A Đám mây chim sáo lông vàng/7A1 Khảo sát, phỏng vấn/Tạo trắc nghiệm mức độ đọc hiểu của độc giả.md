@@ -7,18 +7,18 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: null
+Độ cấp thiết:: null
+Tính chất công việc:: null
 
 === end-column ===
 
-Người chơi:: [[Nhật]]
+Người chơi::
 Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu:: <% tp.file.cursor() %>
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước

@@ -7,24 +7,23 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
+Trạng thái:: #tt-🟢/xong25٪ 
 Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Tính chất công việc:: #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🌐Cóthểlàmquamạng 
 
 === end-column ===
 
-Người chơi:: [[Nhật]]
-Kỹ năng::
+Người chơi:: [[Nhật]], [[Thịnh]], [[Tuyên]], [[Ân]], [[Trang (Chuối)]]
+Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu:: [[Kết quả mong muốn đến 2306]]
 ##### Kết quả mong muốn
-- [ ] 
+- [ ] 8/10 thành viên trả lời được kế hoạch tháng tới của mình là gì
+
 ##### Chỉ số trước
-
-
-Công việc thành phần:: 
+- [ ] [est:: ] [ ]
 
 === multi-column-start: extraInfo
 ```column-settings
@@ -74,4 +73,7 @@ Tương quan với các công việc khác:
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
 WHERE contains(công-việc-thành-phần, [[]])
 ```
+
+
+
 

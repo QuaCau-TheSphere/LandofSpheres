@@ -1,5 +1,6 @@
-<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
-
+---
+Alias: Phổ cập kiến thức cho thành viên
+---
 === start-multi-column: headingData
 ```column-settings  
 number of columns: 2
@@ -7,24 +8,27 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: #tt-⚪/chưabắtđầubàn 
+Độ cấp thiết:: #đct-🔥/nênlàmngay , #đct-🔥/muốnlàmngay 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến 
 
 === end-column ===
 
-Người chơi:: [[Nhật]]
-Kỹ năng::
+Người chơi::
+Kỹ năng:: [[Nhân sự (kỹ năng)]]
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
-##### Kết quả mong muốn
-- [ ] 
-##### Chỉ số trước
+❓:: [[Có những cách nào để các thành viên tự chủ động đề ra mục tiêu cho công việc của mình？]]
 
+##### Kết quả mong muốn
+- [ ] Các thành viên xem hết [[== Bản đồ dành cho người mới ==]], cài Obsidian
+
+##### Chỉ số trước
+- [ ] [est:: ] [ ]
 
 Công việc thành phần:: 
+next:: [[Đánh giá được mức độ hiểu biết của thành viên với tổ chức]]
 
 === multi-column-start: extraInfo
 ```column-settings

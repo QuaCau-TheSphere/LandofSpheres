@@ -1,8 +1,9 @@
+Hỏi trong nhóm: Đã hỏi xong
 Trạng thái:: #tt-🟢/xong50٪
 #đct-❄️/khôngquantrọng
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
-Kỹ năng:: [[Nhân sự (kỹ năng)]]
+Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])
@@ -13,7 +14,7 @@ list where contains(công-việc-thành-phần, [[]])
 ```
 Hướng tới loại đối tượng:
 ```dataview
-list where contains(hoạt-động-dành-cho-họ,[[]])
+list where contains(giải-pháp,[[]])
 ```
 Phục vụ cho những nhu cầu này của đối tượng:
 ```dataview
@@ -25,20 +26,15 @@ list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể"
 ```
 
 ##### Kết quả mong muốn
-- [ ] 
-next::
-prev:
-```breadcrumbs
-type: tree
-dir: prev
-title: false
-```
+- [ ] Các thành viên trong nhóm chia sẻ bài nhiều hơn
+Tài liệu:: [[Điểm khác biệt giữa QC và các nơi khác]]
 
-Công việc thành phần:: Trả lời được câu hỏi [[Tại sao việc đặt câu hỏi sâu có thể khiến người nghe cảm thấy ko an toàn？]]  
-Công việc thành phần:: Trả lời được câu hỏi [[Tại sao có những người xin vào làm tình nguyện điền đơn thấy nhiệt tình nhưng sau một buổi nói chuyện thì xin rút hoặc không trả lời？]]  
+Công việc thành phần:: [[Đăng các câu hỏi nghiên cứu lên các group]] 
+Công việc thành phần:: Trả lời câu hỏi [[Hữu xạ có thể tự nhiên hương không？]]
+Công việc thành phần:: Trả lời câu hỏi [[Tỉ lệ hài lòng trên share là bao nhiêu？]]
+Công việc thành phần:: Trả lời câu hỏi [[Các cấp độ theo dõi một cá nhân？]]
 
 # Các công việc chưa hoàn thành
 ```dataview
 Task from outgoing([[]]) where !completed
 ```
-

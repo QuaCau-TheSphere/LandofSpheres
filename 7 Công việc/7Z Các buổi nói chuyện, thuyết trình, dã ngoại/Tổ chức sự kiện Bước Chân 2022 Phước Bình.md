@@ -7,9 +7,9 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-🟢/xong50٪
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng
+Trạng thái:: #tt-✅✅Đãxong 
+Độ cấp thiết:: #đct-✅✅Đãxong 
+Tính chất công việc:: #tc-💬Họpthườngxuyên 
 
 === end-column ===
 
@@ -21,9 +21,7 @@ Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 Tài liệu:: [[Nội dung chuyến đi]], [[Bài truyền thông sự kiện...]] 
 ##### Kết quả mong muốn
 - [ ] WS bầy chim sáo trong ngày 8, khoảng 30 - 45 phút
-##### Kết quả mong muốn
 - [ ] người tham gia có thể tự chủ động trong việc tự vận hành và làm bài tập truyền thông (quay phim, chụp hình
-##### Kết quả mong muốn
 - [ ] Các em nhỏ ở Raglai và Churu hiểu SDG là cái gì và tại sao mình cần nó
 ##### Chỉ số trước
 - [ ] Lên nội dung chi tiết

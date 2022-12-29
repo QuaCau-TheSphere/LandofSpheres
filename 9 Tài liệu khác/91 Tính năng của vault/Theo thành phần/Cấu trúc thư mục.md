@@ -43,20 +43,30 @@ Thành tựu với đầu ra là giống nhau
 ## 4 Sản phẩm
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 
-## 5
+## 5 SWOT, giá trị cốt lõi
 Giá trị là cấp độ từ. Triết lý là cấp độ câu
+Cho vào chung vì với những giá trị khác nhau sẽ cho những điểm mạnh và điểm yếu khác nhau
+- Phân tích vấn đề: issue mapping
+- Phân tích điểm mạnh, điểm yếu: SWOT
+
+## 6 Các bên liên quan
+- Thu thập thông tin người hưởng lợi: OIST
+## 7 Công việc
+[[Các yếu tố trong công việc|Danh sách tất cả các tag]]] ] 
 # Nhìn lại lần nữa
 Cách mà các khái niệm như Kỹ năng, Chủ đề, Sản phẩm mở ra (unfold) chính nó. Nghĩa là dưới nó còn có nó
 
-
+Với việc không sử dụng khái niệm "Mục tiêu" 
+| ---------           | Từ bắt đầu                 |
+| ------------------- | -------------------------- |
+| 1 Nhu cầu           | `Tìm`, `Có`, `Hiểu`        |
+| 4 Kết quả mong muốn | `Đánh giá được`, `Có được` |
+| 7 Công việc: Họp    | `Bàn`, `Thống nhất`        |
+|                     |                            |
 
   
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
 - Phân loại thư mục: [Johnny•Decimal](https://johnnydecimal.com/)
 - Ra quyết định: 
-- Quản lý file: git
 - Phân tích đối tượng thụ hưởng: tư duy thiết kế
 - Mối quan hệ giữa các dữ liệu: [RDF Triplestore](https://viblo.asia/u/huynhduc)
-- Thu thập thông tin người hưởng lợi: OIST
-- Phân tích vấn đề: issue mapping
-- Phân tích điểm mạnh, điểm yếu: SWOT

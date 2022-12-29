@@ -8,7 +8,7 @@ border: off
 ```
 
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-Độ cấp thiết:: #đct-❄️Khôngquantrọng
+Độ cấp thiết:: #đct-❄️/khôngquantrọng
 Tính chất công việc:: #tc-🌐Cóthểlàmquamạng
 
 === end-column ===

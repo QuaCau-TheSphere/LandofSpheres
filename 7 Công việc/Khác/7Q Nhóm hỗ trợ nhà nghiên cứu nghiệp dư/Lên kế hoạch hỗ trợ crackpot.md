@@ -8,7 +8,7 @@ border: off
 ```
 
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-#đct-❄️Khôngquantrọng
+#đct-❄️/khôngquantrọng
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===

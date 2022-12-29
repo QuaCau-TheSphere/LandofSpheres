@@ -1,8 +1,37 @@
-Trạng thái:: #tt-⚪/chưađếnlúclàm
-Độ cấp thiết:: #đct-🔥/nênlàmngay
-Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
+<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
+
+=== start-multi-column: headingData
+```column-settings  
+number of columns: 2
+largest column: left
+border: off
+```
+
+Trạng thái:: #tt-🟡/đangbịviệckháccuốn/cóliênquan
+Độ cấp thiết:: #đct-🍃/sớmphảilàm
+Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính
+
+=== end-column ===
+
 Người chơi::
 Kỹ năng:: [[Thiết kế, quản lý dự án]]
+
+=== end-multi-column
+
+Tài liệu:: [[52 Điểm mạnh - cơ hội]]
+##### Kết quả mong muốn
+- [ ] 1 publication của một cộng đồng và 1 package tài trợ
+
+##### Chỉ số trước
+
+
+Công việc thành phần:: 
+
+=== multi-column-start: extraInfo
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
 
 Phục vụ cho mục tiêu:
 ```dataview
@@ -12,6 +41,13 @@ Nằm trong công việc lớn hơn:
 ```dataview
 list where contains(công-việc-thành-phần, [[]])
 ```
+Khi làm thì có thể gặp những vấn đề này
+```dataview
+list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
+```
+
+=== end-column ===
+
 Hướng tới loại đối tượng::
 ```dataview
 list where contains(hoạt-động-dành-cho-họ,[[]])
@@ -24,14 +60,8 @@ Người sẵn sàng làm cùng:
 ```dataview
 list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
-Khi làm thì có thể gặp những vấn đề này
-```dataview
-list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
-```
 
-Tài liệu:: [[52 Điểm mạnh - cơ hội]]
-##### Kết quả mong muốn
-- [ ] 1 publication của một cộng đồng và 1 package tài trợ
+=== multi-column-end
 
 prev:
 ```breadcrumbs
@@ -40,10 +70,9 @@ dir: prev
 title: false
 ```
 
-
-# Các công việc chưa hoàn thành
-```dataview
-Task from outgoing([[]]) where !completed
+Tương quan với các công việc khác:
+```dataview 
+list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
+WHERE contains(công-việc-thành-phần, [[]])
 ```
-
 

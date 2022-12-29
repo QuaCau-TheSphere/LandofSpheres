@@ -1,5 +1,3 @@
-<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
-
 === start-multi-column: headingData
 ```column-settings  
 number of columns: 2
@@ -7,24 +5,24 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
+Độ cấp thiết:: #đct-✅✅Đãxong
 
 === end-column ===
 
+Tính chất công việc::
 Người chơi:: [[Nhật]]
-Kỹ năng::
+Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu::
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước
+- [ ] [est:: ] [ ]
 
-
-Công việc thành phần:: 
+Công việc thành phần::
 
 === multi-column-start: extraInfo
 ```column-settings

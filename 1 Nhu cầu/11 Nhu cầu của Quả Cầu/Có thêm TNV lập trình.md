@@ -1,5 +1,5 @@
 ---
-Alias: Có người code cho mình
+Alias: Có người code cho mình, có TNV kỹ thuật
 ---
 Phục vụ cho mục tiêu:
 ```dataview
@@ -18,3 +18,6 @@ Hoạt động::
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng::
+
+Kỹ năng:: [[Nhân sự (kỹ năng)]], [[2 Công nghệ thông tin]]
+Tài liệu:: [[Bài đăng tuyển TNV kỹ thuật]] 

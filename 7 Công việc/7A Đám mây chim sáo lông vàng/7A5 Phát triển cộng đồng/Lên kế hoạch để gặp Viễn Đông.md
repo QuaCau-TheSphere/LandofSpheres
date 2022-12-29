@@ -7,20 +7,22 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: #tt-✅✅Đãxong 
+Độ cấp thiết:: #đct-✅✅Đãxong 
+Tính chất công việc:: #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính
 
 === end-column ===
 
-Người chơi:: [[Nhật]]
+Người chơi::
 Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu:: [[Viễn Đông]], [[Gặp Viễn Đông]]
 ##### Kết quả mong muốn
 - [ ] 
+- [ ] Chốt được lịch với Viễn Đông
+- [ ] Hoàn thành [[Gặp Viễn Đông]]
 ##### Chỉ số trước
 
 

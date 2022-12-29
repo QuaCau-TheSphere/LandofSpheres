@@ -9,7 +9,7 @@ border: off
 
 Trạng thái:: #tt-🟢/khôngthểbiếtkhinàoxong
 Độ cấp thiết:: #đct-🔥/muốnlàmngay
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Làmxongkhôngcầnhỏiýkiến , #tc-🔁Côngviệclặplại 
 
 === end-column ===
 

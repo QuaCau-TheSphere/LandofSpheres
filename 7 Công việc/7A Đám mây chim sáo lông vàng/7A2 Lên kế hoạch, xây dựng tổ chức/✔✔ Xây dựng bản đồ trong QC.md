@@ -1,8 +1,8 @@
-Trạng thái:: #tt-⚪/chưabắtđầubàn
-#đct-❄️/khôngquantrọng
-Giai đoạn trong tư duy thiết kế:: [Tạo mẫu thử]
+Trạng thái:: #tt-🟢/xong50٪
+Độ cấp thiết:: #đct-✅✅Đãxong
+Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
+Kỹ năng:: [[Nhân sự (kỹ năng)]], Kỹ năng:: [[Thiết kế, quản lý dự án]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])
@@ -13,7 +13,7 @@ list where contains(công-việc-thành-phần, [[]])
 ```
 Hướng tới loại đối tượng:
 ```dataview
-list where contains(row["Giải pháp"],[[]])
+list where contains(hoạt-động-dành-cho-họ,[[]])
 ```
 Phục vụ cho những nhu cầu này của đối tượng:
 ```dataview
@@ -25,8 +25,9 @@ list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể"
 ```
 
 ##### Kết quả mong muốn
-- [ ] 
-next::
+- [ ] 7/7 người đồng ý với hành trình này
+next:: [[Đảm bảo các TNV quen với quy trình làm việc]]
+next:: [[Hướng dẫn người mới làm quen với cách hoạt động và văn hoá tổ chức]]
 prev:
 ```breadcrumbs
 type: tree
@@ -34,9 +35,4 @@ dir: prev
 title: false
 ```
 
-Công việc thành phần::
-# Các công việc chưa hoàn thành
-```dataview
-Task from outgoing([[]]) where !completed
-```
-
+Công việc thành phần:: [[✔✔ Làm bài rhizome]]

@@ -8,7 +8,7 @@ border: off
 ```
 
 Trạng thái:: #tt-✅
-Độ cấp thiết:: #đct-✅Đãxong 
+Độ cấp thiết:: #đct-✅✅Đãxong 
 Tính chất công việc:: #tc-💻Khôngphảicắmmặtvàomáytính, #tc-🌳Tiếpxúcvớiđộngvậtthiênnhiên
 
 === end-column ===

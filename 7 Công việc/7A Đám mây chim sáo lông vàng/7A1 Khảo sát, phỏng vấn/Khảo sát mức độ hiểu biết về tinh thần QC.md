@@ -1,8 +1,8 @@
 Trạng thái:: #tt-⚪/chưabắtđầubàn
 #đct-❄️/khôngquantrọng
-Giai đoạn trong tư duy thiết kế:: [Tạo mẫu thử]
+Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
+Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])
@@ -27,13 +27,6 @@ list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể"
 ##### Kết quả mong muốn
 - [ ] 
 next::
-prev:
-```breadcrumbs
-type: tree
-dir: prev
-title: false
-```
-
 Công việc thành phần::
 # Các công việc chưa hoàn thành
 ```dataview

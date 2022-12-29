@@ -8,8 +8,8 @@ border: off
 ```
 
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-Độ cấp thiết:: #đct-🔥/muốnlàmngay
-Tính chất công việc:: #tc-💬Họpthườngxuyên 
+Độ cấp thiết:: #đct-❄️/hếtquantrọng 
+Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính
 
 === end-column ===
 
@@ -20,7 +20,6 @@ Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 Tài liệu:: [[83 Hướng dẫn xử lý các trường hợp cụ thể]]
 ##### Kết quả mong muốn
-- [ ] 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
 

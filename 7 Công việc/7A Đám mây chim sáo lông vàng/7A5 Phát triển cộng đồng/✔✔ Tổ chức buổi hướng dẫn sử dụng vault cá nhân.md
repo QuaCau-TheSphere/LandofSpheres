@@ -7,24 +7,24 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
+Độ cấp thiết:: #đct-✅✅Đãxong
+Tính chất công việc:: #tc-💬Họpthườngxuyên 
 
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng::
+Kỹ năng:: [[2 Công nghệ thông tin]]
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu::
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước
+- [ ] Có vault mẫu
 
-
-Công việc thành phần:: 
+Công việc thành phần:: [[✔✔ Tạo vault cá nhân mẫu]]
 
 === multi-column-start: extraInfo
 ```column-settings

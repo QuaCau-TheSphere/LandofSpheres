@@ -1,5 +1,5 @@
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-#đct-❄️Khôngquantrọng
+#đct-❄️/khôngquantrọng
 Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
 Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]

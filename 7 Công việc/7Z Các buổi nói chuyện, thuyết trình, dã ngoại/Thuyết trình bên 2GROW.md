@@ -7,7 +7,7 @@ largest column: left
 border: off
 ```
 
-Độ cấp thiết:: #đct-✅Đãxong
+Độ cấp thiết:: #đct-✅✅Đãxong
 Trạng thái:: #tt-✅/chưalượnggiá
 Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng
 

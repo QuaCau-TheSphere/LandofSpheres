@@ -7,24 +7,23 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính
+Trạng thái:: #tt-🟢/xong75٪ 
+Độ cấp thiết:: #đct-✅✅Đãxong 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===
 
 Người chơi:: [[Nhật]]
-Kỹ năng::
+Kỹ năng:: [[Công nghệ thông tin]]
+Kỹ năng:: [[23 Dùng Git|Dùng Git]]
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu:: [[Phương pháp đồng bộ (phụ lục)]]
 ##### Kết quả mong muốn
-- [ ] 
+- [ ] Hoàn thành [[Phương pháp đồng bộ (phụ lục)#Yêu cầu git]]
 ##### Chỉ số trước
 
-
-Công việc thành phần:: 
 
 === multi-column-start: extraInfo
 ```column-settings
@@ -62,12 +61,6 @@ list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể"
 
 === multi-column-end
 
-prev:
-```breadcrumbs
-type: tree
-dir: prev
-title: false
-```
 
 Tương quan với các công việc khác:
 ```dataview 
