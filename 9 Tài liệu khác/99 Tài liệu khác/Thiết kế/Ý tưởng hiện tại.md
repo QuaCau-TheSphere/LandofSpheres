@@ -10,7 +10,7 @@ ngta có nhiều thứ để phải nhớ khi vô blog anh rui
 
 nhìn tổng thể web và ngay đoạn screen shot này, em nghĩ tone màu hợp lý cho brand là gold and black
 
-![[Ξ Meta 0/Media/9 Tài liệu/Thiết kế/index.png]]
+![[index.png]]
 
 không phải tự nhiên mà ngta dùng quả lắc vàng trên nền đen đâu
 
@@ -43,7 +43,7 @@ vấn đề mood & tone đó nó cũng khá trend và dễ tạo ấn tượng
 #f9fcee  
 #ded6ae  
 #05000a
-![[Ξ Meta 0/Media/9 Tài liệu/Thiết kế/index-1 1.png]]
+![[index-1 1.png]]
 ded6ae  
 
 
@@ -58,8 +58,8 @@ tone này nương theo site anh đó, theme blog anh thấy ưng thì không c�
 vì blog của anh nhiều lĩnh vực, nên nó cần cảm giác cân bằng, thoải mái, trung tính. Tone này dễ chịu nhưng không nhạt nhoài, vẫn đủ ghi lại dấu ấn
 
 Em dùng trắng, đen và xanh ở poster này
-![[Ξ Meta 0/Media/9 Tài liệu/Thiết kế/index 1.png]]
+![[index 1.png]]
 3 màu này ứng dụng từ mẫu logo đầu tiên  
 Nhưng lại dùng trắng, vàng nhạt, gold và đen ở poster này vì nó tạo cảm giác hoài cổ hơn
-![[Ξ Meta 0/Media/9 Tài liệu/Thiết kế/index 3.png]]
+![[index 3.png]]
 Tone này ứng dụng từ mẫu logo thứ hai

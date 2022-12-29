@@ -3,6 +3,7 @@ banner: "![[Chào mừng đến với LOS (hanoi).png]]"
 banner_y: 0.932
 Alias: Hành trình thành viên, chào mừng, truy cập nhanh, hướng dẫn cho người mới
 ---
+![[Chào mừng đến với LOS (hanoi).png]]
 %%%%%%%%%%%%
 ╭━┳━╭━╭━╮╮
 ┃┈┈┈┣▅╋▅┫┃
@@ -73,5 +74,3 @@ id hieutrietlytochuc
 ^button-trochuyenvoimoinguoi
 
 > [!Info ] Mục tiêu của bản đồ này là đẩy thành viên trở thành [[Một đám mây chim sáo]], để họ có thể xé cái bản đồ này đi và làm cái của riêng họ.
-
-![[Chào mừng đến với LOS (hanoi).png]]

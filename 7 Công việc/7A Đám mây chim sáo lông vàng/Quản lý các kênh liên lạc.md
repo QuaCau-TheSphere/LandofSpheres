@@ -1,3 +1,6 @@
+---
+Alias: Phê duyệt người mới vào group, Nhắn hỏi người vào group, Đăng các note trong vault lên group, Đăng thông báo họp lên group
+---
 <sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
 
 === start-multi-column: headingData
@@ -7,20 +10,23 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: #tt-⚪/chưaainhậnlàm
-Độ cấp thiết:: #đct-🔥/nênlàmngay, #đct-🍃/đợingườinhậnlàm 
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
+Trạng thái:: #tt-⚪/chưaainhậnlàm, #tt-🟡/đangbịviệckháccuốn/khôngliênquan 
+Độ cấp thiết:: #đct-🔥/nênlàmngay , #đct-🔥/muốnlàmngay, #đct-🍃/đợingườinhậnlàm
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến, #tc-🥳Tươngtácnhiềuvớiloàingười 
 
 === end-column ===
 
 Người chơi::
-Kỹ năng::
+Kỹ năng:: [[Hậu cần – logistics]], [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồng (kỹ năng)]], [[Xây dựng tổ chức]]
 
 === end-multi-column
 
-Tài liệu:: <% tp.file.cursor() %>
+Tài liệu:: [[Group mở ❝Vùng đất QC❞]], [[Group kín ❝Một đám mây chim sáo❞]], [[Kênh mở Discord]]
 ##### Kết quả mong muốn
-- [ ] 
+- [ ] Phê duyệt người mới vào group
+	- [ ] Nhắn hỏi người vào group mà không trả lời các câu hỏi đầu vào
+- [ ] Đăng các note trong vault lên group
+- [ ] Đăng thông báo họp lên group
 ##### Chỉ số trước
 
 
@@ -74,4 +80,3 @@ Tương quan với các công việc khác:
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
 WHERE contains(công-việc-thành-phần, [[]])
 ```
-

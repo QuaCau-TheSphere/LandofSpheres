@@ -1,3 +1,6 @@
+
+
+
 ```dataview 
 List filter(file.inlinks, (f) => contains(đáp-ứng-cho-nhu-cầu-của-mình, file.links))
 From "1 Nhu cầu" 

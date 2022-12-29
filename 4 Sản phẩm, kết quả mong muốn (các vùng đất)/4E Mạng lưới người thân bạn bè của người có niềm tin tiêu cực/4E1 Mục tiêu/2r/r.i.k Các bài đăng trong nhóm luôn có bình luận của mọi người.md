@@ -22,5 +22,5 @@ Hoạt động::
 
 Công việc thành phần:: [[Khảo sát nhu cầu của từng thành viên]]
 Công việc thành phần:: [[Thảo luận với nhau để cùng tìm ra cách giải quyết nhu cầu của nhiều người nhất]]
-Công việc thành phần:: [[Đăng các vấn đề trong kho dữ liệu lên group]]
+Công việc thành phần:: [[Quản lý các kênh liên lạc]]
 ❓::[[Tại sao tỉ lệ tương tác online kém, nhưng các bạn vẫn trả lời là hứng thú tham gia các buổi họp？]]

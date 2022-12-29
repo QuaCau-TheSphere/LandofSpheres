@@ -4,13 +4,17 @@
 Đáp ứng cho nhu cầu của mình:: [[4A Đám mây chim sáo lông vàng]]
 Đáp ứng cho nhu cầu của mình:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
 Đáp ứng cho nhu cầu của mình:: [[Giảm gánh nặng lên cho Nhật]]
+Đáp ứng cho nhu cầu của mình:: [[Tự động hóa việc tương tác]]
 
 # Thực thể khi được nhìn như là mục tiêu
 Mục tiêu::
 
-Điểm mạnh::
-Điểm yếu::
+Điểm mạnh:: [[Lượng người tham gia Discord cũng đủ]]
+Điểm yếu:: [[Đã số người chỉ quen xài fb]], [[Nhiều kênh liên lạc quá bị ngộp]]
 Đối tượng thụ hưởng::
+Ưu tiên cho Facebook trước, sau đó thói quen của người VN ko ở Discord
+Nhiều channel quá, 
+Người ta bị ngộp bởi lượng thông tin khổng lồ
 
 Hoạt động:: [[Đặt các câu hỏi lên trên Fb, Discord]]
 
@@ -24,7 +28,3 @@ Tham gia Discord của Quả Cầu nếu bạn cần:
 • Thảo luận về các bài viết trên Quả Cầu (hoặc quan sát cách những người đang quan sát Quả Cầu quan sát những người đang quan sát Quả Cầu thế nào) 
 👉 https://discord.gg/jWTk4EHFK2
 
-
-Ưu tiên cho Facebook trước, sau đó thói quen của người VN ko ở Discord
-Nhiều channel quá, 
-Người ta bị ngộp bởi lượng thông tin khổng lồ

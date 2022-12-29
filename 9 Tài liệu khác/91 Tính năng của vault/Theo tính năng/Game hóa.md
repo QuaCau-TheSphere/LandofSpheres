@@ -20,3 +20,4 @@
 |                                             | Loại sát thương: đập, tê, bỏng, giựt, đâm, chém, độc, |
 |                                             | Xúc xắc                                               |
 |                                             |  Thẻ bài                                                     |
+[[Trò chơi và vùng đất]]

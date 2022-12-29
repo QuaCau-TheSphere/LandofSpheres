@@ -10,5 +10,5 @@ List where contains(lý-do,[[]])
 
 | Giải pháp gợi ý                                                            | Vấn đề phát sinh                                                                                             |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[Đăng các vấn đề trong kho dữ liệu lên group]]                            | <ul><li>[[Quá nhiều việc]]</li><li> [[Thảo luận qua chat, comment không sôi nổi]]</li></ul>                  |
+| [[Quản lý các kênh liên lạc]]                            | <ul><li>[[Quá nhiều việc]]</li><li> [[Thảo luận qua chat, comment không sôi nổi]]</li></ul>                  |
 Tương đương với mục tiêu:: [[r.i.i.1 Các thành viên luôn có thông tin cập nhật về nhóm]] 

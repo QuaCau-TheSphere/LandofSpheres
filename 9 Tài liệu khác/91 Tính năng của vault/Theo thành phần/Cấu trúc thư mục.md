@@ -1,3 +1,6 @@
+---
+Alias: "9.01"
+---
 Các thư mục ở trên sẽ quyết định các thư mục ở dưới
 Từ 1 đến 4 là nơi mọi người sống cho bản thân. 4 là các vùng đất, nơi các dòng nhu cầu hội tụ đủ mạnh để bồi đắp tạo thành những vùng đất. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau
 1 sẽ là mạng kết nối nhu cầu
@@ -15,6 +18,7 @@ Từ 1 đến 4 là nơi mọi người phát triển bản thân mình. Từ 4 
   
 Từ 5 trở đi là cách để biến những thứ ở 4 trở thành hiện thực. Một người khi cảm thấy rằng mình muốn có 4 sẽ di chuyển xuống các thư mục ở dưới
 
+Tổ chức nằm ở 8 vì tới lúc này nhu cầu có một tổ chức mới trở nên rõ ràng hơn
 Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi thì để vào 9
 # Phân tích từng thư mục
 ## 1 Nhu cầu
@@ -30,6 +34,7 @@ Thử thách với đầu vào đều là những cách để tăng mức độ 
 Những tinh thần, triết lý mà tôi muốn lan tỏa, cũng chỉ là một dạng kỹ năng
 Thành tựu với đầu ra là giống nhau
 
+[[Trò chơi và vùng đất]]
 ## 3 Kiến thức
 - 31 Khái niệm, chủ đề: Các chủ đề mà QC bàn đến      
 - 32 Câu hỏi: Những lỗ hổng về mặt kiến thức mà tổ chức cần tìm hiểu
@@ -38,6 +43,8 @@ Thành tựu với đầu ra là giống nhau
 ## 4 Sản phẩm
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 
+## 5
+Giá trị là cấp độ từ. Triết lý là cấp độ câu
 # Nhìn lại lần nữa
 Cách mà các khái niệm như Kỹ năng, Chủ đề, Sản phẩm mở ra (unfold) chính nó. Nghĩa là dưới nó còn có nó
 

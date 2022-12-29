@@ -70,8 +70,8 @@ Chúng tôi có niềm tin rằng đã gọi là bạn bè thì đều muốn đ
 
 Khá ngạc nhiên khi chỉ có 7 người nói rằng "không quan tâm lắm họ sẽ như thế nào", "không có thời gian tìm hiểu vấn đề", và "sợ đánh mất mối quan hệ". Nghĩa là đa số mọi người sẵn sàng dành thời gian để tìm hiểu, thậm chí sẵn sàng hy sinh mối quan hệ để tác động, nếu như họ thấy rằng mình hiểu được đầy đủ vấn đề, có kỹ năng để can thiệp để họ không thấy áp lực và sẵn sàng tiếp nhận, và thấy rằng không thể trông mong bài học sẽ tự đến với bạn mình.
 
-![[Ξ Meta 0/Media/Giới thiệu/Câu 1.png]]
-![[Ξ Meta 0/Media/Giới thiệu/Câu 2.png]]
+![[Câu 1.png]]
+![[Câu 2.png]]
 
 Tất cả những điều đó đưa chúng tôi tới một đề xuất: Tập huấn các kỹ năng CTXH cho bạn bè người thân của họ, sau đó lập một nhóm chiến lược để thay đổi môi trường xung quanh họ để họ nhận ra mình đang gặp vấn đề và có động lực thay đổi.
 

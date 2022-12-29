@@ -1,4 +1,4 @@
-# Làm tư cách pháp nhân
+# [[Làm tư cách pháp nhân]]
 - web tiếng anh
 - Tên miền email
 - CSR
@@ -9,6 +9,7 @@
 - Các buổi nói chuyện
 	- Kỹ năng
 	- HDSD Obsidian
+- Vote
 
 ## Bước Chân 2023 – Tà Nôi
 TIền tài trợ:

@@ -7,9 +7,9 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: null
-Độ cấp thiết:: null
-Tính chất công việc:: null
+Trạng thái:: #tt-⚪/chưaainhậnlàm
+Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
 
 === end-column ===
 
@@ -18,7 +18,7 @@ Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: 
+Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước

@@ -4,7 +4,8 @@
 	- [ ] Những gì mình đã, đang và sẽ làm/cần trong vòng 1 tháng qua và 1 tháng tới
 	- [ ] Những bài viết mình thấy thú vị
 	- [ ] Những suy tư về cuộc sống của mình
-- [ ] Tạo một hồ sơ của mình trong folder 62
+- [ ] Tạo một hồ sơ của mình trong folder 62 
 - [ ] Tham gia vault kết nối nhu cầu
 - [ ] [[Thảo luận về những quan điểm với nhau]]
 - [ ] Bật cam khi gọi 👁️
+<iframe src="https://discord.com/widget?id=898550123007709204&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

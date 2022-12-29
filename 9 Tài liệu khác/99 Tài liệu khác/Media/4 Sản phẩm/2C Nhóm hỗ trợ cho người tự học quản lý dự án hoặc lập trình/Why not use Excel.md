@@ -1,5 +1,5 @@
 
-![[Ξ Meta 0/Media/Ảnh khác/Excel is not a good tool.png]]
+![[Excel is not a good tool.png]]
 https://www.integrify.com/blog/posts/5-things-you-should-stop-doing-with-microsoft-excel/
 By Mike Raia Posted June 13, 2018
 

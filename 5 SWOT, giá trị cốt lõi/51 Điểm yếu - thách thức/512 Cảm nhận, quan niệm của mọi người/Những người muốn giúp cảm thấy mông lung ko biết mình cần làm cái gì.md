@@ -11,5 +11,5 @@ List where contains(lý-do,[[]])
 
 | Giải pháp gợi ý                                                            | Vấn đề phát sinh                                                                                             |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[Đăng các vấn đề trong kho dữ liệu lên group]]                            | <ul><li>[[Quá nhiều việc]]</li><li> [[Thảo luận qua chat, comment không sôi nổi]]</li></ul>                  |
+| [[Quản lý các kênh liên lạc]]                            | <ul><li>[[Quá nhiều việc]]</li><li> [[Thảo luận qua chat, comment không sôi nổi]]</li></ul>                  |
  

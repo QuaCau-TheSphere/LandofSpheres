@@ -13,7 +13,7 @@ Yếu tố hỗ trợ::
 Đối tượng thụ hưởng:: [[Người thân, bạn bè của người có niềm tin tiêu cực (Danish)]], [[Tình nguyện viên QC]], [[Người tham gia các buổi họp]], [[Người muốn xây dựng QC, lan toả tinh thần QC]], 
 
 # Thực thể khi được nhìn như là sản phẩm
-Game hóa chỉ là cách để bọc đường những thứ nhàm chán, trong khi yếu tố tuyệt vời nhất của game là bản đồ thì
+
 ## FAQ
 ### Đùn đẩy trách nhiệm. Có những việc không ai muốn làm. Không tự động biến đổi
 Lý do cho sự đùn đẩy đó có thể đến từ việc việc đóng góp không giúp họ đảm bảo rằng nhu cầu cơ bản của mình sẽ được đáp ứng. Hoặc cũng có thể là họ không cảm thấy đủ gắn bó với tập thể, và chưa thấy được nhu cầu của tập thể rõ ràng. Ngoài ra, có thể là những công việc bị đùn đẩy đó là những công việc lặp lại, không có nhiều sự sáng tạo trong đó. Có thể trước đây họ muốn thử sức với nhiệm vụ mới, nhưng sau khi đã thành thạo rồi thì nó cần những thử thách lớn hơn. 

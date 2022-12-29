@@ -21,7 +21,7 @@ Tài liệu::
 - [ ] 
 ##### Chỉ số trước
 - [ ] Chuẩn bị nội dung họp: Xem trong [[00.1 Lịch họp hằng tuần]]
-- [ ] [[Đăng thông báo họp lên group]]
+- [ ] [[Quản lý các kênh liên lạc]]
 	- [ ] Tổng hợp các chủ đề mọi người muốn họp nhất
 	- [ ] [[Chọn nơi họp]]
 	- [ ] [[Xếp lịch họp]]: Xác định ngày họp nhiều người tham gia được nhất
