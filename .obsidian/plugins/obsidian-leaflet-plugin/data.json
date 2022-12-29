@@ -1,5 +1,137 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1672340229834,
+      "markers": [
+        {
+          "id": "ID_7818b8d86a09",
+          "type": "Thịnh",
+          "loc": [
+            -2.245907783735369,
+            4.939072534721705
+          ],
+          "link": "Thịnh",
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4648538856208663,
+            0.45271841939862556
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b69c928ea6a",
+          "type": "Tuyên",
+          "loc": [
+            -3.558221695877255,
+            6.567850234584911
+          ],
+          "link": "Tuyên",
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.618150610313874,
+            0.717247837909116
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dacb6a89699a",
+          "type": "Nhật",
+          "loc": [
+            -2.0527232621901406,
+            6.6743151010944795
+          ],
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_d80b48980a7a",
+          "type": "Nhật",
+          "loc": [
+            -1.5214732297652118,
+            5.916190288609423
+          ],
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_097ac92a3a6b",
+          "type": "Nhật",
+          "loc": [
+            -2.154285768389024,
+            5.48632570421068
+          ],
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_baf859e8e9db",
+          "type": "Nhật",
+          "loc": [
+            -3.1230358275168353,
+            6.6743151010944795
+          ],
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_fb1b1bbbe97b",
+          "type": "Nhật",
+          "loc": [
+            -2.94334831654958,
+            5.908374568893082
+          ],
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "== Tổng quan tình hình hiện tại ==.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -10,7 +142,71 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Tuyên",
+      "iconName": "user",
+      "color": "#fff261",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "player"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Nhật",
+      "iconName": "user",
+      "color": "#dddddd",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Ân",
+      "iconName": "user",
+      "color": "#564343",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Thịnh",
+      "iconName": "user",
+      "color": "#f86d6d",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -24,13 +220,13 @@
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
-  "displayMarkerTooltips": "hover",
+  "displayMarkerTooltips": "always",
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {},
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."

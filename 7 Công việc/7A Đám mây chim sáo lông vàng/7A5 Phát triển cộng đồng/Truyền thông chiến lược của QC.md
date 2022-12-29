@@ -24,7 +24,7 @@ Tài liệu::
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
 
-Công việc thành phần:: [[Viết lại bài giới thiệu, website]]
+Công việc thành phần:: [[Cập nhật nội dung website]]
 
 === multi-column-start: extraInfo
 ```column-settings

@@ -7,31 +7,25 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('tt')).filter((key) => key.includes('/')))) %>
-Độ cấp thiết:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('đct')))) %>
-Tính chất công việc:: <% (await tp.system.suggester(
-	(item) => item, [
-		"#tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến", 
-		"#tc-🧍Cóthểlàmmộtmình, #tc-🔓Làmlúcnàocũngđược, #tc-🌐Cóthểlàmquamạng, #tc-💻Cầnlàmtrênmáytính, #tc-🧠Tưduynhiều, #tc️-🏋️Tìmngườicóchuyênmôncaolàmsẽtốthơn", 
-		"#tc-🔁Kếtquảthayđổithườngxuyên, #tc-🔁Côngviệclặplại, #tc-💬Họpthườngxuyên, #tc-🥳Tươngtácnhiềuvớiloàingười", 
-		"#tc-☕Chỉnênlàmkhigặpmặttrựctiếp, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính", 
-		"#tc-💻Khôngphảicắmmặtvàomáytính, #tc-🌳Tiếpxúcvớiđộngvậtthiênnhiên, #tc-🚴Đilạinhiềunơi", 
-	])) %>
+Trạng thái:: null
+Độ cấp thiết:: null
+Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng
 
 === end-column ===
 
 Người chơi::
-Kỹ năng::
+Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 
 === end-multi-column
 
-Tài liệu:: <% tp.file.cursor() %>
+Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện...]] 
 ##### Kết quả mong muốn
-- [ ] 
+- [ ] <% tp.file.cursor() %>
 ##### Chỉ số trước
+- [ ] [est:: ] [ ]
 
 
-Công việc thành phần:: 
+next:: [[01.1A2 Truyền thông buổi sự kiện...]]
 
 === multi-column-start: extraInfo
 ```column-settings

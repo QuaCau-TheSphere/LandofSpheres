@@ -7,25 +7,24 @@ largest column: left
 border: off
 ```
 
-Trạng thái:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('tt')).filter((key) => key.includes('/')))) %>
-Độ cấp thiết:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('đct')))) %>
-Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🌐Cóthểlàmquamạng
+Trạng thái:: null
+Độ cấp thiết:: null
+Tính chất công việc:: null
 
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
+Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện...]] 
+Tài liệu:: <% tp.file.cursor() %>
 ##### Kết quả mong muốn
-- [ ] <% tp.file.cursor() %>
+- [ ] 
 ##### Chỉ số trước
-- [ ] [est:: ] [ ]
 
 
-next:: [[01.1A2 Truyền thông buổi sự kiện...]]
+Công việc thành phần:: 
 
 === multi-column-start: extraInfo
 ```column-settings

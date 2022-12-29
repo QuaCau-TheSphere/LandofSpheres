@@ -6,15 +6,27 @@
 > ```
 > ```button
 > id kiemtrengoogle
-> action https://www.google.com/search?q=type=pdf%20kyx%20nawng%20<% ("kỹ năng" +tp.file.title).replaceAll(" ","%20")%>
+> action https://www.google.com/search?q=20kỹ%20năng%20<% tp.file.title.replaceAll(" ", "%20)" %>
+> ```
+> ```button
+> name Kiếm trên Google (PDF) 
+> id kiemtrengoogle
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20<% tp.file.title.replaceAll(" ", "%20)" %>
 > ```
 > ```button
 > id kiemtrenyoutube
-> action https://www.youtube.com/search?q=<% tp.file.title.replaceAll(" ","%20")%>
+> action https://www.youtube.com/search?q=%20<% tp.file.title.replaceAll(" ", "%20)" %>
 > ```
 > Dành cho người sẵn sàng chia sẻ:
-> Thông báo cho mọi người sự sẵn sàng của bạn
-> Chỉnh sửa trang này
+> ```button
+> name Thông báo cho mọi người sự sẵn sàng của bạn
+> id discordhotrovault
+> ```
+> ```button
+> name Chọn lọc nội dung hay
+> id kiemtrengoogle
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20<% tp.file.title.replaceAll(" ", "%20)" %>
+> ```
 > Tất cả những điều này sẽ giúp bạn có được [[Kỹ năng rèn luyện kỹ năng (kỹ năng meta)]]
 
 
@@ -31,21 +43,17 @@ where contains(kỹ-năng, [[]])
 ```
 
 # Thử thách ở Quả Cầu
-## PNM
-```dataview
-table 
-	trạng-thái as "Trạng thái", 
-	filter(file.inlinks, (i) => i.hoạt-động) as "Mục tiêu",
-	người-chơi as "Người chơi"
-from "7 Công việc" and (#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)
+```dataview 
+List
+from "7 Công việc"
 Where contains(kỹ-năng, [[]])
 ```
-## Không PNM
+###### Chi tiết
 ```dataview
 table 
 	trạng-thái as "Trạng thái", 
 	filter(file.inlinks, (i) => i.hoạt-động) as "Mục tiêu",
 	người-chơi as "Người chơi"
 from "7 Công việc"
-Where contains(kỹ-năng, [[]]) or contains(ban, [[]])
+Where contains(kỹ-năng, [[]])
 ```

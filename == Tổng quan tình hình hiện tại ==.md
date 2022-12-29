@@ -4,18 +4,18 @@ cssClass: wide-page
 # Nơi cư ngụ của những con sáo
 ```leaflet 
 id: leaflet-map 
-image: [[quả_cầu.svg]]
+image: [[Các sản phẩm chính.png]]
 height: 500px 
 lat: 50 
 long: 50 
 minZoom: 1
 maxZoom: 10
-defaultZoom: 8
+defaultZoom: 6.5
 unit: meters
 scale: 1
 ```
 
-Xem thêm: [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Kế hoạch dài hạn]]
+Xem thêm: [[Kết quả mong muốn đến 2306]]
 # Tình hình hiện tại các công việc 
 ## Tất cả các công việc
 ```leaflet 

@@ -1,6 +1,3 @@
----
-Alias: "91.02"
----
 
 %% Lưu ý: Nên xem bài này ở edit mode (bấm Ctrl+E) %%
 # Phần 1

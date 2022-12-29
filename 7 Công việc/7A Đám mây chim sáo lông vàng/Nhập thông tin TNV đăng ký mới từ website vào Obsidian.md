@@ -9,12 +9,12 @@ border: off
 
 Trạng thái:: #tt-⚪/chưaainhậnlàm
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🧠Khôngphảisuynghĩnhiều, #tc-🌐Cóthểlàmquamạng
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến
 
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Nhân sự (kỹ năng)]]
+Kỹ năng:: [[Nhân sự (kỹ năng)]], [[Làm website]], [[22 Dùng Obsidian|Dùng Obsidian]]
 
 === end-multi-column
 

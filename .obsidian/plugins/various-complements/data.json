@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "9 Tài liệu khác\\91 Tính năng của vault\\Thiết lập\\Gõ tắt.md",
+  "customDictionaryPaths": "9 Tài liệu khác\\91 Tính năng của vault\\919 Thiết lập\\Gõ tắt.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -58,8 +58,8 @@
     "tccv": {
       "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1669823137319
+          "count": 6,
+          "lastUpdated": 1672317132147
         }
       }
     },

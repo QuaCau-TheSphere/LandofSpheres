@@ -1,5 +1,5 @@
 ---
-Alias: Setup vault
+Alias: Tính năng vault, setup vault
 ---
 <sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
 
@@ -11,8 +11,8 @@ border: off
 ```
 
 Trạng thái:: #tt-🟢/khôngthểbiếtkhinàoxong
-Độ cấp thiết:: #đct-🔥🔥Phảilàmngay
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🔓Làmlúcnàocũngđược, #tc-🌐Cóthểlàmquamạng, #tc-💻Cầnlàmtrênmáytính, #tc-🧠Tưduynhiều, #tc️-🏋️Tìmngườicóchuyênmôncaolàmsẽtốthơn
+Độ cấp thiết:: #đct-🍃/thấmđẫmtrongnhữngviệckhác 
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🔓Làmlúcnàocũngđược, #tc-🌐Cóthểlàmquamạng, #tc-💻Cầnlàmtrênmáytính, #tc-🔁Côngviệclặplại, #tc-📱Cóthểlàmtrênđiệnthoại 
 
 === end-column ===
 
@@ -21,7 +21,7 @@ Kỹ năng:: [[2 Công nghệ thông tin]]
 
 === end-multi-column
 
-Tài liệu:: 
+Tài liệu:: [[91 Tính năng của vault]]
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước

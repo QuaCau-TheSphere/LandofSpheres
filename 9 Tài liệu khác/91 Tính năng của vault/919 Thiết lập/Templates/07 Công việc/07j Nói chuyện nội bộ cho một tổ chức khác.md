@@ -7,9 +7,8 @@ largest column: left
 border: off
 ```
 
-<%* const {autoprop} = this.app.plugins.plugins["metaedit"].api;
-tR += `Trạng thái:: ${await autoprop("Trạng thái")}
-Độ cấp thiết:: ${await autoprop("Độ cấp thiết")}` %>
+Trạng thái:: null
+Độ cấp thiết:: null
 Tính chất công việc:: #tc-💬Họpthườngxuyên , #tc-🧍Cóthểlàmmộtmình
 
 === end-column ===
@@ -82,6 +81,3 @@ WHERE contains(công-việc-thành-phần, [[]])
 ```
 
 
-<%* if (!tp.file.folder(true).includes("14 Tổ chức sự kiện")) {
-	tp.file.move("/7 Công việc/14 Tổ chức sự kiện/" + tp.file.title)
-} %>

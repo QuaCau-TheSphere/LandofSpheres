@@ -1,3 +1,6 @@
+---
+Alias: Dùng Obsidian
+---
 Mô tả::
 # Đầu vào
 - [ ] [[1 Làm quen với Obsidian]]
@@ -15,16 +18,17 @@ where contains(kỹ-năng, [[]])
 ```
 
 # Thử thách
+```dataview 
+List
+from "7 Công việc"
+Where contains(kỹ-năng, [[]])
+```
+###### Chi tiết
 ```dataview
 table 
 	trạng-thái as "Trạng thái", 
 	filter(file.inlinks, (i) => i.hoạt-động) as "Mục tiêu",
 	người-chơi as "Người chơi"
-from "7 Công việc"
-Where contains(kỹ-năng, [[]])
-```
-```dataview 
-List
 from "7 Công việc"
 Where contains(kỹ-năng, [[]])
 ```
