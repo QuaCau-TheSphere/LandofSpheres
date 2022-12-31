@@ -51,7 +51,7 @@ Tài liệu:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], 
 	- [x] Gửi link khảo sát sau sự kiện ✅ 2022-09-13
 
 
-Công việc thành phần:: [[✔✔ Lên nội dung chi tiết buổi sự kiện chim sáo]]
+Công việc thành phần:: [[Lên nội dung chi tiết buổi sự kiện chim sáo]]
 Công việc thành phần:: [[✔✔ Truyền thông buổi sự kiện chim sáo]]
 Công việc thành phần:: [[Hậu cần buổi sự kiện chim sáo]]
 

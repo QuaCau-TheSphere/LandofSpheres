@@ -42,12 +42,6 @@ Group by tags
 |                            |                                                                                                                                                                                                                                                                                      |
 
 # Tính chất công việc
-```dataview
-List from "7 Công việc" 
-flatten file.etags as tags
-Where startswith(tags,"#tc")
-Group by tags
-```
 
 #tc-🧍Cóthểlàmmộtmình
 #tc-🌐Cóthểlàmquamạng 
@@ -83,6 +77,13 @@ Group by tags
 #tc-🌐Chỉnênlàmquamạng 
 
 ![[Cách tìm công việc phù hợp với mình nhất#^ce2afe]]
+## Danh sách tất cả các tag tính chất đang dùng
+```dataview
+List from "7 Công việc" 
+flatten file.etags as tags
+Where startswith(tags,"#tc")
+Group by tags
+```
 # Kỹ năng 
 ```dataview 
 List from "2 Kỹ năng, thử thách, mức độ thành thạo" 

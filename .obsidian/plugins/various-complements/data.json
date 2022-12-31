@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "9 Tài liệu khác\\91 Tính năng của vault\\919 Thiết lập\\Gõ tắt.md",
+  "customDictionaryPaths": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Gõ tắt.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",

@@ -24,7 +24,7 @@ Tài liệu::
 ##### Chỉ số trước
 - [ ] Có vault mẫu
 
-Công việc thành phần:: [[✔✔ Tạo vault cá nhân mẫu]]
+Công việc thành phần:: [[Tạo vault cá nhân mẫu]]
 
 === multi-column-start: extraInfo
 ```column-settings

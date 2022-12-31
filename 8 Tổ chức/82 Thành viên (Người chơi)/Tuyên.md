@@ -22,21 +22,26 @@ Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồ
 
 ![](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/322726234_3265955646954233_8823142280753284143_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=3AljtCqrXLAAX-rw-XL&_nc_ht=scontent.fsgn2-4.fna&oh=03_AdShIN3cu__qWFDVG7PBDvVMdc9Tm5qPKkefOpJQttyD1w&oe=63D61B0E&dl=1)
 
-# Tôi và QC
-## Công việc tôi nhận làm
+# Công việc tôi nhận làm
+
+> [!NOTE] Mức độ ưu tiên khi chọn việc
+> Liệt kê các tính chất công việc trong [[Các yếu tố trong công việc#Tính chất công việc]] theo thứ tự ưu tiên giảm dần ở đây
+
 ```dataview
-list where contains(người-chơi,[[]]) and trạng-thái!="#tt-✔️/đãđánhgiá" 
+list filter(file.etags, (tags) => startswith(tags, "#đct") or startswith(tags, "#tt"))
+from "7 Công việc" and !#đct-✅✅Đãxong
+where contains(người-chơi,[[]])
 ```
-## Công việc PNML trong các ban nhận làm
-```dataview
-List map(filter(file.inlinks, (f) => contains(f.ban, file.link) and (f.độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or f.độ-cấp-thiết="#đct-🔥/muốnlàmngay" or f.độ-cấp-thiết="#đct-🔥/nênlàmngay" or f.độ-cấp-thiết="Công việc lặp lại")), (x)=>x+" @" +x.người-chơi  )
-From "8 Tổ chức/61 Ban" 
-Where contains(this.ban, file.link)
-```
-## Công việc tôi đã làm xong
-```dataview
-list where contains(người-chơi,[[]]) and trạng-thái="#tt-✔️/đãđánhgiá" 
-```
+
+> [!info]- Công việc tôi đã làm xong
+> ```dataview
+> list filter(file.etags, (tags) => startswith(tags, "#tt"))
+> from "7 Công việc" and #đct-✅✅Đãxong
+> where contains(người-chơi,[[]]) 
+> ```
+
+# Lịch của tôi
+<iframe src="https://calendar.google.com/calendar/embed?src=phamnguyentiny%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Các tổ chức khác tôi đã hoặc đang từng tham gia
 Trợ lý dự án - Education for Vietnam Organic Lifestyle

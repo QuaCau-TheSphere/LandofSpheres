@@ -10,8 +10,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 === end-column ===
 
-# Tên đầy đủ
-Hình thức tham gia::<% tp.file.cursor(1) %>
+# [[Tên đầy đủ]]
 Kỹ năng::<% tp.file.cursor(2) %>
 📱:: 
 🏠:: 
@@ -19,18 +18,24 @@ Kỹ năng::<% tp.file.cursor(2) %>
 🌐:: 
 
 === multi-column-end
-Kỹ năng hiện có 
-Kỹ năng muốn có
-Mức độ ưu tiên khi chọn việc
-Link đến vault nhu cầu
 
+# Công việc tôi nhận làm
 
-# Cơ quan nơi tôi đã hoặc đang làm
-## Cơ quan 1
-Tầm nhìn, sứ mệnh, chiến lược của cơ quan
-Nhu cầu của cơ quan
-# Điều tôi muốn có
-## Nhu cầu nóng
-## Nhu cầu không nóng
-# Thế mạnh của tôi
-# Giá trị của tôi
+> [!NOTE] Mức độ ưu tiên khi chọn việc
+> Liệt kê các tính chất công việc trong [[Các yếu tố trong công việc#Tính chất công việc]] theo thứ tự ưu tiên giảm dần ở đây
+
+```dataview
+list filter(file.etags, (tags) => startswith(tags, "#đct") or startswith(tags, "#tt"))
+from "7 Công việc" and !#đct-✅✅Đãxong
+where contains(người-chơi,[[]])
+```
+
+> [!info]- Công việc tôi đã làm xong
+> ```dataview
+> list filter(file.etags, (tags) => startswith(tags, "#tt"))
+> from "7 Công việc" and #đct-✅✅Đãxong
+> where contains(người-chơi,[[]]) 
+> ```
+
+# Lịch của tôi
+<iframe src="https://calendar.google.com/calendar/embed?src=AAAAAAAAAAAAAAAAAAAAAAAAA%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

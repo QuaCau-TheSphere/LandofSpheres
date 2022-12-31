@@ -24,7 +24,7 @@ node [shape=round]
 37 [label="66 Mô hình"] 
 38 [label="38 Loại sứ mạng"] 
 
-61 [label="61 Ban"] 
+61 [label="82 Thành viên (Người chơi)"] 
 62 [label="82 Thành viên (Người chơi)" color=blue] 
 
 92 [label="92 Các chương trình"]
@@ -77,7 +77,7 @@ flowchart TD
 37[66 Mô hình]
 38[38 Loại sứ mạng]
 
-61[61 Ban]
+61[82 Thành viên (Người chơi)]
 62[82 Thành viên (Người chơi)]
 
 92[92 Các chương trình]

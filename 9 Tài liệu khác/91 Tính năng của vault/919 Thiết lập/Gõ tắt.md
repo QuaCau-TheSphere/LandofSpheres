@@ -1,5 +1,6 @@
 # 1 Nhu cầu
 Đáp ứng cho nhu cầu của mình::		nc
+
 # 2 Mục tiêu
 Mục tiêu::		mmm
 Đi chung::		mmd
@@ -38,6 +39,11 @@ Công việc thành phần::		cvt
 next::		cvn
 Tài liệu:: [[|]]		cvt
 
+(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM
+độ-cấp-thiết="#đct-🍃/sớmphảilàm" or độ-cấp-thiết="#đct-🍃/đợingườinhậnlàm "		cc
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến		tccv1
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến		tccv2
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến		tccv3
 # 8 Tổ chức
 Công việc:: 		cv
 # 9 Tài liệu
@@ -45,9 +51,6 @@ Tóc vàng:: 		tv
 Tóc đen:: 		td
 
 [label="|"]		ll
-(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM
-độ-cấp-thiết="#đct-🍃/sớmphảilàm" or độ-cấp-thiết="#đct-🍃/đợingườinhậnlàm "		cc
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến		tccv
 
 Tài liệu::		xt
 Mâu thuẫn		mt
