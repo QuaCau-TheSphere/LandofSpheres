@@ -1,12 +1,11 @@
-Lý do:: [[Lời nguyền của kiến thức]]
 
 Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])
 ```
 
-| Giải pháp gợi ý | Vấn đề phát sinh |
-| --------------- | ---------------- |
-|                 |                  |
+| Giải pháp gợi ý                                                                          | Vấn đề phát sinh |
+| ---------------------------------------------------------------------------------------- | ---------------- |
+| Chấp nhận. Xem thêm:: [[Dẫn chương trình hoặc chính trị gia chuyên nghiệp cũng cần đọc tài liệu chứ không thể nhớ hết]] |                  |
 
 

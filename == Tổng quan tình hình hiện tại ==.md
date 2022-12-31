@@ -74,8 +74,6 @@ gantt
 ```
 
 Số tiền quỹ hiện tại: 11tr
-# Các con sáo
-[![[Nhật.png|70]]](obsidian://open?vault=WorldofSpheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F62%20Th%C3%A0nh%20vi%C3%AAn%20(Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i)%2FNh%E1%BA%ADt) [![Thịnh](https://ui-avatars.com/api/?background=random&rounded=true&uppercase=false&name=Thịnh)](obsidian://open?vault=WorldofSpheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F62%20Th%C3%A0nh%20vi%C3%AAn%20(Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i)%2FTh%E1%BB%8Bnh) [![Ân](https://ui-avatars.com/api/?background=random&rounded=true&uppercase=false&name=Ân)](obsidian://open?vault=WorldofSpheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F62%20Th%C3%A0nh%20vi%C3%AAn%20(Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i)%2F%C3%82n) [![Tuyên#37ga](https://ui-avatars.com/api/?background=random&rounded=true&uppercase=false&name=Tuyên)](obsidian://open?vault=WorldofSpheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F62%20Th%C3%A0nh%20vi%C3%AAn%20(Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i)%2FTuy%C3%AAn) [![Trang](https://ui-avatars.com/api/?background=random&rounded=true&uppercase=false&name=Trang)](obsidian://open?vault=WorldofSpheres&file=6%20T%E1%BB%95%20ch%E1%BB%A9c%2F62%20Th%C3%A0nh%20vi%C3%AAn%20(Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i)%2FTrang%20(Chu%E1%BB%91i)) 
 
 ```button
 name Mở Discord

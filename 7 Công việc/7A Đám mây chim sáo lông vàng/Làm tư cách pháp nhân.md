@@ -18,7 +18,7 @@ Kỹ năng::
 
 === end-multi-column
 
-Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[sach-dien-hinh-doanh-nghiep-xa-hoi-tai-viet-nam.pdf]]
+Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[Điển hình doanh nghiệp xã hội tại Việt Nam.pdf]]
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước

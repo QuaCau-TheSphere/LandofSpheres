@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1672392511252,
+      "lastAccessed": 1672508039007,
       "markers": [
         {
           "id": "ID_7818b8d86a09",
@@ -45,31 +45,13 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_d80b48980a7a",
-          "type": "Nhật",
-          "loc": [
-            -1.8950889151436718,
-            5.8206868391291895
-          ],
-          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5478293495651002,
-            0.38200217502108663
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
           "id": "ID_097ac92a3a6b",
           "type": "Nhật",
           "loc": [
             -2.154285768389024,
             5.48632570421068
           ],
+          "link": "Nhật",
           "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -77,7 +59,7 @@
           "description": null,
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "always"
+          "tooltip": "hover"
         },
         {
           "id": "ID_baf859e8e9db",
@@ -99,15 +81,15 @@
           "id": "ID_fb1b1bbbe97b",
           "type": "Nhật",
           "loc": [
-            -2.9564733512061068,
-            6.081173000919512
+            -2.9661459922790527,
+            6.058571422640229
           ],
           "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5723456942041893,
-            0.5959505337864278
+            0.5702184868367275,
+            0.5979002945066437
           ],
           "description": null,
           "minZoom": null,
@@ -140,6 +122,7 @@
             -2.280506144478219,
             6.3110045504594945
           ],
+          "link": "Nhật",
           "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -150,7 +133,7 @@
           "description": null,
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "always"
+          "tooltip": "hover"
         },
         {
           "id": "ID_9a18cb181a09",
@@ -266,11 +249,50 @@
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
-  "displayMarkerTooltips": "always",
+  "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 6.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Các sản phẩm chính.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Các sản phẩm chính.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "metric",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",

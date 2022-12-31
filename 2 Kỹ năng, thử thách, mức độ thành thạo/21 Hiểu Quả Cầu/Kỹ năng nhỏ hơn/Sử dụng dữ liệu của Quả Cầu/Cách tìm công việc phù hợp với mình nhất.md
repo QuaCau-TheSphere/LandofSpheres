@@ -15,7 +15,6 @@ FROM #tc-🔓Làmlúcnàocũngđược and #tc-🥳Tươngtácnhiềuvớiloàin
 ```
 
 > [!tip] Một số nhóm tính chất công việc thường đi chung với nhau
-> - `dct ` dct 
 > - `#tc-🧍Cóthểlàmmộtmình or #tc-🌐Cóthểlàmquamạng or #tc-📱Cóthểlàmtrênđiệnthoại or #tc-🔓Làmlúcnàocũngđược or #tc-🔁Côngviệclặplại or #tc-🧠Khôngphảisuynghĩnhiều or #tc-💬Làmxongkhôngcầnhỏiýkiến`
 > - `#tc-🔁Kếtquảthayđổithườngxuyên  or #tc-🔁Côngviệclặplại or #tc-💬Họpthườngxuyên or #tc-🥳Tươngtácnhiềuvớiloàingười`
 > - `#tc-☕Chỉnênlàmkhigặpmặttrựctiếp or #tc-🥳Tươngtácnhiềuvớiloàingười or #tc-💬Họpthườngxuyên or #tc-🔁Côngviệclặplại or #tc-🔁Kếtquảthayđổithườngxuyên or #tc-🗣️Nóinhiều or #tc-💻Khôngphảicắmmặtvàomáytính`

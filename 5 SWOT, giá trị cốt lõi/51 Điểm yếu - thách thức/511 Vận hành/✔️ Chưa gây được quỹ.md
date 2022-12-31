@@ -1,4 +1,4 @@
-Trạng thái:: Đã giải quyết xong
+Trạng thái:: #đct
 Lý do:: [[Thiếu nhóm cố vấn chuyên môn]]
 Lý do:: [[Quá nhiều việc]]
 Lý do:: [[Người thụ hưởng không thấy tác động rõ ràng]]

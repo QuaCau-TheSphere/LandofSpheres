@@ -1,4 +1,9 @@
+![[Chu kỳ lên kế hoạch chiến lược.jpg|300]]
 Các việc trong được điền đầy đủ [[== Tổng quan tình hình hiện tại ==]]
+# Vấn đề hiện tại
+[[Các nhà tài trợ thích những tổ chức có tư cách pháp nhân hơn]]
+[[✔️ Chưa gây được quỹ]]
+
 # Xây dựng dự án
 ## Web tiếng anh
 Dễ kiếm cho YSEALI 
@@ -45,5 +50,3 @@ Tháng 5: tránh mưa + nghỉ hè
 - 2 truyền thông
 - luật
 - Thiết kế
-
-![[Chu kỳ lên kế hoạch chiến lược.jpg]]

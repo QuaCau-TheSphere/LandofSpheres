@@ -10,8 +10,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 === end-column ===
 
-# Lê Bảo Ân
-Hình thức tham gia:: [[63.01 Thành viên nòng cốt]]
+# [[Lê Bảo Ân]]
 Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Nhân sự (kỹ năng)]], [[Hậu cần – logistics]]
 📱:: 0941546494
 🏠:: Q5, TPHCM
