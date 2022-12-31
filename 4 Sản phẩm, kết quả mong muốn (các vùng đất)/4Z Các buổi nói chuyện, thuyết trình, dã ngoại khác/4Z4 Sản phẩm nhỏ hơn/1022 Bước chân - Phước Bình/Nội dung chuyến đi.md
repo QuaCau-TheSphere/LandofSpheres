@@ -84,10 +84,10 @@ Bình đẳng giới phụ thuộc vào độ hiểu biết văn hoá bản đ�
 	- [x] Thống nhất 4 khung workshop (Xây dựng cộng đồng, giáo dục chất lượng, bình đẳng giới, đa dạng sinh học). 2 hoạt động chính là kết nối và giao lưu với học sinh bản địa + khảo sát thực địa cộng đồng.
 	- [ ] Brainstorm các câu hỏi và nội dung các workshop 
 	- [ ] Tìm các khung giờ để workshop vào sắp xếp vào 3 ngày.
-	- [ ] Liên lạc với chị Trinh về việc khảo sát thực địa, có cần xin phép địa phương hay không? nếu có thì quy trình như thế nào? [👤:: [[Tuyên]]]
-	- [ ] Hỏi chị Trinh về các khung giờ thích hợp để khảo sát thực địa với người dân [👤:: [[Tuyên]]]
-	- [ ] Liên lạc với thầy Sáng về việc kết nối với các em học sinh bản địa.[👤:: [[Tuyên]]]
-	- [ ] Hoàn thành khung chương trình 3 ngày 2 đêm để gửi Hải Đăng xin chi phí [👤:: [[Tuyên]]] 
+	- [ ] Liên lạc với chị Trinh về việc khảo sát thực địa, có cần xin phép địa phương hay không? nếu có thì quy trình như thế nào? [👤:: [[8 Tổ chức/82 Thành viên (Người chơi)/Tuyên]]]
+	- [ ] Hỏi chị Trinh về các khung giờ thích hợp để khảo sát thực địa với người dân [👤:: [[8 Tổ chức/82 Thành viên (Người chơi)/Tuyên]]]
+	- [ ] Liên lạc với thầy Sáng về việc kết nối với các em học sinh bản địa.[👤:: [[8 Tổ chức/82 Thành viên (Người chơi)/Tuyên]]]
+	- [ ] Hoàn thành khung chương trình 3 ngày 2 đêm để gửi Hải Đăng xin chi phí [👤:: [[8 Tổ chức/82 Thành viên (Người chơi)/Tuyên]]] 
 - [ ] Làm bảng khảo sát
 - [ ] Làm bảng đăng ký tham gia
 - [ ] Mở đơn đăng ký 🛫 1/10 📅 6/10

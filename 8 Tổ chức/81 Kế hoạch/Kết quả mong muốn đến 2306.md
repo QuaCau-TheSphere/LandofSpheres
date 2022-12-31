@@ -1,21 +1,29 @@
 Các việc trong được điền đầy đủ [[== Tổng quan tình hình hiện tại ==]]
 # Xây dựng dự án
-## [[Làm tư cách pháp nhân]]
-- web tiếng anh
+## Web tiếng anh
+Dễ kiếm cho YSEALI 
+
 - Tên miền email
 - CSR
 - [[Cập nhật nội dung website]]
+## [[Làm tư cách pháp nhân]]
 ## [[Xây dựng cộng đồng]]
 - Kỹ năng
 - HDSD Obsidian
 - nhiều người theo dõi rồi
+- test vault
+	- group nhỏ 
+	- chuyên gia
+	- group lớn
+	- page
+- sống nhờ traffic từ một nền tảng khác
 ## Gây quỹ 
 - Small grant YSEALI
 - Hải Đăng
 
 # Hỗ trợ cá nhân
+- Nhóm học JS
 - Trí
-- Tuyên
 - Thảo
 - Trang
 # Các chương trình dự kiến
@@ -24,10 +32,7 @@ Các việc trong được điền đầy đủ [[== Tổng quan tình hình hi�
 - [[Xây dựng tính năng cho vault]]
 
 ## Bước Chân 2023 – Tà Nôi
-TIền tài trợ:
-- Small grant YSEALI
-- Hải Đăng
-
+Tháng 5: tránh mưa + nghỉ hè
 ## Bước Chân 2023 – Phước Bình
 
 # Kiến thức cần học

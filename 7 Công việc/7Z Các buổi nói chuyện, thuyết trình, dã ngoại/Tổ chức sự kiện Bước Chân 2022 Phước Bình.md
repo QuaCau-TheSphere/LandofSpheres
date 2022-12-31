@@ -13,7 +13,7 @@ Tính chất công việc:: #tc-💬Họpthườngxuyên
 
 === end-column ===
 
-Người chơi:: [[Tuyên]]
+Người chơi:: [[8 Tổ chức/82 Thành viên (Người chơi)/Tuyên]]
 Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 
 === end-multi-column

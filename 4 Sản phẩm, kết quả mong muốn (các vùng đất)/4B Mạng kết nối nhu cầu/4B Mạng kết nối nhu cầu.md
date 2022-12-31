@@ -7,7 +7,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra một thứ không ai có thể cưỡng lại được]]
 
 # Thực thể khi được nhìn như là mục tiêu
-Mục tiêu:: [[trao đổi nhu cầu]], [[Sàn giao dịch nhu cầu có 1000 thành viên hoạt động]], 
+Mục tiêu:: [[Có 1000 thành viên hoạt động]]
 Yếu tố hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 
 Điểm mạnh:: 

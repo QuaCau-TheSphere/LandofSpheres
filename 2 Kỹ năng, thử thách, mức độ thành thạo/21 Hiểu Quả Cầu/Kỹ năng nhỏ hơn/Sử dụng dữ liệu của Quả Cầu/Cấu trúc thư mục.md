@@ -33,6 +33,7 @@ Thử thách với đầu vào đều là những cách để tăng mức độ 
 
 Những tinh thần, triết lý mà tôi muốn lan tỏa, cũng chỉ là một dạng kỹ năng
 Thành tựu với đầu ra là giống nhau
+Ở trạng thái chưa phức tạp, mọi thứ còn hoà và nhau. Việc hiểu một khái niệm cũng có thể xem là một thử thách
 
 [[Trò chơi và vùng đất]]
 ## 3 Kiến thức
@@ -40,6 +41,7 @@ Thành tựu với đầu ra là giống nhau
 - 32 Câu hỏi: Những lỗ hổng về mặt kiến thức mà tổ chức cần tìm hiểu
 - 33 Ghi chép: evergreen
 
+NLP, Wikipedia 
 ## 4 Sản phẩm
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 

@@ -10,6 +10,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 === end-column ===
 
+
 # Phạm Nguyễn Đăng Tuyên
 Hình thức tham gia:: [[63.01 Thành viên nòng cốt]]
 Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồng (kỹ năng)]], [[Tổ chức sự kiện (kỹ năng)]], [[Nhân sự (kỹ năng)]]
@@ -18,6 +19,8 @@ Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồ
 ✉:: phamnguyentiny@gmail.com
 
 === multi-column-end
+
+![](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/322726234_3265955646954233_8823142280753284143_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=3AljtCqrXLAAX-rw-XL&_nc_ht=scontent.fsgn2-4.fna&oh=03_AdShIN3cu__qWFDVG7PBDvVMdc9Tm5qPKkefOpJQttyD1w&oe=63D61B0E&dl=1)
 
 # Tôi và QC
 ## Công việc tôi nhận làm
@@ -35,73 +38,6 @@ Where contains(this.ban, file.link)
 list where contains(người-chơi,[[]]) and trạng-thái="#tt-✔️/đãđánhgiá" 
 ```
 
----
-Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+B%E1%BA%A3n+%C4%91%E1%BB%93+trong+QC
-# Hành trình của tôi trong QC
-## Hiểu kế hoạch chiến lược
-1. [ ] Đọc hiểu:
-	- [ ] [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Các mục tiêu dài hạn (Các dự án thành phần)]]
-	- [ ] [[00.2 Kế hoạch tổng thể|Các mục tiêu ngắn hạn (Kế hoạch tổng thể)]]
-2. [ ] Thấy được những mục tiêu này giúp ích gì cho bản thân mình hoặc nơi mình làm tổ chức mình
-3. [ ] Tích hợp được những mục tiêu này vào cuộc sống của mình
-4. [ ] Nếu như 2, 3 không hiệu quả hoặc khả thi thì đề xuất được một kế hoạch chiến lược khác
-
-## Hiểu triết lý tổ chức
-1. [ ] Đọc hiểu các bài sau:
-	1. [ ] Tư duy, thái độ, ...
-		- [x] [[Rhizome]]
-		- [ ] [[Sự trong trong]]
-		- [ ] [[83 Hướng dẫn xử lý các trường hợp cụ thể]]
-			- [ ] [Mở đầu](https://xn--qucu-hr5aza.cc/mo-dau/?utm_source=Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+H%C3%A0nh+tr%C3%ACnh+th%C3%A0nh+vi%C3%AAn&utm_medium=M%E1%BB%9F+%C4%91%E1%BA%A7u&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1)
-	2. [ ] Các khái niệm quan trọng khác
-		- [ ] [Sự bất lực học được](https://xn--qucu-hr5aza.cc/su-bat-luc-hoc-duoc/?utm_source=Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+H%C3%A0nh+tr%C3%ACnh+th%C3%A0nh+vi%C3%AAn&utm_medium=S%E1%BB%B1+b%E1%BA%A5t+l%E1%BB%B1c+h%E1%BB%8Dc+%C4%91%C6%B0%E1%BB%A3c+l%C3%A0+g%C3%AC%3F&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1)
-		- [ ] [[Niềm tin tiêu cực]] 
-2. [ ] Thảo luận về ưu điểm và hạn chế của nó
-3. [ ] Dành thời gian rảnh để suy tư về những quan điểm của Nhật một cách có hệ thống
-4. [ ] Đặt câu hỏi cho những người xung quanh của mình về những triết lý này để kiểm tra tính hợp lý của chúng
-5. [ ] Ứng dụng chúng vào cuộc sống của mình
-6. [ ] Cảm thấy đây là quan điểm sống mình cần phải đi
-7. [ ] Nếu như 5, 6 không hiệu quả hoặc khả thi thì quay lại 2
-## Hiểu cách sự vận hành hiện tại
-- [ ] Hiểu được, nắm được, biết được:
-	- [x] [[00.1 Lịch họp hằng tuần|Tuần này sẽ họp những gì]]
-	- [x] [[00.2 Kế hoạch tổng thể|Kế hoạch ngắn hạn của QC (các công việc PNML)]]
-	- [x] [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|Kế hoạch dài hạn của QC]]
-	- [ ] [[6 Các bên liên quan (NPC)/Cá nhân#1 Các bên liên quan đã hỗ trợ được QC|Những ai đóng góp cho QC]]
-	- [ ] [[8 Tổ chức|Cơ cấu tổ chức và công việc trong ban mình muốn làm]] 
-	- [ ] [[82 Thành viên (Người chơi)|Hồ sơ công việc của mình và của các thành viên khác]]
-	- [ ] [[Cách tìm công việc phù hợp với mình nhất]]
-	- [ ] [[83 Hướng dẫn xử lý các trường hợp cụ thể|Cách xử lý các tình huống khác nhau trong quá trình làm việc]]
-	- [ ] [[Hướng dẫn truyền thông|Cách khi giới thiệu cho người ngoài]] 
-- [x] Thảo luận với các thành viên khác trong ban để chia công việc
-- [x] Nhận một công việc hoặc đề xuất một công việc phù hợp với mình
-- [x] Kết nối Google Calendar của mình với nhóm
-## Tương tác với mọi người
-1. [x] Tham gia [[00.1 Lịch họp hằng tuần|các buổi họp hằng tuần]]
-2. [x] Tham gia [Discord](https://discord.gg/jWTk4EHFK2)
-3. [x] Tham gia [group](https://www.facebook.com/groups/thaydoiniemtintieucuc/)
-4. [ ] Chia sẻ trên Discord/group	
-	- [x] Giới thiệu bản thân
-	- [ ] Chia sẻ với mọi người về những gì mình đã, đang và sẽ làm/cần trong vòng 1 tháng qua và 1 tháng tới
-	- [ ] Những bài viết mình thấy thú vị
-	- [ ] Những suy tư của mình
-5. [ ] Làm khảo sát [Bạn nghĩ gì về Quả Cầu?](https://quảcầu.cc/ban-nghi-gi-ve-qua-cau/?utm_source=Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+H%C3%A0nh+tr%C3%ACnh+th%C3%A0nh+vi%C3%AAn&utm_medium=B%E1%BA%A1n+ngh%C4%A9+g%C3%AC+v%E1%BB%81+Qu%E1%BA%A3+C%E1%BA%A7u%3F&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1)
-## Sử dụng dữ liệu
-1. [ ] Đọc [[Triết lý của Obsidian]]
-2. [x] Đồng bộ vault cho máy tính, cho điện thoại
-3. [ ] Hiểu được trong vault có những thư mục nào
-4. [ ] Chỉnh sửa lần đầu
-5. [ ] Tự động tìm câu trả lời trong vault chứ không hỏi Nhật nữa
-6. [ ] Hỗ trợ người khác tìm thông tin trong vault
-7. [ ] [[Phương pháp đồng bộ (phụ lục)|Tìm hiểu về git]]
-8. [ ] Sử dụng Git
-9. [ ] Tạo một vault cho riêng mình
-
-## Với người muốn tham gia *Mạng lưới người thân, bạn bè của người có niềm tin tiêu cực*
-1. [ ] Làm [Khảo sát quan điểm về sự tác động](https://xn--qucu-hr5aza.cc/khao-sat-quan-diem-ve-su-tac-dong/?utm_source=Obsidian+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+H%C3%A0nh+tr%C3%ACnh+th%C3%A0nh+vi%C3%AAn&utm_medium=Kh%E1%BA%A3o+s%C3%A1t+quan+%C4%91i%E1%BB%83m+v%E1%BB%81+s%E1%BB%B1+t%C3%A1c+%C4%91%E1%BB%99ng&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1)
-2. [ ] Xem phim [12 người đàn ông giận dữ](https://phimnhua.com/xem-phim/12-nguoi-dan-ong-gian-du-12-angry-men-1957/)
-
----
 # Các tổ chức khác tôi đã hoặc đang từng tham gia
 Trợ lý dự án - Education for Vietnam Organic Lifestyle
 
