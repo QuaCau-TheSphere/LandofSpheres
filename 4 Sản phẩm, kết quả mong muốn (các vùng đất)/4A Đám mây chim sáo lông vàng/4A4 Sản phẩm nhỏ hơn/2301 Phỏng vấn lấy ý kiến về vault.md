@@ -6,6 +6,9 @@
 ```mermaid
 flowchart LR
 	a3[Bấm vào link GitHub]
+    a2 --> a3
+    a3 --> c1
+	b1 --> a3
 	
     subgraph GitHub
     c1[Đọc hướng dẫn ] --> c2[Bấm tải] 
@@ -14,9 +17,7 @@ flowchart LR
     subgraph Trên web
     a1[Đọc bài viết] --> a2[Ra trang chủ] 
 	end
-    a2 --> a3
-    a3-->c1
-	 b1 -->a3
+	
     subgraph Trên Facebook
     b1[Đọc bài viết] 
     end

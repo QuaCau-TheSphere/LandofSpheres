@@ -63,14 +63,6 @@
         }
       }
     },
-    "cvk": {
-      "- [ ] ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1669924643793
-        }
-      }
-    },
     "xt": {
       "Tài liệu::": {
         "customDictionary": {
@@ -108,6 +100,38 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1672504936512
+        }
+      }
+    },
+    "PNM,dct1": {
+      "(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672590970504
+        }
+      }
+    },
+    "cc,dct2": {
+      "#đct-🍃/sớmphảilàm or #đct-🍃/đợingườinhậnlàm": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672590980109
+        }
+      }
+    },
+    "tt": {
+      "Tiếp theo:: ": {
+        "customDictionary": {
+          "count": 10,
+          "lastUpdated": 1672591895645
+        }
+      }
+    },
+    "dtv": {
+      "```dataview\nLIST\nFROM |\nWHERE\n```": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672592178743
         }
       }
     }

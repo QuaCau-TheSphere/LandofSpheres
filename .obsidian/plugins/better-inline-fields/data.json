@@ -93,16 +93,16 @@
       "folder": "7 Công việc"
     },
     {
-      "field": "Ban",
-      "folder": "8 Tổ chức/82 Thành viên (Người chơi)"
-    },
-    {
       "field": "Nhân sự",
       "folder": "8 Tổ chức/82 Thành viên (Người chơi)"
     },
     {
       "field": "Hình thức tham gia",
       "folder": "8 Tổ chức/63 Hình thức tham gia (Loại nhân vật)"
+    },
+    {
+      "field": "Tiếp theo",
+      "folder": "6 Các bên liên quan (NPC)/Hành trình người dùng"
     }
   ],
   "regexpTrigger": "/"

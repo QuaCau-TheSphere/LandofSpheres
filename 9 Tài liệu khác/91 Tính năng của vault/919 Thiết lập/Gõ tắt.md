@@ -7,7 +7,6 @@ Mục tiêu::		mmm
 Yếu tố hỗ trợ::		mmy
 Đối tượng thụ hưởng::		mmd
 Ý tưởng tốt hơn::		mmy
-Tham khảo:: [[|]]		mmt
 Hoạt động::		mmh
 
 # 3 Kiến thức, câu hỏi
@@ -19,7 +18,7 @@ Trả lời:: 		tte
 Lý do::		vvl
 Là vấn đề cho hoạt động::		vvh
 
-# 6 Các bên liên quan (NPC)/Cá nhân
+# 6 Các bên liên quan (NPC)
 Loại đối tượng::		bbl
 Nhu cầu của đối tượng::		bbn
 Điều đối tượng thấy ở QC::		bbd
@@ -34,24 +33,30 @@ Mô hình::		bbm
 Đối tượng thụ hưởng::		bbdd
 Loại sứ mệnh:: 		bbll
 
+Tiếp theo:: 		tt
 # 7 Công việc 
 Công việc thành phần::		cvt
 next::		cvn
-Tài liệu:: [[|]]		cvt
 
-(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM
-độ-cấp-thiết="#đct-🍃/sớmphảilàm" or độ-cấp-thiết="#đct-🍃/đợingườinhậnlàm "		cc
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến		tccv1
 Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính		tccv2
+
 # 8 Tổ chức
 Công việc:: 		cv
+
 # 9 Tài liệu
 Tóc vàng:: 		tv
 Tóc đen:: 		td
 
-[label="|"]		ll
 
 Tài liệu::		xt
 Mâu thuẫn		mt
 
+# Dataview
+```dataview\nLIST\nFROM |\nWHERE\n```		dtv
 Các note cũng nói về chủ đề này:\n```dataview \nList\nWhere contains(file.name,split(this.file.name," \(")[0]) and file.path!=this.file.path\n```		cungchude
+
+(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM,dct1
+#đct-🍃/sớmphảilàm or #đct-🍃/đợingườinhậnlàm		cc,dct2
+
+[label="|"]		ll

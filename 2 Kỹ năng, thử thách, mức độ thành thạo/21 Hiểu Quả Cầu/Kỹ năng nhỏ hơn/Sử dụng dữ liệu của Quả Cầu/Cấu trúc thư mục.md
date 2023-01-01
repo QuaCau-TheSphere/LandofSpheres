@@ -1,18 +1,15 @@
 ---
 Alias: "9.01"
 ---
+- Phân loại thư mục: [Johnny•Decimal](https://johnnydecimal.com/)
 Các thư mục ở trên sẽ quyết định các thư mục ở dưới
-Từ 1 đến 4 là nơi mọi người sống cho bản thân. 4 là các vùng đất, nơi các dòng nhu cầu hội tụ đủ mạnh để bồi đắp tạo thành những vùng đất. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau
 1 sẽ là mạng kết nối nhu cầu
 2 là hỗ trợ người tự học
 3 sẽ là các sản phẩm khác
 
-Từ 1_4 là nơi mọi người. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau
-Thấy được giá trị củTừ 1_4 là nơi mọi người. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau
-Thấy được giá trị của 4 thì họ mới tham gia sâu hơn
+Từ 1 đến 4 là nơi mọi người sống cho bản thân. 4 là các vùng đất, nơi các dòng nhu cầu hội tụ đủ mạnh để bồi đắp tạo thành những vùng đất. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau. Thấy được giá trị của 4 thì họ mới tham gia sâu hơn
 
-Từ 1 đến 4 là nơi mọi người phát triển bản thân mình. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau,và cũng có thể xem 
-1,2,3 là hướng về cá nhân, 7,8,9 là hướng về tập thể, là những thứ được thống nhất và sử dụng chung  
+1,2,3 là hướng về cá nhân, là nơi mọi người phát triển bản thân mình. 5,6,7,8,9 là hướng về tập thể, là những thứ được thống nhất và sử dụng chung. 4 là nơi giao nhau,và cũng có thể xem là nơi chuyển giao giữa việc đặt cá nhân làm trọng tâm và đặt tập thể làm trọng tâm. 
 
 2 sẽ cho bạn biết phải làm thế nào, còn 3 sẽ cho bạn biết tại sao  
   
@@ -25,6 +22,7 @@ Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi th�
 Dẫn tới mạng lưới nhu cầu 
 
 ## 2 Kỹ năng 
+Game hóa.Nhưng nó vẫn chỉ tạo cảm giác
 Bằng việc nhận ra rằng hiểu tổ chức cũng chỉ là một kỹ năng, ta không còn cần phải sử dụng đến hệ thống cấp bậc, mà vẫn giữ được  
 
 Nhiều khi cảm giác kỹ năng với thử thách là một. Nhưng nó sẽ khác nhau khi kỹ năng trở nên phức tạp và đòi hỏi nhiều kỹ năng nhỏ hơn, và có nhiều cấp độ tăng dần
@@ -35,6 +33,10 @@ Những tinh thần, triết lý mà tôi muốn lan tỏa, cũng chỉ là mộ
 Thành tựu với đầu ra là giống nhau
 Ở trạng thái chưa phức tạp, mọi thứ còn hoà và nhau. Việc hiểu một khái niệm cũng có thể xem là một thử thách
 
+Trong doanh nghiệp, mục thử thách này gọi là đào tạo nội bộ, đào tạo cho nhân viên 1 kĩ năng cần thiết nào đó
+
+Chia sẻ đam mê
+Sự sẵn sàng chia sẻ thường chỉ khi họ vẫn còn đang cần. Khi hiểu rành rẽ rồi thì sự hứng thú đó cũng giảm
 [[Trò chơi và vùng đất]]
 ## 3 Kiến thức
 - 31 Khái niệm, chủ đề: Các chủ đề mà QC bàn đến      
@@ -44,6 +46,7 @@ Thành tựu với đầu ra là giống nhau
 NLP, Wikipedia 
 ## 4 Sản phẩm
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
+- Tìm nguyên nhân gốc rễ: Cây vấn đề
 
 ## 5 SWOT, giá trị cốt lõi
 Giá trị là cấp độ từ. Triết lý là cấp độ câu
@@ -51,14 +54,20 @@ Cho vào chung vì với những giá trị khác nhau sẽ cho những điểm 
 - Phân tích vấn đề: issue mapping
 - Phân tích điểm mạnh, điểm yếu: SWOT
 
+Do là đang đi tìm gốc rễ, nên mới để lý do :: chứ không phải Hệ quả ::. 
 ## 6 Các bên liên quan
 - Thu thập thông tin người hưởng lợi: OIST
+- Phân tích đối tượng thụ hưởng: tư duy thiết kế
 ## 7 Công việc
 [[Các yếu tố trong công việc|Danh sách tất cả các tag]]] ] 
+
+## 8 Tổ chức 
+- Ra quyết định: 
 # Nhìn lại lần nữa
 Cách mà các khái niệm như Kỹ năng, Chủ đề, Sản phẩm mở ra (unfold) chính nó. Nghĩa là dưới nó còn có nó
 
-Với việc không sử dụng khái niệm "Mục tiêu" 
+Với việc không sử dụng khái niệm "Mục tiêu"
+ 
 | ---------           | Từ bắt đầu                 |
 | ------------------- | -------------------------- |
 | 1 Nhu cầu           | `Tìm`, `Có`, `Hiểu`        |
@@ -66,9 +75,5 @@ Với việc không sử dụng khái niệm "Mục tiêu"
 | 7 Công việc: Họp    | `Bàn`, `Thống nhất`        |
 |                     |                            |
 
-  
-- Tìm nguyên nhân gốc rễ: Cây vấn đề
-- Phân loại thư mục: [Johnny•Decimal](https://johnnydecimal.com/)
-- Ra quyết định: 
-- Phân tích đối tượng thụ hưởng: tư duy thiết kế
 - Mối quan hệ giữa các dữ liệu: [RDF Triplestore](https://viblo.asia/u/huynhduc)
+  
