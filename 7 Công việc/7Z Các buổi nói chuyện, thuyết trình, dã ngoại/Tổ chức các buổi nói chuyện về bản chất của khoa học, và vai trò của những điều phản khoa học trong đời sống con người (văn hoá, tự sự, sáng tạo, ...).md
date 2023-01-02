@@ -1,7 +1,7 @@
 Trạng thái:: #tt-⚪/chưađếnlúclàm
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Người chơi::
-Kỹ năng:: [[Các công việc tổ chức sự kiện]], [[Nghiên cứu (kỹ năng)]]
+Kỹ năng:: [[Các công việc tổ chức một buổi họp]], [[Nghiên cứu (kỹ năng)]]
 Phục vụ cho mục tiêu:
 ```dataview
 list where contains(hoạt-động, [[]])

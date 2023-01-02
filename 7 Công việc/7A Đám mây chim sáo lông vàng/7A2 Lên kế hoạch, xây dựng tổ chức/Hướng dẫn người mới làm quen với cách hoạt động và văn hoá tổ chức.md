@@ -24,11 +24,6 @@ Kỹ năng:: [[Nhân sự (kỹ năng)]]
 ##### Kết quả mong muốn
 - [ ] Các thành viên xem hết [[== Bản đồ dành cho người mới ==]], cài Obsidian
 
-##### Chỉ số trước
-- [ ] [est:: ] [ ]
-
-Công việc thành phần:: 
-next:: [[Đánh giá được mức độ hiểu biết của thành viên với tổ chức]]
 
 === multi-column-start: extraInfo
 ```column-settings
