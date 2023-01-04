@@ -1,7 +1,9 @@
 ---
 Alias: "9.01"
 ---
-- Phân loại thư mục: [Johnny•Decimal](https://johnnydecimal.com/)
+Trước tiên hãy nói về cách đánh số thư mục. Cách đánh số này lấy ý tưởng từ cách đánh số [Johnny•Decimal](https://johnnydecimal.com/).
+- Những sự kiện sẽ được đánh số riêng theo dạng YYMM
+
 Các thư mục ở trên sẽ quyết định các thư mục ở dưới
 1 sẽ là mạng kết nối nhu cầu
 2 là hỗ trợ người tự học
@@ -39,13 +41,15 @@ Trong doanh nghiệp, mục thử thách này gọi là đào tạo nội bộ, 
 Chia sẻ đam mê
 Sự sẵn sàng chia sẻ thường chỉ khi họ vẫn còn đang cần. Khi hiểu rành rẽ rồi thì sự hứng thú đó cũng giảm
 [[Trò chơi và vùng đất]]
+
+Các file trong đây file nào cũng có thể là tài liệu 
 ## 3 Kiến thức
 
 - 31 Khái niệm, chủ đề: Các chủ đề mà QC bàn đến      
 - 32 Câu hỏi: Những lỗ hổng về mặt kiến thức mà tổ chức cần tìm hiểu
 - 33 Ghi chép: evergreen
 
-Đây là những chủ đề mà dự án nghiên cứu:
+Mỗi một mục sẽ chia theo những nhóm chủ đề. Để hiểu những nhóm này như thế nào thì trước hết hãy xem hình này:
 
 ![[Vòng tròn.png|300]]
 Ý tưởng của hình này là:
@@ -59,26 +63,21 @@ Theo quan sát của chúng tôi, nhiều người làm ở những nhóm chủ 
 Các bài viết liên quan trực tiếp tới sự bất lực học được được trình bày ở mục [Nỗi sợ, góc nhìn, mạnh mẽ, từ bi](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/noi-so-goc-nhin-manh-me-tu-bi/).
 
 Đặt:
-- Nhóm 1: nhóm chủ đề bên trái sự bất lực học được. [Bất lực, bạo hành, tự quyết, can thiệp](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/bat-luc-bao-hanh-tu-quyet-can-thiep/)
-
-Nhóm chủ đề bên phải sự bất lực học
-
-Giai đoạn 2
-
--   [Cái đẹp, cảm xúc, ham muốn, đam mê](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/cai-dep-cam-xuc-ham-muon-dam-me/)
--   [Tự nhiên, hệ thống, khoa học, quyền uy](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/tu-nhien-he-thong-khoa-hoc-quyen-uy/)
-
-Vòng tròn gần ngoài cùng
-
-Giai đoạn 3
-
-[Đạo, ngữ dụng, tâm lý học nhận thức](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/dao-ngu-dung-tam-ly-hoc-nhan-thuc/)
+- Nhóm 1: nhóm chủ đề bên trái sự bất lực học được: [Bất lực, bạo hành, tự quyết, can thiệp](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/bat-luc-bao-hanh-tu-quyet-can-thiep/)
+- Nhóm 2: nhóm chủ đề bên phải sự bất lực học được:
+	- [Cái đẹp, cảm xúc, ham muốn, đam mê](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/cai-dep-cam-xuc-ham-muon-dam-me/)
+	- [Tự nhiên, hệ thống, khoa học, quyền uy](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/tu-nhien-he-thong-khoa-hoc-quyen-uy/)
+- Nhóm 3: Vòng tròn gần ngoài cùng. [Đạo, ngữ dụng, tâm lý học nhận thức](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/dao-ngu-dung-tam-ly-hoc-nhan-thuc/)
 NLP, Wikipedia 
+
 ## 4 Sản phẩm
+Những thứ này tự nó sẽ có thể cần một vault riêng. Chúng cũng cần một trang chủ riêng 
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
 ### Sự kiện
 Có những công việc dài thì để vào gantt, có những công việc ngắn
+Tách ra thì sẽ lắt nhắt. Tạo nhiều note sẽ rối rắm không cần thiết
+
 ## 5 SWOT, giá trị cốt lõi
 Giá trị là cấp độ từ. Triết lý là cấp độ câu. Cả hai đều là những định hướng, la bàn, là cách đểchonj cách để ưu tiên 
 

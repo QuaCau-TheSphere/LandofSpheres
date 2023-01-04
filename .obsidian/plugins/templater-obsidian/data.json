@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates",
+  "templates_folder": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates",
   "templates_pairs": [
     [
       "",
@@ -11,56 +11,60 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates",
+  "user_scripts_folder": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "1 Nhu cầu/12 Nhu cầu của mọi người",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/012 Nhu cầu của đối tượng.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/012 Nhu cầu của đối tượng.md"
     },
     {
       "folder": "1 Nhu cầu/11 Nhu cầu của Quả Cầu/Nhu cầu của Quả Cầu về mọi người",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/011 Nhu cầu của mình về đối tượng.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/011 Nhu cầu của mình về đối tượng.md"
     },
     {
       "folder": "3 Kiến thức, câu hỏi/31 Khái niệm, chủ đề",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/031 Khái niệm, chủ đề.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/031 Khái niệm, chủ đề.md"
     },
     {
       "folder": "4 Sản phẩm, kết quả mong muốn (các vùng đất)",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/04 Sản phẩm, kết quả mong muốn/04 Sản phẩm.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/04 Sản phẩm, kết quả mong muốn/04 Sản phẩm.md"
     },
     {
       "folder": "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/051 Điểm yếu.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/051 Điểm yếu.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật) (loại nhân vật)",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/06 Các bên liên quan/061 Loại đối tượng.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/06 Các bên liên quan/061 Loại đối tượng.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Cá nhân/62 Điều đối tượng thấy ở QC",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/06 Các bên liên quan/062 Điều đối tượng thấy ở QC.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/06 Các bên liên quan/062 Điều đối tượng thấy ở QC.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Tổ chức/66 Mô hình",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/06 Các bên liên quan/066 Mô hình.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/06 Các bên liên quan/066 Mô hình.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Tổ chức/67 Loại sứ mệnh, nội dung chủ đạo",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/06 Các bên liên quan/067 Loại sứ mệnh, nội dung chủ đạo.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/06 Các bên liên quan/067 Loại sứ mệnh, nội dung chủ đạo.md"
     },
     {
       "folder": "6 Các bên liên quan (NPC)/Tổ chức/68 Loại sản phẩm",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/06 Các bên liên quan/068 Loại sản phẩm.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/06 Các bên liên quan/068 Loại sản phẩm.md"
     },
     {
       "folder": "7 Công việc",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/07 Công việc/07 Công việc.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/07 Công việc/07 Công việc.md"
     },
     {
       "folder": "8 Tổ chức/82 Thành viên (Người chơi)",
-      "template": "9 Tài liệu khác/91 Tính năng của vault/919 Thiết lập/Templates/082 Thành viên.md"
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/082 Thành viên.md"
+    },
+    {
+      "folder": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng",
+      "template": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Templates/0912 Tính năng phần mềm.md"
     }
   ],
   "syntax_highlighting": true,

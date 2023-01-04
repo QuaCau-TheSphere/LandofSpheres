@@ -44,6 +44,7 @@ Tháng 5: tránh mưa + nghỉ hè
 - AI
 - Kinh tế
 - Các mô hình kết nối nhu cầu trước đây
+- động lực cũng như những cản trở để một người đóng góp ngược lại 
 
 # Nhân lực cần
 - tech

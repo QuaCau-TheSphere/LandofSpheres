@@ -22,6 +22,9 @@ flowchart LR
     b1[Đọc bài viết] 
     end
 ```
+[Jamboard](https://jamboard.google.com/d/1VqW3nHpT2WIrwF4j2LTyNyzyd0wDdQKtOoumJYdZghA/edit?usp=sharing)
+## Hành trình người dùng
+[[Tải bộ cài LOS]]
 # Làm quen
 - Giới thiệu sơ về bản thân
 - Điều gì khiến bạn quyết định tham gia buổi hôm nay?

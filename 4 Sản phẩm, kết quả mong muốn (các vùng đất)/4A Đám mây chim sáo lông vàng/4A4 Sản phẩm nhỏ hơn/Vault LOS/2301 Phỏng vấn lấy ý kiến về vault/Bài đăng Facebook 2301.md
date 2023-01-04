@@ -15,3 +15,5 @@
 ## 4. Số điện thoại liên hệ
  0912214006 - Lý Minh Nhật
  ![[Các sản phẩm chính.png]]
+
+Nếu các bạn chưa quan tâm cũng hãy nói lý do

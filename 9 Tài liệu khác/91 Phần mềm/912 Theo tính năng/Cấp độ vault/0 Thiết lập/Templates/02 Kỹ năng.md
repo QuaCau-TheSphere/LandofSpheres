@@ -6,16 +6,16 @@
 > ```
 > ```button
 > id kiemtrengoogle
-> action https://www.google.com/search?q=20kỹ%20năng%20<% tp.file.title.replaceAll(/^\d* /g, '').replaceAll(" ", "%20") %>
+> action https://www.google.com/search?q=20kỹ%20năng%20Nhu%20cầu%20của%20đối%20tượng
 > ```
 > ```button
 > name Kiếm trên Google (PDF) 
 > id kiemtrengoogle
-> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20<% tp.file.title.replaceAll(/^\d* /g, '').replaceAll(" ", "%20") %>
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Nhu%20cầu%20của%20đối%20tượng
 > ```
 > ```button
 > id kiemtrenyoutube
-> action https://www.youtube.com/search?q=%20<% tp.file.title.replaceAll(/^\d* /g, '').replaceAll(" ", "%20") %>
+> action https://www.youtube.com/search?q=%20Nhu%20cầu%20của%20đối%20tượng
 > ```
 > Xem thêm: [[Kỹ năng rèn luyện kỹ năng (kỹ năng meta)]]
 > ## Nếu bạn sẵn sàng chia sẻ, hỗ trợ người cần học kỹ năng này
@@ -26,7 +26,7 @@
 > ```button
 > name Chọn lọc nội dung hay
 > id kiemtrengoogle
-> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20<% tp.file.title.replaceAll(/^\d* /g, '').replaceAll(" ", "%20") %>
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Nhu%20cầu%20của%20đối%20tượng
 > ```
 
 
