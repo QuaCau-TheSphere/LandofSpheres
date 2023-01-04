@@ -67,7 +67,7 @@ Hoạt động nhận làm trong tổ chức:: [[Xây dựng bản khảo sát �
 
 Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 4
 
-Trong năm nay bạn đang có những mục tiêu gì?:: Lấy được bằng TOIEC 500+ và tìm được việc thực tập tốt 
+Trong năm nay bạn đang có những kết quả mong muốn gì?:: Lấy được bằng TOIEC 500+ và tìm được việc thực tập tốt 
 
 Dự định tương lai trong 5 năm tới:: Làm được công việc mình yêu thích và tự do tài chính 
 
@@ -89,10 +89,10 @@ Trong mắt bạn dự án như thế nào?:: có tiềm năng
 
 Theo bạn QC đang hướng tới điều gì?:: một điều tốt đẹp :>
 
-Theo bạn mục tiêu của QC trong năm nay là gì?:: có lẽ là giúp được nhiều bạn có niềm tin tiêu cực 
+Theo bạn kết quả mong muốn của QC trong năm nay là gì?:: có lẽ là giúp được nhiều bạn có niềm tin tiêu cực 
 Bạn thấy cách thức làm việc của QC thế nào?:: cũng khá lâu rồi mình không làm việc như một thành viên của QC nên chưa thể đánh giá 
 
-Bạn thấy điều gì đang cản trở QC đạt được mục tiêu của mình?:: có rất nhiều thứ như cách thức hoạt động, kinh phí truyền thông,...
+Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình?:: có rất nhiều thứ như cách thức hoạt động, kinh phí truyền thông,...
 
 Bạn muốn thấy điều gì ở những người xung quanh?:: Bình an và vui vẻ.
 

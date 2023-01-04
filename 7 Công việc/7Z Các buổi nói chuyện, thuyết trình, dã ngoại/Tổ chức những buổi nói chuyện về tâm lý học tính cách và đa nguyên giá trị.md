@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưađếnlúclàm
 Độ cấp thiết:
 Người chơi::
 Kỹ năng::
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

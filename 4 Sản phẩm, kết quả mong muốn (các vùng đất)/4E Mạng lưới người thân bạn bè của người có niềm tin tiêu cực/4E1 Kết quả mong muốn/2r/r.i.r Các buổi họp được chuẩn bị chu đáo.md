@@ -1,6 +1,6 @@
 
 
-Mục tiêu::
+Kết quả mong muốn::
 
 Hoạt động:: [[Hậu cần các buổi họp]]
 

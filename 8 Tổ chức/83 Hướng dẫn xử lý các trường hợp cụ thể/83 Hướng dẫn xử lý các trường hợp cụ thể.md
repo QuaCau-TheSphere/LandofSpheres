@@ -31,7 +31,7 @@ where !row["Thuộc hoạt động"] and file.name!=this.file.name and !contains
 # .
 anh nhớ sự phân công và chuẩn bị trước buổi họp có tác dụng gì k? với lại bên mình đã thống nhất là thử để core team tự do test, nên khi có tác nhân nào bên ngoài vào thì mình hỏi thăm để giúp họ định hình đúng mục đích của buổi đó + giúp mình chuẩn bị tốt được những gì cần, còn cái nào vượt ngoài biên giới thì mình cũng có hành lang rồi
 
-như bữa họp hôm qua mình biết chủ đề nào sẽ bàn sau (tóc vàng/tóc đen behaviors, sửa lỗi trong data cá nhân,...) nên mình sẽ giới hạn để tối ưu hiệu quả của từng mục tiêu cần bàn trước: định nghĩa core team + trách nhiệm,...
+như bữa họp hôm qua mình biết chủ đề nào sẽ bàn sau (tóc vàng/tóc đen behaviors, sửa lỗi trong data cá nhân,...) nên mình sẽ giới hạn để tối ưu hiệu quả của từng kết quả mong muốn cần bàn trước: định nghĩa core team + trách nhiệm,...
 
 
 Người tóc vàng sẽ yên tâm rằng tóc vàng sẽ tự mọc mà không cần lo cho nó, hiểu rằng nếu không có tóc đen thì sẽ không có tóc vàng. Còn người tóc đen thì sẽ lo lắng về sự tồn tại của tóc đen hoặc tóc vàng.

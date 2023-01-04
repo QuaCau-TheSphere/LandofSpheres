@@ -1,12 +1,12 @@
 Lý do:: <% tp.file.cursor() %>
 
-Hệ quả của vấn đề này:
+Giải pháp cho yêu cầu này:
 ```dataview
 List where contains(lý-do,[[]])
 ```
 
-| Giải pháp gợi ý | Vấn đề phát sinh |
-| --------------- | ---------------- |
-|                 |                  |
-
-
+Vấn đề phát sinh::
+```dataview
+List vấn-đề-phát-sinh
+where contains(lý-do,[[]])
+```

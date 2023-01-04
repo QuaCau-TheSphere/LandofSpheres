@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Người đứng đầu
 Đánh giá tích cực hay tiêu cực:: Tích cực
 
 
-Tương ứng với mục tiêu:: 
+Tương ứng với kết quả mong muốn:: 

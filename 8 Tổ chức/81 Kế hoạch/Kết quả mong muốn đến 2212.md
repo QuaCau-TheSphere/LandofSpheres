@@ -1,4 +1,4 @@
-# Mục tiêu từng tháng
+# Kết quả mong muốn từng tháng
 ## Tháng 9
 - [ ] 5 người làm thử vault
 

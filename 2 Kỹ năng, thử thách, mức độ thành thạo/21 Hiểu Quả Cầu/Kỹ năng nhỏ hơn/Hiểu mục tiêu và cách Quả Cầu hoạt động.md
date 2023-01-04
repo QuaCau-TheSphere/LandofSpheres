@@ -1,5 +1,5 @@
-# Mục tiêu
-- [ ] Hiểu [[== Tổng quan tình hình hiện tại ==|tình hình hiện tại/mục tiêu ngắn hạn]]
+# Kết quả mong muốn
+- [ ] Hiểu [[== Tổng quan tình hình hiện tại ==|tình hình hiện tại/kết quả mong muốn ngắn hạn]]
 - [ ] Hiểu [[Kết quả mong muốn đến 2306|kế hoạch đến tháng 6/2023]]
 - [ ] Hiểu [[4 Sản phẩm, kết quả mong muốn (các vùng đất)|các sản phẩm hướng đến]]
 # Cách hoạt động

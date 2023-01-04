@@ -1,1 +1,1 @@
-Mục tiêu:: [[r.j Kết hợp được với các dự án xã hội khác]]
+Kết quả mong muốn:: [[r.j Kết hợp được với các dự án xã hội khác]]

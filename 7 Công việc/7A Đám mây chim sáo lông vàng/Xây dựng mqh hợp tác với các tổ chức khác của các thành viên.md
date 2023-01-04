@@ -4,7 +4,7 @@ Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
 Người chơi::
 Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]],  [[Nhân sự (kỹ năng)]]
 
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

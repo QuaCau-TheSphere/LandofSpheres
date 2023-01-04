@@ -2,10 +2,10 @@
 Nội dung: true
 ---
 
-Mục tiêu:: [[j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương]], [[j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi]]
+Kết quả mong muốn:: [[j.1a Megan thấy được tại sao việc để cảm xúc chi phối mình sẽ gây hại cho mình và những người mình yêu thương]], [[j.1b Megan thấy được rằng sự sẵn sàng đã đến rồi]]
 
-Yếu tố hỗ trợ:: [[j.1a.k Môi trường không có yếu tố gây xao lãng]]
-Yếu tố hỗ trợ:: [[j.i Megan không còn cảm thấy mình trống rỗng]]
+Sản phẩm hỗ trợ:: [[j.1a.k Môi trường không có yếu tố gây xao lãng]]
+Sản phẩm hỗ trợ:: [[j.i Megan không còn cảm thấy mình trống rỗng]]
 
 Trường hợp có thể xảy ra: niềm tin của mình bảo mình nuông chiều cảm xúc là ok, nên mình nghĩ mình đang dùng lí trí để điều khiển nó. Giống như mình biện minh
 Sự nuông chiều xuất phát từ lý trí?

@@ -5,7 +5,7 @@ Nhu cầu của đối tượng:: [[Có sự thăng tiến trong công việc]],
 Hoạt động nhận làm trong tổ chức:: [[Ủng hộ tiền]]
 Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 4
 
-Trong năm nay bạn đang có những mục tiêu gì?:: Tập trung phát triển công việc đang làm (lập trình viên Unity).
+Trong năm nay bạn đang có những kết quả mong muốn gì?:: Tập trung phát triển công việc đang làm (lập trình viên Unity).
 
 Dự định tương lai trong 5 năm tới:: Chưa xác định. Tùy vào thực tế.
 
@@ -27,11 +27,11 @@ Trong mắt bạn dự án như thế nào?:: Có tiềm năng lớn.
 
 Theo bạn QC đang hướng tới điều gì?:: Hiện tại không rõ.
 
-Theo bạn mục tiêu của QC trong năm nay là gì?:: Hiện tại không rõ.
+Theo bạn kết quả mong muốn của QC trong năm nay là gì?:: Hiện tại không rõ.
 
 Bạn thấy cách thức làm việc của QC thế nào?:: Tính mở rất cao.
 
-Bạn thấy điều gì đang cản trở QC đạt được mục tiêu của mình?:: Chưa thấy điều gì cản trở thật sự rõ ràng đáng kể.
+Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình?:: Chưa thấy điều gì cản trở thật sự rõ ràng đáng kể.
 
 Bạn muốn thấy điều gì ở những người xung quanh?:: Bản thân muốn thấy sự bình yên của họ.
 

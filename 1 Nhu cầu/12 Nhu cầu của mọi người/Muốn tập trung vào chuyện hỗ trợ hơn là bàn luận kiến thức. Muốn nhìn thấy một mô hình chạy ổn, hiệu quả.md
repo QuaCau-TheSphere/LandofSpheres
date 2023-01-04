@@ -1,4 +1,4 @@
-Cách đáp ứng nhu cầu này:: [[Tạo các buổi đối thoại về mục tiêu cuả QC]], [[Tư vấn xây dựng nhóm nhiệm vụ cho từng cá nhân]]
+Cách đáp ứng nhu cầu này:: [[Tạo các buổi đối thoại về kết quả mong muốn cuả QC]], [[Tư vấn xây dựng nhóm nhiệm vụ cho từng cá nhân]]
 Họ được gì khi tham gia:: 
 Nỗi đau phía sau:: 
 Nhu cầu liên quan:: 

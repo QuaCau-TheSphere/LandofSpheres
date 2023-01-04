@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Triết lý của dự án
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 
 
-Tương ứng với mục tiêu:: 
+Tương ứng với kết quả mong muốn:: 

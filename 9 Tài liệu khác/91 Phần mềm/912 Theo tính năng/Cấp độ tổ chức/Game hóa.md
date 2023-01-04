@@ -9,7 +9,7 @@
 | Kết quả mong muốn                           | Chiến lợi phẩm: tinh thể, trái cây,                   |
 | Kỹ năng                                     | Chiêu thức                                            |
 | Khó khăn                                    | Quái                                                  |
-| Mục tiêu, công việc                         | Nhiệm vụ                                              |
+| Kết quả mong muốn, công việc                         | Nhiệm vụ                                              |
 | Loại tính cách                              | Tộc, loài                                             |
 | Các bài viết hướng dẫn, website             | NPC                                                   |
 | Ban                                         | Nhà, trại, ngân hàng                                  |

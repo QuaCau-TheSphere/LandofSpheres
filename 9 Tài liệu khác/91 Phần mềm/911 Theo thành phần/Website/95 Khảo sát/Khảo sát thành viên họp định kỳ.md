@@ -1,6 +1,6 @@
 Điều gì khiến bạn lựa chọn ngành nghề bạn đang làm?
 
-Trong năm nay bạn đang có những mục tiêu gì?
+Trong năm nay bạn đang có những kết quả mong muốn gì?
 
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo?
 
@@ -21,10 +21,10 @@ Bạn cảm thấy mình nhận được gì ở QC?
 Nếu bạn không tham gia chúng vì cảm thấy những gì mình nhận được là quá ít, vậy thì điều gì sẽ cho bạn được nhiều hơn?
 
 Theo bạn QC đang hướng tới điều gì?
-Mục tiêu của QC trong năm nay
+Kết quả mong muốn của QC trong năm nay
 
 Bạn thấy cách thức làm việc của QC thế nào?	
 
-Bạn thấy điều gì đang cản trở QC đạt được mục tiêu của mình?
+Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình?
 
 Bạn có cảm thấy có sự kết nối với những thành viên khác?

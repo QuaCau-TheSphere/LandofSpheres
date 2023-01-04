@@ -20,7 +20,7 @@ Các vấn đề phát sinh tại nơi làm việc rất khó để phát hiện
 6. Bạn thích điều gì nhất ở người sếp trước đây?
 7. Bạn có cảm thấy vai trò của mình có một sứ mệnh?
 8. Trong 6 tháng vừa qua, bạn đạt được những thành tựu gì?
-9. Bạn muốn được đào tạo theo hình thức nào để đạt được mục tiêu nghề nghiệp?
+9. Bạn muốn được đào tạo theo hình thức nào để đạt được kết quả mong muốn nghề nghiệp?
 10. Bạn có cảm thấy nhân viên trong Quả Cầu tôn trọng lẫn nhau?
 11. Trong thang điểm từ 1 đến 10, bạn đánh giá mức độ thử thách trong công việc hàng ngày của bạn?
 12. Thành tích gần đây nhất trong công việc của bạn là gì?
@@ -47,8 +47,8 @@ Các vấn đề phát sinh tại nơi làm việc rất khó để phát hiện
 **Nhân viên cảm thấy như thế nào về đội ngũ lãnh đạo:**
 
 1. Trong thang điểm từ 1 đến 10, đánh giá khả năng của quản lý trực tiếp trong việc ghi nhận đóng góp của bạn trong công việc.
-2. Đội ngũ quản lý có đưa ra mục tiêu rõ ràng?
-3. Hãy đánh giá khả năng của quản lý trực tiếp trong việc hỗ trợ mục tiêu phát triển của bạn.
+2. Đội ngũ quản lý có đưa ra kết quả mong muốn rõ ràng?
+3. Hãy đánh giá khả năng của quản lý trực tiếp trong việc hỗ trợ kết quả mong muốn phát triển của bạn.
 4. Bạn có cảm thấy thoải mái trong việc phản hồi lại cho quản lý trực tiếp?
 5. Bạn có cảm thấy được quản lý trực tiếp tôn trọng?
 6. Bạn có cảm thấy có sự thay đổi tích cực ở Quả Cầu kể từ khi Quả Cầu bắt đầu thu thập thông tin khảo sát ý kiến của nhân viên?
@@ -80,7 +80,7 @@ Các vấn đề phát sinh tại nơi làm việc rất khó để phát hiện
 6.  **Bạn thích điều gì nhất ở người sếp trước đây?** Nếu có phương pháp thực hiện hiệu quả tại một công ty khác, ai bảo là sẽ không hiệu quả ở công ty bạn?
 7.  **Bạn có cảm thấy vai trò của mình có một sứ mệnh?** Mọi người, đặc biệt là thế hệ Y, muốn cảm thấy như họ sống có mục đích và công việc của họ tạo ra tác động tích cực đến thế giới.
 8.  **Trong 6 tháng vừa qua, bạn đạt được những thành tựu gì?** Tìm hiểu xem nhân viên của bạn có cống hiến cho công việc không, mà không nhận được bất kỳ sự ghi nhận nào cho sự cố gắng của họ
-9.  **Bạn muốn được đào tạo theo hình thức nào để đạt được mục tiêu nghề nghiệp?** Nhân viên muốn gắn kết với công ty nuôi dưỡng sự phát triển của nhân viên, vì vậy hãy tìm hiểu loại đào tạo phù hợp với nhân viên của bạn.
+9.  **Bạn muốn được đào tạo theo hình thức nào để đạt được kết quả mong muốn nghề nghiệp?** Nhân viên muốn gắn kết với công ty nuôi dưỡng sự phát triển của nhân viên, vì vậy hãy tìm hiểu loại đào tạo phù hợp với nhân viên của bạn.
 10.  **Bạn có cảm thấy nhân viên trong công ty tôn trọng lẫn nhau?** Không có gì khiến nhân viên cảm thấy mất giá trị hơn là bị đồng nghiệp coi thường.
 11.  **Trong thang điểm từ 1 đến 10, bạn đánh giá mức độ thử thách trong công việc hàng ngày của bạn?** Mọi người dễ cảm thấy nhàm chán với sự lặp lại hàng ngày, vì vậy hãy đảm bảo rằng có đủ sự đa dạng trong khối lượng công việc của họ.
 12.  **Thành tích gần đây nhất trong công việc của bạn là gì?** Nếu một nhân viên không có thành tích gì để kể, bạn nên lo lắng vì rất có thể họ không phải là người cảm thấy hài lòng trong công việc.
@@ -95,7 +95,7 @@ Bạn muốn biết hiệu quả của văn hóa công ty? Hãy sử dụng các
 
 1.  **Bạn có cảm thấy vui khi làm việc tại đây?** Một môi trường làm việc buồn tẻ có thể khiến thời gian dài lê thê, nhưng một môi trường vui vẻ (tức là có những đồng nghiệp tuyệt vời và hỗ trợ) thực sự có thể thúc đẩy mọi người đi xa hơn.
 2.  **Theo bạn, điểm mạnh lớn nhất mà công ty nên tập trung phát triển là gì?** Công ty của bạn có đang làm tốt điều gì không? Hãy tìm hiểu xem điểm mạnh đó là gì và tập trung hơn vào điều đó.
-3.  **Bạn có nghĩ rằng công ty của bạn có mục tiêu lớn hơn tiền bạc?** Mọi người, đặc biệt là thế hệ Y, muốn làm việc cho một công ty tạo ra tác động tích cực đến thế giới.
+3.  **Bạn có nghĩ rằng công ty của bạn có kết quả mong muốn lớn hơn tiền bạc?** Mọi người, đặc biệt là thế hệ Y, muốn làm việc cho một công ty tạo ra tác động tích cực đến thế giới.
 4.  **Nếu cần cải thiện một điều thì đó là gì?** Tiếp nhận nhân viên mới, đánh giá hiệu quả công việc, quản lý – thăm dò những điểm cần cải thiện ở công ty.
 5.  **Bạn có cảm thấy công ty hỗ trợ bạn trong sự phát triển nghề nghiệp?** Cơ hội phát triển có thể quyết định việc ở lại hay ra đi của nhân viên.
 6.  **Nếu dùng một từ để diễn tả văn hóa của Công ty thì đó là gì?** Bạn sẽ ngạc nhiên về những gì nhân viên của bạn nói về văn hóa.
@@ -110,8 +110,8 @@ Bạn muốn biết hiệu quả của văn hóa công ty? Hãy sử dụng các
 **Nhân viên cảm thấy như thế nào về đội ngũ lãnh đạo:**
 
 1.  **Trong thang điểm từ 1 đến 10, đánh giá khả năng của quản lý trực tiếp trong việc ghi nhận đóng góp của bạn trong công việc.** Mọi người muốn được đánh giá cao trong công việc, và chỉ cần hai tuần không được công nhận là đủ để làm cho một nhân viên cảm thấy không có giá trị. Tìm hiểu xem cấp quản lý có thiếu sót trong việc ghi nhận đóng góp của nhân viên.
-2.  **Đội ngũ quản lý có đưa ra mục tiêu rõ ràng?** Mục tiêu giúp định hình phương hướng cho công ty, vì vậy nếu không có mục tiêu rõ ràng, nhân viên cũng không có mục tiêu trong công việc của mình.
-3.  **Hãy đánh giá khả năng của quản lý trực tiếp trong việc hỗ trợ mục tiêu phát triển của bạn.** Tăng trưởng chuyên nghiệp là một chiến lược duy trì.
+2.  **Đội ngũ quản lý có đưa ra kết quả mong muốn rõ ràng?** Kết quả mong muốn giúp định hình phương hướng cho công ty, vì vậy nếu không có kết quả mong muốn rõ ràng, nhân viên cũng không có kết quả mong muốn trong công việc của mình.
+3.  **Hãy đánh giá khả năng của quản lý trực tiếp trong việc hỗ trợ kết quả mong muốn phát triển của bạn.** Tăng trưởng chuyên nghiệp là một chiến lược duy trì.
 4.  **Bạn có cảm thấy thoải mái trong việc phản hồi lại cho quản lý trực tiếp?** Hãy chắc chắn rằng các nhà lãnh đạo trong tổ chức của bạn có thể tiếp cận và tiếp nhận phản hồi.
 5.  **Bạn có cảm thấy được quản lý trực tiếp tôn trọng?** Không có gì khiến một nhân viên nghỉ việc nhanh hơn là một người quản lý không coi trọng nhân viên.
 6.  **Bạn có cảm thấy có sự thay đổi tích cực ở công ty kể từ khi công ty bắt đầu thu thập thông tin khảo sát ý kiến của nhân viên?** Khảo sát nhưng không có động thái gì thì chẳng khác gì không khảo sát.

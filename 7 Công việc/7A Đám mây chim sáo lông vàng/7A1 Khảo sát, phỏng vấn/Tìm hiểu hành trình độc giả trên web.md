@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưađếnlúclàm
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
 Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]], [[2 Công nghệ thông tin]]
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

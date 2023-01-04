@@ -20,7 +20,7 @@ Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 Tài liệu:: [[7 Công việc|Các công việc chưa điền thông tin đầy đủ]]
 ##### Kết quả mong muốn
-- [ ] Các công việc được cập nhật đầy đủ: trạng thái, độ cấp thiết, tính chất công việc, nhân sự, kỹ năng, chỉ số đầu vào, công việc thành phần, mục tiêu, đối tượng
+- [ ] Các công việc được cập nhật đầy đủ: trạng thái, độ cấp thiết, tính chất công việc, nhân sự, kỹ năng, chỉ số đầu vào, công việc thành phần, kết quả mong muốn, đối tượng
 ##### Chỉ số trước
 
 
@@ -32,7 +32,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

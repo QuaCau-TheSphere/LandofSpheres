@@ -1,11 +1,11 @@
-Yêu cầu đối với mục tiêu :
+Yêu cầu đối với kết quả mong muốn :
 
 - Cụ thể
 - Phù hợp
 - Thách thức
 - Có cam kết thực hiện
-- Tham gia đề ra mục tiêu
-- Phản hồi kết quả thực hiện mục tiêu
+- Tham gia đề ra kết quả mong muốn
+- Phản hồi kết quả thực hiện kết quả mong muốn
 
 Chủ đề:: [[Động lực]]
 Chủ đề:: [[Nhân sự]]

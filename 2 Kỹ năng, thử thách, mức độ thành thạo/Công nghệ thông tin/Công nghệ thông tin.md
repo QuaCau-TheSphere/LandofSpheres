@@ -15,7 +15,7 @@ where contains(kỹ-năng, [[]])
 ```dataview
 table 
 	trạng-thái as "Trạng thái", 
-	filter(file.inlinks, (i) => i.hoạt-động) as "Mục tiêu",
+	filter(file.inlinks, (i) => i.hoạt-động) as "Kết quả mong muốn",
 	người-chơi as "Người chơi"
 from "7 Công việc"
 Where contains(kỹ-năng, [[]])

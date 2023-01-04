@@ -1,7 +1,7 @@
 
 
 
-Cách đáp ứng nhu cầu này:: [[Tạo các buổi đối thoại về mục tiêu cuả QC]], [[Tổng hợp vấn đề trên Trello]]
+Cách đáp ứng nhu cầu này:: [[Tạo các buổi đối thoại về kết quả mong muốn cuả QC]], [[Tổng hợp vấn đề trên Trello]]
 Họ được gì khi tham gia:: 
 Nỗi đau phía sau:: 
 Nhu cầu liên quan:: 

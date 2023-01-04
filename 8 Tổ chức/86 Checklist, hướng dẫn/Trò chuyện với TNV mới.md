@@ -26,7 +26,7 @@ Mở sẵn các trang:
 Cảm ơn chị đã có hứng thú. Em là Nhật, người sáng lập. 
 - Bạn đọc bài "Một đám mây chim sáo" chưa? Bạn cảm thấy thế nào?
 ## Các câu hỏi để hiểu về họ
-- [ ] Bạn hiểu được mục tiêu QC là gì?
+- [ ] Bạn hiểu được kết quả mong muốn QC là gì?
 - [ ] Bạn biết đến QC thế nào? 
 - [ ] Kế hoạch sắp tới của họ
 - [ ] Bạn có nói là bạn thích ..... Bạn có thể nói thêm về việc này không?
@@ -34,7 +34,7 @@ Cảm ơn chị đã có hứng thú. Em là Nhật, người sáng lập.
 - [ ] Mạng lưới của họ
 - [ ] Trong cuộc sống của bạn có ai mà bạn thấy là có niềm tin tiêu cực không? 
 Tôi hứng thú với việc hiểu được kế hoạch chiến lược, kế hoạch hành động, hoặc những khía cạnh khác nhau của tổ chức
-Tôi hứng thú với việc tạo sản phẩm/hoàn thành mục tiêu
+Tôi hứng thú với việc tạo sản phẩm/hoàn thành kết quả mong muốn
 Tôi hứng thú với việc ra quyết định đường hướng/làm kế hoạch chiến lược
 Tôi hứng thú với việc tìm hiểu các tinh thần, văn hoá, triết lý của tổ chức, ý tưởng của người đứng đầu
 Tôi hứng thú với việc thảo luận với mọi người để tìm ra công việc mình hứng thú làm nhất

@@ -26,7 +26,7 @@ Ngành học:: Học sinh
 Năm sinh:: 2004
 Nơi ở:: Hải Phòng
 Số giờ làm được trong tuần:: Ít
-Vấn đề quan tâm:: Tự tử, môi trường toxic, xác định mục tiêu
+Vấn đề quan tâm:: Tự tử, môi trường toxic, xác định kết quả mong muốn
 
 # Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gia không? Hãy miêu tả về các nhóm này?
 Nhóm cộng đồng mà em tham gia hiện tại nhiều nhất chắc là nơi làm việc của mình:: NGƯỚC (Tổ chức phi lợi nhuận lãnh đạo tinh thần thanh niên Việt Nam).
@@ -40,7 +40,7 @@ Nói sao ta, em thấy may mắn vì nhóm cộng đồng mà em thường xuyê
 # Bạn đang quan tâm, đau đáu với vấn đề nào?
 - Làm thế nào để thay đổi được ý định muốn tự tử của những người trưởng thành không cảm nhận được ý nghĩa cuộc sống và đã bắt đầu lên kế hoạch cho cái chết theo cách của một người trưởng thành? ( Chính là kiểu người, cảm thấy đã có tiền, đã trải nghiệm, đã có địa vị, đã có nhiều thứ, và cảm thấy đến cuối cùng thì đều không có ý nghĩa. Là người đã có những quan điểm, định kiến của cái tôi cá nhân, nhưng lại thiếu niềm tin vào những điều mang tính dài hạn trong đời...)
 - Làm thế nào để thay đổi người tư duy tiêu cực khi người đó là kiểu người sống trong một môi trường toxic với thời gian dài (chính là kiểu trường hợp éo le, đời luôn đập vào mặt họ những thứ tiêu cực) Em biết rằng phản ứng lại như nào là lựa chọn của bản thân. Nhưng với những trường hợp éo le (chính là éo le, không có đường lui) thì thật sự không thể mong đợi nhiều hơn ở họ.
-- Làm thế nào để tất cả mọi người có động lực xác định mục tiêu cuộc đời rõ ràng và đặt niềm tin vào những điều tích cực? (thật ra không hẳn là tích cực, vì tích cực hay tiêu cực k ai biết trước, nhưng em tạm gọi chung là tích cực). Em phát hiện có những người theo đuổi tiền, hoặc k có ý định suy nghĩ về câu hỏi " con người sinh ra để làm gì?" hay đại loại vậy. Hoặc có những người rơi vào khủng hoảng hiện sinh, nhưng lại đồng thời với khoảng thời gian phải suy nghĩ cho vấn đề ăn/học/tình duyên... nên không tập trung suy nghĩ để tìm câu trả lời được Hmm, đó là một số trường hợp mà em chưa chắc chắn về việc mình nên làm với họ.
+- Làm thế nào để tất cả mọi người có động lực xác định kết quả mong muốn cuộc đời rõ ràng và đặt niềm tin vào những điều tích cực? (thật ra không hẳn là tích cực, vì tích cực hay tiêu cực k ai biết trước, nhưng em tạm gọi chung là tích cực). Em phát hiện có những người theo đuổi tiền, hoặc k có ý định suy nghĩ về câu hỏi " con người sinh ra để làm gì?" hay đại loại vậy. Hoặc có những người rơi vào khủng hoảng hiện sinh, nhưng lại đồng thời với khoảng thời gian phải suy nghĩ cho vấn đề ăn/học/tình duyên... nên không tập trung suy nghĩ để tìm câu trả lời được Hmm, đó là một số trường hợp mà em chưa chắc chắn về việc mình nên làm với họ.
 
 # Ba giá trị cá nhân quan trọng nhất với bạn là gì? Tại sao bạn lại chọn những giá trị này?
 

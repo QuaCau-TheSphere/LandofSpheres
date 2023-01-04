@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Người thụ hưởng
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 
 
-Tương ứng với mục tiêu:: [[Danish không cảm thấy ngán khi đọc]]
+Tương ứng với kết quả mong muốn:: [[Danish không cảm thấy ngán khi đọc]]

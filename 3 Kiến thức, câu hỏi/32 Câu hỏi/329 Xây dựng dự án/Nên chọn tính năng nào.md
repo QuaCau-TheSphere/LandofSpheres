@@ -31,7 +31,7 @@ Nhóm phát triển sản phẩm chỉ quan tâm đến việc của họ, còn 
 ![[Product-Process-High-Level-2-980x735.png]]
 ![](https://i.imgur.com/clqmSVs.png)
 
-**Đánh giá nhóm dựa trên mục tiêu chứ ko đánh giá theo tính năng**
+**Đánh giá nhóm dựa trên kết quả mong muốn chứ ko đánh giá theo tính năng**
 
 ❓:: Đưa người dùng vào sớm 
 

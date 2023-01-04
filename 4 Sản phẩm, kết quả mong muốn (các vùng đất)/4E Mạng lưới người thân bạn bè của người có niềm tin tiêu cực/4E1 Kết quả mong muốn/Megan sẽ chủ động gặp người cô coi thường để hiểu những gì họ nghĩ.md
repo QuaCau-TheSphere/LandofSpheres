@@ -1,17 +1,17 @@
-Mục tiêu:: [[1a Megan cảm thấy việc nói chuyện với Cueball là cách duy nhất sẽ đem lại điều mà mình luôn mong mỏi]],
-Mục tiêu:: [[1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball]]
+Kết quả mong muốn:: [[1a Megan cảm thấy việc nói chuyện với Cueball là cách duy nhất sẽ đem lại điều mà mình luôn mong mỏi]],
+Kết quả mong muốn:: [[1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball]]
 
-Yếu tố hỗ trợ:: [[i Megan dám nói rằng ❝tôi sẽ không để nỗi sợ chi phối mình❞]]
-Yếu tố hỗ trợ:: [[j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình]]
-Yếu tố hỗ trợ:: [[k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình]]
-Yếu tố hỗ trợ:: [[l Megan muốn đặt câu hỏi về tất cả những gì mình nghĩ]]
-Yếu tố hỗ trợ:: [[m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ]]
-Yếu tố hỗ trợ:: [[n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình]]
-Yếu tố hỗ trợ:: [[o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn]]
-Yếu tố hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]
-Yếu tố hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
-Yếu tố hỗ trợ:: [[2r Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
-Yếu tố hỗ trợ:: [[s Megan xử lý được sự xấu hổ của mình khi phải thừa nhận mình sai]]
+Sản phẩm hỗ trợ:: [[i Megan dám nói rằng ❝tôi sẽ không để nỗi sợ chi phối mình❞]]
+Sản phẩm hỗ trợ:: [[j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình]]
+Sản phẩm hỗ trợ:: [[k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình]]
+Sản phẩm hỗ trợ:: [[l Megan muốn đặt câu hỏi về tất cả những gì mình nghĩ]]
+Sản phẩm hỗ trợ:: [[m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ]]
+Sản phẩm hỗ trợ:: [[n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình]]
+Sản phẩm hỗ trợ:: [[o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn]]
+Sản phẩm hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]
+Sản phẩm hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
+Sản phẩm hỗ trợ:: [[2r Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
+Sản phẩm hỗ trợ:: [[s Megan xử lý được sự xấu hổ của mình khi phải thừa nhận mình sai]]
 
 Tham khảo:: [[Cảm giác nhẹ nhõm khi nhận ra mình sai nhưng được tự tiêu hóa và không phải xin lỗi]], [[Quyền được lãng quên]], [[Cảm giác khó chịu khi phải thừa nhận mình mâu thuẫn]]
 
@@ -32,7 +32,7 @@ Tình huống:
 - Biết sự độc hại của mình, nhưng không làm gì để thay đổi nó
 
 
-Tại sao mình lại chọn hướng này? Vì nó là thứ khó làm nhất. Những hướng dễ hơn đã có nhiều nơi làm rồi. Trong nhóm này mỗi người đều có một hứng thú và mục tiêu riêng, và mình nghĩ một mục tiêu thế này đủ rộng để bao trùm được tất cả các hứng thú và mục tiêu đó. 
+Tại sao mình lại chọn hướng này? Vì nó là thứ khó làm nhất. Những hướng dễ hơn đã có nhiều nơi làm rồi. Trong nhóm này mỗi người đều có một hứng thú và kết quả mong muốn riêng, và mình nghĩ một kết quả mong muốn thế này đủ rộng để bao trùm được tất cả các hứng thú và kết quả mong muốn đó. 
 
 Mình nghĩ là sự oán hận, bản chất của nó là để đòi lại công bằng. Mà công bằng nền tảng quan trọng nhất để chúng ta có thể tin tưởng nhau. Ta có thể làm trị liệu để một người hết khổ, nhưng trong quan niệm của nhiều người làm trị liệu thì ta cũng không thể thay đổi quan điểm của một ai đó. Đây cũng là một dạng bất lực học được. Một người sau khi được trị liệu sẽ sống trong cộng đồng những người tích cực, nhưng đó là vì họ cũng không biết phải làm sao để có thể tác động đến người tiêu cực. Và như vậy thì cũng không khác nào đang sống trong buồng vọng âm của mình cả. Đó là chưa kể, vì chưa ai dám nói rằng điều này là khả thi, nên niềm tin vào sự tích cực luôn có thể bị nói là không có cơ sở khoa học, trong khi mình thấy chẳng có lý do gì để không làm được cả. Mình thấy có vô số phản ví dụ cho việc này. 
 

@@ -1,4 +1,4 @@
-Lý do:: [[Việc hoàn thành mục tiêu đòi hỏi sự quan tâm của nhiều người]]
+Lý do:: [[Việc hoàn thành kết quả mong muốn đòi hỏi sự quan tâm của nhiều người]]
 
 Hệ quả của vấn đề này:
 ```dataview

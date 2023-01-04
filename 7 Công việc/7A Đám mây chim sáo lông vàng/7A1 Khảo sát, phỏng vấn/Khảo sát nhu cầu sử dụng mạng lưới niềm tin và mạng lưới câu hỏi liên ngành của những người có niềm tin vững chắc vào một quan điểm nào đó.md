@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
 Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

@@ -1,12 +1,12 @@
-Mô tả:: Quả Cầu hướng đến việc trở thành một tổ chức không có sự phân cấp và người tham gia không làm vì trách nhiệm, lấy nhu cầu của thành viên (vốn nhiều vô kể và thay đổi liên tục) làm mục tiêu của tổ chức, để họ trở thành những người có kỹ năng đa dạng và tư duy liên ngành, dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, game phiêu lưu nhập vai, nền kinh tế không dùng tiền, và hai phần mềm Obsidian và Git ^db9fc5
+Mô tả:: Quả Cầu hướng đến việc trở thành một tổ chức không có sự phân cấp và người tham gia không làm vì trách nhiệm, lấy nhu cầu của thành viên (vốn nhiều vô kể và thay đổi liên tục) làm kết quả mong muốn của tổ chức, để họ trở thành những người có kỹ năng đa dạng và tư duy liên ngành, dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, game phiêu lưu nhập vai, nền kinh tế không dùng tiền, và hai phần mềm Obsidian và Git ^db9fc5
 
 English:: The Sphere aims to be an organization without hierarchy whose participants work with no responsibility, taking the needs of its members (which are innumerable and constantly changing) as the goal of the organization, in order for them to acquire diverse skills and interdisciplinary thinking, based on the philosophy of Deleuze and Guattari, complex science, role-playing adventure games, the moneyless economy, and the two software Obsidian and Git 
 # Thực thể khi được nhìn như là nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Thử nghiệm ý tưởng một tổ chức không cần hạn chót và trách nhiệm. Chứng minh sự bền vững của sự thong thả]] ^835d21
-# Thực thể khi được nhìn như là mục tiêu
-Mục tiêu:: [[Người tham gia lên kế hoạch cho cuộc sống của mình]]
-Mục tiêu:: [[Các thành viên đều sử dụng vault]]
-Yếu tố hỗ trợ::
+# Thực thể khi được nhìn như là kết quả mong muốn
+Kết quả mong muốn:: [[Người tham gia lên kế hoạch cho cuộc sống của mình]]
+Kết quả mong muốn:: [[Các thành viên đều sử dụng vault]]
+Sản phẩm hỗ trợ::
 Ý tưởng tốt hơn::
 
 Điểm mạnh::

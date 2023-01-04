@@ -1,7 +1,7 @@
 
 
-Mục tiêu:: 
-Yếu tố hỗ trợ:: 
+Kết quả mong muốn:: 
+Sản phẩm hỗ trợ:: 
 Ý tưởng tốt hơn:: 
 Hoạt động:: 
 

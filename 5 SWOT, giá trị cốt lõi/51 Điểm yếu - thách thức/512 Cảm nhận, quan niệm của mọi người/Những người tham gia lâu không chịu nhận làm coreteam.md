@@ -33,7 +33,7 @@ không thể nào tạo ra đc một động lực nội sinh lớn bằng việ
 quyền lực san sẻ ra theo từng điểm thảo luận
 
 - Hứng thú với việc hiểu được kế hoạch chiến lược, kế hoạch hành động, hoặc những khía cạnh khác nhau của tổ chức
-- Hứng thú với việc tạo sản phẩm/hoàn thành mục tiêu
+- Hứng thú với việc tạo sản phẩm/hoàn thành kết quả mong muốn
 - Hứng thú với việc ra quyết định đường hướng/làm kế hoạch chiến lược
 - Hứng thú với các tinh thần, văn hoá của tổ chức, ý tưởng của người đứng đầu
 - Chủ động thảo luận với mọi người để tìm ra công việc mình hứng thú làm nhất
@@ -73,7 +73,7 @@ Nhiệm vụ của người đứng đầu:
 - Chốt lại ý kiến của mọi người
 → Nhiệm vụ quan trọng nhất: từ mâu thuẫn của mọi người mà chốt ra một ý kiến kiến mọi người thấy hài hòa. Đã gọi là mâu thuẫn thì phải có nhiều ý kiến. Nếu mà anh không thống nhất được ý kiến thì mâu thuẫn cứ tiếp tục là mâu thuẫn. Có thể sự lựa chọn hôm nay của anh chưa đủ hoàn hảo nhưng không sao. Mình có thể thay đổi, gọt dũa từ từ ý kiến của mình. Em cảm thấy cái anh muốn xây dựng hình tượng mình là một người sếp chỉ ngồi nghe ý kiến của mọi người. Mình như là một lính bình bình thường. Chẳng qua anh vẫn được mang danh là người sáng lập.
 
-Anh nhất quán được ý kiến của mình thì mn sẽ cảm thấy anh là một người lãnh đạo vững chắc, khiến mọi người cảm thấy yên tâm, tin tưởng. Hiện tại thì em thấy anh vẫn chưa đủ quyết đoán. Một khi anh gọi tên mình là dự án, tổ chức thì phải có người lãnh đạo, đứng đầu. Vì thế anh cần tạo mn cảm giác mình là một lãnh đạo quyết đoán, có định hướng, mục tiêu rõ ràng. Chứ không phải là để mọi người bàn luận rồi mọi người tự quyết định.
+Anh nhất quán được ý kiến của mình thì mn sẽ cảm thấy anh là một người lãnh đạo vững chắc, khiến mọi người cảm thấy yên tâm, tin tưởng. Hiện tại thì em thấy anh vẫn chưa đủ quyết đoán. Một khi anh gọi tên mình là dự án, tổ chức thì phải có người lãnh đạo, đứng đầu. Vì thế anh cần tạo mn cảm giác mình là một lãnh đạo quyết đoán, có định hướng, kết quả mong muốn rõ ràng. Chứ không phải là để mọi người bàn luận rồi mọi người tự quyết định.
 
 Mặc dù em vẫn chưa tin tưởng cách lãnh đạo của anh, nhưng em thấy nội dung và những con người ở đây rất là tử tế, có tâm có tầm. Với em đó là miếng cà rốt của dự án mình
 

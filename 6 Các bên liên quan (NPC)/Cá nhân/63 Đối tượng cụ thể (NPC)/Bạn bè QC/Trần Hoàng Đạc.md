@@ -100,7 +100,7 @@ Em muốn bắt đầu vào 2 tuần tới do khi đó em vừa thi học kì xo
 
 # Thông tin thêm
 ## Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gia không? Hãy miêu tả về các nhóm này?
-Em tham gia với số lượng tương đối các dự án, câu lạc bộ về sở thích có, về các hoạt động cộng đồng có nhưng đa phần là về tâm lý và chữa lành. Dự án em từng tham gia và nhớ nhất là về giáo dục GrowBeyondCrisis, một nhánh dự án của tổ chức Knowhere Makerspace (https://www.facebook.com/knowheremakerspace/) mục tiêu của dự án là nhằm xin quỹ của LIN để cải thiện môi trường giáo dục, giúp học sinh tiếp thu được nhiều kĩ năng mềm hơn, ngăn chặn các bệnh tâm lý or tự tử ở học sinh. Cuối cùng dư án được vào chung kết nhưng không được quỹ do lúc dịch các dự án về y tế được ưu tiên hơn ạ.
+Em tham gia với số lượng tương đối các dự án, câu lạc bộ về sở thích có, về các hoạt động cộng đồng có nhưng đa phần là về tâm lý và chữa lành. Dự án em từng tham gia và nhớ nhất là về giáo dục GrowBeyondCrisis, một nhánh dự án của tổ chức Knowhere Makerspace (https://www.facebook.com/knowheremakerspace/) kết quả mong muốn của dự án là nhằm xin quỹ của LIN để cải thiện môi trường giáo dục, giúp học sinh tiếp thu được nhiều kĩ năng mềm hơn, ngăn chặn các bệnh tâm lý or tự tử ở học sinh. Cuối cùng dư án được vào chung kết nhưng không được quỹ do lúc dịch các dự án về y tế được ưu tiên hơn ạ.
 
 ## Bạn đã đọc bài giới thiệu về  Mạng lưới người thân, bạn bè của người có niềm tin tiêu cực  chưa?
 

@@ -1,10 +1,10 @@
 # 1 Nhu cầu
 Đáp ứng cho nhu cầu của mình::		nc
 
-# 2 Mục tiêu
-Mục tiêu::		mmm
+# 2 Kết quả mong muốn
+Kết quả mong muốn::		mmm
 Đi chung::		mmd
-Yếu tố hỗ trợ::		mmy
+Sản phẩm hỗ trợ::		mmy
 Đối tượng thụ hưởng::		mmd
 Ý tưởng tốt hơn::		mmy
 Hoạt động::		mmh

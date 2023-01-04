@@ -1,17 +1,17 @@
 ---
 Alias: Có người code cho mình, có TNV kỹ thuật
 ---
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
-list where contains(mục-tiêu, [[]]) or contains(yếu-tố-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
+list where contains(kết-quả-mong-muốn, [[]]) or contains(sản-phẩm-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
 Phục vụ cho những nhu cầu này của mình:
 ```dataview
-list where contains(tương-ứng-với-mục-tiêu,[[]])
+list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
 
-Mục tiêu:: [[Đáp ứng được nhu cầu của người có kỹ năng lập trình]]
-Yếu tố hỗ trợ::
+Kết quả mong muốn:: [[Đáp ứng được nhu cầu của người có kỹ năng lập trình]]
+Sản phẩm hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::
 

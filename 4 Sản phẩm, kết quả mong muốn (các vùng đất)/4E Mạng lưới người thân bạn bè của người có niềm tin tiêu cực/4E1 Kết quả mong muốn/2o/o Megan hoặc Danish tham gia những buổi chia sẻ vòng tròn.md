@@ -3,7 +3,7 @@ Nội dung: true
 ---
 
 Hoạt động:: [[Tổ chức những buổi chia sẻ về bản thân]]
-Mục tiêu:: [[r.j Kết hợp được với các dự án xã hội khác]]
+Kết quả mong muốn:: [[r.j Kết hợp được với các dự án xã hội khác]]
 ## Trang
 Em nghĩ mạng lưới có thể hoạt động theo mô hình của Lean in + group chia sẻ thông tin + tư vấn 1:1
 

@@ -174,9 +174,9 @@ edge [ penwidth=1 style=solid ]
 "Truyền thông chiến lược của QC" -> "Đăng bài lên các group"
 "Truyền thông chiến lược của QC" -> "Đăng bài lên Discord"
 "Kết nối với các tổ chức khác" -> "Liên hệ với LIN, SNPO"
-"Kết nối mục tiêu của những người quan tâm đến QC" -> "Khảo sát nhu cầu của từng thành viên"
-"Kết nối mục tiêu của những người quan tâm đến QC" -> "Thảo luận với nhau để cùng tìm ra cách giải quyết nhu cầu của nhiều người nhất"
-"Kết nối mục tiêu của những người quan tâm đến QC" -> "Tìm hiểu những kinh nghiệm"
+"Kết nối kết quả mong muốn của những người quan tâm đến QC" -> "Khảo sát nhu cầu của từng thành viên"
+"Kết nối kết quả mong muốn của những người quan tâm đến QC" -> "Thảo luận với nhau để cùng tìm ra cách giải quyết nhu cầu của nhiều người nhất"
+"Kết nối kết quả mong muốn của những người quan tâm đến QC" -> "Tìm hiểu những kinh nghiệm"
 "Tổ chức thử buổi nói chuyện về chức năng của người thân bạn bè cho nội bộ" -> "Làm khảo sát trước sự kiện"
 "Tổ chức thử buổi nói chuyện về chức năng của người thân bạn bè cho nội bộ" -> "Làm khảo sát sau sự kiện"
 

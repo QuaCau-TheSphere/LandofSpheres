@@ -19,7 +19,7 @@ Kỹ năng:: [[Nhân sự (kỹ năng)]]
 Number of Columns: 2
 Largest Column: standard
 ```
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

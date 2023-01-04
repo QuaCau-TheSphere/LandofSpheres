@@ -1,1 +1,1 @@
-Mục tiêu:: [[j.1a.k.1 Các clip YouTube, Facebook, Tiktok không giới thiệu những thứ nhảm]]
+Kết quả mong muốn:: [[j.1a.k.1 Các clip YouTube, Facebook, Tiktok không giới thiệu những thứ nhảm]]

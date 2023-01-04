@@ -153,9 +153,9 @@ Hiện tại: quỹ thiện nguyện chung, đóng góp qua chạy bộ. 3 vòng
 
   
 
-# 2. Mục tiêu, nhu cầu
+# 2. Kết quả mong muốn, nhu cầu
 
-## Mục tiêu ngắn hạn và dài hạn của Viễn Đông là gì?
+## Kết quả mong muốn ngắn hạn và dài hạn của Viễn Đông là gì?
 
 Ngắn hạn: trong từng     giai đoạn thì sẽ ngồi lại với nhau và chia sẻ: thông tin từ tập đoàn đưa xuống. Tiếng Anh
 
@@ -264,7 +264,7 @@ Trước khi có chương trình này thì môi trường làm việc thế nào
 
 ## NV nói gì về chương trình HNTĐ?
 
-HNTĐ là chương trình dành cho những người hoang mang nhất, muốn khám phá bản thân mình nhất. Mục tiêu là để thử những mô hình có khả năng lan toả ở quy mô nhỏ
+HNTĐ là chương trình dành cho những người hoang mang nhất, muốn khám phá bản thân mình nhất. Kết quả mong muốn là để thử những mô hình có khả năng lan toả ở quy mô nhỏ
 
   
 

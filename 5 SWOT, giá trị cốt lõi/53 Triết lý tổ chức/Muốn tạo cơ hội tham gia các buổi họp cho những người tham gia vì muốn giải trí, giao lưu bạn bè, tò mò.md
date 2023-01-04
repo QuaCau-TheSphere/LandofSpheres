@@ -1,5 +1,5 @@
 ---
-Alias: Không loại trừ những người tham gia không vì mục tiêu phát triển QC ra khỏi cuộc họp
+Alias: Không loại trừ những người tham gia không vì kết quả mong muốn phát triển QC ra khỏi cuộc họp
 ---
 
 Lý do:: [[Muốn cho những người mới thêm dịp gắn bó hơn với nhóm]] 

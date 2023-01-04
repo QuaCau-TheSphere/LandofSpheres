@@ -4,7 +4,7 @@ Nhu cầu của đối tượng:: [[Tự do tài chính]]
 Hoạt động nhận làm trong tổ chức:: [[4 Sản phẩm, kết quả mong muốn (các vùng đất)/2B Mạng kết nối nhu cầu/2B Mạng kết nối nhu cầu]], [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 3
 Ngành nghề hiện tại/dự tính sẽ làm:: kinh doanh online/bds
-Trong năm nay bạn đang có những mục tiêu gì?:: 5 mục tiêu lận, nếu kể hết thì ko còn quyền riêng tư, nên đành chọn mục tiêu tài chính vậy, target năm nay muốn có 500tr lợi nhuận ròng
+Trong năm nay bạn đang có những kết quả mong muốn gì?:: 5 kết quả mong muốn lận, nếu kể hết thì ko còn quyền riêng tư, nên đành chọn kết quả mong muốn tài chính vậy, target năm nay muốn có 500tr lợi nhuận ròng
 Dự định tương lai trong 5 năm tới:: xây được nhân hiệu cá nhân có hệ thống kinh doanh tự động có thể thoát ra sớm học chuyên sâu tử vi ứng dụng sở hữu tài sản lẫn thời sản đủ dư dật để dành thời gian dạy con mình
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo?:: đi du lịch chắc chắn rồi, cả gia đình đi du lịch mà ko cần nhìn giá 
 Bạn cảm thấy mình nhận được gì ở QC?:: mình cần làm nhiều việc, mình cần nhiều tiền nên mình cần người đồng hành hoặc thậm chí cố vấn mình ở lĩnh vực quản lý để mình không rối mình cần hệ thống tự động, mình cần người biết xây hệ thống mình cần học thuật chuyên sâu, mình cần người giúp mình học cách học mình cần dạy con mình, nên mình cần người dạy mình  
@@ -15,9 +15,9 @@ Bạn có cảm thấy hào hứng khi tham gia những buổi họp không?:: c
 Buổi họp nào để lại cho bạn nhiều ấn tượng nhất?:: buổi họp phụ huynh năm lớp 10
 Trong mắt bạn dự án như thế nào?:: dị nhưng đáng
 Theo bạn QC đang hướng tới điều gì?:: 1 hội kín - 1 mạng lưới kings man - hay 1 tổ chức thiện nguyện 
-Theo bạn mục tiêu của QC trong năm nay là gì?:: đạt thêm member và hoàn thiện hệ thống 
+Theo bạn kết quả mong muốn của QC trong năm nay là gì?:: đạt thêm member và hoàn thiện hệ thống 
 Bạn thấy cách thức làm việc của QC thế nào?:: chưa rõ 
-Bạn thấy điều gì đang cản trở QC đạt được mục tiêu của mình?:: nguồn lực tài chính + nhân sự
+Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình?:: nguồn lực tài chính + nhân sự
 Bạn muốn thấy điều gì ở những người xung quanh?:: muốn thấy họ tận hưởng những gì họ đáng được nhận
 Bạn muốn nói gì thêm không?:: bản thân mình ko rõ có thể đóng góp gì cho QC, nhưng trước mắt các bạn có thể cân nhắc mình với vai trò "1 người đưa ra câu hỏi", hi vọng sẽ có nhiều khía cạnh hoặc thứ gì đó hữu ích có thể cho đi ^^
 Ngày sinh:: November 29, 1993

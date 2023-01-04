@@ -99,7 +99,7 @@ Cách mà các khái niệm như Kỹ năng, Chủ đề, Sản phẩm mở ra (
 
 Nếu chỉ một cái trong category đó thì không cần tạo folder cho đỡ rối. Nhưng nếu 2 cái trở lên mà ko tạo thì lại rối
 
-Với việc không sử dụng khái niệm "Mục tiêu"
+Với việc không sử dụng khái niệm "Kết quả mong muốn"
  
 | ---------           | Từ bắt đầu                 |
 | ------------------- | -------------------------- |

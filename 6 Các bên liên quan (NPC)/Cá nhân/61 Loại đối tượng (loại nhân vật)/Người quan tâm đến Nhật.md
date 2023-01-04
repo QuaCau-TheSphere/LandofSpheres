@@ -1,6 +1,6 @@
 
 Nhu cầu của loại đối tượng:: [[Thấy được Nhật thành công]], [[Được nói những thứ không được nói nhiều]], [[Học hỏi những người có tiềm năng. Trao đổi với những người thú vị]]
-Điều loại đối tượng thấy ở QC:: [[Không hiểu rõ QC làm những gì]], [[Các tinh thần QC không liên quan gì đến mình]], [[Mục tiêu của QC không giúp ích gì cho công việc hiện tại]], [[Có tiềm năng rất lớn. Hãy kiên trì]]
+Điều loại đối tượng thấy ở QC:: [[Không hiểu rõ QC làm những gì]], [[Các tinh thần QC không liên quan gì đến mình]], [[Kết quả mong muốn của QC không giúp ích gì cho công việc hiện tại]], [[Có tiềm năng rất lớn. Hãy kiên trì]]
 Nhu cầu của mình về đối tượng:: [[Đọc các bài viết khác]], [[Suy nghĩ về các tinh thần QC]], [[Chia sẻ mạng lưới của họ]]
 
 Họ được gì khi tham gia:: [[Được hiểu thêm về con người Nhật]]

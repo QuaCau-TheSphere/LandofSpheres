@@ -15,10 +15,10 @@
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng sự gắn kết giữa những người quan tâm]]
 Đáp ứng cho nhu cầu của mình:: [[Gây quỹ (nhu cầu)]]
-# Thực thể khi được nhìn như là mục tiêu
+# Thực thể khi được nhìn như là kết quả mong muốn
 
 
-Mục tiêu::
+Kết quả mong muốn::
 
 Hoạt động:: [[Truyền thông về mạng lưới niềm tin và mạng lưới câu hỏi liên ngành]]
 Hoạt động:: [[Tổ chức các buổi nói chuyện thân mật để chia sẻ về cuộc sống của nhau]]

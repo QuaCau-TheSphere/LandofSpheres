@@ -4,7 +4,9 @@
 Đáp ứng cho nhu cầu của mình:: [[Gây quỹ (nhu cầu)]]
 Đáp ứng cho nhu cầu của mình:: [[Cho mọi người thấy QC có những sản phẩm thú vị, cần thiết, rõ ràng, dễ làm]]
 Đáp ứng cho nhu cầu của mình:: [[Thu hút sự chú ý]]
+
 # Thực thể khi được nhìn như là mục tiêu
+Kết quả mong muốn:: 
 - Công thái học 
 - Cách học: evergreen, SRS, không phải highlight
 - Quản lý dự án
@@ -14,6 +16,7 @@
 - Concept map
 - Những quan niệm đến từ nền kinh tế dùng tiền và chủ nghĩa tân tự do
 - Những quan niệm liên quan đến việc đặt câu hỏi
+
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault kết nối nhu cầu]]
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công việc]]
 Hoạt động:: [[Truyền thông cho nhóm lập trình]]

@@ -1,6 +1,6 @@
 
 
-Mục tiêu::
+Kết quả mong muốn::
 
 Hoạt động:: [[Đặt các câu hỏi lên trên Fb, Discord]]
 

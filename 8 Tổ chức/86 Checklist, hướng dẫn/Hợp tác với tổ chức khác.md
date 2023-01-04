@@ -11,14 +11,14 @@ Gửi đề xuất của bạn cho đối tác tiềm năng.
 Phối hợp một cuộc họp hoặc cuộc gọi tiếp theo.
 
 ĐẶT NỀN MÓNG
-Có một cuộc thảo luận thẳng thắn về các giá trị, mục tiêu và nhu cầu.
+Có một cuộc thảo luận thẳng thắn về các giá trị, kết quả mong muốn và nhu cầu.
 Phát triển sự hiểu biết về mức độ tham gia mong muốn của mỗi đối tác.
 Đánh giá tác động của quan hệ đối tác đối với sinh viên.
 Đảm bảo rằng sinh viên và các thành viên của cộng đồng được tham gia.
-Xác định các mục tiêu định lượng.
+Xác định các kết quả mong muốn định lượng.
 Xác định thời gian hợp tác.
 Hợp tác với đối tác để xác định các hoạt động hợp tác.
-Gắn các hoạt động với mục tiêu giáo dục của trường học / học khu.
+Gắn các hoạt động với kết quả mong muốn giáo dục của trường học / học khu.
 
 THỰC HIỆN
 Đảm bảo các hoạt động được tích hợp vào văn hóa trường học và kinh doanh.

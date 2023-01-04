@@ -1,1 +1,2 @@
-Tiếp theo:: [[Đợi web tải]]
+- Tiếp theo
+	- [[Đợi web tải]]

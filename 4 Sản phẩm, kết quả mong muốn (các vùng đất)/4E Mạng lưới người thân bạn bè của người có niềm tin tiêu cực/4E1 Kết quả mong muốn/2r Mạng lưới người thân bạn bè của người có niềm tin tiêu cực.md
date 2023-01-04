@@ -7,26 +7,26 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
 Đáp ứng cho nhu cầu của mình:: [[Chứng minh tính khả thi của sự dũng cảm]]
 
-# Thực thể khi được nhìn như là mục tiêu
-Mục tiêu:: [[Người có niềm tin tiêu cực sẽ thay đổi]]
-Mục tiêu:: [[r.1 Các thành viên dành thời gian đóng góp cho mạng lưới]]
-Mục tiêu:: [[r.2 Sự lo lắng về những rủi ro khi mạng lưới phát triển không còn nữa]]
-Mục tiêu:: [[r.3 Ý tưởng của mạng lưới nhận được nhiều sự quan tâm]]
-Mục tiêu:: [[r.4 Bản đồ niềm tin của các thành viên được vẽ ra]]
+# Thực thể khi được nhìn như là kết quả mong muốn
+Kết quả mong muốn:: [[Người có niềm tin tiêu cực sẽ thay đổi]]
+Kết quả mong muốn:: [[r.1 Các thành viên dành thời gian đóng góp cho mạng lưới]]
+Kết quả mong muốn:: [[r.2 Sự lo lắng về những rủi ro khi mạng lưới phát triển không còn nữa]]
+Kết quả mong muốn:: [[r.3 Ý tưởng của mạng lưới nhận được nhiều sự quan tâm]]
+Kết quả mong muốn:: [[r.4 Bản đồ niềm tin của các thành viên được vẽ ra]]
 
 Hoạt động:: [[Tư vấn xây dựng nhóm nhiệm vụ cho từng cá nhân]]
 Hoạt động:: [[Lập cơ sở dữ liệu mạng lưới những người có trong friendlist QC]]
 
-Yếu tố hỗ trợ:: [[r.i Cộng đồng bạn bè QC phát triển]]
-Yếu tố hỗ trợ:: [[r.j Kết hợp được với các dự án xã hội khác]]
-Yếu tố hỗ trợ:: [[r.k QC trở thành tổ chức đáng làm và hiệu quả]]
-Yếu tố hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
+Sản phẩm hỗ trợ:: [[r.i Cộng đồng bạn bè QC phát triển]]
+Sản phẩm hỗ trợ:: [[r.j Kết hợp được với các dự án xã hội khác]]
+Sản phẩm hỗ trợ:: [[r.k QC trở thành tổ chức đáng làm và hiệu quả]]
+Sản phẩm hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
 
 Hoạt động:: [[Tập huấn các kỹ năng CTXH cho bạn bè người thân của người có niềm tin tiêu cực]]
 Hoạt động:: [[Tổ chức các buổi bình luận phim]]
 Hoạt động:: [[Khảo sát sâu người thụ hưởng mạng lưới ntbb]]
 
-Yếu tố hỗ trợ::
+Sản phẩm hỗ trợ::
 Ý tưởng tốt hơn::
 
 Điểm mạnh::

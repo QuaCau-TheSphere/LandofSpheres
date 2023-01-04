@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưađếnlúclàm
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Người chơi::
 Kỹ năng:: [[Các công việc tổ chức một buổi họp]], [[Nghiên cứu (kỹ năng)]]
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

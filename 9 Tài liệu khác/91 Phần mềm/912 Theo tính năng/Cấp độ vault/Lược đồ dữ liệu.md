@@ -35,7 +35,7 @@ node [shape=round]
 31 -> 34 [label="||"] 
 32 -> 4 [label="Lý do khiến\nđiều này hiện\ndiện trong\nmắt họ"] 
 32 -> 33 [label="Nhu cầu ẩn\nđằng sau\nnhận định này"] 
-{34, 32} -> 2 [label="Tương ứng\nvới mục tiêu" ] 
+{34, 32} -> 2 [label="Tương ứng\nvới kết quả mong muốn" ] 
 35 -> 36 [label="Thuộc tổ chức"]
 36 -> {37, 38} [label="||"]
 36 -> 31 [label="Đối tượng\nthụ hưởng"]
@@ -62,7 +62,7 @@ node [shape=round]
 ```mermaid
 flowchart TD
 
-2[2 Mục tiêu]
+2[2 Kết quả mong muốn]
 4[5 SWOT, giá trị cốt lõi]
 
 11[17 Công việc loại A]
@@ -89,8 +89,8 @@ flowchart TD
 31 --"~35" --> 33
 32 --Lý do khiến\nđiều này hiện\ndiện trong\nmắt họ--> 4
 32 --Nhu cầu ẩn\nđằng sau\nnhận định này--> 33
-34 --Tương ứng\nvới mục tiêu--> 2
-32 --Tương ứng\nvới mục tiêu--> 2
+34 --Tương ứng\nvới kết quả mong muốn--> 2
+32 --Tương ứng\nvới kết quả mong muốn--> 2
 35 --Hoạt động đã/nhận\nlàm trong tổ chức--> 34
 35 --Thuộc tổ chức--> 36
 36 --Đối tượng\nthụ hưởng--> 31

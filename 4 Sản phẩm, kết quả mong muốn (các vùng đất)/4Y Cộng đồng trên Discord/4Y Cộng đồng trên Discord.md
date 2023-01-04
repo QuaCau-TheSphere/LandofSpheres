@@ -6,8 +6,8 @@
 Đáp ứng cho nhu cầu của mình:: [[Giảm gánh nặng lên cho Nhật]]
 Đáp ứng cho nhu cầu của mình:: [[Tự động hóa việc tương tác]]
 
-# Thực thể khi được nhìn như là mục tiêu
-Mục tiêu::
+# Thực thể khi được nhìn như là kết quả mong muốn
+Kết quả mong muốn::
 
 Điểm mạnh:: [[Lượng người tham gia Discord cũng đủ]]
 Điểm yếu:: [[Đã số người chỉ quen xài fb]], [[Nhiều kênh liên lạc quá bị ngộp]]

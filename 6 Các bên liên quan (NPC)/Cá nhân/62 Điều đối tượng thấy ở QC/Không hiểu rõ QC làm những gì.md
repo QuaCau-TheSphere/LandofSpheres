@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Sứ mạng
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 Lý do khiến điều này hiện diện trong mắt họ:: Họ không có thời gian đọc
 
-Tương ứng với mục tiêu:: 
+Tương ứng với kết quả mong muốn:: 

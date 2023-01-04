@@ -45,7 +45,7 @@ Giữa việc đặt con người làm trung tâm và đặt tập thể và s�
 
 Hãy chọn tất cả những ý bạn thấy đúng với mình:
 - [ ] Tôi hứng thú với việc hiểu được kế hoạch chiến lược, kế hoạch hành động, hoặc những khía cạnh khác nhau của tổ chức
-- [ ] Tôi hứng thú với việc tạo sản phẩm/hoàn thành mục tiêu
+- [ ] Tôi hứng thú với việc tạo sản phẩm/hoàn thành kết quả mong muốn
 - [ ] Tôi hứng thú với việc ra quyết định đường hướng/làm kế hoạch chiến lược
 - [ ] Tôi hứng thú với việc tìm hiểu các tinh thần, văn hoá, triết lý của tổ chức, ý tưởng của người đứng đầu
 - [ ] Tôi hứng thú với việc thảo luận với mọi người để tìm ra công việc mình hứng thú làm nhất
@@ -72,8 +72,8 @@ Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gi
 
 Bài luận bạn viết gần nhất là gì? Bạn có thể tóm tắt và dẫn link không?
 
-Mục tiêu trong năm nay của bạn là gì? Mục tiêu 5 năm tới của bạn là gì? Bạn cần làm những gì để đạt được những mục tiêu đó?
-<small>VD: mục tiêu trong cuộc sống, gia đình, công việc, v.v.</small>
+Kết quả mong muốn trong năm nay của bạn là gì? Kết quả mong muốn 5 năm tới của bạn là gì? Bạn cần làm những gì để đạt được những kết quả mong muốn đó?
+<small>VD: kết quả mong muốn trong cuộc sống, gia đình, công việc, v.v.</small>
 
 Điều gì khiến bạn lựa chọn ngành nghề bạn đang làm?
 

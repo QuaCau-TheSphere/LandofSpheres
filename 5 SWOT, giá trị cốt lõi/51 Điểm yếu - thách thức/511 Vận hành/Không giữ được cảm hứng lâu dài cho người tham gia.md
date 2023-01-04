@@ -64,10 +64,10 @@ Thay vì cố gắng giải quyết vấn đề, mình đưa cho họ những ph
 
 Như vậy với vấn đề này mình có thể hỏi là họ còn nhiều hứng thú với dự án không. Nếu họ nói không thì hỏi tại sao hết hứng thú, còn nếu nói vẫn còn thì hỏi tại sao họ chưa chủ động tham gia sâu hơn
 
-# Mục tiêu mong muốn trong việc giữ tương tác
+# Kết quả mong muốn mong muốn trong việc giữ tương tác
 
 - Với người có chuyên môn:: dành thời gian cho ý kiến phản biện, chia sẻ nó cho những đồng nghiệp khác
-- Với người trẻ:: cảm thấy việc tham gia dự án thật hứng thú, có thể giúp mình phát triển các mục tiêu trong cuộc sống
+- Với người trẻ:: cảm thấy việc tham gia dự án thật hứng thú, có thể giúp mình phát triển các kết quả mong muốn trong cuộc sống
 - Với người bận rộn với cuộc sống:: cảm thấy hứng thú với việc giao lưu, chia sẻ với nhóm
 
 # Cách giữ tương tác với một TNV tiềm năng

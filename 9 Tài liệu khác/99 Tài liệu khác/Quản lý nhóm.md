@@ -27,7 +27,7 @@ Các bài chấp nhận đăng nhưng hạn chế:
 
 Đây là những bài có thể được nhiều thành viên trong nhóm quan tâm nhưng không liên quan đến chủ đề nhóm. Các bài này sẽ được duyệt một hoặc hai bài mỗi tuần.
 
-Các bài không phù hợp với mục tiêu nhóm:
+Các bài không phù hợp với kết quả mong muốn nhóm:
 
 -   Các câu chuyện răn dạy đạo đức, các bài pháp thoại, các câu trích dẫn, bài học cuộc sống
 -   Các bài viết cá nhân thể hiện sự bất mãn xã hội, hoặc mặc định rằng đối tượng bài viết phục vụ là u mê, tham lam

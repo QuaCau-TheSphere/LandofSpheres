@@ -59,9 +59,9 @@ Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gi
 Mình biết đến chạy bộ vào năm 2018, và mình có duy trì suốt đến nay. Và hội nhóm gần nhất mình tham gia tổ chức Việt runner. Đây là một nhóm tự nguyện được lập ra từ năm 2014 từ những anh em đam mê chạy bộ và thấy được giá trị của việc cải thiện sức khỏe thông qua việc chạy bộ. Mong muốn mọi người chạy bộ ngoài việc tốt cho sức khỏe còn là giá trị của niềm vui nho nhỏ trong cuộc sống bộn bề này.  
 Mình được duyên tham gia tổ chức thiện nguyện cho các khóa thiền của Thầy Minh niệm từ những ngày đầu. Và hiện giờ nhóm hỗ trợ Thầy là cộng đồng có tên Miền tỉnh thức Sài Gòn. Thầy mong muốn thông qua thiền để có thể chữa lành những người đang lâm vào trầm cảm. Tạo ra những chương trình thật - lành - đẹp để cống hiến cho xã hội
 
-Trong năm nay bạn đang có những mục tiêu gì? Giả sử sau khi đạt được những mục tiêu này rồi thì bạn sẽ làm gì tiếp theo? Giả sử sau khi đạt được những mục tiêu này rồi thì bạn sẽ làm gì tiếp theo?
+Trong năm nay bạn đang có những kết quả mong muốn gì? Giả sử sau khi đạt được những kết quả mong muốn này rồi thì bạn sẽ làm gì tiếp theo? Giả sử sau khi đạt được những kết quả mong muốn này rồi thì bạn sẽ làm gì tiếp theo?
 
-NĂm nay, thuận theo tình hình dịch, nên mình đã quyết định dành cả năm 2022 cho việc đào tạo và phát triển kỹ năng cho bản thân. Tất cả mình chuẩn bị là để có thể tốt khỏe lên mỗi ngày để có thể góp chút gì đó cho xã hội. Nhất là mình đang trăn trở cho tâm lý của các bạn trẻ, mình muốn có duyên đồng hành với các bạn để nâng đỡ các bạn một đoạn đường. Mục tiêu đặt ra mình sẽ hết mình để hoàn thành, nhưng nếu không như mong đợi mình vẫn luôn tích cực và hạnh phúc với hành trành mình đã đi qua để đạt mục tiêu ấy.
+NĂm nay, thuận theo tình hình dịch, nên mình đã quyết định dành cả năm 2022 cho việc đào tạo và phát triển kỹ năng cho bản thân. Tất cả mình chuẩn bị là để có thể tốt khỏe lên mỗi ngày để có thể góp chút gì đó cho xã hội. Nhất là mình đang trăn trở cho tâm lý của các bạn trẻ, mình muốn có duyên đồng hành với các bạn để nâng đỡ các bạn một đoạn đường. Kết quả mong muốn đặt ra mình sẽ hết mình để hoàn thành, nhưng nếu không như mong đợi mình vẫn luôn tích cực và hạnh phúc với hành trành mình đã đi qua để đạt kết quả mong muốn ấy.
 
 Điều gì khiến bạn lựa chọn ngành nghề bạn đang làm?
 
@@ -81,12 +81,12 @@ Từ năm 2014, mình luôn thao thức, trăn trở, sẽ giúp các bạn tr�
 Giả sử như điều bạn quan tâm, đau đáu đã đạt được. Bạn sẽ làm gì tiếp theo?
 
 Vấn đề mình đang quan tâm nó sẽ tồn tại ở xã hội này không biết điểm dừng ở đâu. Minh chỉ biết giao duyên mỗi ngày một chút, đi với tập thể thì giúp được nhiều và nhanh hơn rộng hơn, còn đi một mình thì giúp trong khả năng mình có thể. Công việc mà khiến mình phải luôn ý thức phát triển bản thân thì mới có thể làm được.  
-Mục tiêu mình là giúp được một bạn, sẽ đến bạn thứ 2, bạn thứ 3 và sẽ đến một tập thể, một vùng ... nó cứ sẽ được tiếp tục như thế.
+Kết quả mong muốn mình là giúp được một bạn, sẽ đến bạn thứ 2, bạn thứ 3 và sẽ đến một tập thể, một vùng ... nó cứ sẽ được tiếp tục như thế.
 
 Các giá trị cá nhân quan trọng nhất với bạn là gì? Tại sao bạn lại chọn những giá trị này?
 
 Các giá trị quan trọng với cá nhân mình: chân thành, minh bạch và biết ơn.  
-Theo mình, thiếu chân thành thì sẽ không theo đuổi đam mê và đồng hành lâu dài với mục tiêu cũng như tổ chức mình chọn.  
+Theo mình, thiếu chân thành thì sẽ không theo đuổi đam mê và đồng hành lâu dài với kết quả mong muốn cũng như tổ chức mình chọn.  
 Thiếu minh bạch sẽ gây ra rạn nức, thiếu niềm tin.  
 Không biết ơn sẽ không trân trọng những gì mình đang có, điều này dẫn đến việc bạn sẽ cho đi trong tính toán.
 

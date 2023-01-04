@@ -62,7 +62,7 @@ Vâng. Thật ra mình ko biết nhau. Fb này mình lập ra để chia sẻ c�
 Em xin chào anh Phong
 Cám ơn anh đã hỏi nhé
 Thật ra thì mình cũng không biết nhau. Em gửi lời mời kết bạn vì anh có làm trong ngành thời trang, và em thì muốn tìm hiểu thêm về ngành này
-Đây là một phần trong một dự án xã hội, với mục tiêu khơi gợi lòng dũng cảm, dám làm những điều vô cùng đúng và vô cùng khó. Nếu có hứng thú anh có thể xem thêm ở đây: [https://quảcầu.com](https://quảcầu.com)
+Đây là một phần trong một dự án xã hội, với kết quả mong muốn khơi gợi lòng dũng cảm, dám làm những điều vô cùng đúng và vô cùng khó. Nếu có hứng thú anh có thể xem thêm ở đây: [https://quảcầu.com](https://quảcầu.com)
 Em hi vọng được học hỏi thêm gì đó từ anh
 Rất xin lỗi nếu điều này làm phiền anh ạ
 

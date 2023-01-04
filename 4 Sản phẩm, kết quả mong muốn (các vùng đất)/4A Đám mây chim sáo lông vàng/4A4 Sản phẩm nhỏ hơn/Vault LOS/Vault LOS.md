@@ -1,3 +1,23 @@
+Phục vụ cho kết quả mong muốn:
+```dataview
+list where contains(kết-quả-mong-muốn, [[]]) or contains(sản-phẩm-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
+```
+Phục vụ cho những nhu cầu này của mình:
+```dataview
+list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
+```
+
+Kết quả mong muốn::
+Sản phẩm hỗ trợ::
+Ý tưởng tốt hơn::
+Hoạt động::
+
+Điểm mạnh::
+Điểm yếu::
+Đối tượng thụ hưởng::
+
+
+
 F+%C2%BB+V%C3%B9ng+%C4%91%E1%BA%A5t+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+%E1%BA%A3nh+b%C3%ACa+%C2%BB+Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+LOS
 `=[[4A Đám mây chim sáo lông vàng]].mô-tả`
 
@@ -11,7 +31,7 @@ Kho dữ liệu của Quả Cầu dành cho những ai muốn:
 
 - Tìm gợi ý, hướng dẫn và người hỗ trợ để rèn luyện kỹ năng mới
 - Củng cố, đào sâu kiến thức học trong trường hoặc tìm gợi ý để tư duy của mình có tính liên ngành hơn
-- Liên thông dữ liệu, mục tiêu và công việc giữa các dự án khác nhau. Tham khảo cách quản lý dự án trên Obsidian và Git
+- Liên thông dữ liệu, kết quả mong muốn và công việc giữa các dự án khác nhau. Tham khảo cách quản lý dự án trên Obsidian và Git
 - Quan sát hoặc đóng góp cho Quả Cầu
 # [⬇️Tải tại đây⬇️](https://quacau.space/g2b1)
 

@@ -6,7 +6,7 @@ Nhu cầu của đối tượng:: [[Học hỏi những người có tiềm năn
 Hoạt động nhận làm trong tổ chức:: [[Làm nội dung]]
 Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 4
 Ngành nghề hiện tại/dự tính sẽ làm:: Quản trị kinh doanh
-Trong năm nay bạn đang có những mục tiêu gì?:: Em muốn đi làm thêm
+Trong năm nay bạn đang có những kết quả mong muốn gì?:: Em muốn đi làm thêm
 Dự định tương lai trong 5 năm tới:: Tự do tài chính
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo?:: Tiếp tục nâng cao sự nghiệp
 Bạn cảm thấy mình nhận được gì ở QC?:: Kiến thức
@@ -17,9 +17,9 @@ Bạn có cảm thấy hào hứng khi tham gia những buổi họp không?:: C
 Buổi họp nào để lại cho bạn nhiều ấn tượng nhất?:: Không nhớ
 Trong mắt bạn dự án như thế nào?:: Có tiềm năng, phải kiên trì
 Theo bạn QC đang hướng tới điều gì?:: Sự bất lực học được
-Theo bạn mục tiêu của QC trong năm nay là gì?:: Không biết
+Theo bạn kết quả mong muốn của QC trong năm nay là gì?:: Không biết
 Bạn thấy cách thức làm việc của QC thế nào?:: Vui
-Bạn thấy điều gì đang cản trở QC đạt được mục tiêu của mình?:: Con người
+Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình?:: Con người
 Bạn muốn thấy điều gì ở những người xung quanh?:: Vui vẻ	
 
 Ngày sinh:: January 17, 2003

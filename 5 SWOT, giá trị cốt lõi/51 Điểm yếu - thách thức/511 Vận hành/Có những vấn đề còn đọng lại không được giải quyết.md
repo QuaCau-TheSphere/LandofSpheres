@@ -14,6 +14,6 @@ List where contains(lý-do,[[]])
 
 
 
-Cái này tuỳ cách đặt mục tiêu cuộc họp. Những vấn đề cố định thì mới phải cố gắng hoàn thành. Còn những vấn đề có thể phát sinh thì có thể linh động
+Cái này tuỳ cách đặt kết quả mong muốn cuộc họp. Những vấn đề cố định thì mới phải cố gắng hoàn thành. Còn những vấn đề có thể phát sinh thì có thể linh động
 
 Có 1001 thứ sâu xa và mình không bao giờ đi hết được?

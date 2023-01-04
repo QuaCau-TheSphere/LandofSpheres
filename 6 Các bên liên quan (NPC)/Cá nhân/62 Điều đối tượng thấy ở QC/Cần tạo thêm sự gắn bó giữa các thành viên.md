@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Nhân sự
 Đánh giá tích cực hay tiêu cực:: Trung tính
 
 Nhu cầu ẩn đằng sau nhận định này:: Ở trong một tập thể gắn bó
-Tương ứng với mục tiêu:: 
+Tương ứng với kết quả mong muốn:: 

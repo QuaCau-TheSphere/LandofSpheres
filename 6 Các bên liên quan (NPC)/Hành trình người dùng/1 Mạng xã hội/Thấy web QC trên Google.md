@@ -1,1 +1,2 @@
-Tiếp theo:: [[Bấm vào web QC]]
+- Tiếp theo
+	- [[Bấm vào web QC]]

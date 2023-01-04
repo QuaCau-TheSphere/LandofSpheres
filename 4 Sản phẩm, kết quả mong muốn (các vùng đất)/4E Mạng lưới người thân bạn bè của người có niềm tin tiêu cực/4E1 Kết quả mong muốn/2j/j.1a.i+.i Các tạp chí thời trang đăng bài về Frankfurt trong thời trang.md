@@ -5,7 +5,7 @@
 | -------------------------------------------------- | -------- |
 | [[Có mối quan hệ với một số người theo Frankfurt]] | Họ bận   | 
 
-Mục tiêu:: 
-Yếu tố hỗ trợ:: 
+Kết quả mong muốn:: 
+Sản phẩm hỗ trợ:: 
 Ý tưởng tốt hơn:: 
 Hoạt động:: 

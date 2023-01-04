@@ -21,7 +21,7 @@ Kỹ năng::
 
 Tài liệu:: 
 ##### Kết quả mong muốn
-- [ ] Các công việc được điền đầy đủ tính chất công việc, kỹ năng sử dụng, tài nguyên, kết quả mong muốn, mục tiêu, đối tượng
+- [ ] Các công việc được điền đầy đủ tính chất công việc, kỹ năng sử dụng, tài nguyên, kết quả mong muốn, kết quả mong muốn, đối tượng
 
 ##### Chỉ số trước
 
@@ -34,7 +34,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

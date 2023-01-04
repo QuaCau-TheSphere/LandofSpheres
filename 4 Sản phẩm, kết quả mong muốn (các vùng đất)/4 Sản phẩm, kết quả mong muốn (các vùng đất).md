@@ -14,7 +14,7 @@ unit: meters
 scale: 1
 ```
 
-Mục tiêu chính của QC là tạo môi trường để những người thù ghét với người khác muốn trò chuyện với người họ thù ghét, và để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình. Đồng thời mong muốn chia sẻ những sự thú vị của sự tò mò, thoải mái, thong thả, khoáng đạt, biến hóa, tối ưu. Điều đó khiến QC có hai sản phẩm chủ đạo:
+Kết quả mong muốn chính của QC là tạo môi trường để những người thù ghét với người khác muốn trò chuyện với người họ thù ghét, và để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình. Đồng thời mong muốn chia sẻ những sự thú vị của sự tò mò, thoải mái, thong thả, khoáng đạt, biến hóa, tối ưu. Điều đó khiến QC có hai sản phẩm chủ đạo:
 - [[4A Đám mây chim sáo lông vàng]]
 - [[4e mạng lưới ]]
 

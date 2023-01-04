@@ -2,7 +2,7 @@
 Nội dung: thảo luận chung
 ---
 
-Mục tiêu:: [[r.i.o.1 Những người hứng thú với tinh thần QC có nhu cầu lan toả tinh thần đó]]
+Kết quả mong muốn:: [[r.i.o.1 Những người hứng thú với tinh thần QC có nhu cầu lan toả tinh thần đó]]
 
 Hoạt động:: [[Khảo sát những người thực hành ngành phát triển về suy nghĩ của họ về QC]]
 Hoạt động:: [[Làm sơ đồ, infographic, video]]

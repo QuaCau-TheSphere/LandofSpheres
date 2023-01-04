@@ -11,7 +11,7 @@ Tài liệu:: [[Chức năng của người thân, bạn bè]]
 Công việc thành phần:: [[Làm khảo sát trước sự kiện]]
 Công việc thành phần:: [[Làm khảo sát sau sự kiện]]
 
-Phục vụ cho mục tiêu: để làm demo cho anh và team biết mng sẽ nói tự do ntn
+Phục vụ cho kết quả mong muốn: để làm demo cho anh và team biết mng sẽ nói tự do ntn
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

@@ -12,8 +12,8 @@ Alias: mạng lưới câu hỏi liên ngành
 Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
 Đáp ứng cho nhu cầu của mình:: [[Giảm sự lo sợ của nhà hoạt động xã hội khi được đặt câu hỏi có xu hướng gây hại]]
 Đáp ứng cho nhu cầu của mình:: [[Lan tỏa tinh thần tò mò với điều mình cho là sai, tinh thần đi tìm bằng chứng để phủ định niềm tin của mình. Tạo thói quen vét cạn lập luận, đặt câu hỏi cho mọi người]]
-# Thực thể khi được nhìn như là mục tiêu
-Mục tiêu::
+# Thực thể khi được nhìn như là kết quả mong muốn
+Kết quả mong muốn::
 	
 Hoạt động::
 

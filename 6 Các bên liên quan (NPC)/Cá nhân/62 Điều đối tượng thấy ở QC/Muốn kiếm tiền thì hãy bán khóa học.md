@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Tài chính
 Đánh giá tích cực hay tiêu cực:: Trung tính
 
 
-Tương ứng với mục tiêu:: 
+Tương ứng với kết quả mong muốn:: 

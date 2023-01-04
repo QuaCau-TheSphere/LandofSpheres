@@ -4,7 +4,7 @@ Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
 Người chơi::
 Kỹ năng:: [[Nghiên cứu (kỹ năng)]], [[Nhân sự (kỹ năng)]], Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

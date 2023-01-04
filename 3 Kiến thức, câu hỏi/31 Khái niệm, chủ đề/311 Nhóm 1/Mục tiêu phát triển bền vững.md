@@ -10,11 +10,11 @@ List from "3 Kiến thức, câu hỏi/31 Khái niệm" where contains(chủ-đ�
 -   Công nghiệp văn hoá→ công nghiệp ở đây nghĩa là gì?
 -   Các mốc quan trọng trong phát triển bền vững toàn cầu:
     -   1992: Rio define Janeiro
-    -   2000: Các mục tiêu phát triển thiên niên kỷ MDGs (chỉ nói về phát triển xã hội, chưa có nói gì về văn hoá & môi trường)
+    -   2000: Các kết quả mong muốn phát triển thiên niên kỷ MDGs (chỉ nói về phát triển xã hội, chưa có nói gì về văn hoá & môi trường)
     -   2002: Johannesburg
     -   2012: Rio +20
-    -   2015: Các mục tiêu phát triển bền vững SDGS
--   Phát triển một khung đo lường và thu thập dữ liệu về văn hoá khó hơn các mục tiêu khác
+    -   2015: Các kết quả mong muốn phát triển bền vững SDGS
+-   Phát triển một khung đo lường và thu thập dữ liệu về văn hoá khó hơn các kết quả mong muốn khác
 -   Công nghiệp văn hoá = công nghệ, sản xuất kinh doanh + cơ sở hạ tầng & khoa học công nghệ + văn hoá sáng tạo
 -   Lợi ích của công nghiệp văn hoá sáng tạo:
     -   Thân thiện với phụ nữ & nhóm yếu thế
@@ -28,4 +28,4 @@ List from "3 Kiến thức, câu hỏi/31 Khái niệm" where contains(chủ-đ�
 - Không bỏ rơi ai phía sau
 - Tính toàn diện
 - Hợp tác giữa các bên
-- Tất cả các mục tiêu đều gắn kết với nhau (tính gắn kết) 
+- Tất cả các kết quả mong muốn đều gắn kết với nhau (tính gắn kết) 

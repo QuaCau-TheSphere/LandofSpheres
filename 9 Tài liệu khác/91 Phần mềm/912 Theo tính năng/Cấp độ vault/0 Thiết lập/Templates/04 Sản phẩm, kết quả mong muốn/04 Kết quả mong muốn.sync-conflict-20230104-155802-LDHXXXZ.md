@@ -1,4 +1,4 @@
-Phục vụ cho mục tiêu:
+Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(mục-tiêu, [[]]) or contains(yếu-tố-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
@@ -7,8 +7,8 @@ Phục vụ cho những nhu cầu này của mình:
 list where contains(tương-ứng-với-mục-tiêu,[[]])
 ```
 
-Mục tiêu::
-Yếu tố hỗ trợ::
+Kết quả mong muốn::
+Sản phẩm hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::
 

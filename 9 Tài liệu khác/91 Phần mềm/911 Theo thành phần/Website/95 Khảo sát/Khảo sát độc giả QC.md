@@ -9,7 +9,7 @@ Không có một dự án nào có thể thành công nếu thiếu đi sự ph�
 Bản khảo sát được chia làm 3 phần:
 
 -   Bạn nghĩ gì về blog?
--   Bạn nghĩ gì về mục tiêu của dự án?
+-   Bạn nghĩ gì về kết quả mong muốn của dự án?
 -   Tìm hiểu về bạn
 
 Một bạn may mắn sẽ được tặng cuốn [Chuyện gì sẽ xảy ra nếu?](http://xn--qucu-hr5aza.com/neu-thi?utm_source=F+%C2%BB+B%E1%BA%A1n+b%C3%A8+blog+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+kh%E1%BA%A3o+s%C3%A1t&utm_medium=N%E1%BA%BFu+th%C3%AC&utm_campaign=S%C3%A1ch%2C+th%C6%A1%2C+phim), tác giả là Randall Munroe, một tác giả mình vô cùng hâm mộ. Năm 2013, tạp chí Wired xếp trang xkcd của anh vào [danh sách những sự kiện/sản phẩm/nhân vật liên quan đến công nghệ nhưng gây ảnh hưởng lớn tới kinh tế, chính trị, xã hội thế giới](https://www.wired.com/2013/04/wired-20th-anniversary/), cùng với Mùa xuân Ả Rập, Steve Jobs, Bill Gates, Sheryl Sandberg, và WikiLeaks. Mấy cái hình người que trong blog cũng là từ nó mà ra. Bản dịch tiếng Việt do Nhã Nam xuất bản, và mình có tham gia biên tập. Đảm bảo bạn sẽ cười đau ruột khi đọc nó 😂.
@@ -30,7 +30,7 @@ Bài nào bạn thấy không hợp lý hoặc khó hiểu?
 
 Trong các nhận định sau đây về dự án Quả Cầu, bạn đồng ý tới mức nào?
 
-Mục tiêu của dự án rõ ràng
+Kết quả mong muốn của dự án rõ ràng
 
 Phong cách viết thú vị
 
