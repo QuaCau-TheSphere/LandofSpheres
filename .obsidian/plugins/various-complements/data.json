@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng/Cấp độ vault/0 Thiết lập/Gõ tắt.md",
+  "customDictionaryPaths": "Thiết lập/Gõ tắt.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -130,8 +130,8 @@
     "dtv": {
       "```dataview\nLIST\nFROM |\nWHERE\n```": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672592178743
+          "count": 2,
+          "lastUpdated": 1672905395227
         }
       }
     },
@@ -168,6 +168,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1672822403619
+        }
+      }
+    },
+    "nc": {
+      "Đáp ứng cho nhu cầu của mình::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672901391530
         }
       }
     }

@@ -4,9 +4,8 @@ English:: The Sphere aims to be an organization without hierarchy whose particip
 # Thực thể khi được nhìn như là nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Thử nghiệm ý tưởng một tổ chức không cần hạn chót và trách nhiệm. Chứng minh sự bền vững của sự thong thả]] ^835d21
 # Thực thể khi được nhìn như là kết quả mong muốn
-Kết quả mong muốn:: [[Người tham gia lên kế hoạch cho cuộc sống của mình]]
-Kết quả mong muốn:: [[Các thành viên đều sử dụng vault]]
-Sản phẩm hỗ trợ::
+Kết quả mong muốn:: [[Người tham gia lên kế hoạch cho cuộc [[50% thành viên trong group đều sử dụng vault]][[Các thành viên đều sử dụng vault]]
+Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::
 
 Điểm mạnh::

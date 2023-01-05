@@ -3,4 +3,4 @@ Hoạt động:: [[Kết nối kết quả mong muốn của những người qu
 
 Kết quả mong muốn:: [[r.i.1a.1 Các thành viên thấy được vai trò của tinh thần QC trong các kết quả mong muốn của mình]]
 
-Sản phẩm hỗ trợ:: [[p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường]]
+Yếu tố hỗ trợ:: [[p.1.1.1+ Sinh viên cảm thấy có thể dùng QC như là một ca để phân tích cho các bài tập trên trường]]

@@ -10,4 +10,4 @@ Hoạt động:: [[Tổ chức các buổi nói chuyện về cảm xúc tự nh
 1. Tạo được tranh cãi trong cộng đồng
 2. Tạo ra impact với những người trung lập
 
-Sản phẩm hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]
+Yếu tố hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]

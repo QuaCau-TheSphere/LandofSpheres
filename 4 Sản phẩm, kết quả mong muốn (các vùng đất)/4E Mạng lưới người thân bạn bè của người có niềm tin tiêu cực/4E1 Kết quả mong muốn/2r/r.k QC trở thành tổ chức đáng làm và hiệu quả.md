@@ -8,7 +8,7 @@ Kết quả mong muốn:: [[r.k.5 Các thành viên nòng cốt không cảm th�
 Kết quả mong muốn:: [[r.k.6 Không còn bối rối khi bị hỏi giữa chừng mình đang làm gì]]
 Kết quả mong muốn:: [[r.k.7 Có một nhóm nòng cốt]]
 Kết quả mong muốn:: [[r.k.10 Độc lập tài chính]]
-Sản phẩm hỗ trợ:: [[r.k.i Các TNV đóng góp sôi nổi]]
+Yếu tố hỗ trợ:: [[r.k.i Các TNV đóng góp sôi nổi]]
 Hoạt động:: [[Hoàn thiện tài liệu cho người mới. Tạo nhập môn QC đại cương]]
 Hoạt động:: [[Xây dựng tính năng cho vault]]
 - [ ] 8/10 thành viên không cảm thấy [[== Bản đồ dành cho người mới ==]] mơ hồ, có thể biết rõ ràng trong đây có những thứ gì

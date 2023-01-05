@@ -7,3 +7,4 @@
 ```button
 id discordhotrovault
 ```
+`button-shareOnDiscord`

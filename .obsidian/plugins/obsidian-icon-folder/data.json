@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiSettings3Fill",
       "RiContactsBook2Fill",
       "RiTaskFill",
       "FasBuilding",
-      "SiGraphql",
-      "SiHandshake"
+      "SiGraphql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,6 @@
   "5 SWOT, giá trị cốt lõi": "FasHandsAslInterpreting",
   "4 Sản phẩm, kết quả mong muốn (các vùng đất)": "FasMapLocation",
   "9 Tài liệu khác": "FasScroll",
-  "3 Kiến thức, câu hỏi": "FasLightbulb"
+  "3 Kiến thức, câu hỏi": "FasLightbulb",
+  "Thiết lập": "RiSettings3Fill"
 }

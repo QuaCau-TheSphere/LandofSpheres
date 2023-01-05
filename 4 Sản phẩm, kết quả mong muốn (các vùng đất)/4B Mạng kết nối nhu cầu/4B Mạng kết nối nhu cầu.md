@@ -8,7 +8,7 @@
 
 # Thực thể khi được nhìn như là kết quả mong muốn
 Kết quả mong muốn:: [[Có 1000 thành viên hoạt động]]
-Sản phẩm hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
+Yếu tố hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 
 Điểm mạnh:: 
 - xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu → Dễ gây hứng thú và giúp người dùng đọc được những bài viết khác của Quả Cầu.

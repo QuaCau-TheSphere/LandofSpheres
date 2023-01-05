@@ -379,5 +379,22 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-discord-share:discord:share-embed": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-discord-share:discord:share-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

@@ -1,4 +1,4 @@
-Lý do:: 
+Lý do:: <% tp.file.cursor() %>
 
 Giải pháp cho yêu cầu này:
 ```dataview
@@ -7,6 +7,6 @@ List where contains(lý-do,[[]])
 
 Vấn đề phát sinh::
 ```dataview
-List vấn-đề-phát-sinh
+Table vấn-đề-phát-sinh as "Vấn đề phát sinh" 
 where contains(lý-do,[[]])
 ```

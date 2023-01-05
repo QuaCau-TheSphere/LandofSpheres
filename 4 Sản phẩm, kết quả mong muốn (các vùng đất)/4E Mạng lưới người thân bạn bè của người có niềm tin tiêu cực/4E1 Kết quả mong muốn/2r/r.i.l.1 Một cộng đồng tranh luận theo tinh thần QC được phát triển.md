@@ -1,7 +1,7 @@
 
 
 Kết quả mong muốn:: 
-Sản phẩm hỗ trợ:: 
+Yếu tố hỗ trợ:: 
 Ý tưởng tốt hơn:: 
 Hoạt động::
 

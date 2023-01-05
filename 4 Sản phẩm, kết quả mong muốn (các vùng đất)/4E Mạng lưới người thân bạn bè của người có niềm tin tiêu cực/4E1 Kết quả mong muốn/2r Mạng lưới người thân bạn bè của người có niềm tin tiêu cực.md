@@ -17,16 +17,16 @@ Kết quả mong muốn:: [[r.4 Bản đồ niềm tin của các thành viên �
 Hoạt động:: [[Tư vấn xây dựng nhóm nhiệm vụ cho từng cá nhân]]
 Hoạt động:: [[Lập cơ sở dữ liệu mạng lưới những người có trong friendlist QC]]
 
-Sản phẩm hỗ trợ:: [[r.i Cộng đồng bạn bè QC phát triển]]
-Sản phẩm hỗ trợ:: [[r.j Kết hợp được với các dự án xã hội khác]]
-Sản phẩm hỗ trợ:: [[r.k QC trở thành tổ chức đáng làm và hiệu quả]]
-Sản phẩm hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
+Yếu tố hỗ trợ:: [[r.i Cộng đồng bạn bè QC phát triển]]
+Yếu tố hỗ trợ:: [[r.j Kết hợp được với các dự án xã hội khác]]
+Yếu tố hỗ trợ:: [[r.k QC trở thành tổ chức đáng làm và hiệu quả]]
+Yếu tố hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
 
 Hoạt động:: [[Tập huấn các kỹ năng CTXH cho bạn bè người thân của người có niềm tin tiêu cực]]
 Hoạt động:: [[Tổ chức các buổi bình luận phim]]
 Hoạt động:: [[Khảo sát sâu người thụ hưởng mạng lưới ntbb]]
 
-Sản phẩm hỗ trợ::
+Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::
 
 Điểm mạnh::

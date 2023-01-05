@@ -2,7 +2,7 @@
 Đáp ứng cho nhu cầu của mình::
 # Thực thể khi được nhìn như là kết quả mong muốn
 Kết quả mong muốn::
-Sản phẩm hỗ trợ::
+Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::
 
 Điểm mạnh::

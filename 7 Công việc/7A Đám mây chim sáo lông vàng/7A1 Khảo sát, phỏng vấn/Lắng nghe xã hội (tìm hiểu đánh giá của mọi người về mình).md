@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🌐Cóthểlàmquamạng, #tc-🔁Côngviệcl�
 === end-column ===
 
 Người chơi:: [[Trang (Chuối)]]
-Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]], [[Truyền thông (kỹ năng)]], [[Lắng nghe, quan sát, đặt câu hỏi]], [[Phản biện, lập luận]], [[Khảo sát]], [[Nghiên cứu (kỹ năng)]]
+Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]], [[Truyền thông (kỹ năng)]], [[Lắng nghe, quan sát, đặt câu hỏi]], [[Phản biện, lập luận]], [[2 Kỹ năng, thử thách, mức độ thành thạo/Nghiên cứu (kỹ năng)/Khảo sát]], [[Nghiên cứu (kỹ năng)]]
 
 === end-multi-column
 

@@ -1,1 +1,1 @@
-Sản phẩm hỗ trợ:: [[r.i.o Các bài viết được tự chia sẻ mà không cần seeding]]
+Yếu tố hỗ trợ:: [[r.i.o Các bài viết được tự chia sẻ mà không cần seeding]]
