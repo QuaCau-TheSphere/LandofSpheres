@@ -1,4 +1,3 @@
-`=this.nhà-vệ-sinh`
 Giá rẻ:: 5
 Wifi:: 10
 Nhà vệ sinh:: 10

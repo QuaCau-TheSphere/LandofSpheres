@@ -18,7 +18,7 @@ Kỹ năng:: [[Thiết kế, quản lý dự án]]
 
 === end-multi-column
 
-Tài liệu:: [[Kết quả mong muốn đến 2306]]
+Tài liệu:: [[Tháng 6-2023]]
 ##### Kết quả mong muốn
 - [ ] 8/10 thành viên trả lời được kế hoạch tháng tới của mình là gì
 

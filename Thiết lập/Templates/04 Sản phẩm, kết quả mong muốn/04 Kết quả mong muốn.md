@@ -8,7 +8,7 @@ list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
 
 Kết quả mong muốn::
-Hướng đến thời gian:: [[Kết quả mong muốn đến 2306]]
+Hướng đến thời gian::
 Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::

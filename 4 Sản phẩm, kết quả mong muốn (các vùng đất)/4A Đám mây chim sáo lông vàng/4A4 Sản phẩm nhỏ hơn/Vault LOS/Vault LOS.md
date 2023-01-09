@@ -7,7 +7,7 @@ Phục vụ cho những nhu cầu này của mình:
 list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
 
-Kết quả mong muốn:: [[5 người thường xuyên đóng góp vào vault]]
+Kết quả mong muốn:: [[10% thành viên trong nhóm thường xuyên đóng góp vào vault]]
 Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::

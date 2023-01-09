@@ -1,7 +1,7 @@
 # Đầu vào
-- [ ] [[Đồng bộ dữ liệu với nhóm|Tải vault về]]
 - [ ] [[Dùng phím tắt]]
 - [ ] Đọc [[Triết lý của Obsidian]]
+- [ ] khám phá đồ thị 
 # Đầu ra
 
 # Tài liệu

@@ -18,7 +18,8 @@ Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]]
 
 === end-multi-column
 
-Tài liệu::
+##### Tài liệu
+- [[Trả lời email xin tham gia làm TNV]]
 ##### Kết quả mong muốn
 - [ ] 
 ##### Chỉ số trước

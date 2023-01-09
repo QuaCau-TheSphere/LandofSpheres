@@ -158,3 +158,8 @@ Mối quan tâm là các vấn đề của con người:
 - con người với tinh thần & cơ thể con người, 
 
 mở rộng các mảng kiến thức
+
+# Danh dự là quan trọng
+với em danh dự rất là quan trọng
+nếu sự tế nhị có thể giúp trong việc bảo toàn danh dự của bản thân thì em cần
+xét về mặt lý tính thì việc uống một ly nước mà người ta bỏ lại ở quán cà phê thì ko vấn đề gì cả, nhưng xét về mặt danh dự của bản thân trong xã hội thì điều đó ko cho phép em làm như vậy.

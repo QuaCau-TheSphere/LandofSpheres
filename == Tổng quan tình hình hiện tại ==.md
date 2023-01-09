@@ -15,7 +15,7 @@ unit: meters
 scale: 1
 ```
 
-Xem thêm: [[Kết quả mong muốn đến 2306]]
+Xem thêm: [[Tháng 6-2023]]
 # Tình hình hiện tại các công việc 
 ## Tất cả các công việc
 ```leaflet 

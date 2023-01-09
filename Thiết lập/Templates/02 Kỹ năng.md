@@ -2,31 +2,31 @@
 > ## Nếu bạn cần học kỹ năng này
 > ```button
 > name Tìm người sẵn sàng chia sẻ
-> id discordhotrovault
+> id shareOnDiscord
 > ```
 > ```button
 > id kiemtrengoogle
-> action https://www.google.com/search?q=20kỹ%20năng%20Nhu%20cầu%20của%20đối%20tượng
+> action https://www.google.com/search?q=kỹ%20năng%20<%tp.file.title.replaceAll(/^\d+ /g, '').replaceAll(" ","%20") %>
 > ```
 > ```button
 > name Kiếm trên Google (PDF) 
 > id kiemtrengoogle
-> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Nhu%20cầu%20của%20đối%20tượng
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20<%tp.file.title.replaceAll(/^\d+ /g, '').replaceAll(" ","%20") %>
 > ```
 > ```button
 > id kiemtrenyoutube
-> action https://www.youtube.com/search?q=%20Nhu%20cầu%20của%20đối%20tượng
+> action https://www.youtube.com/search?q=<%tp.file.title.replaceAll(/^\d+ /g, '').replaceAll(" ","%20") %>
 > ```
 > Xem thêm: [[Kỹ năng rèn luyện kỹ năng (kỹ năng meta)]]
 > ## Nếu bạn sẵn sàng chia sẻ, hỗ trợ người cần học kỹ năng này
 > ```button
 > name Thông báo cho mọi người sự sẵn sàng của bạn
-> id discordhotrovault
+> id shareOnDiscord
 > ```
 > ```button
 > name Chọn lọc nội dung hay
 > id kiemtrengoogle
-> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Nhu%20cầu%20của%20đối%20tượng
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năng<%tp.file.title.replaceAll(/^\d+ /g, '').replaceAll(" ","%20") %>
 > ```
 
 
@@ -34,7 +34,9 @@ Mô tả::
 # Mức độ thành thạo
 # Thử thách
 # Khu trưng bày
+# Lợi ích có được từ việc thành thạo
 # Tài liệu
+## Kỹ năng liên quan
 
 # Người chơi
 ```dataview

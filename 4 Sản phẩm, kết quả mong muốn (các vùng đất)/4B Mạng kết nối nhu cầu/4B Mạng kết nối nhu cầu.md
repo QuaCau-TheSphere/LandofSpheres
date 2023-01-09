@@ -7,7 +7,8 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra một thứ không ai có thể cưỡng lại được]]
 
 # Thực thể khi được nhìn như là kết quả mong muốn
-Kết quả mong muốn:: [[Có 1000 thành viên hoạt động]]
+Kết quả mong muốn:: [[50 người tham gia mạng kết nối nhu cầu]]
+Kết quả mong muốn:: [[Có cách để đi tới nhóm nào cũng có thể khiến họ muốn tham gia]]
 Yếu tố hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 
 Điểm mạnh:: 

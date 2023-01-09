@@ -9,7 +9,7 @@
 # Thực thể khi được nhìn như là kết quả mong muốn
 Kết quả mong muốn::
 
-Điểm mạnh:: [[Lượng người tham gia Discord cũng đủ]]
+Điểm mạnh:: [[Có 100 người tham gia Discord QC]]
 Điểm yếu:: [[Đã số người chỉ quen xài fb]], [[Nhiều kênh liên lạc quá bị ngộp]]
 Đối tượng thụ hưởng::
 Ưu tiên cho Facebook trước, sau đó thói quen của người VN ko ở Discord
