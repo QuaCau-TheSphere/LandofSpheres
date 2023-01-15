@@ -29,7 +29,7 @@ Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện.
 
 Công việc thành phần:: Tạo bản khảo sát
 
-next:: [[01.1A3 Hậu cần buổi sự kiện...]]
+next:: [[Ξ Meta 0/01 Templates/1/01.1A3 Hậu cần buổi sự kiện...]]
 
 === multi-column-start: extraInfo
 ```column-settings

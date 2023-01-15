@@ -23,7 +23,10 @@ Kỹ năng::<% tp.file.cursor(2) %>
 
 > [!NOTE] Mức độ ưu tiên khi chọn việc
 > Liệt kê các tính chất công việc trong [[Các yếu tố trong công việc#Tính chất công việc]] theo thứ tự ưu tiên giảm dần ở đây
-
+```button
+id timcongviecphuhop
+```
+^button-gdi1
 ```dataview
 list filter(file.etags, (tags) => startswith(tags, "#đct") or startswith(tags, "#tt"))
 from "7 Công việc" and !#đct-✅✅Đãxong

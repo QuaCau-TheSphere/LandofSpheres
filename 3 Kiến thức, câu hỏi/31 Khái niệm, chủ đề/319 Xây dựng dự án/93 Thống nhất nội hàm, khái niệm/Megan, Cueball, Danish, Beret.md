@@ -1,1 +1,1 @@
-![[Venn diagram.svg]]
+![[9 Tài liệu khác/99 Tài liệu khác/Media/9 Tài liệu/Giới thiệu/Venn diagram.svg]]

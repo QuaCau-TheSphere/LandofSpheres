@@ -104,15 +104,11 @@ Em có thấy chị vừa mới unfriend em
 
 Thực ra thì em cũng hiểu là chuyện này là chuyện bình thường, bản thân em cũng có làm vậy nên em không có vấn đề gì
 
-Nhưng nếu được thì em cũng muốn xin được hỏi chị lý do là gì
+Nhưng nếu được thì em cũng muốn xin được hỏi chị lý do là gì. Vì em nghĩ chúng ta cũng đã là friend trên Facebook với nhau khá lâu. Tuy chưa nói chuyện gì nhiều nhưng cũng không đến mức phải unfriend. 
 
-Chỉ mất một hai phút để giải thích, nhưng nó lại giúp em được rất nhiều
+Là do anh chỉ muốn làm gọn friendlist, hay em đã làm điều gì đó khiến chị không vui? 
 
-Vì em nghĩ chúng ta cũng đã là friend với nhau khá lâu. Tuy chưa nói chuyện gì nhiều nhưng cũng không đến mức phải unf. Nên nếu chuyện này xảy ra thì hẳn có một lý do nào đó
-
-Có thể em đã làm điều gì đó khiến chị không vui chăng?
-
-Thực ra nếu là do chị không muốn giữ mối quan hệ với quá nhiều người thì em cũng là người như vậy,
+Em nghĩ lời giải thích cũng chỉ mất một hai phút, nhưng nó sẽ giúp em hiểu hơn. Cũng không cần phải lịch sự qua nhiều đâu
 
 Dù sao đi nữa, nếu chị không thoải mái hoặc không có thời gian thì cũng không có cần phải trả lời. Em hoàn toàn hiểu điều đó
 

@@ -7,3 +7,4 @@ Wikipedia
 80000 hours
 Social construction
 Google artwork
+[[The Ladder]] 

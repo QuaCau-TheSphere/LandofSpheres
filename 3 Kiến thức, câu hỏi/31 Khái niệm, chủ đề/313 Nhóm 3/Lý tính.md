@@ -11,4 +11,4 @@ List from "3 Kiến thức, câu hỏi/31 Khái niệm" where contains(chủ-đ�
 Chủ đề:: [[Tự trị]]
 ❓:: [[Liệu việc không đối thoại có đem lại cơ sở cho quan điểm của mình？ ]]
 
-![[Pragmatism-Venn-Diagram.webp]]
+![[9 Tài liệu khác/99 Tài liệu khác/Media/3 Kiến thức/Pragmatism-Venn-Diagram.webp]]

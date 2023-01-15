@@ -58,9 +58,9 @@ Tài liệu:: [[Nội dung chuyến đi]], [[Bài truyền thông sự kiện...
 	- [ ] Nhắc nhở làm khảo sát
 	- [ ] Đánh giá sau sự kiện
 
-Công việc thành phần:: [[01.1A1 Lên nội dung chi tiết buổi sự kiện...]]
-Công việc thành phần:: [[01.1A2 Truyền thông buổi sự kiện...]]
-Công việc thành phần:: [[01.1A3 Hậu cần buổi sự kiện...]]
+Công việc thành phần:: [[3 Các bên liên quan (NPC)/Tổ chức/39 Loại sản phẩm/01.38 Loại sứ mệnh]]
+Công việc thành phần:: [[Ξ Meta 0/01 Templates/1/01.1A2 Truyền thông buổi sự kiện...]]
+Công việc thành phần:: [[Ξ Meta 0/01 Templates/1/01.1A3 Hậu cần buổi sự kiện...]]
 
 === multi-column-start: extraInfo
 ```column-settings

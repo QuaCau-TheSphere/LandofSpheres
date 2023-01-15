@@ -45,14 +45,17 @@ gantt
 ## Giấy tờ gửi các bên liên quan
 - Nhà tài trợ
 - Đơn vị hỗ trợ
+- Đơn vị bảo trợ
 
 ## Tài liệu về các bên liên quan
 - Nhà tài trợ
 - Đơn vị hỗ trợ
+- Đơn vị bảo trợ
 
 ## Yêu cầu của các bên liên quan
 - Nhà tài trợ
 - Đơn vị hỗ trợ
+- Đơn vị bảo trợ
 
 # 2 Bài đăng, email trước tập huấn
 ## Page: Hé lộ chương trình mới
@@ -112,11 +115,29 @@ gantt
 ## Đi chợ
 ## Nấu ăn
 ## Dọn dẹp
+## Chụp ảnh
+- Người tham gia
+- Hoạt động 1
+- Hoạt động 2
+- Hoạt động 3
+- Người bản địa
+- Bên liên quan 1
+- Bên liên quan 2
+- Bên liên quan 3
+
+## Ký giấy tờ
+- Thuê nhà
+- Đồ ăn, nước
+- Xe
+- Hướng dẫn viên
 
 # 5 Công việc sau chuyến đi
 ## Làm phiếu lượng giá
 ## Tìm hiểu nhu cầu của người tham gia về bài truyền thông và bài thu hoạch
 ## Truyền thông 
 ## Email: Thư cảm ơn các bên hỗ trợ
+## Lọc ảnh
+- Xếp tất cả các ảnh theo ngày
+## Làm giấy chứng nhận
 
 # 6 Chuẩn bị cho chương trình năm sau

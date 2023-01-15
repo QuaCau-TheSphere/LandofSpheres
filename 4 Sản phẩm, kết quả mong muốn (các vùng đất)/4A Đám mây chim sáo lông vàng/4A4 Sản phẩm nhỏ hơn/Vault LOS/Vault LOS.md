@@ -1,23 +1,3 @@
-Phục vụ cho kết quả mong muốn:
-```dataview
-list where contains(kết-quả-mong-muốn, [[]]) or contains(yếu-tố-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
-```
-Phục vụ cho những nhu cầu này của mình:
-```dataview
-list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
-```
-
-Kết quả mong muốn:: [[10% thành viên trong nhóm thường xuyên đóng góp vào vault]]
-Yếu tố hỗ trợ::
-Ý tưởng tốt hơn::
-Hoạt động::
-
-Điểm mạnh::
-Điểm yếu::
-Đối tượng thụ hưởng::
-
-
-
 F+%C2%BB+V%C3%B9ng+%C4%91%E1%BA%A5t+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+%E1%BA%A3nh+b%C3%ACa+%C2%BB+Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+LOS
 `=[[4A Đám mây chim sáo lông vàng]].mô-tả`
 

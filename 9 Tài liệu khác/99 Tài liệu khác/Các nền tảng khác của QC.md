@@ -1,6 +1,5 @@
 > [!info] Email chung đăng nhập các tài khoản, Google Drive, website
-> quacau.thesphere@gmail.com
-> Pass: Qu@cau00
+> quacau.thesphere@gmail.com
 
 - [Quản trị website](https://xn--qucu-hr5aza.cc/wp-login.php)
 - [Đăng ký TNV](https://xn--qucu-hr5aza.cc/wp-admin/admin.php?page=formidable-entries&frm-full=1&frm_action=list&form=19 "Formidable | Entries - Quả Cầu")

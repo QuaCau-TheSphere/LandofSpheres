@@ -3,7 +3,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
 Đáp ứng cho nhu cầu của mình:: [[Gây quỹ (nhu cầu)]]
 Đáp ứng cho nhu cầu của mình:: [[Cho mọi người thấy QC có những sản phẩm thú vị, cần thiết, rõ ràng, dễ làm]]
-Đáp ứng cho nhu cầu của mình:: [[Thu hút sự chú ý]]
+Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 
 # Thực thể khi được nhìn như là mục tiêu
 Kết quả mong muốn:: 
@@ -11,12 +11,12 @@ Kết quả mong muốn::
 - Cách học: evergreen, SRS, không phải highlight
 - Quản lý dự án
 	- các quan niệm thường gặp
-	- các hiệu ứng tâm lý lên liên quan đến việc làm việc 
+	- các hiệu ứng tâm lý liên quan đến việc làm việc 
 - Lập trình, git
 - Concept map
 - Những quan niệm đến từ nền kinh tế dùng tiền và chủ nghĩa tân tự do
 - Những quan niệm liên quan đến việc đặt câu hỏi
-
+Khác biệt với những cộng đồng hỗ trợ khác? Lớp học
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault kết nối nhu cầu]]
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công việc]]
 Hoạt động:: [[Truyền thông cho nhóm lập trình]]
@@ -37,7 +37,26 @@ Khám phá tài nguyên tốt
 Google thì lại vụn vặt 
 Nhưng kể cả khi có được tài nguyên tốt rồi thì nó lại đòi hỏi phải tập trung
 Nó khôngphaphải là thứ có thể ưu tiên cái nào làm trước cái nào làm sau được
+Chia sẻ đam mê
+Sự sẵn sàng chia sẻ thường chỉ khi họ vẫn còn đang cần. Khi hiểu rành rẽ rồi thì sự hứng thú đó cũng giảm
+[[Trò chơi và vùng đất]]
+
+Các file trong đây file nào cũng có thể là tài liệu 
+
+Đã có rất nhiều hướng dẫn trên mạng, chỉ việc google là có rất nhiều
+Kể cả khi note chưa đủ dữ liệu, và search query cũng đơn giản, thì các nút bấm cũng giảm tải sự khó khăn hơn nhiều so với phải viết ra
+
+Mặt khác, với số lượng bài viết ê hề và cạnh tranh nhau để lên top, sẽ thấy bực mình vì
+
+Có người giải thích ở ngay đó cũng chưa chắc thấm vì quá nhiều thuật ngữ
+
+Template tản mát
+
+Khi có cơ hội để học thì lại thấy nhức đầu
+Tài liệu hướng dẫn đọc không hiểu gì hết
+
 ## Kỹ năng không cần lắm 
+Khi cần thì không có, khi có thì không cần. Nên lúc nào cũng sẽ thấy lúng túng vì thiếu kỹ năng, mặc dù kỹ năng mình có rất nhiều, và tài liệu cũng có rất nhiều
 Làm phong phú cuộc sống,nhưng chỉ một lúc là sẽ chán
 
 là công cụ cho một mục tiêu khác

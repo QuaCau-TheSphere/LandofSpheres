@@ -51,6 +51,13 @@ Các file trong đây file nào cũng có thể là tài liệu
 Đã có rất nhiều hướng dẫn trên mạng, chỉ việc google là có rất nhiều
 Kể cả khi note chưa đủ dữ liệu, và search query cũng đơn giản, thì các nút bấm cũng giảm tải sự khó khăn hơn nhiều so với phải viết ra
 
+Mặt khác, với số lượng bài viết ê hề và cạnh tranh nhau để lên top, sẽ thấy bực mình vì
+
+Có người giải thích ở ngay đó cũng chưa chắc thấm vì quá nhiều thuật ngữ
+
+Template tản mát
+
+Khi có cơ hội để học thì lại thấy nhức đầu
 ## 3 Kiến thức
 
 - 31 Khái niệm, chủ đề: Các chủ đề mà QC bàn đến      
@@ -78,10 +85,13 @@ Các bài viết liên quan trực tiếp tới sự bất lực học được 
 - Nhóm 3: Vòng tròn gần ngoài cùng, liên quan đến những vấn đề về nhận thức [Đạo, ngữ dụng, tâm lý học nhận thức](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/dao-ngu-dung-tam-ly-hoc-nhan-thuc/)
 NLP, Wikipedia 
 
-## 4 Sản phẩm
+## 4 Sản phẩm, kết quả mong muốn
 Những thứ này tự nó sẽ có thể cần một vault riêng. Chúng cũng cần một trang chủ riêng 
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
+
+[[Nhu cầu mà có định lượng sẽ là kết quả mong muốn]]
+
 ### Sự kiện
 Có những công việc dài thì để vào gantt, có những công việc ngắn
 Tách ra thì sẽ lắt nhắt. Tạo nhiều note sẽ rối rắm không cần thiết

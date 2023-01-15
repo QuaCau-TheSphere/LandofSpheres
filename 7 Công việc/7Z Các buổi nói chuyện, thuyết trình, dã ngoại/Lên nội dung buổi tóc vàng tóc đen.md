@@ -25,7 +25,7 @@ Tài liệu:: [[Nội dung sự kiện...]]
 - [ ] [est:: ] [ ]
 
 
-next:: [[01.1A2 Truyền thông buổi sự kiện...]]
+next:: [[Ξ Meta 0/01 Templates/1/01.1A2 Truyền thông buổi sự kiện...]]
 
 === multi-column-start: extraInfo
 ```column-settings

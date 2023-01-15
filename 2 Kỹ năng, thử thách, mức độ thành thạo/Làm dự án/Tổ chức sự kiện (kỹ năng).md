@@ -35,8 +35,11 @@ Mô tả::
 # Thử thách
 - [ ] Thu âm
 # Khu trưng bày
+- 
 # Lợi ích có được từ việc thành thạo
 # Tài liệu
+- [[Các công việc tổ chức sự kiện]]
+- [[Các công việc của một chương trình dã ngoại]]
 ## Kỹ năng liên quan
 
 # Người chơi
