@@ -238,7 +238,7 @@ Cái thú vị ở khoảng giữa, nhưng khi ta ở giữa thì đó là tình
 
 Hãy viết lại bài xem sao.
 
-![[9 Tài liệu khác/99 Tài liệu khác/Media/3 Kiến thức/Mạng lưới.jpg]]
+![[Mạng lưới.jpg]]
 | ----------- | ----------------------- |
 | ----------- | ----------------------- |
 | Cây   | rhizome       |

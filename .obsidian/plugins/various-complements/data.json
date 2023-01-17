@@ -47,27 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": true,
   "selectionHistoryTree": {
-    "ttw": {
-      "Chủ đề::": {
-        "customDictionary": {
-          "count": 64,
-          "lastUpdated": 1670862842520
-        }
-      }
-    },
     "tccv": {
       "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến": {
         "customDictionary": {
           "count": 6,
           "lastUpdated": 1672317132147
-        }
-      }
-    },
-    "ttq": {
-      "❓::": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1670781878950
         }
       }
     },
@@ -182,8 +166,8 @@
     "kkk, kqmm": {
       "Kết quả mong muốn::": {
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1673281556331
+          "count": 11,
+          "lastUpdated": 1673967817111
         }
       }
     }

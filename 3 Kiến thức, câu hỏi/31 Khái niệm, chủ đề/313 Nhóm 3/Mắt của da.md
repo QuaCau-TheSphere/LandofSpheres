@@ -15,11 +15,11 @@ Chủ đề:: [[Sự kích thích các giác quan]]
 - Schulz: dựa vào Heidegger để phản bác về kiến trúc hiện đại. Ý tưởng quan trọng nhất của Schulz là genius loci (thổ thần, linh hồn nơi chốn, thần ở vị trí đó, ví dụ như thần sông, thần núi). Kiến trúc phải gắn kết tinh thần ở nơi chốn bản địa
 ## Lược sử tri thức của đôi mắt
 [[Thị giác là sự nối dài của xúc giác]]. Thế giới khả giác chính là tập hợp các khả thể hành động
-![[9 Tài liệu khác/99 Tài liệu khác/Media/3 Kiến thức/Pasted image 20221106100134.png]]
+![[Pasted image 20221106100134.png]]
 
 Trong mô hình của Berson, thế giới hiện ra là bởi vì cơ thể. Các con vật có cơ thể khác nhau sẽ có những cách nhìn thế giới khác nhau. 
 
-![[9 Tài liệu khác/99 Tài liệu khác/Media/3 Kiến thức/Pasted image 20221106100205.png]]
+![[Pasted image 20221106100205.png]]
 Sự tri giác nằm ở nơi sự vật. Ta tri giác từ cái tổng thể đến các bộ phận.
 Vai trò của cơ thể : 1.chọn lọc và phóng chiếu hành động, 2. ức chế hồi ức.
 

@@ -6,6 +6,7 @@ Phục vụ cho những nhu cầu này của mình:
 ```dataview
 list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
+- [ ] <% tp.date.now("YYYY-MM-DD")+": " +tp.file.cursor()+" (tỉ lệ x"  %>
 
 Kết quả mong muốn::
 Hướng đến thời gian::

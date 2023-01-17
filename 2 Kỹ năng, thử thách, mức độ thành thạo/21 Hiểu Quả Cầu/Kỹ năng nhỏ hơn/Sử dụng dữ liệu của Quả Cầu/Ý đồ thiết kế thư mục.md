@@ -9,15 +9,18 @@ Nếu các file cần đánh số riêng thì sẽ có một dấu chấm
 Những con số sẽ giúp nhớ
 
 Các thư mục ở trên sẽ quyết định các thư mục ở dưới
-1 sẽ là mạng kết nối nhu cầu
-2 là hỗ trợ người tự học
-3 sẽ là các sản phẩm khác
+- 1 cho bạn biết bạn muốn gì
+- 2 sẽ cho bạn biết phải làm thế nào
+- 3 sẽ cho bạn biết tại sao  
+
+- 1 sẽ là mạng kết nối nhu cầu
+- 2 là hỗ trợ người tự học
+- 3 sẽ là các sản phẩm khác
 
 Từ 1 đến 4 là nơi mọi người sống cho bản thân. 4 là các vùng đất, nơi các dòng nhu cầu hội tụ đủ mạnh để bồi đắp tạo thành những vùng đất. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau. Thấy được giá trị của 4 thì họ mới tham gia sâu hơn
 
 1,2,3 là hướng về cá nhân, là nơi mọi người phát triển bản thân mình. 5,6,7,8,9 là hướng về tập thể, là những thứ được thống nhất và sử dụng chung. 4 là nơi giao nhau,và cũng có thể xem là nơi chuyển giao giữa việc đặt cá nhân làm trọng tâm và đặt tập thể làm trọng tâm. 
 
-2 sẽ cho bạn biết phải làm thế nào, còn 3 sẽ cho bạn biết tại sao  
   
 Từ 5 trở đi là cách để biến những thứ ở 4 trở thành hiện thực. Một người khi cảm thấy rằng mình muốn có 4 sẽ di chuyển xuống các thư mục ở dưới
 
@@ -91,7 +94,9 @@ Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần ph
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
 
 [[Nhu cầu mà có định lượng sẽ là kết quả mong muốn]]
-
+Outcome là kết quả mong muốn,
+Output là sản phẩm nhỏ hơn
+Sự kiện là một loại output
 ### Sự kiện
 Có những công việc dài thì để vào gantt, có những công việc ngắn
 Tách ra thì sẽ lắt nhắt. Tạo nhiều note sẽ rối rắm không cần thiết
