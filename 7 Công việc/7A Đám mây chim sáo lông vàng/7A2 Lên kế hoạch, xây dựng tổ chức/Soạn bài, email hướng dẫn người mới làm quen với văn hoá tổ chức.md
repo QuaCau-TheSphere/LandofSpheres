@@ -18,7 +18,7 @@ Kỹ năng:: [[Nhân sự (kỹ năng)]]
 
 === end-multi-column
 
-Tài liệu:: [[Hướng dẫn tham gia vào Quả Cầu]]
+Tài liệu:: [[Trả lời email xin tham gia làm TNV]]
 ##### Kết quả mong muốn
 - [ ] Người mới thấy hướng dẫn rõ ràng
 ##### Chỉ số trước

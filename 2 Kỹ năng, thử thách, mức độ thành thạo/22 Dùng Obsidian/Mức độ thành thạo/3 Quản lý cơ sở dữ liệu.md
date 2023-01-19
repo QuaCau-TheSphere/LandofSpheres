@@ -1,45 +1,48 @@
-> [!NOTE]- Nội dung cho trang này còn thiếu
+> [!INFO]+ Nội dung cho trang này còn thiếu
 > ## Nếu bạn cần học kỹ năng này
 > ```button
 > name Tìm người sẵn sàng chia sẻ
-> id discordhotrovault
+> id shareOnDiscord
 > ```
 > ```button
 > id kiemtrengoogle
-> action https://www.google.com/search?q=20kỹ%20năng%20Nghiên%20cứu%20(kỹ%20năng)
+> action https://www.google.com/search?q=kỹ%20năng%20Dùng%20Dataview
 > ```
 > ```button
 > name Kiếm trên Google (PDF) 
 > id kiemtrengoogle
-> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Nghiên%20cứu%20(kỹ%20năng)
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Dùng%20Dataview
 > ```
 > ```button
 > id kiemtrenyoutube
-> action https://www.youtube.com/search?q=%20Nghiên%20cứu%20(kỹ%20năng)
+> action https://www.youtube.com/search?q=Dùng%20Dataview
 > ```
 > Xem thêm: [[Kỹ năng rèn luyện kỹ năng (kỹ năng meta)]]
 > ## Nếu bạn sẵn sàng chia sẻ, hỗ trợ người cần học kỹ năng này
 > ```button
 > name Thông báo cho mọi người sự sẵn sàng của bạn
-> id discordhotrovault
+> id shareOnDiscord
 > ```
 > ```button
 > name Chọn lọc nội dung hay
 > id kiemtrengoogle
-> action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Nghiên%20cứu%20(kỹ%20năng)
+> action https://www.google.com/search?q=type:pdf%20kỹ%20năngDùng%20Dataview
 > ```
 
-
-Mô tả::
+Mô tả:: Dùng Dataview tự tin
 # Mức độ thành thạo
+> [!INFO]- Nội dung cho phần này còn thiếu
 # Thử thách
-1. Xem [[31 Khái niệm, chủ đề|danh sách tất cả các chủ đề kiến thức]] và chọn chủ đề mình quan tâm 
-2. Trả lời những câu hỏi liên quan đến chủ đề đó
-3. Từ những câu trả lời đó bạn sẽ tổng hợp được nội dung để làm tiểu luận trong trường
-4. Tham gia các buổi giới thiệu tiểu luận của các thành viên để có ý tưởng mới. Một bài luận có sự liên kết kiến thức đa ngành sẽ có ấn tượng mạnh hơn
-
+- [ ] Dùng Dataview 
+- [ ] Dùng Project, Metadata, Database folder
 # Khu trưng bày
+> [!INFO]- Nội dung cho phần này còn thiếu
+# Lợi ích có được từ việc thành thạo
+> [!INFO]- Nội dung cho phần này còn thiếu
 # Tài liệu
+[Basic Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
+## Kỹ năng liên quan
+> [!INFO]- Nội dung cho phần này còn thiếu
 
 # Người chơi
 ```dataview

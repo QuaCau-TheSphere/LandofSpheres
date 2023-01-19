@@ -8,7 +8,7 @@ list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
 - [ ] 2023-01-17: 5 người
 
-Kết quả mong muốn:: [[15 người muốn đóng góp vào vault]]
+Kết quả mong muốn:: [[15 người thấy việc vault phát triển là sống còn cho họ]]
 Hướng đến thời gian:: [[Tháng 6-2023]]
 Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::

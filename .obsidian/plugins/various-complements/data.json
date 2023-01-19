@@ -106,8 +106,8 @@
     "dtv": {
       "```dataview\nLIST\nFROM |\nWHERE\n```": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1672905395227
+          "count": 3,
+          "lastUpdated": 1674144288671
         }
       }
     },
@@ -166,8 +166,8 @@
     "kkk, kqmm": {
       "Kết quả mong muốn::": {
         "customDictionary": {
-          "count": 11,
-          "lastUpdated": 1673967817111
+          "count": 16,
+          "lastUpdated": 1674142299868
         }
       }
     }

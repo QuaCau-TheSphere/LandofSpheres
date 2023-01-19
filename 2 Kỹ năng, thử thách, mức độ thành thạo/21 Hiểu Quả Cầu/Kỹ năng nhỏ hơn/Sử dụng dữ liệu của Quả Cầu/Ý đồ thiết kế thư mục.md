@@ -94,9 +94,14 @@ Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần ph
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
 
 [[Nhu cầu mà có định lượng sẽ là kết quả mong muốn]]
-Outcome là kết quả mong muốn,
+Outcome là kết quả mà chúng ta thu được do sự thay đổi về hành vi của người
+dùng khi tương tác với sản phẩm đã được cải tiến (hoặc sản phẩm mới). kết quả mong muốn,
 Output là sản phẩm nhỏ hơn
 Sự kiện là một loại output
+
+Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức, trong khi sản phẩm nhỏ hơn là output. 
+
+![](https://miro.medium.com/max/1200/1*pNf5d7h2c-N-BrbM8cVDIA.png) 
 ### Sự kiện
 Có những công việc dài thì để vào gantt, có những công việc ngắn
 Tách ra thì sẽ lắt nhắt. Tạo nhiều note sẽ rối rắm không cần thiết
@@ -135,4 +140,4 @@ Với việc không sử dụng khái niệm "Kết quả mong muốn"
 |                     |                            |
 
 - Mối quan hệ giữa các dữ liệu: [RDF Triplestore](https://viblo.asia/u/huynhduc)
-## 21 hiểuQC, 4A,8+9# có chức năng giống nhau 
+## 21 hiểuQC, 4A,8+9# ó chức năng giống nhau 

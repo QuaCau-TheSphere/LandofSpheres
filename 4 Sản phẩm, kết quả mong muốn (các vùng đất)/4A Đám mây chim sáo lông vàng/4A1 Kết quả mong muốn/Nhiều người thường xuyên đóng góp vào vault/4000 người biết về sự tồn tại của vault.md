@@ -6,9 +6,10 @@ Phục vụ cho những nhu cầu này của mình:
 ```dataview
 list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
-- [ ] 2023-01-17: 200 người (tỉ lệ x2) 
+- [ ] 2023-01-17: 2000 (tỉ lệ x2)
+- [ ] 2023-01-17: 4000 (tỉ lệ x2)
 
-Kết quả mong muốn:: [[400 người tải vault về]]
+Kết quả mong muốn::
 Hướng đến thời gian::
 Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::

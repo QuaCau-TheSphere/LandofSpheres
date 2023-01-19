@@ -1,4 +1,5 @@
-
+# Ý đồ thiết kế thư mục này
+![[Ý đồ thiết kế thư mục#2 Kỹ năng]]
 # Danh sách tất cả các kỹ năng
 ```dataview 
 List rows.file.link

@@ -8,7 +8,7 @@ list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
 - [ ] 2023-01-17: 3 người
 
-Kết quả mong muốn:: [[50 người tham gia mạng kết nối nhu cầu]]
+Kết quả mong muốn:: [[50 người đóng góp trên 10 lần vào mạng kết nối nhu cầu]]
 Kết quả mong muốn:: [[Gây quỹ mỗi tháng được 20 tr]]
 Hướng đến thời gian::
 Yếu tố hỗ trợ::

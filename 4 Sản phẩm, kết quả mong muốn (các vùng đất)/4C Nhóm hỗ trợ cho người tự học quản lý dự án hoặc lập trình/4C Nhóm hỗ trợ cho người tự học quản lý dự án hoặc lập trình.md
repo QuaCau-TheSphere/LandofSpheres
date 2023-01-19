@@ -6,16 +6,21 @@
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 
 # Thực thể khi được nhìn như là mục tiêu
-Kết quả mong muốn:: 
-- Công thái học 
-- Cách học: evergreen, SRS, không phải highlight
-- Quản lý dự án
-	- các quan niệm thường gặp
-	- các hiệu ứng tâm lý liên quan đến việc làm việc 
-- Lập trình, git
-- Concept map
+Kết quả mong muốn:: [[10 người làm dự án thấy tin tưởng rằng vault là nơi sẽ cho họ sự hỗ trợ]]
+Kết quả mong muốn:: [[10 người tự nhận mình mù công nghệ tin tưởng rằng vault sẽ cho lộ trình để rành hơn]]
+- Công thái học, bệnh văn phòng
+- Quản lý cuộc sống, hiểu bản thân
+- Ứng dụng của khoa học nhận thức trong việc học hoặc quản lý dự án:
+	- Học theo khoảng lặp, giáo dục học
+	- Hệ thống thông tin, UX
+	- Evergreen, concept map, semantic triplestore, labeling, typography, bản thể luận
+	- Các hiệu ứng tâm lý liên quan đến việc làm việc hoặc lên kế hoạch
+	- Outcome vs output
+- Xử lý ngôn ngữ tự nhiên, AI, Wikipedia
+- Cơ bản về công nghệ thông tin: làm việc với hệ điều hành, lập trình hướng đối tượng, git, cơ sở dữ liệu, lập trình web, AutoHotKey 
 - Những quan niệm đến từ nền kinh tế dùng tiền và chủ nghĩa tân tự do
 - Những quan niệm liên quan đến việc đặt câu hỏi
+
 Khác biệt với những cộng đồng hỗ trợ khác? Lớp học
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault kết nối nhu cầu]]
 Hoạt động:: [[Tổ chức các buổi chia sẻ về vault quản lý công việc]]

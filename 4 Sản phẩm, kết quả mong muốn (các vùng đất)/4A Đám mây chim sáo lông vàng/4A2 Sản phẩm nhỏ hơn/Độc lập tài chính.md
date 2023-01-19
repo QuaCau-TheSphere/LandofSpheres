@@ -16,7 +16,7 @@ Thuộc nhóm nhu cầu nào::
 
 Kết quả mong muốn:: [[1 người hứng thú với việc gây quỹ tham gia]]
 Hướng đến thời gian::
-Yếu tố hỗ trợ:: [[Có được tư cách pháp nhân]]
+Yếu tố hỗ trợ:: [[Tư cách pháp nhân]]
 Ý tưởng tốt hơn::
 Hoạt động::
 

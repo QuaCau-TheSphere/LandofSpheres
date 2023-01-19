@@ -1,4 +1,4 @@
-> [!NOTE]- Nội dung cho trang này còn thiếu
+> [!INFO]+ Nội dung cho trang này còn thiếu
 > ## Nếu bạn cần học kỹ năng này
 > ```button
 > name Tìm người sẵn sàng chia sẻ
@@ -32,11 +32,17 @@
 
 Mô tả::
 # Mức độ thành thạo
+> [!INFO]- Nội dung cho phần này còn thiếu
 # Thử thách
+> [!INFO]- Nội dung cho phần này còn thiếu
+
 # Khu trưng bày
+> [!INFO]- Nội dung cho phần này còn thiếu
 # Lợi ích có được từ việc thành thạo
+> [!INFO]- Nội dung cho phần này còn thiếu
 # Tài liệu
 ## Kỹ năng liên quan
+> [!INFO]- Nội dung cho phần này còn thiếu
 
 # Người chơi
 ```dataview

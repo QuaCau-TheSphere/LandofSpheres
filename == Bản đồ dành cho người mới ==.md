@@ -3,7 +3,6 @@ banner: "![[Chào mừng đến với LOS (hanoi).png]]"
 banner_y: 0.932
 Alias: chào mừng, truy cập nhanh, hướng dẫn cho người mới
 ---
-![[Chào mừng đến với LOS (hanoi).png]]
 %%%%%%%%%%%%
 ╭━┳━╭━╭━╮╮
 ┃┈┈┈┣▅╋▅┫┃
@@ -21,7 +20,7 @@ Alias: chào mừng, truy cập nhanh, hướng dẫn cho người mới
 ╚═══════════════════╝
 %%%%%%%%%%%%
 
-Quả Cầu là một vùng đất đặc biệt, vì ở đó mọi người đều được **tự quyết định việc mình sẽ làm**, **thấy mình tiến bộ và thành thạo** trong công việc như thế nào, và đang **tạo nên một điều có ý nghĩa** cho mình và cho mọi người ra sao. Nó là một tổ chức không có người lãnh đạo, thành viên không làm vì trách nhiệm, và công việc không có hạn chót. Nó lấy nhu cầu của bạn làm trọng tâm, vì nó là của bạn. Bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng mình, và việc nhận việc chỉ là vì bạn cảm thấy nó sẽ giúp đỡ cho bản thân bạn trước tiên. Việc bạn làm điều tốt nhất cho chính mình chính là làm điều tốt nhất cho Quả Cầu.
+Quả Cầu là một vùng đất đặc biệt, vì nó lấy như cầu của bạn làm trọng tâm. Ở đây mọi người đều được **tự quyết định việc mình sẽ làm**, **thấy mình tiến bộ và thành thạo** trong công việc như thế nào, và đang **tạo nên một điều có ý nghĩa** cho mình và cho mọi người ra sao. Nó là một tổ chức không có người lãnh đạo, thành viên không làm vì trách nhiệm, và công việc không có hạn chót, vì nó là của bạn. Bạn có thể thoải mái tìm hiểu mọi thứ trong đây theo tiến độ của riêng mình, và việc nhận việc chỉ là vì bạn cảm thấy nó sẽ giúp đỡ cho bản thân bạn trước tiên. Việc bạn làm điều tốt nhất cho chính mình chính là làm điều tốt nhất cho Quả Cầu.
 
 Khám phá xem Quả Cầu có thể làm được gì cho bạn bằng cách:
 
@@ -52,7 +51,7 @@ id hieutrietlytochuc
 ```button
 name Rèn luyện kỹ năng mới, củng cố kiến thức đã học
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=2%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20th%C3%A0nh%20th%E1%BA%A1o%2F21%20Hi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FTh%E1%BB%AD%20th%C3%A1ch%2FR%C3%A8n%20luy%E1%BB%87n%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%2C%20c%E1%BB%A7ng%20c%E1%BB%91%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%C3%A3%20h%E1%BB%8Dc
+Action obsidian://open?vault=Land%20of%20Spheres&file=9%20T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c%2F93%20B%E1%BA%A3n%20%C4%91%E1%BB%93%2FR%C3%A8n%20luy%E1%BB%87n%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%2C%20c%E1%BB%A7ng%20c%E1%BB%91%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%C3%A3%20h%E1%BB%8Dc
 id hieutrietlytochuc
 ```
 ^button-renluyenkynang
@@ -74,3 +73,5 @@ id hieutrietlytochuc
 ^button-trochuyenvoimoinguoi
 
 > [!Info ] Mục tiêu của bản đồ này là đẩy thành viên trở thành [[Một đám mây chim sáo]], để họ có thể xé cái bản đồ này đi và làm cái của riêng họ.
+
+![[Chào mừng đến với LOS (hanoi).png]]
