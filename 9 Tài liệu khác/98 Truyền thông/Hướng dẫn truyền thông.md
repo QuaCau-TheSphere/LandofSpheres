@@ -1,5 +1,5 @@
 # Giới thiệu về QC cho người ngoài
-Giới thiệu chung thì có thể dựa vào [[4 Sản phẩm, kết quả mong muốn (các vùng đất)]], hoặc có thể điều chỉnh tuỳ vào [[61 Loại đối tượng|từng loại đối tượng cụ thể]]
+Giới thiệu chung thì có thể dựa vào [[4 Sản phẩm, thành quả mong muốn (các vùng đất)]], hoặc có thể điều chỉnh tuỳ vào [[61 Loại đối tượng|từng loại đối tượng cụ thể]]
 # Gửi link
 Đọc bài chi tiết: [Hướng Dẫn Tạo Mã UTM Nhằm Đo Lường Chính Xác Mức Độ Hiệu Quả Các Chiến Dịch Quảng Cáo - A1 DigiHub](https://a1digihub.com/huong-dan-tao-ma-utm-nham-do-luong-chinh-xac-muc-do-hieu-qua-cac-chien-dich-quang-cao/)
 ## Hướng dẫn điền

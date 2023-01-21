@@ -18,7 +18,7 @@ Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
 
 === end-multi-column
 
-Tài liệu:: [[Các ghi chú cũ của Nhật khi học vật lý]]
+Tài liệu:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/Khác/2Q Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/2Q3 Tài liệu/Các ghi chú cũ của Nhật khi học vật lý]]
 ##### Kết quả mong muốn
 - [ ] <% tp.file.cursor() %>
 ##### Chỉ số trước

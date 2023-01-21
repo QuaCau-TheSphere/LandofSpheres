@@ -99,7 +99,7 @@ dùng khi tương tác với sản phẩm đã được cải tiến (hoặc s�
 Output là sản phẩm nhỏ hơn
 Sự kiện là một loại output
 
-Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức, trong khi sản phẩm nhỏ hơn là output. 
+Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức, trong khi sản phẩm nhỏ hơn là output. Nó là lý do khiến mọi người bu vào
 
 ![](https://miro.medium.com/max/1200/1*pNf5d7h2c-N-BrbM8cVDIA.png) 
 ### Sự kiện
