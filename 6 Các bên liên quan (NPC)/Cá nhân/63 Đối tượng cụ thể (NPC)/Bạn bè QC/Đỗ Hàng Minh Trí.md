@@ -1,7 +1,7 @@
 Loại đối tượng:: [[Người muốn xây dựng QC, lan toả tinh thần QC]]
 Nhu cầu của đối tượng:: [[Tự do tài chính]]
 Điều đối tượng thấy ở QC:: [[Kỳ lạ]], [[Thấy giống hội kín]]
-Hoạt động nhận làm trong tổ chức:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/2B Mạng kết nối nhu cầu/2B Mạng kết nối nhu cầu]], [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
+Hoạt động nhận làm trong tổ chức:: [[4 Sản phẩm, Thành quả cần có (các vùng đất)/2B Mạng kết nối nhu cầu/2B Mạng kết nối nhu cầu]], [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 3
 Ngành nghề hiện tại/dự tính sẽ làm:: kinh doanh online/bds
 Trong năm nay bạn đang có những kết quả mong muốn gì?:: 5 kết quả mong muốn lận, nếu kể hết thì ko còn quyền riêng tư, nên đành chọn kết quả mong muốn tài chính vậy, target năm nay muốn có 500tr lợi nhuận ròng

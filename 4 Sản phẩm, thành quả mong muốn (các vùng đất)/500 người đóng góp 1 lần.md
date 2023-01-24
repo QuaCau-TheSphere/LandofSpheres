@@ -1,16 +1,16 @@
 Phục vụ cho kết quả mong muốn:
 ```dataview
-list where contains(kết-quả-mong-muốn, [[]]) or contains(yếu-tố-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
+list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
 Phục vụ cho những nhu cầu này của mình:
 ```dataview
-list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
+list where contains(tương-ứng-với-thành-quả-cần-có,[[]])
 ```
 - [ ] 2023-01-19: 500 lần (tỉ lệ x10), 1 lần (x0.1) 
 
-Kết quả mong muốn::
+Thành quả cần có:: [[1000 người thấy được Quả Cầu xứng đáng được giúp và mình có thể giúp]]
 Hướng đến thời gian::
-Yếu tố hỗ trợ::
+Thành quả hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::
 

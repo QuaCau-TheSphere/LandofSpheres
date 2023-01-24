@@ -26,7 +26,7 @@ Tài liệu::
 - [ ] Tìm hiểu xem có ai cũng muốn dịch cùng không?
 - [x] Hỏi tác giả liệu mình có được phép dịch không
 ```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
+List without id công-việc-thành-phần.thành-quả-cần-có
 Where file.name=this.file.name
 Công việc thành pm
 

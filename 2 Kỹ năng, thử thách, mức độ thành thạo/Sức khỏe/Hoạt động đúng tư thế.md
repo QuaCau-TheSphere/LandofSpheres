@@ -1,3 +1,3 @@
-- [ ] Ghế ngồi
+- [ ] Ghế ngồi đun
 - [ ] Xem đt
 - [ ] 

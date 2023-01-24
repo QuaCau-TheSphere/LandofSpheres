@@ -2,16 +2,16 @@
 Nội dung: [thảo luận chung]
 ---
 
-Kết quả mong muốn:: [[r.k.i.1a Các TNV cảm thấy an toàn, nhẹ nhàng khi đóng góp]], [[r.k.3.1b Các TNV cảm thấy sự đóng góp của mình sẽ được lắng nghe]]
+Thành quả cần có:: [[r.k.i.1a Các TNV cảm thấy an toàn, nhẹ nhàng khi đóng góp]], [[r.k.3.1b Các TNV cảm thấy sự đóng góp của mình sẽ được lắng nghe]]
 
 Hoạt động:: [[Tăng tỉ lệ tương tác của những người ít tương tác trong group]] 
 
-Yếu tố hỗ trợ:: [[r.k.3.1 Các TNV tự tham gia đặt ra kết quả mong muốn cho công việc của mình]]
-Yếu tố hỗ trợ:: [[r.k.3.2 Các TNV tự báo cáo công việc hàng tuần]]
-Yếu tố hỗ trợ:: [[r.k.i.i Các TNV nói rõ lý do khi không tham gia họp]]
+Thành quả hỗ trợ:: [[r.k.3.1 Các TNV tự tham gia đặt ra kết quả mong muốn cho công việc của mình]]
+Thành quả hỗ trợ:: [[r.k.3.2 Các TNV tự báo cáo công việc hàng tuần]]
+Thành quả hỗ trợ:: [[r.k.i.i Các TNV nói rõ lý do khi không tham gia họp]]
 
-Yếu tố hỗ trợ:: [[r.k.i.j Các thành viên hiểu về cuộc sống của nhau]]
-Yếu tố hỗ trợ:: [[r.k.i.k Các TNV tiềm năng vẫn thường xuyên quan tâm]]
+Thành quả hỗ trợ:: [[r.k.i.j Các thành viên hiểu về cuộc sống của nhau]]
+Thành quả hỗ trợ:: [[r.k.i.k Các TNV tiềm năng vẫn thường xuyên quan tâm]]
 
 
 Thứ mà anh tạo ra có hình dạng gì. Nắm bắt được qua các buổi họp

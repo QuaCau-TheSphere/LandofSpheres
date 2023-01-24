@@ -1,0 +1,3 @@
+- [ ] Ghế ngồi 
+- [ ] Xem đt
+- [ ] Ợ chua

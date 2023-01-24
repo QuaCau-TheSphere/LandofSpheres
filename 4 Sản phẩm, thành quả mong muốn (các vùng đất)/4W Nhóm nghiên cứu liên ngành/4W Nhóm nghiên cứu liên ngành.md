@@ -9,8 +9,8 @@
 Đáp ứng cho nhu cầu của mình:: [[Giảm sự lo sợ của nhà hoạt động xã hội khi được đặt câu hỏi có xu hướng gây hại]]
 Đáp ứng cho nhu cầu của mình:: [[Lan tỏa tinh thần tò mò với điều mình cho là sai, tinh thần đi tìm bằng chứng để phủ định niềm tin của mình. Tạo thói quen vét cạn lập luận, đặt câu hỏi cho mọi người]]
 # Thực thể khi được nhìn như là kết quả mong muốn
-Kết quả mong muốn:: [[Kết nối nhu cầu làm luận của sinh viên]]
-Kết quả mong muốn:: [[Trở thành thành viên của các nhóm học thuật]]
+Thành quả cần có:: [[Kết nối nhu cầu làm luận của sinh viên]]
+Thành quả cần có:: [[Trở thành thành viên của các nhóm học thuật]]
 Hoạt động::
 
 Điểm mạnh::

@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Sứ mạng
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 
 
-Tương ứng với kết quả mong muốn:: 
+Tương ứng với Thành quả cần có:: 

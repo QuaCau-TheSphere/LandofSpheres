@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình
 === end-column ===
 
 Người chơi:: [[Thịnh]]
-Kỹ năng:: [[Thiết kế, quản lý dự án]]
+Kỹ năng:: [[Lập kế hoạch]]
 
 === end-multi-column
 

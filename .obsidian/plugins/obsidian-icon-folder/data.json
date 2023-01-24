@@ -3,14 +3,9 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
+    "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "RiSettings3Fill",
-      "RiContactsBook2Fill",
-      "RiTaskFill",
-      "FasBuilding",
-      "SiGraphql"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -18,19 +13,6 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    },
-    "emojiStyle": "none"
-  },
-  "8 Tổ chức/65 Kỹ năng, thử thách, thành tựu (Luyện chiêu, đánh quái, săn chiến lợi phẩm)/Lắng nghe": "FasEarListen",
-  "1 Nhu cầu": "FasSailboat",
-  "4 Các vùng đất (Sản phẩm và kết quả mong muốn)": "FarMap",
-  "6 Các bên liên quan (NPC)": "RiContactsBook2Fill",
-  "7 Công việc": "RiTaskFill",
-  "8 Tổ chức": "FasBuilding",
-  "2 Kỹ năng, thử thách, mức độ thành thạo": "RiGamepadFill",
-  "5 SWOT, giá trị cốt lõi": "FasHandsAslInterpreting",
-  "4 Sản phẩm, thành quả mong muốn (các vùng đất)
-  "3 Kiến thức, câu hỏi": "FasLightbulb",
-  "Thiết lập": "RiSettings3Fill",
-  "4 Sản phẩm, thành quả mong muốn (các vùng đất)": "FasMapLocation"
+    }
+  }
 }

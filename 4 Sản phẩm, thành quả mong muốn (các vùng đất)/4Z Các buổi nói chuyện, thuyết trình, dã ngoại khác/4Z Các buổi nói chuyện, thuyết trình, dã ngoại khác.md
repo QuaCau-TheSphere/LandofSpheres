@@ -18,7 +18,7 @@
 # Thực thể khi được nhìn như là kết quả mong muốn
 
 
-Kết quả mong muốn::
+Thành quả cần có::
 
 Hoạt động:: [[Truyền thông về mạng lưới niềm tin và mạng lưới câu hỏi liên ngành]]
 Hoạt động:: [[Tổ chức các buổi nói chuyện thân mật để chia sẻ về cuộc sống của nhau]]

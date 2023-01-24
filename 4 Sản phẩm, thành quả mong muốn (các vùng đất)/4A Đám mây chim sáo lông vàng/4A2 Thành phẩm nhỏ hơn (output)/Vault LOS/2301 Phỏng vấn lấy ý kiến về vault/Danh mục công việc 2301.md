@@ -36,10 +36,10 @@ gantt
 - [ ] Đăng các nơi
 	- [x] Đăng trên Discord
 		- [ ] Tạo sự kiện
-	- [x] Đăng trên [[Group mở ❝Vùng đất QC❞]]
+	- [x] Đăng trên [[Nhóm Facebook mở ❝Vùng đất Quả Cầu❞]]
 		- [x] Tạo sự kiện
-	- [x] Đăng trên [[Group kín ❝Một đám mây chim sáo❞]]
-	- [ ] Đăng trên [[Group chat ❝Bạn bè QC❞]]
+	- [x] Đăng trên [[Nhóm Facebook kín ❝Một đám mây chim sáo❞]]
+	- [ ] Đăng trên [[Nhóm chat Facebook ❝Bạn bè Quả Cầu❞]]
 	- [ ] Đăng trên [[Page Quả Cầu]]
 		- [ ] Tạo sự kiện trên page
 	- [ ] Đăng trên [[Profile Quả Cầu]] 

@@ -12,7 +12,7 @@ Trạng thái:: #tt-✅/đãcóthànhviênkhácchoýkiến
 
 Tính chất công việc::
 Người chơi:: [[Nhật]]
-Kỹ năng:: [[Thiết kế, quản lý dự án]]
+Kỹ năng:: [[Lập kế hoạch]]
 
 === end-multi-column
 

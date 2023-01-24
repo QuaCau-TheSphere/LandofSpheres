@@ -11,4 +11,4 @@ List where contains(lý-do,[[]])
 | Giải pháp gợi ý                                                            | Vấn đề phát sinh                                                                                             |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [[Quản lý các kênh liên lạc]]                            | <ul><li>[[Quá nhiều việc]]</li><li> [[Thảo luận qua chat, comment không sôi nổi]]</li></ul>                  |
-Tương đương với kết quả mong muốn:: [[r.i.i.1 Các thành viên luôn có thông tin cập nhật về nhóm]] 
+Tương đương với Thành quả cần có:: [[r.i.i.1 Các thành viên luôn có thông tin cập nhật về nhóm]] 

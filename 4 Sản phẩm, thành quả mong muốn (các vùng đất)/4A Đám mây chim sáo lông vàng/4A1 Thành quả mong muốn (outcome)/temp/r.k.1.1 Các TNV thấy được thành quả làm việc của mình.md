@@ -1,1 +1,1 @@
-Kết quả mong muốn:: [[r.k.1.1.1 Các TNV có được sự phản hồi với công việc của mình]]
+Thành quả cần có:: [[r.k.1.1.1 Các TNV có được sự phản hồi với công việc của mình]]

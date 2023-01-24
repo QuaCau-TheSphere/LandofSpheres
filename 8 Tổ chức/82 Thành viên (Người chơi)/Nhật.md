@@ -10,7 +10,7 @@ Largest Column: right
 === end-column ===
 
 # Lý Minh Nhật 
-Kỹ năng:: [[23 Dùng Git|Dùng Git]]: [[4 Nhà du hành thời gian]], [[22 Dùng Obsidian|Dùng Obsidian]], [[Thiết kế, quản lý dự án]], [[Nghiên cứu (kỹ năng)]], [[Công nghệ thông tin]]
+Kỹ năng:: [[23 Dùng Git|Dùng Git]]: [[4 Nhà du hành thời gian]], [[22 Dùng Obsidian|Dùng Obsidian]], [[Lập kế hoạch]], [[Nghiên cứu (kỹ năng)]], [[Công nghệ thông tin]]
 📱:: 0912214006
 🏠:: Q4, TPHCM
 ✉:: lyminhnhat911@gmail.com

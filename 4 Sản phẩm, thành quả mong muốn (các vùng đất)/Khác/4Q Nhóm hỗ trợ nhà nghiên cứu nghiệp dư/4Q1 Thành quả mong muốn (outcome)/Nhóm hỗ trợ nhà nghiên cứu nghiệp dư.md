@@ -2,11 +2,11 @@
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
 
 # Thực thể khi được nhìn như là kết quả mong muốn
-Kết quả mong muốn:: [[Người cho rằng mình có phát kiến mới đặt câu hỏi về...]]
-Kết quả mong muốn:: [[Người cho rằng tâm linh ưu việt hơn khoa học đặt câu hỏi về...]]
-Kết quả mong muốn:: [[Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh đặt câu hỏi về...]]
-Kết quả mong muốn:: [[Người có niềm tin phản khoa học đặt câu hỏi về tính cơ sở của niềm tin của mình]]
-Kết quả mong muốn:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/Khác/4Q Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/4Q1 Kết quả mong muốn/Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về cách hiểu đúng về các khái niệm họ sử dụng]]
+Thành quả cần có:: [[Người cho rằng mình có phát kiến mới đặt câu hỏi về...]]
+Thành quả cần có:: [[Người cho rằng tâm linh ưu việt hơn khoa học đặt câu hỏi về...]]
+Thành quả cần có:: [[Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh đặt câu hỏi về...]]
+Thành quả cần có:: [[Người có niềm tin phản khoa học đặt câu hỏi về tính cơ sở của niềm tin của mình]]
+Thành quả cần có:: [[4 Sản phẩm, Thành quả cần có (các vùng đất)/Khác/4Q Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/4Q1 Kết quả mong muốn/Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về cách hiểu đúng về các khái niệm họ sử dụng]]
 3 Kiến thức, câu hỏi
 Điểm mạnh:: [[Nhật có kiến thức chuyên môn về vật lý]]
 Điểm yếu::

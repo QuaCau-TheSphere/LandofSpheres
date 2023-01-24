@@ -5,4 +5,4 @@ Hệ quả của vấn đề này:
 List where contains(lý-do,[[]])
 ```
 
-Kết quả mong muốn:: [[r.i.m Những người muốn hỏi ý kiến Nhật hỏi trong group chung, Discord]]
+Thành quả cần có:: [[r.i.m Những người muốn hỏi ý kiến Nhật hỏi trong group chung, Discord]]

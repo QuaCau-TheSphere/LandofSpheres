@@ -29,6 +29,7 @@ Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi th�
 # Phân tích từng thư mục
 ## 1 Nhu cầu
 Dẫn tới mạng lưới nhu cầu 
+Phân loại theo lĩnh vực, và phân loại theo MoSCoW
 
 ## 2 Kỹ năng 
 Game hóa.Nhưng nó vẫn chỉ tạo cảm giác bọc đường, là một cách để đặt mong muốn của mình lên trên. Chỉ sử dụng huy hiệu chứ không dùng tới yếu tố tuyệt vời nhất của game: bản đồ. 
@@ -100,6 +101,8 @@ Output là sản phẩm nhỏ hơn
 Sự kiện là một loại output
 
 Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức, trong khi sản phẩm nhỏ hơn là output. Nó là lý do khiến mọi người bu vào
+
+Trước đây cảm thấy rất rối, vì cùng một c â nốt vừa là nhu cầu, vừa là mục tiêu, vừa là sản phẩm. Tách ra thì rời rạc mà để chung
 
 ![](https://miro.medium.com/max/1200/1*pNf5d7h2c-N-BrbM8cVDIA.png) 
 ### Sự kiện

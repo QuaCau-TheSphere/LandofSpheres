@@ -6,7 +6,7 @@ Mục tiêu:: [[Người cho rằng mình có phát kiến mới đặt câu h�
 Mục tiêu:: [[Người cho rằng tâm linh ưu việt hơn khoa học đặt câu hỏi về...]]
 Mục tiêu:: [[Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh đặt câu hỏi về...]]
 Mục tiêu:: [[Người có niềm tin phản khoa học đặt câu hỏi về tính cơ sở của niềm tin của mình]]
-Mục tiêu:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/Khác/2Q Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/2Q1 Mục tiêu/Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về cách hiểu đúng về các khái niệm họ sử dụng]]
+Mục tiêu:: [[4 Sản phẩm, Thành quả cần có (các vùng đất)/Khác/2Q Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/2Q1 Mục tiêu/Người muốn tìm hiểu về vật lý, tâm lý học đặt câu hỏi về cách hiểu đúng về các khái niệm họ sử dụng]]
 3 Kiến thức, câu hỏi
 Điểm mạnh:: [[Nhật có kiến thức chuyên môn về vật lý]]
 Điểm yếu::

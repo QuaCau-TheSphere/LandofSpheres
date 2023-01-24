@@ -14,9 +14,9 @@ Nhu cầu liên quan::
 Nhu cầu này khiến cho họ thấy dự án thế nào:: 
 Thuộc nhóm nhu cầu nào::
 
-Kết quả mong muốn:: [[1 người hứng thú với việc gây quỹ tham gia]]
+Thành quả cần có:: [[1 người hứng thú với việc gây quỹ tham gia]]
 Hướng đến thời gian::
-Yếu tố hỗ trợ:: [[Tư cách pháp nhân]]
+Thành quả hỗ trợ:: [[Tư cách pháp nhân]]
 Ý tưởng tốt hơn::
 Hoạt động::
 
@@ -25,7 +25,7 @@ Hoạt động::
 Đối tượng thụ hưởng::
 
 
-Kết quả mong muốn:: [[r.k.10.1a Nhà tài trợ tiềm năng thấy được năng lực của dự án]], [[r.k.10.1b Có thời gian làm hồ sơ]]
+Thành quả cần có:: [[r.k.10.1a Nhà tài trợ tiềm năng thấy được năng lực của dự án]], [[r.k.10.1b Có thời gian làm hồ sơ]]
 
 Hoạt động:: [[Gây quỹ cộng đồng]]
 Hoạt động:: [[Gây quỹ từ doanh nghiệp]]

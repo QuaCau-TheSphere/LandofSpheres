@@ -12,7 +12,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 # Hoàng Thu Trang
 Hình thức tham gia:: [[63.01 Thành viên nòng cốt]]
-Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]], Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Nghiên cứu (kỹ năng)]]
+Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]], Kỹ năng:: [[Lập kế hoạch]], [[Nghiên cứu (kỹ năng)]]
 📱:: 0977204385
 🏠:: Thanh Xuân, Hà Nội
 ✉:: hoangthutrang813@gmail.com

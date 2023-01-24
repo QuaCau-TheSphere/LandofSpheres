@@ -7,7 +7,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Tự động hóa việc tương tác]]
 
 # Thực thể khi được nhìn như là kết quả mong muốn
-Kết quả mong muốn::
+Thành quả cần có::
 
 Điểm mạnh:: [[Có 100 người tham gia Discord QC]]
 Điểm yếu:: [[Đã số người chỉ quen xài fb]], [[Nhiều kênh liên lạc quá bị ngộp]]

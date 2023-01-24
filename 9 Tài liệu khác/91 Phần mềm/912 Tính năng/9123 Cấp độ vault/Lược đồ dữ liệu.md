@@ -9,7 +9,7 @@ overlap = scale
 splines = true
 
 node [shape=round] 
-2 [label="4 Sản phẩm, thành quả mong muốn (các vùng đất)"] 
+2 [label="4 Sản phẩm, Thành quả cần có (các vùng đất)"] 
 4 [label="5 SWOT, giá trị cốt lõi"] 
 
 11 [label="17 Công việc loại A"] 

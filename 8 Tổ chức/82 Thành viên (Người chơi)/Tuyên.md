@@ -13,7 +13,7 @@ Thêm ảnh đại diện vào thư mục `Ξ Meta 0/Media/Nhân sự`
 
 # Phạm Nguyễn Đăng Tuyên
 Hình thức tham gia:: [[63.01 Thành viên nòng cốt]]
-Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồng (kỹ năng)]], [[Tổ chức sự kiện (kỹ năng)]], [[Nhân sự (kỹ năng)]]
+Kỹ năng:: [[Lập kế hoạch]], [[Phát triển cộng đồng (kỹ năng)]], [[Tổ chức sự kiện (kỹ năng)]], [[Nhân sự (kỹ năng)]]
 📱:: 0374768877
 🏠:: Q1, TPHCM
 ✉:: phamnguyentiny@gmail.com

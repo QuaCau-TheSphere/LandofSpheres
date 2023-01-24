@@ -140,7 +140,7 @@
       }
     },
     "mmm": {
-      "Kết quả mong muốn::": {
+      "Thành quả cần có::": {
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1672822403619
@@ -164,10 +164,10 @@
       }
     },
     "kkk, kqmm": {
-      "Kết quả mong muốn::": {
+      "Thành quả cần có::": {
         "customDictionary": {
-          "count": 17,
-          "lastUpdated": 1674147735290
+          "count": 18,
+          "lastUpdated": 1674541454771
         }
       }
     }

@@ -5,7 +5,7 @@ Mô tả::
 # Đầu vào
 - [ ] [[1 Làm quen với Obsidian]]
 - [ ] [[2 Chỉnh sửa nội dung]]
-- [ ] [[3 Quản lý cơ sở dữ liệu]]
+- [ ] [[3 Xây dựng cơ sở dữ liệu]]
 - [ ] [[4 Viết plugin]]
 # Đầu ra
 # Tài liệu

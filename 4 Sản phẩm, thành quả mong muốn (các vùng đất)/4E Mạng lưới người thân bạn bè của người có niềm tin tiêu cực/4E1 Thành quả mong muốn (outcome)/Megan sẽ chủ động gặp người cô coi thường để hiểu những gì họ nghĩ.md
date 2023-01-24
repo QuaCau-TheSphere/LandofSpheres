@@ -1,17 +1,17 @@
-Kết quả mong muốn:: [[1a Megan cảm thấy việc nói chuyện với Cueball là cách duy nhất sẽ đem lại điều mà mình luôn mong mỏi]],
-Kết quả mong muốn:: [[1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball]]
+Thành quả cần có:: [[1a Megan cảm thấy việc nói chuyện với Cueball là cách duy nhất sẽ đem lại điều mà mình luôn mong mỏi]],
+Thành quả cần có:: [[1b Megan cảm thấy những người xung quanh cô cảm thấy cô nên trò chuyện với Cueball]]
 
-Yếu tố hỗ trợ:: [[i Megan dám nói rằng ❝tôi sẽ không để nỗi sợ chi phối mình❞]]
-Yếu tố hỗ trợ:: [[j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình]]
-Yếu tố hỗ trợ:: [[k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình]]
-Yếu tố hỗ trợ:: [[l Megan muốn đặt câu hỏi về tất cả những gì mình nghĩ]]
-Yếu tố hỗ trợ:: [[m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ]]
-Yếu tố hỗ trợ:: [[n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình]]
-Yếu tố hỗ trợ:: [[o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn]]
-Yếu tố hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]
-Yếu tố hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
-Yếu tố hỗ trợ:: [[4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
-Yếu tố hỗ trợ:: [[s Megan xử lý được sự xấu hổ của mình khi phải thừa nhận mình sai]]
+Thành quả hỗ trợ:: [[i Megan dám nói rằng ❝tôi sẽ không để nỗi sợ chi phối mình❞]]
+Thành quả hỗ trợ:: [[j Megan sẽ không dựa vào cảm xúc để biện minh cho hành động của mình]]
+Thành quả hỗ trợ:: [[k Megan nghe được các câu chuyện của những người tương tự hoàn cảnh của mình]]
+Thành quả hỗ trợ:: [[l Megan muốn đặt câu hỏi về tất cả những gì mình nghĩ]]
+Thành quả hỗ trợ:: [[m Những Megan trong friendlist QC sẽ chủ động gặp người họ coi thường để hiểu những gì họ nghĩ]]
+Thành quả hỗ trợ:: [[n Megan, Danish hoặc Beret đối thoại với những người khác biệt quan điểm với mình]]
+Thành quả hỗ trợ:: [[o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn]]
+Thành quả hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]
+Thành quả hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
+Thành quả hỗ trợ:: [[4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
+Thành quả hỗ trợ:: [[s Megan xử lý được sự xấu hổ của mình khi phải thừa nhận mình sai]]
 
 Tham khảo:: [[Cảm giác nhẹ nhõm khi nhận ra mình sai nhưng được tự tiêu hóa và không phải xin lỗi]], [[Quyền được lãng quên]], [[Cảm giác khó chịu khi phải thừa nhận mình mâu thuẫn]]
 

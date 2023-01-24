@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Website
 Đánh giá tích cực hay tiêu cực:: Tích cực
 
 
-Tương ứng với kết quả mong muốn:: 
+Tương ứng với Thành quả cần có:: 

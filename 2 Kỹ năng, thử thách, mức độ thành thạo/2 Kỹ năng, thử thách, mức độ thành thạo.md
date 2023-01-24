@@ -8,3 +8,89 @@ Where startswith(file.name,"2 ")=false and !(contains(file.folder,"Mức độ t
 Sort file.name
 Group by split(file.folder,"/")[1] 
 ```
+
+
+(Hiểu Quả Cầu) Chim sáo
+(Hiểu Quả Cầu) Hiểu chính bản thân mình
+(Hiểu Quả Cầu) Hiểu mục tiêu và cách Quả Cầu hoạt động
+(Hiểu Quả Cầu) Hiểu triết lý của Quả Cầu
+(Hiểu Quả Cầu) Sử dụng dữ liệu của Quả Cầu
+(Hiểu Quả Cầu) Tóc vàng
+(Hiểu Quả Cầu) Trong trong
+(Hiểu Quả Cầu) Dùng Obsidian
+(Hiểu Quả Cầu) Dùng Git
+
+(Công nghệ thông tin) Dùng VScode, vim, emacs
+(Công nghệ thông tin) Làm việc với hệ điều hành
+(Công nghệ thông tin) Làm website
+(Công nghệ thông tin) Quản lý cơ sở dữ liệu
+(Công nghệ thông tin) Quản trị hệ thống thông tin
+(Công nghệ thông tin) Viết JavaScript
+
+(Làm dự án) Hậu cần – logistics
+(Làm dự án) Nhân sự
+(Làm dự án) Phát triển cộng đồng
+(Làm dự án) Quản lý tài chính
+(Làm dự án) Thiết kế, quản lý dự án
+(Làm dự án) Tổ chức sự kiện
+(Làm dự án) Truyền thông
+(Làm dự án) Xây dựng tổ chức
+
+(Làm việc với con người) Giải quyết mâu thuẫn, thương lượng
+(Làm việc với con người) Làm việc nhóm
+(Làm việc với con người) Lắng nghe, quan sát, đặt câu hỏi
+(Làm việc với con người) Phản biện, lập luận
+(Làm việc với con người) Sư phạm
+(Làm việc với con người) Thuyết phục, bán ý tưởng
+(Làm việc với con người) Thuyết trình, nói trước đám đông
+
+(Nghiên cứu) Dịch
+(Nghiên cứu) Dùng Matecat
+(Nghiên cứu) Ghi chú
+(Nghiên cứu) Khảo sát
+(Nghiên cứu) Nghiên cứu
+(Nghiên cứu) Phỏng vấn
+(Nghiên cứu) Quản lý tài liệu
+(Nghiên cứu) Sử dụng Power BI
+(Nghiên cứu) Sử dụng R, Python
+(Nghiên cứu) Sử dụng SPSS
+(Nghiên cứu) Tạo báo cáo thống kê
+(Nghiên cứu) Tìm tài liệu
+(Nghiên cứu) Viết
+(Nghiên cứu) Xử lý dữ liệu
+
+(Sức khỏe) Cân bằng dinh dưỡng
+(Sức khỏe) Chăm sóc người bệnh
+(Sức khỏe) Giải phẫu
+(Sức khỏe) Hoạt động đúng tư thế
+(Sức khỏe) Sinh tồn
+(Sức khỏe) Sơ cứu
+(Sức khỏe) Sức khoẻ tinh thần
+
+(Thiết kế, nghệ thuật) Canva
+(Thiết kế, nghệ thuật) Chụp ảnh, quay phim
+(Thiết kế, nghệ thuật) Illustration, Inkscape
+(Thiết kế, nghệ thuật) Làm video
+(Thiết kế, nghệ thuật) Photoshop, Gimp
+(Thiết kế, nghệ thuật) Tạo ảnh hàng loạt
+(Thiết kế, nghệ thuật) Thiết kế đồ hoạ
+(Thiết kế, nghệ thuật) Thiết kế trải nghiệm người dùng
+(Thiết kế, nghệ thuật) Vẽ minh họa
+
+(Tiếng Anh) Học từ vựng
+(Tiếng Anh) Nghe
+(Tiếng Anh) Phát âm
+
+(Trình diễn) Chơi nhạc
+(Trình diễn) Dẫn chương trình, luyện giọng nói
+(Trình diễn) Diễn kịch
+(Trình diễn) Quản trò
+
+(Khác) Cắm trại, đi rừng
+(Khác) Kinh doanh
+(Khác) Kỹ năng rèn luyện (kỹ năng meta)
+(Khác) Làm cha mẹ
+(Khác) Nấu ăn
+(Khác) Sống bền vững
+(Khác) Sửa xe máy
+(Khác) Tài chính

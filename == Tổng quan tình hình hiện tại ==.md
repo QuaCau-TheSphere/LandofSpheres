@@ -19,8 +19,8 @@ cssClass: wide-page
 %%%%%%%%%%%%
 # Kết quả mong muốn
 ```dataview
-LIST kết-quả-mong-muốn
-FROM "4 Sản phẩm, thành quả mong muốn (các vùng đất)"
+LIST thành-quả-cần-có
+FROM "4 Sản phẩm, Thành quả cần có (các vùng đất)"
 where startswith(file.name,"4A") or startswith(file.name,"4B") or startswith(file.name,"4C") or startswith(file.name,"4Y")
 ```
 # Nơi cư ngụ của những con sáo

@@ -11,7 +11,7 @@ list where contains(công-việc-thành-phần, [[]])
 ```
 
 Tài liệu:: [Cải thiện tốc độ tải web](https://blog.codinghorror.com/performance-is-a-feature/)
-Kết quả mong muốn::
+Thành quả cần có::
 Tương quan với các công việc khác:
 ```dataview 
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))

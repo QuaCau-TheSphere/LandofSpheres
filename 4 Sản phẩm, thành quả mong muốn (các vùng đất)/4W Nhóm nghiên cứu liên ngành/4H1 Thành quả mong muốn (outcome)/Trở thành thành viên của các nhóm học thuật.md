@@ -1,14 +1,14 @@
 Phục vụ cho kết quả mong muốn:
 ```dataview
-list where contains(kết-quả-mong-muốn, [[]]) or contains(yếu-tố-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
+list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
 Phục vụ cho những nhu cầu này của mình:
 ```dataview
-list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
+list where contains(tương-ứng-với-thành-quả-cần-có,[[]])
 ```
 
-Kết quả mong muốn::
-Yếu tố hỗ trợ::
+Thành quả cần có::
+Thành quả hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::
 

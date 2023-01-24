@@ -1,10 +1,10 @@
 # Thực thể khi được nhìn như là nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Thử nghiệm ý tưởng một tổ chức không cần hạn chót và trách nhiệm. Chứng minh sự bền vững của sự thong thả]] ^835d21
 # Thực thể khi được nhìn như là kết quả mong muốn
-Kết quả mong muốn:: [[5 người thường xuyên đóng góp vào vault]]
-Kết quả mong muốn:: [[3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm]]
-Kết quả mong muốn:: [[50% người trong nhóm ❝Một đám mây chim sáo❞ hoạt động sôi nổi]]
-
+Thành quả cần có:: [[5 người thường xuyên đóng góp vào vault]]
+Thành quả cần có:: [[3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm]]
+Thành quả cần có:: [[50% người trong nhóm ❝Một đám mây chim sáo❞ hoạt động sôi nổi]]
+tỉ lệ quay lại
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng:: [[Người thân, bạn bè của người có niềm tin tiêu cực (Danish)]], [[Tình nguyện viên QC]], [[Người tham gia các buổi họp]], [[Người muốn xây dựng QC, lan toả tinh thần QC]]

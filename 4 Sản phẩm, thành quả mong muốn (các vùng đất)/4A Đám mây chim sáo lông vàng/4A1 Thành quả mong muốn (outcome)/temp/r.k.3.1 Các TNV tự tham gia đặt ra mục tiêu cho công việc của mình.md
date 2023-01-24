@@ -10,7 +10,7 @@ Yêu cầu đối với kết quả mong muốn công việc:
 - Tham gia đề ra kết quả mong muốn
 - Phản hồi kết quả thực hiện kết quả mong muốn
 
-Kết quả mong muốn:: [[r.k.3.1.1 Các TNV hỏi lại khi công việc không cụ thể, phù hợp, thiếu sự thách thức]]
+Thành quả cần có:: [[r.k.3.1.1 Các TNV hỏi lại khi công việc không cụ thể, phù hợp, thiếu sự thách thức]]
 Hoạt động:: [[Đảm bảo các TNV quen với quy trình làm việc]]
 
 ❓:: [[Có những cách nào để các thành viên tự chủ động đề ra kết quả mong muốn cho công việc của mình？]]

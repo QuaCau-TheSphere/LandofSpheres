@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-💬Họpthườngxuyên
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Truyền thông (kỹ năng)]]
+Kỹ năng:: [[Lập kế hoạch]], [[Truyền thông (kỹ năng)]]
 
 === end-multi-column
 

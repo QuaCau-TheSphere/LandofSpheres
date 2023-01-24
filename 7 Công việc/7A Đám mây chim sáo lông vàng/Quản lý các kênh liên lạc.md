@@ -17,11 +17,11 @@ Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàm
 === end-column ===
 
 Người chơi::
-Kỹ năng:: [[Hậu cần – logistics]], [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồng (kỹ năng)]], [[Xây dựng tổ chức]]
+Kỹ năng:: [[Hậu cần – logistics]], [[Lập kế hoạch]], [[Phát triển cộng đồng (kỹ năng)]], [[Xây dựng tổ chức]]
 
 === end-multi-column
 
-Tài liệu:: [[Group mở ❝Vùng đất QC❞]], [[Group kín ❝Một đám mây chim sáo❞]], [[Kênh mở Discord]]
+Tài liệu:: [[Nhóm Facebook mở ❝Vùng đất Quả Cầu❞]], [[Nhóm Facebook kín ❝Một đám mây chim sáo❞]], [[Kênh mở Discord]]
 ##### Kết quả mong muốn
 - [ ] Phê duyệt người mới vào group
 	- [ ] Nhắn hỏi người vào group mà không trả lời các câu hỏi đầu vào

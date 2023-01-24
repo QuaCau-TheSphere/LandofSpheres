@@ -7,10 +7,10 @@ Chủ đề::		ttw, cd
 Trả lời:: 		tte, tl
 
 # 4 Kết quả mong muốn
-Kết quả mong muốn::		kkk, kqmm
+Thành quả cần có::		kkk, kqmm
 Hướng đến thời gian::		kkh
 Đi chung::		kkd
-Yếu tố hỗ trợ::		kks
+Thành quả hỗ trợ::		kks
 Đối tượng thụ hưởng::		kkd
 Ý tưởng tốt hơn::		kky
 Hoạt động::		kkh

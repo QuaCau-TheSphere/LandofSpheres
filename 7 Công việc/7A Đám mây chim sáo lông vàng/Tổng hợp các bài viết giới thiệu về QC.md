@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Độ cấp thiết:: #đct-🔥/nênlàmngay
 Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
 Người chơi::
-Kỹ năng:: [[Thiết kế, quản lý dự án]]
+Kỹ năng:: [[Lập kế hoạch]]
 
 Phục vụ cho kết quả mong muốn:
 ```dataview

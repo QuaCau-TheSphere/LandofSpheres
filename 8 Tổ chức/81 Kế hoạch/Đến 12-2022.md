@@ -11,7 +11,7 @@ group by độ-cấp-thiết
 ```
 
 ```dataview 
-Table without id kết-quả-mong-muốn, file.link
+Table without id thành-quả-cần-có, file.link
 From "7 Công việc"
 Where (độ-cấp-thiết="#đct-🔥🔥Phảilàmngay" or độ-cấp-thiết="#đct-🔥/muốnlàmngay" or độ-cấp-thiết="#đct-🔥/nênlàmngay" or độ-cấp-thiết="Công việc lặp lại" )
 ```

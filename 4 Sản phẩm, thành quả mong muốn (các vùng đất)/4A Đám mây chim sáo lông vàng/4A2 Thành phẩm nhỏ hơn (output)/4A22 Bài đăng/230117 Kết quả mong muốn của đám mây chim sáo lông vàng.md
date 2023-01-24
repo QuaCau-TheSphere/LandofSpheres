@@ -1,3 +1,11 @@
+Nơi đăng:: [[Nhóm Facebook kín ❝Một đám mây chim sáo❞]]
+Dạng bài:: bình thường
+Số phản ứng:: 1 like
+Số người xem::
+Ngày đăng:: 
+
+---
+
 # Kết quả mong muốn của đám mây chim sáo lông vàng
 - 5 người thường xuyên đóng góp vào vault
 - 3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm

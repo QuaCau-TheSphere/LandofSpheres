@@ -7,7 +7,7 @@ Thuộc công việc loại A:
 list where contains(công-việc-thành-phần, [[]])
 ```
 
-Kết quả mong muốn::
+Thành quả cần có::
 Đầu vào cho Công việc thành phần khác::
 Các bước thực hiện:
 - [ ] 

@@ -1,6 +1,6 @@
 
 
-Kết quả mong muốn::
+Thành quả cần có::
 
 Hoạt động::
 

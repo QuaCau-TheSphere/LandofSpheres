@@ -9,8 +9,8 @@
 [[Đăng ký TNV]] 
 [[Đăng ký tham gia mạng lưới]]
 [[Khảo sát quan điểm về sự tác động]]
-[[4 Sản phẩm, thành quả mong muốn (các vùng đất)/Khác/2M Dự án nâng cao nhận thức của mọi người về việc tình yêu thực sự khác với sự nuông chiều, khao khát, và cũng không phân biệt giới tính/2M3 Tài liệu/Khảo sát quan điểm về tình bạn]] 
-[[4 Sản phẩm, thành quả mong muốn (các vùng đất)/Khác/2N Dự án nâng cao hiểu biết của người có niềm tin Phật pháp về những xung đột trong những cách hiểu của Phật giáo về trí tuệ/2N3 Tài liệu/Khảo sát người quan tâm đến Phật giáo]] 
+[[4 Sản phẩm, Thành quả cần có (các vùng đất)/Khác/2M Dự án nâng cao nhận thức của mọi người về việc tình yêu thực sự khác với sự nuông chiều, khao khát, và cũng không phân biệt giới tính/2M3 Tài liệu/Khảo sát quan điểm về tình bạn]] 
+[[4 Sản phẩm, Thành quả cần có (các vùng đất)/Khác/2N Dự án nâng cao hiểu biết của người có niềm tin Phật pháp về những xung đột trong những cách hiểu của Phật giáo về trí tuệ/2N3 Tài liệu/Khảo sát người quan tâm đến Phật giáo]] 
 [[Khảo sát người thực hành trong lĩnh vực phát triển về nhu cầu mạng lưới]] 
 
 ```dataview

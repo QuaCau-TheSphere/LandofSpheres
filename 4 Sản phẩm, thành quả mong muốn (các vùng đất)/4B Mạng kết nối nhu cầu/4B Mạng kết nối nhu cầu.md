@@ -5,11 +5,11 @@
 Đáp ứng cho nhu cầu của mình: [[Tăng sự gắn kết giữa các thành viên]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra một thứ không ai có thể cưỡng lại được]]
-
+Có cách để ghi lại nhu cầu mà không quá mất công
 # Thực thể khi được nhìn như là kết quả mong muốn
-Kết quả mong muốn:: [[50 người đóng góp trên 10 lần vào mạng kết nối nhu cầu]]
-Kết quả mong muốn:: [[Có cách để đi tới nhóm nào cũng có thể khiến họ muốn tham gia]]
-Yếu tố hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
+Thành quả cần có:: [[50 người đóng góp trên 10 lần vào mạng kết nối nhu cầu]]
+Thành quả cần có:: [[Có cách để đi tới nhóm nào cũng có thể khiến họ muốn tham gia]]
+Thành quả hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
 
 Điểm mạnh:: 
 - xây dựng sàn giao dịch nhu cầu trên web chính → Giảm bước tải và làm quen Obsidian cho người dùng + tăng tương tác và cơ hội tìm hiểu Quả Cầu → Dễ gây hứng thú và giúp người dùng đọc được những bài viết khác của Quả Cầu.

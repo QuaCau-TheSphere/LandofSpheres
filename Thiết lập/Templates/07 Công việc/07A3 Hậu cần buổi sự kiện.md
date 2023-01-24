@@ -27,7 +27,7 @@ Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện.
 - [ ] Làm khảo sát sau sự kiện
 
 ```dataview
-List without id công-việc-thành-phần.kết-quả-mong-muốn
+List without id công-việc-thành-phần.thành-quả-cần-có
 Where file.name=this.file.name
 ```
 

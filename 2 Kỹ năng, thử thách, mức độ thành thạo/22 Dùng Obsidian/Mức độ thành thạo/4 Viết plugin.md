@@ -23,3 +23,4 @@ List
 from "7 Công việc"
 Where contains(kỹ-năng, [[]])
 ```
+

@@ -14,7 +14,7 @@ Tính chất công việc:: #tc-💬Họpthườngxuyên, #tc-🔁Côngviệcl�
 === end-column ===
 
 Người chơi:: [[Nhật]], [[Thịnh]], [[8 Tổ chức/82 Thành viên (Người chơi)/Tuyên]], [[Ân]], [[Trang (Chuối)]]
-Kỹ năng:: [[Thiết kế, quản lý dự án]]
+Kỹ năng:: [[Lập kế hoạch]]
 
 === end-multi-column
 

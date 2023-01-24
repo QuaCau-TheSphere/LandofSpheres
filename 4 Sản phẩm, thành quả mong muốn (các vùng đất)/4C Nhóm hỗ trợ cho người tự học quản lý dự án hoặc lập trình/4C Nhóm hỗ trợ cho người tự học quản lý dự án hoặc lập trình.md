@@ -6,8 +6,8 @@
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 
 # Thực thể khi được nhìn như là mục tiêu
-Kết quả mong muốn:: [[10 người làm dự án thấy tin tưởng rằng vault là nơi sẽ cho họ sự hỗ trợ]]
-Kết quả mong muốn:: [[10 người tự nhận mình mù công nghệ tin tưởng rằng vault sẽ cho lộ trình để rành hơn]]
+Thành quả cần có:: [[10 người làm dự án thấy tin tưởng rằng vault là nơi sẽ cho họ sự hỗ trợ]]
+Thành quả cần có:: [[10 người tự nhận mình mù công nghệ tin tưởng rằng vault sẽ cho lộ trình để rành hơn]]
 - Công thái học, bệnh văn phòng
 - Quản lý cuộc sống, hiểu bản thân
 - Ứng dụng của khoa học nhận thức trong việc học hoặc quản lý dự án:

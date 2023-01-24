@@ -12,7 +12,7 @@ Tính chất công việc:: #tc-🌐Cóthểlàmquamạng
 === end-column ===
 
 Người chơi:: 
-Kỹ năng:: [[Thiết kế, quản lý dự án]], [[Phát triển cộng đồng (kỹ năng)]], [[Phát triển cộng đồng (kỹ năng)]]
+Kỹ năng:: [[Lập kế hoạch]], [[Phát triển cộng đồng (kỹ năng)]], [[Phát triển cộng đồng (kỹ năng)]]
 
 === end-multi-column
 

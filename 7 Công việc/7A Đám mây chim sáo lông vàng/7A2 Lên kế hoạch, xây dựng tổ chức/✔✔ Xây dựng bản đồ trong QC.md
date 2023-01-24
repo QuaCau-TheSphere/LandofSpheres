@@ -2,7 +2,7 @@ Trạng thái:: #tt-🟢/xong50٪
 Độ cấp thiết:: #đct-✅✅Đãxong
 Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
-Kỹ năng:: [[Nhân sự (kỹ năng)]], Kỹ năng:: [[Thiết kế, quản lý dự án]]
+Kỹ năng:: [[Nhân sự (kỹ năng)]], Kỹ năng:: [[Lập kế hoạch]]
 Phục vụ cho kết quả mong muốn:
 ```dataview
 list where contains(hoạt-động, [[]])

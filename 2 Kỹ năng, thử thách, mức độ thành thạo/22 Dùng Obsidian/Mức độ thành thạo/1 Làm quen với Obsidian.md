@@ -8,7 +8,9 @@ Mô tả::
 - [ ] [[Dùng phím tắt]]
 - [ ] Đọc [[Triết lý của Obsidian]]
 - [ ] khám phá đồ thị 
-
+- [ ] Dùng Markdown
+- [ ] Bật sidebar
+- [ ] Chèn ảnh, nhúng web
 # Khu trưng bày
 # Lợi ích có được từ việc thành thạo
 # Tài liệu
