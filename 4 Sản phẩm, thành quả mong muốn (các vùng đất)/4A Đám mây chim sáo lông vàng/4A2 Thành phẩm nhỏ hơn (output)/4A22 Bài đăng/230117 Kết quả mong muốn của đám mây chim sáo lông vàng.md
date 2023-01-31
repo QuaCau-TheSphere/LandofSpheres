@@ -6,7 +6,7 @@ Ngày đăng::
 
 ---
 
-# Kết quả mong muốn của đám mây chim sáo lông vàng
+# Thành quả cần có của đám mây chim sáo lông vàng
 - 5 người thường xuyên đóng góp vào vault
 - 3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm
 - 50% người trong nhóm "Một đám mây chim sáo" hoạt động sôi nổi

@@ -1,5 +1,5 @@
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```

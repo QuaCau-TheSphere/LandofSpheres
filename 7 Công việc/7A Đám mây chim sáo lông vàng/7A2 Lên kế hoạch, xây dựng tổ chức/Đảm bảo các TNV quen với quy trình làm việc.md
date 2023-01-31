@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
 Kỹ năng:: [[Nhân sự (kỹ năng)]]
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -24,9 +24,9 @@ Người sẵn sàng làm cùng:
 list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
 
-##### Kết quả mong muốn
-- [ ] Các thành viên hiểu được kết quả mong muốn, các bước thực hiện, vai trò của việc mình làm
-##### Kết quả mong muốn
+##### Thành quả cần có
+- [ ] Các thành viên hiểu được Thành quả cần có, các bước thực hiện, vai trò của việc mình làm
+##### Thành quả cần có
 - [ ] Đảm bảo là đã hoàn thành bài https://quacau.atlassian.net/wiki/spaces/IH/pages/5537891/C+ch+th+c+ch+n+c+ng+vi+c.+Qu+n+l+ti+n+c+ng+vi+c
 next::
 prev:
@@ -36,7 +36,7 @@ dir: prev
 title: false
 ```
 
-❓:: [[Có những cách nào để các thành viên tự chủ động đề ra kết quả mong muốn cho công việc của mình？]]
+❓:: [[Có những cách nào để các thành viên tự chủ động đề ra Thành quả cần có cho công việc của mình？]]
 
 # Các công việc chưa hoàn thành
 ```dataview
@@ -44,12 +44,12 @@ Task from outgoing([[]]) where !completed
 ```
 
 
-Yêu cầu đối với kết quả mong muốn :
+Yêu cầu đối với Thành quả cần có :
 
 - Cụ thể
 - Phù hợp
 - Thách thức
 - Có cam kết thực hiện
-- Tham gia đề ra kết quả mong muốn
-- Phản hồi kết quả thực hiện kết quả mong muốn
+- Tham gia đề ra Thành quả cần có
+- Phản hồi kết quả thực hiện Thành quả cần có
 

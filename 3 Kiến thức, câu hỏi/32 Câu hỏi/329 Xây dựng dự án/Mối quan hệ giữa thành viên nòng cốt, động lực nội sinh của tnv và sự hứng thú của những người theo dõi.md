@@ -1,15 +1,15 @@
 Câu hỏi:: [[Tại sao không nên cho TNV vòng ngoài tham gia các buổi họp nhóm nòng cốt？]] [[Liệu việc không đủ cam kết để vận hành khiến cho họ khác giá trị với mình？]] 
 
-E thì chắc không phải thành viên nòng cốt. Cơ mà e thì hứng thú với hoàn thành 1 kết quả mong muốn, sản phẩm nào đó cụ thể.
+E thì chắc không phải thành viên nòng cốt. Cơ mà e thì hứng thú với hoàn thành 1 Thành quả cần có, sản phẩm nào đó cụ thể.
 
-Tức là em cho rằng thành viên nòng cốt nói chung cần hứng thú với việc hoàn thành một kết quả mong muốn, sản phẩm nào đó đúng ko?
+Tức là em cho rằng thành viên nòng cốt nói chung cần hứng thú với việc hoàn thành một Thành quả cần có, sản phẩm nào đó đúng ko?
 
-Em nghĩ là tổ chức nên có 1 sản phẩm nào đó cụ thể, kết quả mong muốn cụ thể, có thể đạt được trong ngắn hạn để dễ theo dõi tiến độ, đánh giá hiệu quả, hướng đi cụ thể hơn.
+Em nghĩ là tổ chức nên có 1 sản phẩm nào đó cụ thể, Thành quả cần có cụ thể, có thể đạt được trong ngắn hạn để dễ theo dõi tiến độ, đánh giá hiệu quả, hướng đi cụ thể hơn.
 E cũng đồng tình với cmt của bạn ở dưới. Nếu là tổ chức hướng tới cộng đồng thì đây tính là 7 Công việc nghiêm túc, mn tham gia 1 phần hứng thú thì cũng có 1 phần trách nhiệm, chứ không chỉ mỗi hứng thú nữa.
 
 tức là ý em là hứng thú không tạo ra trách nhiệm đúng ko? Anh thì nghĩ hứng thú sẽ khiến mình muốn nhận việc mà không cảm thấy có trách nhiệm. Như vậy một người có trách nhiệm với công việc không nhất thiết phải hứng thú với nó, và họ có thể muốn làm cho xong trách nhiệm. Còn một người có hứng thú với nó thì sẽ muốn nhận trách nhiệm đó và luôn cảm thấy có ý nghĩa khi làm nó?
 
-như anh nói đấy: hứng thú ~> trách nhiệm. Giờ anh tập hợp đủ người có hứng thú rồi thì nên làm bước tiếp theo: có kế hoạch, phân công, kết quả mong muốn rõ ràng, để đảm bảo tiến độ và kết quả thì chắc chắn phải có người chịu trách nhiệm rồi.
+như anh nói đấy: hứng thú ~> trách nhiệm. Giờ anh tập hợp đủ người có hứng thú rồi thì nên làm bước tiếp theo: có kế hoạch, phân công, Thành quả cần có rõ ràng, để đảm bảo tiến độ và kết quả thì chắc chắn phải có người chịu trách nhiệm rồi.
 
 đúng là ý hay á. Anh thì hiện đã có quanh mình khá nhiều người hứng thú, nhưng là với cá nhân anh hơn là với QC. Nên là số người muốn chịu trách nhiệm ko nhiều
 

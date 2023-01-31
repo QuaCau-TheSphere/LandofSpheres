@@ -33,7 +33,7 @@ flowchart LR
 - Việc hiểu vault này có những gì có dễ dàng cho bạn ko? 
 - Bạn cảm thấy vault này giúp ích bạn ở điều gì? 
 - Những thứ nó giúp ích cho bạn có phải là những thứ quan trọng bạn cần có hay ko? 
-- Việc sử dụng nó để đạt được kết quả mong muốn của bạn có dễ dàng cho bạn ko?
+- Việc sử dụng nó để đạt được Thành quả cần có của bạn có dễ dàng cho bạn ko?
 - Bạn thấy nó cần cải thiện điều gì?
 - Bạn đã đi qua những bước nào?
 - Các phím tắt có quen thuộc không?

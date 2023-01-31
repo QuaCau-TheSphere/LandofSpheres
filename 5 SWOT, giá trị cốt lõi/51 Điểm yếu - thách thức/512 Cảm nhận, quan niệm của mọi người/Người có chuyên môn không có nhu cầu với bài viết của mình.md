@@ -23,4 +23,4 @@ List where contains(lý-do,[[]])
 |                 |                  |
 
 >>>>>>> origin/master
-Thành quả cần có:: [[p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được kết quả mong muốn của mình]]
+Thành quả cần có:: [[p.1.1.1 Beret cảm thấy việc trò chuyện sẽ giúp họ đạt được Thành quả cần có của mình]]

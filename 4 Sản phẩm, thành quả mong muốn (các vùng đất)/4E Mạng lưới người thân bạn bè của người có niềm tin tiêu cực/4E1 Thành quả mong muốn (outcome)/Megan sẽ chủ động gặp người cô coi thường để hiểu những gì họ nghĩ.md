@@ -32,7 +32,7 @@ Tình huống:
 - Biết sự độc hại của mình, nhưng không làm gì để thay đổi nó
 
 
-Tại sao mình lại chọn hướng này? Vì nó là thứ khó làm nhất. Những hướng dễ hơn đã có nhiều nơi làm rồi. Trong nhóm này mỗi người đều có một hứng thú và kết quả mong muốn riêng, và mình nghĩ một kết quả mong muốn thế này đủ rộng để bao trùm được tất cả các hứng thú và kết quả mong muốn đó. 
+Tại sao mình lại chọn hướng này? Vì nó là thứ khó làm nhất. Những hướng dễ hơn đã có nhiều nơi làm rồi. Trong nhóm này mỗi người đều có một hứng thú và Thành quả cần có riêng, và mình nghĩ một Thành quả cần có thế này đủ rộng để bao trùm được tất cả các hứng thú và Thành quả cần có đó. 
 
 Mình nghĩ là sự oán hận, bản chất của nó là để đòi lại công bằng. Mà công bằng nền tảng quan trọng nhất để chúng ta có thể tin tưởng nhau. Ta có thể làm trị liệu để một người hết khổ, nhưng trong quan niệm của nhiều người làm trị liệu thì ta cũng không thể thay đổi quan điểm của một ai đó. Đây cũng là một dạng bất lực học được. Một người sau khi được trị liệu sẽ sống trong cộng đồng những người tích cực, nhưng đó là vì họ cũng không biết phải làm sao để có thể tác động đến người tiêu cực. Và như vậy thì cũng không khác nào đang sống trong buồng vọng âm của mình cả. Đó là chưa kể, vì chưa ai dám nói rằng điều này là khả thi, nên niềm tin vào sự tích cực luôn có thể bị nói là không có cơ sở khoa học, trong khi mình thấy chẳng có lý do gì để không làm được cả. Mình thấy có vô số phản ví dụ cho việc này. 
 

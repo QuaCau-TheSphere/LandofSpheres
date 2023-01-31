@@ -22,7 +22,7 @@ Kỹ năng:: [[2 Công nghệ thông tin]]
 === end-multi-column
 
 Tài liệu:: [[91 Tính năng của vault]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 - [x] Python script Notion to Obsidian
@@ -82,7 +82,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

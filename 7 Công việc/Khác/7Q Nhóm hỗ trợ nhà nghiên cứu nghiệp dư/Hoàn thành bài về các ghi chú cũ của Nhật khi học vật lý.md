@@ -19,7 +19,7 @@ Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
 === end-multi-column
 
 Tài liệu:: [[4 Sản phẩm, Thành quả cần có (các vùng đất)/Khác/2Q Nhóm hỗ trợ nhà nghiên cứu nghiệp dư/2Q3 Tài liệu/Các ghi chú cũ của Nhật khi học vật lý]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] <% tp.file.cursor() %>
 ##### Chỉ số trước
 
@@ -32,7 +32,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

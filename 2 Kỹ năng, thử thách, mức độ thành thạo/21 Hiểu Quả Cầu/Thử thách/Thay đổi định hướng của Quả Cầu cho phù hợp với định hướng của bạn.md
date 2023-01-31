@@ -1,12 +1,12 @@
-Sau khi bạn đã [[Hiểu chính bản thân mình]] và [[Hiểu kết quả mong muốn và cách Quả Cầu hoạt động]], bạn hãy tìm xem hai cái đó giao với nhau ở những điểm nào. Bạn có thể đề xuất một bản kế hoạch mới cho Quả Cầu nếu bạn thấy chưa có điểm chung.
+Sau khi bạn đã [[Hiểu chính bản thân mình]] và [[Hiểu Thành quả cần có và cách Quả Cầu hoạt động]], bạn hãy tìm xem hai cái đó giao với nhau ở những điểm nào. Bạn có thể đề xuất một bản kế hoạch mới cho Quả Cầu nếu bạn thấy chưa có điểm chung.
 
 ```mermaid
 flowchart TD;  
 
-1[Các kết quả mong muốn dài hạn]
-2[Các kết quả mong muốn ngắn hạn]
-4{Những kết quả mong muốn này\ncó giúp ích gì cho\nbản thân mình và nơi\nmình làm không?}
-5[Tích hợp những kết quả mong muốn\nnày vào cuộc sống của mình]
+1[Các Thành quả cần có dài hạn]
+2[Các Thành quả cần có ngắn hạn]
+4{Những Thành quả cần có này\ncó giúp ích gì cho\nbản thân mình và nơi\nmình làm không?}
+5[Tích hợp những Thành quả cần có\nnày vào cuộc sống của mình]
 6[Đề xuất một kế hoạch\nchiến lược khác] 
 
 subgraph Hiểu [Đọc hiểu kế hoạch chiến lược]

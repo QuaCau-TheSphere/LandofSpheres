@@ -4,7 +4,7 @@ Giai đoạn trong tư duy thiết kế:: [Xây dựng tổ chức]
 Người chơi::
 Kỹ năng:: [[Nhân sự (kỹ năng)]]
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -30,9 +30,9 @@ list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where
 ```
 
 Tài liệu:: [[Trò chuyện với TNV mới]]
-##### Kết quả mong muốn
-- [ ] ứng viên hiểu được kết quả mong muốn QC là gì, hiểu được kế hoạch sắp tới
-##### Kết quả mong muốn
+##### Thành quả cần có
+- [ ] ứng viên hiểu được Thành quả cần có QC là gì, hiểu được kế hoạch sắp tới
+##### Thành quả cần có
 - [ ] mình hiểu được ứng viên là ai, mạng lưới của họ có ai, nhu cầu hứng thú của họ, và mình có thể hỗ trợ được gì cho họ
 next:: 
 prev:

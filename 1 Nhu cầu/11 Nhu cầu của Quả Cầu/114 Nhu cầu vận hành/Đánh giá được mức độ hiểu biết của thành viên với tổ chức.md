@@ -19,7 +19,7 @@ Kỹ năng:: [[Nhân sự (kỹ năng)]]
 === end-multi-column
 
 Tài liệu:: [[Khảo sát TNV định kỳ]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] thấy được những điểm mn còn lầm tưởng 
 
 ##### Chỉ số trước
@@ -35,7 +35,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

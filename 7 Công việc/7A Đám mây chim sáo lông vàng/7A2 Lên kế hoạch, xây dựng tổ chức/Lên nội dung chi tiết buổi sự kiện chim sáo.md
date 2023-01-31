@@ -19,9 +19,9 @@ Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]], [[Tổ chức sự k
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Có cách đánh giá sự hiệu quả của buổi đó
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Có kế hoạch truyền thông cho bài viết
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
@@ -33,7 +33,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

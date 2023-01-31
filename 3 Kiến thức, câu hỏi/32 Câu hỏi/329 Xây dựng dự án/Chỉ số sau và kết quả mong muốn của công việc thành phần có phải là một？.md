@@ -1,1 +1,1 @@
-Chủ đề:: [[Chỉ số sau]], [[Kết quả mong muốn (outcome)]]
+Chủ đề:: [[Chỉ số sau]], [[Thành quả cần có (outcome)]]

@@ -17,7 +17,7 @@ Tất cả những điều đó đưa chúng tôi tới một đề xuất: Tậ
 Tập huấn các kỹ năng CTXH cho bạn bè người thân của họ, sau đó lập một nhóm chiến lược để thay đổi môi trường xung quanh họ để họ nhận ra mình đang gặp vấn đề và có động lực thay đổi. Người bạn đó sẽ:
 
 1. Thu thập thông tin để có một đánh giá toàn diện về bạn mình (kỹ năng nhận diện vấn đề và xác định nhu cầu). Đây là bảng câu hỏi đề xuất của chúng tôi, tham khảo từ tài liệu Hướng dẫn thực hành Quản lý trường hợp
-Xác định kết quả mong muốn chiến lược và vây dựng một kế hoạch hành động (lựa chọn điều gì là quan trọng nhất mà bạn mình cần nhận ra, cách thực hiện giải pháp đó) 
+Xác định Thành quả cần có chiến lược và vây dựng một kế hoạch hành động (lựa chọn điều gì là quan trọng nhất mà bạn mình cần nhận ra, cách thực hiện giải pháp đó) 
 Kêu gọi những người bạn chung khác cùng tham gia kế hoạch, và kết nối các chuyên viên ở địa phương.
 Làm sao để đánh giá kết quả và tác động của dự án?
 

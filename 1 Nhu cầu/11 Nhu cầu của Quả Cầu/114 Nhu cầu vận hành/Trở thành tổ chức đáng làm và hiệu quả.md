@@ -15,7 +15,7 @@ Hoạt động:: [[Xây dựng tính năng cho vault]]
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng::
-### Các hoạt động cho kết quả mong muốn này
+### Các hoạt động cho Thành quả cần có này
 ```breadcrumbs
 type:tree
 dir:down

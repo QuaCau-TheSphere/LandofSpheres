@@ -25,16 +25,16 @@
       "folder": "3 Kiến thức, câu hỏi/32 Câu hỏi"
     },
     {
-      "field": "Kết quả mong muốn",
-      "folder": "4 Sản phẩm, Thành quả cần có (các vùng đất)"
+      "field": "Thành quả cần có",
+      "folder": "4 Sản phẩm, thành quả mong muốn (các vùng đất)"
     },
     {
       "field": "Thành quả hỗ trợ",
-      "folder": "4 Sản phẩm, Thành quả cần có (các vùng đất)"
+      "folder": "4 Sản phẩm, thành quả mong muốn (các vùng đất)"
     },
     {
       "field": "Ý tưởng tốt hơn",
-      "folder": "4 Sản phẩm, Thành quả cần có (các vùng đất)"
+      "folder": "4 Sản phẩm, thành quả mong muốn (các vùng đất)"
     },
     {
       "field": "Hướng tới loại đối tượng",
@@ -107,6 +107,10 @@
     {
       "field": "Hướng đến thời gian",
       "folder": "8 Tổ chức/81 Kế hoạch"
+    },
+    {
+      "field": "Thành phẩm",
+      "folder": "4 Sản phẩm, thành quả mong muốn (các vùng đất)"
     }
   ],
   "regexpTrigger": "/"

@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Giai đoạn trong tư duy thiết kế:: 
 Người chơi::
 Kỹ năng::
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -28,7 +28,7 @@ Khi làm thì có thể gặp những vấn đề này
 list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
 ```
 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 next:: 
 prev:

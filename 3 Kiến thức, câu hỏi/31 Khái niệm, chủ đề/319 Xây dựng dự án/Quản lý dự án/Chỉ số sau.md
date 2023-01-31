@@ -8,4 +8,4 @@ Chủ đề quan tâm đến chủ đề này:
 List from "3 Kiến thức, câu hỏi/31 Khái niệm" where contains(chủ-đề,[[]]) 
 ```
 
-❓:: [[Chỉ số sau và kết quả mong muốn của công việc thành phần có phải là một？]]
+❓:: [[Chỉ số sau và Thành quả cần có của công việc thành phần có phải là một？]]

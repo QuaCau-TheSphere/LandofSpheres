@@ -19,7 +19,7 @@ Kỹ năng::
 === end-multi-column
 
 Tài liệu:: [[Viễn Đông]], [[Gặp Viễn Đông]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 - [ ] Chốt được lịch với Viễn Đông
 - [ ] Hoàn thành [[Gặp Viễn Đông]]
@@ -34,7 +34,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

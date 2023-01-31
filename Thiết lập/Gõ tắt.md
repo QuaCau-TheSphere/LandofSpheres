@@ -2,15 +2,15 @@
 Đáp ứng cho nhu cầu của mình::		nc
 
 # 3 Kiến thức, câu hỏi
-❓::		ttq, ch
+❓::		ttq, ch, cauhoi
 Chủ đề::		ttw, cd
 Trả lời:: 		tte, tl
 
-# 4 Kết quả mong muốn
-Thành quả cần có::		kkk, kqmm
+# 4 Thành quả mong muốn
+Thành quả cần có::		kkk, tqmm
+Thành quả hỗ trợ::		kkk
 Hướng đến thời gian::		kkh
 Đi chung::		kkd
-Thành quả hỗ trợ::		kks
 Đối tượng thụ hưởng::		kkd
 Ý tưởng tốt hơn::		kky
 Hoạt động::		kkh

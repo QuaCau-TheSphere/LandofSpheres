@@ -20,7 +20,7 @@ Kỹ năng:: [[Lập kế hoạch]]
 === end-multi-column
 
 Tài liệu:: [[Xếp lịch]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
@@ -33,7 +33,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

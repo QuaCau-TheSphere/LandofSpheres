@@ -19,7 +19,7 @@ Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện ❝Một đám mây chim sáo❞ (P1)]], [[Bài truyền thông sự kiện ❝Một đám mây chim sáo❞]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 - [x] Lên nội dung chi tiết
@@ -61,7 +61,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

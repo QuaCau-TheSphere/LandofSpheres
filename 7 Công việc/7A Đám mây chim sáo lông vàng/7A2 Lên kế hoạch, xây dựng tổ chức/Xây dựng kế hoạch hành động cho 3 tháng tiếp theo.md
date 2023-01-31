@@ -18,8 +18,8 @@ Kỹ năng:: [[Lập kế hoạch]]
 
 === end-multi-column
 
-Tài liệu:: [[Tháng 6-2023]]
-##### Kết quả mong muốn
+Tài liệu:: [[Đến 6-2023]]
+##### Thành quả cần có
 - [ ] 8/10 thành viên trả lời được kế hoạch tháng tới của mình là gì
 
 ##### Chỉ số trước
@@ -31,7 +31,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

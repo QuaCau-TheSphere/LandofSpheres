@@ -4,7 +4,7 @@ Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
 Người chơi::
 Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -30,7 +30,7 @@ list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where
 ```
 
 Tài liệu::
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 next::
 prev:

@@ -46,18 +46,20 @@ Group by split(file.folder,"/")[1]
 
 (Nghiên cứu) Dịch
 (Nghiên cứu) Dùng Matecat
-(Nghiên cứu) Ghi chú
-(Nghiên cứu) Khảo sát
-(Nghiên cứu) Nghiên cứu
-(Nghiên cứu) Phỏng vấn
-(Nghiên cứu) Quản lý tài liệu
-(Nghiên cứu) Sử dụng Power BI
-(Nghiên cứu) Sử dụng R, Python
-(Nghiên cứu) Sử dụng SPSS
-(Nghiên cứu) Tạo báo cáo thống kê
-(Nghiên cứu) Tìm tài liệu
-(Nghiên cứu) Viết
-(Nghiên cứu) Xử lý dữ liệu
+
+Ghi chép ý tưởng
+Tìm tài liệu, tra cứu thông tin
+Khảo sát, phỏng vấn
+Quản lý trích dẫn
+Viết lách
+Xử lý dữ liệu
+Chọn phương pháp nghiên cứu
+Thiết kế thí nghiệm
+Khai thác dữ liệu
+Sử dụng Power BI
+Sử dụng R
+Sử dụng Python
+Sử dụng SPSS
 
 (Sức khỏe) Cân bằng dinh dưỡng
 (Sức khỏe) Chăm sóc người bệnh

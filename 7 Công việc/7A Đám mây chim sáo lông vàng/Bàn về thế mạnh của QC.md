@@ -19,7 +19,7 @@ Kỹ năng:: [[Lập kế hoạch]]
 === end-multi-column
 
 Tài liệu:: [[52 Điểm mạnh - cơ hội]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 1 publication của một cộng đồng và 1 package tài trợ
 
 ##### Chỉ số trước
@@ -33,7 +33,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

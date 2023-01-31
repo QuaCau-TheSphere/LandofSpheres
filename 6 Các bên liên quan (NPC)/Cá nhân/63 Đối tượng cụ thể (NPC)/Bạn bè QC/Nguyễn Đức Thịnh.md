@@ -21,8 +21,8 @@ SĐT:: (091) 836-8652
 Đánh giá chung:: 1
 Ngành nghề hiện tại/dự tính sẽ làm:: Freelancer
 Link:: https://www.facebook.com/dyingfishinthebackyard/
-Kết quả mong muốn năm nay:: Kiếm được việc ổn định
-Kết quả mong muốn 5 năm tới:: Tự do 
+Thành quả cần có năm nay:: Kiếm được việc ổn định
+Thành quả cần có 5 năm tới:: Tự do 
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo:: Tiếp tục giữ mức sống ổn định
 Bạn cảm thấy mình nhận được gì ở QC:: Thỏa mãn trí tò mò dù không bao giờ là đủ
 Nếu bạn không tham gia chung vì cảm thấy những gì mình nhận được là chưa đủ, vậy thì điều gì sẽ cho bạn được nhiều hơn:: Bạn bè mới
@@ -32,9 +32,9 @@ Bạn có cảm thấy hào hứng khi tham gia những buổi họp không:: C�
 Buổi họp nào để lại cho bạn nhiều ấn tượng nhất:: Không rõ
 Trong mắt bạn dự án như thế nào:: Nó là cái lens mình không thấy rõ màu nhưng nó vẫn cộm trên mắt
 Theo bạn QC đang hướng tới điều gì:: Không rõ
-Theo bạn kết quả mong muốn của QC trong năm nay là gì:: Không rõ
+Theo bạn Thành quả cần có của QC trong năm nay là gì:: Không rõ
 Bạn thấy cách thức làm việc của QC thế nào:: Có vẻ thú vị
-Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình:: Người tham gia, 
+Bạn thấy điều gì đang cản trở QC đạt được Thành quả cần có của mình:: Người tham gia, 
 
 
 ❓:: Tại sao việc mua đồ ăn em lại thích, mà đặt phòng thì em ko thích?

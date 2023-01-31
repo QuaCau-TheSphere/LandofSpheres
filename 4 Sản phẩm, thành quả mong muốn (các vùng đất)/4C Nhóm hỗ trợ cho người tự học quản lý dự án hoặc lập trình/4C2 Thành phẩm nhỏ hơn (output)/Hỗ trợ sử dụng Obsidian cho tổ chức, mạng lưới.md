@@ -13,7 +13,7 @@ Tài sản
 Đảo thông tin
 island information silo. Những dữ liệu giống nhau được lưu ở những chỗ khác nhau, khiến cho những thao tác tự động hoá đơn giản không thể làm được 
 
-Hệ thống của hệ thống, những hệ thống liên ngành, liên kết quả mong muốn, không đồng nhất, phân tán
+Hệ thống của hệ thống, những hệ thống liên ngành, liên Thành quả cần có, không đồng nhất, phân tán
 
 Hệ thống thông tin, enterprise software
 # 1

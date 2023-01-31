@@ -2,7 +2,7 @@ Trạng thái:: #tt-⚪/chưađếnlúclàm
 Độ cấp thiết:: #đct-🍃/đợingườinhậnlàm 
 Người chơi::
 Kỹ năng:: [[Các công việc tổ chức một buổi họp]], [[Nghiên cứu (kỹ năng)]]
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -19,7 +19,7 @@ Phục vụ cho nhu cầu:
 list where contains(row["Cách đáp ứng nhu cầu này"],[[]])
 ```
 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Trả lời được câu hỏi [[Vai trò của khoa học và phản khoa học trong văn hoá, tự sự, sáng tạo]]
 Đầu vào cho công việc loại A khác::Phù hợp với dạng tính cách::
 

@@ -5,8 +5,8 @@
 Đáp ứng cho nhu cầu của mình:: [[Trở thành đề tài nghiên cứu cho sinh viên]]
 Đáp ứng cho nhu cầu của mình:: [[Có thêm uy tín]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
-# Thực thể khi được nhìn như là kết quả mong muốn
-Phục vụ cho kết quả mong muốn:
+# Thực thể khi được nhìn như là Thành quả cần có
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
@@ -38,7 +38,7 @@ Hoạt động::
 Đáp ứng cho nhu cầu của mình:: [[Trở thành các đề tài cho các bài luận của sinh viên]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo uy tín]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
-# Thực thể khi được nhìn như là kết quả mong muốn
+# Thực thể khi được nhìn như là Thành quả cần có
 Thành quả cần có::
 
 Hoạt động::

@@ -1,4 +1,4 @@
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
@@ -10,7 +10,7 @@ list where contains(tương-ứng-với-thành-quả-cần-có,[[]])
 
 Thành quả cần có:: [[15 người thấy không thể không giúp vault phát triển]]
 Thành quả cần có:: [[15 người đạt git1 và Obsidian 2]]
-Hướng đến thời gian:: [[Tháng 6-2023]]
+Hướng đến thời gian:: [[Đến 6-2023]]
 Thành quả hỗ trợ::
 Ý tưởng tốt hơn::
 Hoạt động::

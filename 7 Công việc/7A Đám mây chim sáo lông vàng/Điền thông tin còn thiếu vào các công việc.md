@@ -20,8 +20,8 @@ Kỹ năng::
 === end-multi-column
 
 Tài liệu:: 
-##### Kết quả mong muốn
-- [ ] Các công việc được điền đầy đủ tính chất công việc, kỹ năng sử dụng, tài nguyên, kết quả mong muốn, kết quả mong muốn, đối tượng
+##### Thành quả cần có
+- [ ] Các công việc được điền đầy đủ tính chất công việc, kỹ năng sử dụng, tài nguyên, Thành quả cần có, Thành quả cần có, đối tượng
 
 ##### Chỉ số trước
 
@@ -34,7 +34,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

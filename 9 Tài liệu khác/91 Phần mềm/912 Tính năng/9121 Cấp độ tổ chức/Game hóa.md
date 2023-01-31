@@ -6,10 +6,10 @@
 | Nhu cầu                                     | Hải lưu, cơn gió                                      |
 | Sản phẩm                                    | Thành phố, rừng núi                                   |
 | thành viên                                  | Người chơi                                            |
-| Kết quả mong muốn                           | Chiến lợi phẩm: tinh thể, trái cây,                   |
+| Thành quả cần có                           | Chiến lợi phẩm: tinh thể, trái cây,                   |
 | Kỹ năng                                     | Chiêu thức                                            |
 | Khó khăn                                    | Quái                                                  |
-| Kết quả mong muốn, công việc                | Nhiệm vụ                                              |
+| Thành quả cần có, công việc                | Nhiệm vụ                                              |
 | Loại tính cách                              | Tộc, loài                                             |
 | Các bài viết hướng dẫn, website             | NPC                                                   |
 | Ban                                         | Nhà, trại, ngân hàng                                  |

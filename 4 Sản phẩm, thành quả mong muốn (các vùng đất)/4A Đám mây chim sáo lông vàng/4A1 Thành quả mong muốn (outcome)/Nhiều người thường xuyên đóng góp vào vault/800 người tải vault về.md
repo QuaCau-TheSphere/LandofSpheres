@@ -1,4 +1,4 @@
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
@@ -11,7 +11,7 @@ list where contains(tương-ứng-với-thành-quả-cần-có,[[]])
 
 Thành quả cần có:: [[2000 người bấm vào nút tải vault]]
 Hướng đến thời gian::
-Thành quả hỗ trợ::
+Thành quả hỗ trợ:: [[200 người thấy vault giúp họ đạt được kỹ năng]]
 Ý tưởng tốt hơn::
 Hoạt động::
 

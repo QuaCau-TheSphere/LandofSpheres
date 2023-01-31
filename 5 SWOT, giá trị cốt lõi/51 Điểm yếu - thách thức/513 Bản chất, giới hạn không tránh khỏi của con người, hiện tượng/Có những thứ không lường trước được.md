@@ -1,4 +1,4 @@
-Là vấn đề cho hoạt động:: [[Tạo thang đo cho các kết quả mong muốn]]
+Là vấn đề cho hoạt động:: [[Tạo thang đo cho các Thành quả cần có]]
 
 Hệ quả của vấn đề này:
 ```dataview

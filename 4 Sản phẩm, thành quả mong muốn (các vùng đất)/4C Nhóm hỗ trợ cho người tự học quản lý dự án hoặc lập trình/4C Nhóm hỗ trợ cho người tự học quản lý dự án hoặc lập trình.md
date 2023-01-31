@@ -6,7 +6,8 @@
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 
 # Thực thể khi được nhìn như là mục tiêu
-Thành quả cần có:: [[10 người làm dự án thấy tin tưởng rằng vault là nơi sẽ cho họ sự hỗ trợ]]
+Thành quả cần có:: [[5 người chủ động chia sẻ kỹ năng cho người mới]]
+Thành quả cần có:: [[10 người làm dự án thấy tin tưởng rằng có thể tham khảo vault để xây dựng bộ dữ liệu của họ hoặc sử dụng tài nguyên]]
 Thành quả cần có:: [[10 người tự nhận mình mù công nghệ tin tưởng rằng vault sẽ cho lộ trình để rành hơn]]
 - Công thái học, bệnh văn phòng
 - Quản lý cuộc sống, hiểu bản thân
@@ -68,6 +69,10 @@ là công cụ cho một mục tiêu khác
 Họ cần giải pháp, sau đó mới hiểu giải pháp đó
 
 Chatgpt 
+
+Các kênh YouTube có rất nhiều nhưng chỉ người trong ngành mới biết
+
+
 Obsidian phức tạp mà mỗi nhiệm kỳ chỉ kéo dàu một năm, hết nhiệm kỳ sẽ lại phải đào tạo lại cho thành viên. Mọi người chấp nhận là nó sẽ lặp lại mỗi năm
 
 Trong 3 năm mình tham gia vào các mạng lưới, cộng đồng phi lợi nhuận, mình cảm thấy mặc dù đã có rất rất nhiều tổ chức muốn thúc đẩy một hệ sinh thái giữa các dự án, nhưng lại chưa cảm thấy sự hiệu quả đạt đến mức tối ưu, mặc dù mình đánh giá rất cao nỗ lực và sự chuyên nghiệp của họ. Mình phải thẳng thắn nói rằng mình thất vọng rất nhiều sau các sự kiện kết nối. Mọi người có biết đến nhau, nhưng sau buổi hôm đó cũng chỉ dừng lại ở đó, không đi xa hơn được. Mình nghĩ rằng nguyên nhân quan trọng nhất là các bên **quá nhiều việc**. Mọi người không thể đi đủ sâu để tìm hiểu về nhau. Vì để có thể đi sâu thì phải tốn rất rất nhiều thời gian, mà thường tổ chức phải phát triển đủ lớn để có một người chuyên về việc kết nối, chứ công việc thì rất rất nhiều. Nếu như các tổ chức kết nối cộng đồng chủ động phân loại và tổ chức các buổi gặp gỡ cho các dự án quy mô nhỏ tương tự nhau thì rất tốt, nhưng mình không thấy được điều đó.

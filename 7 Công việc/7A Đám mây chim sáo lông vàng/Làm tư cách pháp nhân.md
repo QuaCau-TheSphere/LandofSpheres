@@ -19,7 +19,7 @@ Kỹ năng::
 === end-multi-column
 
 Tài liệu:: [[cam_nang_doanh_nghiep_xa_hoi.pdf]], [[So-tay-van-de-phap-ly_20170521.pdf]], [[Điển hình doanh nghiệp xã hội tại Việt Nam.pdf]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 
@@ -32,7 +32,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

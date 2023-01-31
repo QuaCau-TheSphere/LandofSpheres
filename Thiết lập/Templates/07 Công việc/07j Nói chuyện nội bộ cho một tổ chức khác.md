@@ -19,7 +19,7 @@ Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[Thuyết trình, bán �
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện...]] 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] <% tp.file.cursor() %>
 ##### Chỉ số trước
 - [ ] Tham quan nơi mời
@@ -37,7 +37,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

@@ -15,9 +15,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng sự gắn kết giữa những người quan tâm]]
 Đáp ứng cho nhu cầu của mình:: [[1 Nhu cầu/11 Nhu cầu của Quả Cầu/112 Nhu cầu muốn mọi người làm/Ủng hộ tiền]]
-# Thực thể khi được nhìn như là kết quả mong muốn
-
-
+# Thực thể khi được nhìn như là Thành quả cần có
 Thành quả cần có::
 
 Hoạt động:: [[Truyền thông về mạng lưới niềm tin và mạng lưới câu hỏi liên ngành]]

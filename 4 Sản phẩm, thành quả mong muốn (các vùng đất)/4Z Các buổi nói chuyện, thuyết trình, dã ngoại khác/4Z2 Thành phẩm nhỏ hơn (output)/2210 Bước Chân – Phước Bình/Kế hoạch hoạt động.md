@@ -6,7 +6,7 @@
 # Email từ Movers Hải Đăng
 Vậy là chúng ta đã kết thúc 4 buổi tập huấn nguồn **"Lãnh đạo trẻ nâng tầm vai trò của cộng đồng LGBTIQ+ trong đảm bảo 17 SDGs của Liên Hợp Quốc"** với các nội dung:
 
-- Tổng quan về 17 Kết quả mong muốn Phát triển bền vững (SDGs) của Liên Hợp Quốc
+- Tổng quan về 17 Thành quả cần có Phát triển bền vững (SDGs) của Liên Hợp Quốc
 - Kỹ năng xây dựng và quản trị dự án
 - Kỹ năng lãnh đạo (leadership)
 - Tổng quan về khởi nghiệp tạo tác động

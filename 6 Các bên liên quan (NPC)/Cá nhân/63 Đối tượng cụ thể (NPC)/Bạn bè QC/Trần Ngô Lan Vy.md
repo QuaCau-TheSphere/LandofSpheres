@@ -30,7 +30,7 @@ Nhiều người chọn làm đẹp từ đầu, cũng không sao hết, và duy
 
 - *Thuần khiết:* theo cách phân tích tỉ mỉ đến từng thành tố riêng rẽ
 - *Hài hước:* bằng cách đặt lại trọng điểm góc nhìn
-- *Cân bằng:* luôn hướng về kết quả mong muốn cho dù có lắc lư hay lòng vòng ra xa
+- *Cân bằng:* luôn hướng về Thành quả cần có cho dù có lắc lư hay lòng vòng ra xa
 
 **Nghĩ về nỗi đau**
 

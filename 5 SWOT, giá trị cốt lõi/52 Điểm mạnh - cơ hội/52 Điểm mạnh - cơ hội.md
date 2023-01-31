@@ -2,7 +2,7 @@
 list from "5 SWOT, giá trị cốt lõi/52 Điểm mạnh - cơ hội" 
 where file.name!=this.file.name
 ```
-Thành lập các nhóm phục vụ cho các kết quả mong muốn khác nhau: [Mạng lưới người thân, bạn bè của người có niềm tin tiêu cực](https://www.facebook.com/groups/thaydoiniemtintieucuc/), [Nghiên cứu triết học phương Đông](https://www.facebook.com/groups/triethocphuongdong/), [Rối loạn nhân cách tâm trạng không ổn định – BPD](https://www.facebook.com/groups/EUPD.VN/), [Lý thuyết văn học](https://www.facebook.com/groups/lythuyetvanhoc/), [Khoa học nhận thức (cognitive sciences)](https://www.facebook.com/groups/khoahocnhanthuc/), [Giác quan kèm (Synesthesia)](https://www.facebook.com/groups/synesthesiavietnam/), [Bạn bè blog Quả Cầu](https://www.facebook.com/groups/483570462348428/)
+Thành lập các nhóm phục vụ cho các Thành quả cần có khác nhau: [Mạng lưới người thân, bạn bè của người có niềm tin tiêu cực](https://www.facebook.com/groups/thaydoiniemtintieucuc/), [Nghiên cứu triết học phương Đông](https://www.facebook.com/groups/triethocphuongdong/), [Rối loạn nhân cách tâm trạng không ổn định – BPD](https://www.facebook.com/groups/EUPD.VN/), [Lý thuyết văn học](https://www.facebook.com/groups/lythuyetvanhoc/), [Khoa học nhận thức (cognitive sciences)](https://www.facebook.com/groups/khoahocnhanthuc/), [Giác quan kèm (Synesthesia)](https://www.facebook.com/groups/synesthesiavietnam/), [Bạn bè blog Quả Cầu](https://www.facebook.com/groups/483570462348428/)
 
 
 Tổ chức các buổi họp nội bộ hằng tuần trong gần một năm

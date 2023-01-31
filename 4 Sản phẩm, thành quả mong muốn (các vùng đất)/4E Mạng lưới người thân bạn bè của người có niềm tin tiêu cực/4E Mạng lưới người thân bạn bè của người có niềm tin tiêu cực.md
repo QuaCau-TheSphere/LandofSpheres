@@ -7,7 +7,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
 Đáp ứng cho nhu cầu của mình:: [[Chứng minh tính khả thi của sự dũng cảm]]
 
-# Thực thể khi được nhìn như là kết quả mong muốn
+# Thực thể khi được nhìn như là Thành quả cần có
 Thành quả cần có:: [[Người có niềm tin tiêu cực sẽ thay đổi]]
 Thành quả cần có:: [[r.1 Các thành viên dành thời gian đóng góp cho mạng lưới]]
 Thành quả cần có:: [[r.2 Sự lo lắng về những rủi ro khi mạng lưới phát triển không còn nữa]]

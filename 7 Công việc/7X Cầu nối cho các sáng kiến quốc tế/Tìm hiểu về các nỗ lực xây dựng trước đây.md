@@ -19,7 +19,7 @@ Kỹ năng:: [[Nghiên cứu (kỹ năng)]]
 === end-multi-column
 
 Tài liệu:: [Gift economy - Wikipedia](https://en.wikipedia.org/wiki/Gift_economy "Gift economy - Wikipedia")
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
@@ -32,7 +32,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

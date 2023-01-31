@@ -4,7 +4,7 @@ Giai đoạn trong tư duy thiết kế:: Xây dựng tổ chức
 Người chơi::
 Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[Nhân sự (kỹ năng)]], Kỹ năng:: [[Lập kế hoạch]]
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -30,7 +30,7 @@ list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where
 ```
 
 Tài liệu:: [[83 Hướng dẫn xử lý các trường hợp cụ thể]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Có đủ các khải niệm cần thiết để hoàn thiện triết lý tổ chức
 next:: [[Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu]]
 prev:

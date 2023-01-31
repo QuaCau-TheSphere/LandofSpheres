@@ -31,6 +31,7 @@ Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi th�
 Dẫn tới mạng lưới nhu cầu 
 Phân loại theo lĩnh vực, và phân loại theo MoSCoW
 
+Xứ hướng làm sản phẩm hiện nay là không tập trung xây dựng chân dung khách hàng. Cái này vẫn cần thiết khi làm tiếp thị, nhưng với đội làm sản phẩm thì thiên về chân dung nỗi đau, và segment theo nhu cầu. 
 ## 2 Kỹ năng 
 Game hóa.Nhưng nó vẫn chỉ tạo cảm giác bọc đường, là một cách để đặt mong muốn của mình lên trên. Chỉ sử dụng huy hiệu chứ không dùng tới yếu tố tuyệt vời nhất của game: bản đồ. 
 
@@ -89,14 +90,14 @@ Các bài viết liên quan trực tiếp tới sự bất lực học được 
 - Nhóm 3: Vòng tròn gần ngoài cùng, liên quan đến những vấn đề về nhận thức [Đạo, ngữ dụng, tâm lý học nhận thức](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/dao-ngu-dung-tam-ly-hoc-nhan-thuc/)
 NLP, Wikipedia 
 
-## 4 Sản phẩm, kết quả mong muốn
+## 4 Sản phẩm, Thành quả cần có
 Những thứ này tự nó sẽ có thể cần một vault riêng. Chúng cũng cần một trang chủ riêng 
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
 
-[[Nhu cầu mà có định lượng sẽ là kết quả mong muốn]]
+[[Nhu cầu mà có định lượng sẽ là Thành quả cần có]]
 Outcome là kết quả mà chúng ta thu được do sự thay đổi về hành vi của người
-dùng khi tương tác với sản phẩm đã được cải tiến (hoặc sản phẩm mới). kết quả mong muốn,
+dùng khi tương tác với sản phẩm đã được cải tiến (hoặc sản phẩm mới). Thành quả cần có,
 Output là sản phẩm nhỏ hơn
 Sự kiện là một loại output
 
@@ -133,14 +134,15 @@ Cách mà các khái niệm như Kỹ năng, Chủ đề, Sản phẩm mở ra (
 
 Nếu chỉ một cái trong category đó thì không cần tạo folder cho đỡ rối. Nhưng nếu 2 cái trở lên mà ko tạo thì lại rối
 
-Với việc không sử dụng khái niệm "Kết quả mong muốn"
+Với việc không sử dụng khái niệm "Thành quả cần có"
  
 | ---------           | Từ bắt đầu                 |
 | ------------------- | -------------------------- |
 | 1 Nhu cầu           | `Tìm`, `Có`, `Hiểu`        |
-| 4 Kết quả mong muốn | `Đánh giá được`, `Có được` |
+| 4 Thành quả cần có | `Đánh giá được`, `Có được` |
 | 7 Công việc: Họp    | `Bàn`, `Thống nhất`        |
 |                     |                            |
 
+## Chiều dữ liệu: 4 và 6 tỏa đi các nơi
 - Mối quan hệ giữa các dữ liệu: [RDF Triplestore](https://viblo.asia/u/huynhduc)
-## 21 hiểuQC, 4A,8+9# ó chức năng giống nhau 
+## 21 Hiểu QC, 4A,8+9 có chức năng giống nhau 

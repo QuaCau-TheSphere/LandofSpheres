@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
 Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]]
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -24,7 +24,7 @@ Người sẵn sàng làm cùng:
 list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
 ```
 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 next::
 Công việc thành phần::

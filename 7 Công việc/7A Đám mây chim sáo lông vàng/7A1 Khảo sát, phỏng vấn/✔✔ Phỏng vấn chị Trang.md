@@ -11,8 +11,8 @@ list where contains(công-việc-thành-phần, [[]])
 ```
 
 Tài liệu::
-##### Kết quả mong muốn
-- [ ] chị hiểu được kết quả mong muốn QC là gì, hiểu được kế hoạch sắp tới, mình hiểu được chị là ai, mạng lưới của chị có ai, và nhu cầu hứng thú của chị, và chị có thể hỗ trợ được gì
+##### Thành quả cần có
+- [ ] chị hiểu được Thành quả cần có QC là gì, hiểu được kế hoạch sắp tới, mình hiểu được chị là ai, mạng lưới của chị có ai, và nhu cầu hứng thú của chị, và chị có thể hỗ trợ được gì
 Tương quan với các công việc khác:
 ```dataview 
 list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))

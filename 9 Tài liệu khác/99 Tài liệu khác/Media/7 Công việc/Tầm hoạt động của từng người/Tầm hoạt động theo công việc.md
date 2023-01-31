@@ -90,7 +90,7 @@ node [ shape=polygon ]
 "Bàn về thế mạnh của QC" [ label = "Bàn về thế mạnh của QC" ] 
 "Outline nội dung buổi WS chim sáo" [ label = "Outline nội dung buổi WS chim\nsáo" ] 
 "Outline nội dung buổi tóc vàng tóc đen" [ label = "Outline nội dung buổi tóc vàng\ntóc đen" ] 
-"Tạo thang đo cho các kết quả mong muốn" [ label = "Tạo thang đo cho các kết quả\nmong muốn" ] 
+"Tạo thang đo cho các Thành quả cần có" [ label = "Tạo thang đo cho các kết quả\nmong muốn" ] 
 "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu" [ label = "Hoàn thành thang đo kiểm tra\nlượng tóc vàng trên da đầu" ] 
 "Hoàn thành bảng khảo sát TNV định kỳ" [ label = "Hoàn thành bảng khảo sát TNV\nđịnh kỳ" ] 
 "Giao cho các thành viên làm khảo sát" [ label = "Giao cho các thành viên làm khảo\nsát" ] 
@@ -154,7 +154,7 @@ edge [ penwidth=1 style=solid ]
 "Xây dựng trang hỏi đáp liên lĩnh vực" -> "Liên lạc với từng người để phỏng vấn về suy nghĩ về QC, mạng lưới niềm tin và mạng lưới câu hỏi"
 "Xây dựng trang hỏi đáp liên lĩnh vực" -> "Tìm hiểu công cụ phù hợp để đăng lên web"
 "Xây dựng trang hỏi đáp liên lĩnh vực" -> "Code mạng lưới câu hỏi liên ngành"
-"Tạo thang đo cho các kết quả mong muốn" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
+"Tạo thang đo cho các Thành quả cần có" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
 "Thống nhất bảng tóc vàng tóc đen" -> "Outline nội dung buổi tóc vàng tóc đen"
 "Lên kế hoạch sử dụng nguồn lực từ hệ sinh thái phi lợi nhuận" -> "Lên danh sách những người phù hợp trong các trang kết nối TNV"
 "Hoàn thiện tài liệu cho người mới. Tạo nhập môn QC đại cương" -> "✔✔ Xây dựng bản đồ trong QC"
@@ -174,9 +174,9 @@ edge [ penwidth=1 style=solid ]
 "Truyền thông chiến lược của QC" -> "Đăng bài lên các group"
 "Truyền thông chiến lược của QC" -> "Đăng bài lên Discord"
 "Kết nối với các tổ chức khác" -> "Liên hệ với LIN, SNPO"
-"Kết nối kết quả mong muốn của những người quan tâm đến QC" -> "Khảo sát nhu cầu của từng thành viên"
-"Kết nối kết quả mong muốn của những người quan tâm đến QC" -> "Thảo luận với nhau để cùng tìm ra cách giải quyết nhu cầu của nhiều người nhất"
-"Kết nối kết quả mong muốn của những người quan tâm đến QC" -> "Tìm hiểu những kinh nghiệm"
+"Kết nối Thành quả cần có của những người quan tâm đến QC" -> "Khảo sát nhu cầu của từng thành viên"
+"Kết nối Thành quả cần có của những người quan tâm đến QC" -> "Thảo luận với nhau để cùng tìm ra cách giải quyết nhu cầu của nhiều người nhất"
+"Kết nối Thành quả cần có của những người quan tâm đến QC" -> "Tìm hiểu những kinh nghiệm"
 "Tổ chức thử buổi nói chuyện về chức năng của người thân bạn bè cho nội bộ" -> "Làm khảo sát trước sự kiện"
 "Tổ chức thử buổi nói chuyện về chức năng của người thân bạn bè cho nội bộ" -> "Làm khảo sát sau sự kiện"
 
@@ -208,7 +208,7 @@ edge [ penwidth=1 style=solid ]
 "Lên kế hoạch gây quỹ" -> "Bàn về thế mạnh của QC"
 "Làm quy trình hướng dẫn người mới làm quen với văn hoá tổ chức" -> "Outline nội dung buổi WS chim sáo"
 "Làm quy trình hướng dẫn người mới làm quen với văn hoá tổ chức" -> "Outline nội dung buổi tóc vàng tóc đen"
-"Làm kế hoạch hành động" -> "Tạo thang đo cho các kết quả mong muốn"
+"Làm kế hoạch hành động" -> "Tạo thang đo cho các Thành quả cần có"
 "Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Hoàn thành thang đo kiểm tra lượng tóc vàng trên da đầu"
 "Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Hoàn thành bảng khảo sát TNV định kỳ"
 "Đánh giá mức độ hiểu biết của thành viên với tổ chức" -> "Giao cho các thành viên làm khảo sát"

@@ -6,7 +6,7 @@ Thành quả cần có:: [[r.k.i.1a Các TNV cảm thấy an toàn, nhẹ nhàng
 
 Hoạt động:: [[Tăng tỉ lệ tương tác của những người ít tương tác trong group]] 
 
-Thành quả hỗ trợ:: [[r.k.3.1 Các TNV tự tham gia đặt ra kết quả mong muốn cho công việc của mình]]
+Thành quả hỗ trợ:: [[r.k.3.1 Các TNV tự tham gia đặt ra Thành quả cần có cho công việc của mình]]
 Thành quả hỗ trợ:: [[r.k.3.2 Các TNV tự báo cáo công việc hàng tuần]]
 Thành quả hỗ trợ:: [[r.k.i.i Các TNV nói rõ lý do khi không tham gia họp]]
 

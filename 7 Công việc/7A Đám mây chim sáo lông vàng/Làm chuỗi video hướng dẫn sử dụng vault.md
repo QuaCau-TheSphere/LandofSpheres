@@ -20,7 +20,7 @@ Kỹ năng::
 === end-multi-column
 
 Tài liệu:: [[Chuỗi video hướng dẫn sử dụng vault từ cơ bản đến nâng cao]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 
@@ -33,7 +33,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

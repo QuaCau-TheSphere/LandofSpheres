@@ -1,6 +1,6 @@
 
 Nhu cầu của loại đối tượng:: 
-Điều loại đối tượng thấy ở QC:: [[Kết quả mong muốn của QC không giúp ích gì cho công việc hiện tại]]
+Điều loại đối tượng thấy ở QC:: [[Thành quả cần có của QC không giúp ích gì cho công việc hiện tại]]
 Nhu cầu của mình về đối tượng:: [[Đọc các bài viết khác]], [[Chia sẻ mạng lưới của họ]]
 
 Họ được gì khi tham gia:: 

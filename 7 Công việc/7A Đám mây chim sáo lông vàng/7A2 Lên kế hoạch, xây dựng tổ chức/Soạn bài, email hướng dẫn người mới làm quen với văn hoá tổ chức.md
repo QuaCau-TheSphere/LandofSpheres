@@ -19,7 +19,7 @@ Kỹ năng:: [[Nhân sự (kỹ năng)]]
 === end-multi-column
 
 Tài liệu:: [[Trả lời email xin tham gia làm TNV]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Người mới thấy hướng dẫn rõ ràng
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
@@ -32,7 +32,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

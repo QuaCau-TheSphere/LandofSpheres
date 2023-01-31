@@ -55,14 +55,6 @@
         }
       }
     },
-    "Mục tiêu::": {
-      "Mục tiêu::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1671975956061
-        }
-      }
-    },
     "cungchude": {
       "Các note cũng nói về chủ đề này:\n```dataview \nList\nWhere contains(file.name,split(this.file.name,\" \\(\")[0]) and file.path!=this.file.path\n```": {
         "customDictionary": {
@@ -166,8 +158,16 @@
     "kkk, kqmm": {
       "Thành quả cần có::": {
         "customDictionary": {
-          "count": 18,
-          "lastUpdated": 1674541454771
+          "count": 20,
+          "lastUpdated": 1674554256181
+        }
+      }
+    },
+    "kkk, tqmm": {
+      "Thành quả cần có::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1674622090150
         }
       }
     }

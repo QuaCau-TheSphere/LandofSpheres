@@ -100,7 +100,7 @@ branch develop
 ## Message
 - Khi thay đổi cấu trúc folder
 - Sau mỗi lần họp
-- Thay đổi kết quả mong muốn hoặc công việc
+- Thay đổi Thành quả cần có hoặc công việc
 ## Tag
 
 

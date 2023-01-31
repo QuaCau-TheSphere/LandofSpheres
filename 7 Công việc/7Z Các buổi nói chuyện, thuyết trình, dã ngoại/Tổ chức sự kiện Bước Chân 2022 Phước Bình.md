@@ -19,7 +19,7 @@ Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]]
 === end-multi-column
 
 Tài liệu:: [[Nội dung chuyến đi]], [[Bài truyền thông sự kiện...]] 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] WS bầy chim sáo trong ngày 8, khoảng 30 - 45 phút
 - [ ] người tham gia có thể tự chủ động trong việc tự vận hành và làm bài tập truyền thông (quay phim, chụp hình
 - [ ] Các em nhỏ ở Raglai và Churu hiểu SDG là cái gì và tại sao mình cần nó
@@ -68,7 +68,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

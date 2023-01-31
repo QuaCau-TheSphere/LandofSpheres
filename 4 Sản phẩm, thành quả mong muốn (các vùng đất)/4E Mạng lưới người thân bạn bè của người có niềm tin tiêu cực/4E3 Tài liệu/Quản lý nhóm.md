@@ -11,7 +11,7 @@ Nhóm sẽ có 3 hoạt động chính:
 • Thảo luận các kiến thức liên quan đến sự tác động
 • Thành lập một cơ sở dữ liệu những người có tiềm năng và sẵn sàng trợ giúp nhau tác động đến cá nhân và cộng đồng người có niềm tin tiêu cực
 
-Đọc bài chi tiết để hiểu thêm về cách thức hoạt động cũng như kết quả mong muốn phát triển của mạng lưới: https://quacau.space/f9qe
+Đọc bài chi tiết để hiểu thêm về cách thức hoạt động cũng như Thành quả cần có phát triển của mạng lưới: https://quacau.space/f9qe
 
 🟧 Cách tham gia 
 

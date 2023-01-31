@@ -1,6 +1,6 @@
 # Thực thể khi được nhìn như là nhu cầu
 Đáp ứng cho nhu cầu của mình::
-# Thực thể khi được nhìn như là kết quả mong muốn
+# Thực thể khi được nhìn như là Thành quả cần có
 Thành quả cần có::
 Thành quả hỗ trợ::
 Ý tưởng tốt hơn::

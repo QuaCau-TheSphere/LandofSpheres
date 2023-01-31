@@ -22,7 +22,7 @@ Kỹ năng:: [[Hậu cần – logistics]], [[Lập kế hoạch]], [[Phát tri�
 === end-multi-column
 
 Tài liệu:: [[Nhóm Facebook mở ❝Vùng đất Quả Cầu❞]], [[Nhóm Facebook kín ❝Một đám mây chim sáo❞]], [[Kênh mở Discord]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Phê duyệt người mới vào group
 	- [ ] Nhắn hỏi người vào group mà không trả lời các câu hỏi đầu vào
 - [ ] Đăng các note trong vault lên group
@@ -38,7 +38,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

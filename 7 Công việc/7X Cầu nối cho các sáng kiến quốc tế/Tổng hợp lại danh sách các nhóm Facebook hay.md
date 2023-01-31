@@ -19,7 +19,7 @@ Kỹ năng:: [[Quản lý cơ sở dữ liệu]]
 === end-multi-column
 
 Tài liệu:: https://xn--qucu-hr5aza.cc/cac-nhom-facebook-hay
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Mỗi group có thông tin của group đó
 ##### Chỉ số trước
 
@@ -32,7 +32,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

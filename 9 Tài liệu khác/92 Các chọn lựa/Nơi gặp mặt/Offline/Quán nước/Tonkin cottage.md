@@ -4,7 +4,7 @@ Giá nước:: [Menu nước giá dao động 49k - 79k (có 3 loại bánh, ri�
 Máy chiếu:: 
 Số người tối thiểu:: 8 (10-12 người)
 Độ dễ kiếm:: 7 (quán nằm hơi khuất)
-Giữ xe:: Phải gửi xe 10k
+Giữ xe:: 10k
 Hỗ trợ:: 
 Liên hệ:: 
 Tiện ích khác:: 

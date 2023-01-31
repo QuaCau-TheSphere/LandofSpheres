@@ -19,7 +19,7 @@ Kỹ năng:: [[Hậu cần – logistics]], [[Tổ chức sự kiện (kỹ năn
 === end-multi-column
 
 Tài liệu:: [[Nội dung sự kiện...]], [[Bài truyền thông sự kiện...]] 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 - [ ] Gửi email xác nhận tham gia
@@ -37,7 +37,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

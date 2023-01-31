@@ -6,9 +6,12 @@
 Đáp ứng cho nhu cầu của mình:: [[Giảm gánh nặng lên cho Nhật]]
 Đáp ứng cho nhu cầu của mình:: [[Tự động hóa việc tương tác]]
 
-# Thực thể khi được nhìn như là kết quả mong muốn
-Thành quả cần có::
-
+# Thực thể khi được nhìn như là Thành quả cần có
+Thành quả cần có:: [[5% thành viên đăng bài]]
+Thành quả hỗ trợ:: [[10 người cần học thêm kỹ năng tin tưởng có thể kiếm được người hướng dẫn họ học thông qua vault]]
+Thành quả hỗ trợ:: [[10 người làm dự án thấy tin tưởng rằng có thể tham khảo vault để xây dựng bộ dữ liệu của họ hoặc sử dụng tài nguyên]]
+Thành quả hỗ trợ:: [[10 người trong nhóm Obsidian tiếng Việt thấy vault cho mình hướng dẫn để xây dựng vault]]
+Thành quả hỗ trợ:: [[10 người làm nghiên cứu tin tưởng vault là nơi họ có thêm những gợi ý liên ngành]]
 Điểm mạnh:: [[Có 100 người tham gia Discord QC]]
 Điểm yếu:: [[Đã số người chỉ quen xài fb]], [[Nhiều kênh liên lạc quá bị ngộp]]
 Đối tượng thụ hưởng::

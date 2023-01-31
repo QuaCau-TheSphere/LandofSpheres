@@ -7,7 +7,7 @@
 - Tình nguyện viên mới, chưa từng có kinh nghiệm làm việc với Quả Cầu hoặc tình nguyện viên cũ  chưa được tập huấn nội dung này với Quả Cầu.
 - Bạn bè trong mạng lưới của Quả Cầu có mong muốn được tập huấn.
 
-**Kết quả mong muốn tập huấn:**
+**Thành quả cần có tập huấn:**
 - Kết nối người tham gia và thành viên mới thông qua hoạt động tập huấn.
 - Cung cấp thông tin và thực hành cách làm việc nhóm theo tinh thần Quả Cầu một cách thực tế và gần gũi trong cuộc sống nhất.
 - Khơi gợi sự tò mò và mong muốn tìm hiểu những chủ đề tập huấn khác của Quả Cầu.
@@ -41,7 +41,7 @@ Trả lời câu hỏi nhiều như vậy thì có chơi được gì không hay
 > Nhớ hỏi: Còn ai còn câu hỏi nào khác không?
 
 # Phần 2: Làm thế nào để trở thành một con chim sáo? (30') 
-- Thảo luận về môi trường để có thể tồn tại một bầy chim sáo  → Gợi ra kỳ vọng và kết quả mong muốn của người tham gia đối với Quả Cầu.
+- Thảo luận về môi trường để có thể tồn tại một bầy chim sáo  → Gợi ra kỳ vọng và Thành quả cần có của người tham gia đối với Quả Cầu.
 - Trò chơi nhóm: tạo ra 1 thử thách để quan sát cách thành viên làm việc với nhau  → Nhận xét ưu / khuyết của cách làm việc như bầy chim sáo.
 ==> Cùng chia sẻ nhu cầu của nhau (take note dán lên bảng chung)
 
@@ -52,11 +52,11 @@ Giấy ghi chú nhỏ, bảng
 “Sau đây chúng ta sẽ chơi một trò chơi. Trong 15 phút mọi người sẽ hoàn thành một nhiệm vụ nào đó cùng nhau như một bầy chim sáo. Trò chơi bắt đầu”.
 
 ## Diễn biến dự kiến (15) 
-Mọi người sẽ ngơ ngác vì chưa hiểu kết quả mong muốn của mình là gì, và sẽ hỏi ngược lại:
+Mọi người sẽ ngơ ngác vì chưa hiểu Thành quả cần có của mình là gì, và sẽ hỏi ngược lại:
 - "Ủa là sao?"  → "Là trò chơi bắt đầu rồi"
 - "Ủa bắt đầu rồi hả?"  → "Ừ"
-- "Kết quả mong muốn của mình là gì?"  → "Để tất cả các bạn đạt được kết quả mong muốn của mình"
-- "Nhưng không có kết quả mong muốn thì tụi em biết gì mà làm?"  → "Vậy các bạn thử suy nghĩ xem nếu các bạn ở trong một nhóm nhưng cả nhóm không biết kết quả mong muốn của mình là gì thì các bạn sẽ làm gì?"
+- "Thành quả cần có của mình là gì?"  → "Để tất cả các bạn đạt được Thành quả cần có của mình"
+- "Nhưng không có Thành quả cần có thì tụi em biết gì mà làm?"  → "Vậy các bạn thử suy nghĩ xem nếu các bạn ở trong một nhóm nhưng cả nhóm không biết Thành quả cần có của mình là gì thì các bạn sẽ làm gì?"
 - "Tụi em không biết"  → "Nếu các bạn là những con chim sáo thì các bạn sẽ làm gì?"
 
 Sau đó mọi người sẽ đọc lại cả bài, và bắt đầu hỏi nhau. Sau đó sẽ có người thắc mắc về sự bền vững và khả thi, và sẽ có nhiều câu hỏi đến khi mọi người không nói gì được nhưng vẫn cần phải suy nghĩ thêm.
@@ -71,7 +71,7 @@ Sau đó mọi người sẽ đọc lại cả bài, và bắt đầu hỏi nhau
 
 Kiểu gì thì mình cũng cứ ngồi chờ. Những người nhanh nhạy trong nhóm sẽ giúp mở ý tưởng cho những người còn lại
 
-## Kết quả mong muốn
+## Thành quả cần có
 Trò chơi hoàn thành khi mọi người đặt câu hỏi cho nhau đến khi thống nhất làm cùng gì điều đó. Khi mọi người học được cách hỏi nhau, chủ động tìm hiểu nhu cầu của nhau và chủ động hỗ trợ nhau thay vì chờ đợi giao nhiệm vụ thì mọi người hiểu được tinh thần của chim sáo.
 
 ## Bài học (10') 
@@ -81,7 +81,7 @@ Trò chơi hoàn thành khi mọi người đặt câu hỏi cho nhau đến khi
 
 Đi xem một vòng thấy đa số các nhóm đều bắt đầu bằng việc đọc lại bài một lần nữa. Người cần hiểu thêm bài thì sẽ muốn hiểu thêm. Người đã hiểu rồi thì sẽ lắng nghe người cần hiểu để trả lời thêm. Bạn thấy là khi mình đã hiểu được nhu cầu của nhau rồi thì nhiệm vụ của các bạn cũng đã xuất hiện. Có thể sau 15 phút thì cũngg không đủ thời gian để giải quyết được gì, Sau khi tất cả đều hiểu rồi thì sẽ bắt đầu hỏi về nhu cầu của nhau, và tìm cách để cùng nhau đạt được những nhu cầu đó.
 
-Bọn mình có thể đưa ra kết quả mong muốn ngay từ đầu, nhưng nếu như vậy thì Quả Cầu đã không được tạo ra từ đầu. Phải thừa nhận là QC khá là tham vọng khi
+Bọn mình có thể đưa ra Thành quả cần có ngay từ đầu, nhưng nếu như vậy thì Quả Cầu đã không được tạo ra từ đầu. Phải thừa nhận là QC khá là tham vọng khi
 
 # Phần 3: Thảo luận (30') 
 Thảo luận về kết quả của từng nhóm, sau đó so sánh giữa 2 cách làm việc của chim sáo và phân cấp

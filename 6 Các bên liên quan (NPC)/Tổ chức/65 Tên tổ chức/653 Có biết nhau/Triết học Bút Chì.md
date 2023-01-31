@@ -8,7 +8,7 @@ https://www.instagram.com/triethoc.butchi/
 # Tầm nhìn
 > _Bút chì dễ tẩy xóa, cho phép ta được thử, được sai, được khám phá, được làm lại._
 
-Dự án Pencil Philosophy – Triết học Bút chì có ba kết quả mong muốn chính dành cho các bạn học viên.
+Dự án Pencil Philosophy – Triết học Bút chì có ba Thành quả cần có chính dành cho các bạn học viên.
 
 ## 1) Tư duy độc lập
 

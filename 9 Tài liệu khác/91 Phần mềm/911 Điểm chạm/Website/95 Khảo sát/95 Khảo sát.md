@@ -30,15 +30,15 @@ Nếu bạn chưa chia sẻ những bài viết đó, thì lý do là gì? *
 
 
 Nhìn chung các hoạt động của QC có làm thoả mãn kỳ vọng của bạn không? *
-Kết quả mong muốn của bạn trong năm nay là gì? *
-Kết quả mong muốn của bạn trong 5 năm tới là gì? *
+Thành quả cần có của bạn trong năm nay là gì? *
+Thành quả cần có của bạn trong 5 năm tới là gì? *
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo? *
 
 
 Bạn cảm thấy mình nhận được gì ở QC? *
 
 
-Trong các mối quan tâm và kết quả mong muốn bạn liệt kê ở trên, việc tham gia các buổi họp đáp ứng những điều nào? *
+Trong các mối quan tâm và Thành quả cần có bạn liệt kê ở trên, việc tham gia các buổi họp đáp ứng những điều nào? *
 
 
 Nếu bạn không tham gia chung vì cảm thấy những gì mình nhận được là chưa đủ, vậy thì điều gì sẽ cho bạn được nhiều hơn? *
@@ -47,12 +47,12 @@ Nếu bạn không tham gia chung vì cảm thấy những gì mình nhận đư
 Nói chung bạn có cảm thấy hào hứng khi tham gia những buổi họp không? *
 Trong mắt bạn dự án như thế nào? *
 Theo bạn QC đang hướng tới điều gì? *
-Theo bạn kết quả mong muốn của QC trong năm nay là gì? *
+Theo bạn Thành quả cần có của QC trong năm nay là gì? *
 Bạn thấy cách thức làm việc của QC thế nào? *
 Bạn có cảm thấy có sự kết nối với những thành viên khác? *
 
 
-Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình? *
+Bạn thấy điều gì đang cản trở QC đạt được Thành quả cần có của mình? *
 Điều gì khiến bạn lựa chọn ngành nghề đang học/làm? *
 
 Điều gì khiến bạn cảm thấy cuộc sống của mình có ý nghĩa *

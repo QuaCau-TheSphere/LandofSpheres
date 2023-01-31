@@ -5,7 +5,7 @@ Nhu cầu của đối tượng:: [[Truy cầu tri thức]]
 Hoạt động nhận làm trong tổ chức:: [[Tổ chức các buổi nói chuyện thân mật để chia sẻ về cuộc sống của nhau]]
 Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 1
 Ngành nghề hiện tại/dự tính sẽ làm:: Người chữa lành, Coach, nhà tâm lý học trị liệu
-Trong năm nay bạn đang có những kết quả mong muốn gì?:: Hoàn tất các khoá huấn luyện về tâm thức, phát triển bản thân Xây dựng thương hiệu cá nhân
+Trong năm nay bạn đang có những Thành quả cần có gì?:: Hoàn tất các khoá huấn luyện về tâm thức, phát triển bản thân Xây dựng thương hiệu cá nhân
 Dự định tương lai trong 5 năm tới:: Thạc sỹ tâm lý học Trung tâm ứng dụng tâm lý và chữa lành
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo?:: Học tiến sỹ và đào tạo cho cộng đồng 
 Bạn cảm thấy mình nhận được gì ở QC?:: Sự nhiệt tình và kiên trì truyền cảm hứng
@@ -16,11 +16,11 @@ Bạn có cảm thấy hào hứng khi tham gia những buổi họp không?:: K
 Buổi họp nào để lại cho bạn nhiều ấn tượng nhất?:: Không có
 Trong mắt bạn dự án như thế nào?:: Vẫn chưa rõ ràng về đường lối
 Theo bạn QC đang hướng tới điều gì?:: Một sự phát triển bền vững 
-Theo bạn kết quả mong muốn của QC trong năm nay là gì?:: Mở rộng quy mô
+Theo bạn Thành quả cần có của QC trong năm nay là gì?:: Mở rộng quy mô
 Bạn thấy cách thức làm việc của QC thế nào?:: Rất nỗ lực
-Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình?:: Thiếu sự cởi mở cho những cách thức xử lý vấn đề 
+Bạn thấy điều gì đang cản trở QC đạt được Thành quả cần có của mình?:: Thiếu sự cởi mở cho những cách thức xử lý vấn đề 
 Bạn muốn thấy điều gì ở những người xung quanh?:: Phât triển bản thân
-Bạn muốn nói gì thêm không?:: Kiên định với kết quả mong muốn, linh hoạt với phương pháp. Kết quả mong muốn phải rõ ràng để làm điểm đến, và là nguyên nhân cho sự tồn tại của QC, là lí do khiến mọi người đồng hành, bỏ hết gian nan để ở lại. 
+Bạn muốn nói gì thêm không?:: Kiên định với Thành quả cần có, linh hoạt với phương pháp. Thành quả cần có phải rõ ràng để làm điểm đến, và là nguyên nhân cho sự tồn tại của QC, là lí do khiến mọi người đồng hành, bỏ hết gian nan để ở lại. 
 Ngày sinh:: January 1, 2001
 Email:: nhinguyen1194@gmail.com
 Giới:: Nữ

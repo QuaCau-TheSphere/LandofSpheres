@@ -1,4 +1,4 @@
-# Kết quả mong muốn
+# Thành quả cần có
 1. Người tham gia kết nối được với nhau, hiểu được lĩnh vực mà mỗi người đang học, đang quan tâm hoặc đang làm.
 2. Người tham gia nắm rõ nội dung và lịch trình của hành trình trong giai đoạn 2. Biết lên kế hoạch và chuẩn bị hành trang, thiết bị ghi hình đầy đủ trước chuyến đi.
 3. Tất cả thành viên đều tham gia tạo ra đồng thuận chung cho suốt chương trình.

@@ -19,7 +19,7 @@ Kỹ năng:: [[Lập kế hoạch]]
 === end-multi-column
 
 Tài liệu::
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]

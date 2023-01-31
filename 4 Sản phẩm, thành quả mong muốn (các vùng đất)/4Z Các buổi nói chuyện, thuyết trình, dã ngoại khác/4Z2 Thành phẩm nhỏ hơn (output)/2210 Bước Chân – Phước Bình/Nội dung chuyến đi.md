@@ -4,7 +4,7 @@
 
 [[Nội dung WS trước chuyến đi]]
 # Trong chuyến đi
-## Kết quả mong muốn
+## Thành quả cần có
 - Biến lý thuyết thành gì đó cụ thể. Lý thuyết khác thực tế khác xa nhau thế nào
 - Mở mắt mọi người về VQG Phước Bình, và cho mọi người biết lịch sử trước đây của nó
 - Muốn thong thả, không bị dựng đầu dậy quá nhiều

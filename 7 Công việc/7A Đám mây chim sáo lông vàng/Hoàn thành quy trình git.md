@@ -20,7 +20,7 @@ Kỹ năng:: [[23 Dùng Git|Dùng Git]]
 === end-multi-column
 
 Tài liệu:: [[Phương pháp đồng bộ (phụ lục)]]
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Hoàn thành [[Phương pháp đồng bộ (phụ lục)#Yêu cầu git]]
 ##### Chỉ số trước
 
@@ -31,7 +31,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

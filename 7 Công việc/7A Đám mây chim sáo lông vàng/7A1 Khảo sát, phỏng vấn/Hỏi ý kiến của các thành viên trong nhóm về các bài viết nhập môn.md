@@ -19,7 +19,7 @@ Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]]
 === end-multi-column
 
 Tài liệu::
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Hiểu được lý do họ không cảm thấy cần thiết phải đọc
 ##### Chỉ số trước
 - [ ] [est:: ] [ ]
@@ -32,7 +32,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```

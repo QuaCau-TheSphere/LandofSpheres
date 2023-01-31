@@ -1,6 +1,6 @@
 ## Tại sao có buổi này?
 ## Ai sẽ là người nên tham gia buổi này?
-## Kết quả mong muốn sự kiện
+## Thành quả cần có sự kiện
 ## Hậu cần cho sự kiện
 - Số lượng người tham gia lý tưởng: 12 - 20
 - Không gian: Phòng riêng, yên tĩnh, khoảng 20m², có thể chia nhóm làm việc và ngồi vòng trón lớn, có máy chiếu / TV, Không cần thiết phải có bàn ghế. Không gian ngồi bệt, lăn lộn dưới sàn được càng tốt.

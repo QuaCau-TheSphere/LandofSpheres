@@ -9,7 +9,7 @@ Xem thêm: [[Phiếu đăng ký]]
 - Hoạt động trong lĩnh vực LGBT
 - Độ tuổi: 18 - 30
 - Số lượng: ~20
-## Kết quả mong muốn
+## Thành quả cần có
 - Tạo sự hứng thú với Obsidian
 - Cài đặt app, đồng bộ dữ liệu trơn tru
 - Có nhiều câu hỏi thảo luận

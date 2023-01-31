@@ -2,7 +2,7 @@
 ```dataview 
 list where contains(loại-đối-tượng,[[]])
 ```
-Nhu cầu của loại đối tượng:: [[Tham gia vào một dự án có tiềm năng]], [[Học hỏi những người có tiềm năng. Trao đổi với những người thú vị]], [[Thấy kết quả mong muốn QC rõ ràng hơn]], [[Được làm công việc mình muốn làm]], [[Học hỏi, phát triển kỹ năng mới]], [[Có người hướng dẫn và đồng hành cùng làm]], [[Hiểu rõ việc cần làm để giúp]], [[Ở trong một tập thể gắn bó]]
+Nhu cầu của loại đối tượng:: [[Tham gia vào một dự án có tiềm năng]], [[Học hỏi những người có tiềm năng. Trao đổi với những người thú vị]], [[Thấy Thành quả cần có QC rõ ràng hơn]], [[Được làm công việc mình muốn làm]], [[Học hỏi, phát triển kỹ năng mới]], [[Có người hướng dẫn và đồng hành cùng làm]], [[Hiểu rõ việc cần làm để giúp]], [[Ở trong một tập thể gắn bó]]
 
 Điều loại đối tượng thấy ở QC:: [[Không hiểu rõ QC làm những gì]], [[Có tiềm năng rất lớn. Hãy kiên trì]], [[Người đứng đầu thiếu tính cách của lãnh đạo, cần thêm tính kiểm soát, quyết liệt]]
 

@@ -32,7 +32,7 @@ Where file.name!=this.file.name
 List from "7 Công việc" where !kỹ-năng
 Where file.name!=this.file.name
 ```
-# Chưa liên kết với kết quả mong muốn nào
+# Chưa liên kết với Thành quả cần có nào
 ```dataview
 list from "7 Công việc"
 where filter(file.inlinks, (f)=>contains(hoạt-động, file.links))

@@ -11,7 +11,7 @@ Xem thêm: [[Phiếu đăng ký]]
 - Người tham gia 2GROW
 - Độ tuổi: 18 - 30
 - Số lượng: ~20
-## Kết quả mong muốn
+## Thành quả cần có
 - Tạo sự hứng thú với Obsidian
 - Cài đặt app, đồng bộ dữ liệu trơn tru
 - Có nhiều câu hỏi thảo luận

@@ -8,7 +8,7 @@ Loại đối tượng:: [[Người quan tâm đến Nhật]]
 Nhu cầu của đối tượng:: [[Tham gia vào một dự án có tiềm năng]]
 Nhu cầu của đối tượng:: [[Học hỏi những người có tiềm năng. Trao đổi với những người thú vị]]
 Nhu cầu của đối tượng:: [[Trao đổi thông tin, kiến thức nghệ thuật]]
-Nhu cầu của đối tượng:: [[Thấy kết quả mong muốn QC rõ ràng hơn]]
+Nhu cầu của đối tượng:: [[Thấy Thành quả cần có QC rõ ràng hơn]]
 Nhu cầu của đối tượng:: [[Truy cầu tri thức]]
 Nhu cầu của đối tượng:: [[Được nói những thứ không được nói nhiều]]
 Nhu cầu của đối tượng:: [[Lan toả kiến thức đúng đắn cho đại chúng]]
@@ -39,7 +39,7 @@ Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào
 
 Ngành nghề hiện tại/dự tính sẽ làm:: Sinh viên/Nhân sự
 
-Trong năm nay bạn đang có những kết quả mong muốn gì?:: Thi IELTS, có kết quả mong muốn thực tập hoặc đi học một cái gì đó
+Trong năm nay bạn đang có những Thành quả cần có gì?:: Thi IELTS, có Thành quả cần có thực tập hoặc đi học một cái gì đó
 
 Dự định tương lai trong 5 năm tới:: Được tự chủ hơn trong cuộc sống của mình
 ❓:: Thế nào là tự chủ hơn? Liệu việc không kiếm tiền có giúp em tự chủ hơn?

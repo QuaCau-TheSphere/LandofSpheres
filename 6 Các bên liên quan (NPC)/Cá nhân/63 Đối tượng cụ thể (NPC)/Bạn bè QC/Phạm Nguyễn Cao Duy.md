@@ -14,8 +14,8 @@ Nhu cầu của đối tượng:: [[Chống bạo lực gia đình]], [[Hiểu v
 Hoạt động nhận làm trong tổ chức:: [[Truyền thông các bài viết về tự trị]], [[Seeding]], [[Kêu gọi mọi người chia sẻ các bài viết]]
 Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 5
 Ngành nghề hiện tại/dự tính sẽ làm:: Business Analyst
-Trong năm nay bạn đang có những kết quả mong muốn gì?:: Trong năm nay ngoài học thêm về triết học thì em muốn hoàn thành thực tập để có một công việc nền tảng. Đồng thời có thể gắn bó với Quả Cầu ít nhất là hết năm 2022.
-Dự định tương lai trong 5 năm tới:: Dạ kết quả mong muốn cần nhất trong 5 năm tới là trau dồi đủ kỹ năng để làm việc tại Singapore trong ngành supply chain.
+Trong năm nay bạn đang có những Thành quả cần có gì?:: Trong năm nay ngoài học thêm về triết học thì em muốn hoàn thành thực tập để có một công việc nền tảng. Đồng thời có thể gắn bó với Quả Cầu ít nhất là hết năm 2022.
+Dự định tương lai trong 5 năm tới:: Dạ Thành quả cần có cần nhất trong 5 năm tới là trau dồi đủ kỹ năng để làm việc tại Singapore trong ngành supply chain.
 Giả sử sau khi đạt được điều này rồi thì bạn sẽ làm gì tiếp theo?:: Em sẽ tiếp tục duy trì nó vào một quỹ đạo ổn định, sau khi mọi việc đã theo một trình tự mới. Lúc đó em mới bắt đầu cbi các kế hoạch khác.
 Bạn cảm thấy mình nhận được gì ở QC?:: Dạ hiện các anh chị trong QC khá thân thiện, mong là em sẽ có thêm nhiều thời gian làm quen với mọi người hơn.
 Nếu bạn không tham gia chung vì cảm thấy những gì mình nhận được là chưa đủ, vậy thì điều gì sẽ cho bạn được nhiều hơn?:: Em chưa suy nghĩ đến
@@ -25,9 +25,9 @@ Bạn có cảm thấy hào hứng khi tham gia những buổi họp không?:: D
 Buổi họp nào để lại cho bạn nhiều ấn tượng nhất?:: Dạ thật ra điều này em không để ý nhiều.
 Trong mắt bạn dự án như thế nào?:: Em thấy dự án khá ổn về mặt kiến thức, còn về mặt Pr thì em chưa đánh giá hết được.
 Theo bạn QC đang hướng tới điều gì?:: Về tự trị ạ
-Theo bạn kết quả mong muốn của QC trong năm nay là gì?:: Dạ điều này em chưa nắm được ạ.
+Theo bạn Thành quả cần có của QC trong năm nay là gì?:: Dạ điều này em chưa nắm được ạ.
 Bạn thấy cách thức làm việc của QC thế nào?:: Dạ được, không có nhận xét gì thêm
-Bạn thấy điều gì đang cản trở QC đạt được kết quả mong muốn của mình?:: Em nghĩ là việc mở rộng sự hiện diện của QC 
+Bạn thấy điều gì đang cản trở QC đạt được Thành quả cần có của mình?:: Em nghĩ là việc mở rộng sự hiện diện của QC 
 Bạn muốn thấy điều gì ở những người xung quanh?:: Dạ em không có yêu cầu.
 
 # Kinh nghiệm làm việc và hoạt động tình nguyện

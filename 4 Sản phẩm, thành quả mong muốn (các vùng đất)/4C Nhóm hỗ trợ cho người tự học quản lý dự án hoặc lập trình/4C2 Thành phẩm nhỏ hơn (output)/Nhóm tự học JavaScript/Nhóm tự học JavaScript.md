@@ -1,6 +1,6 @@
 # Thực thể khi được nhìn như là nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Phát triển 4C]] 
-# Thực thể khi được nhìn như là kết quả mong muốn
+# Thực thể khi được nhìn như là Thành quả cần có
 Thành quả cần có:: [[Các thành viên viết được một plugin]]
 Thành quả hỗ trợ::
 Ý tưởng tốt hơn::

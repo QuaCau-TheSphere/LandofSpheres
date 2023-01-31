@@ -9,7 +9,7 @@ Thuộc công việc loại A:
 list where contains(công-việc-thành-phần, [[]])
 ```
 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] Mô tả chi tiết xem tại [How to capture a swinging pendulum?](https://photo.stackexchange.com/q/94857/7062)
 Tương quan với các công việc khác:
 ```dataview 

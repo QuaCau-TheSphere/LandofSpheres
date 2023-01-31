@@ -71,7 +71,7 @@ Công việc hưởng lương nào bạn đã làm?::
 Môi trường làm việc thế nào sẽ đem lại nguồn năng lượng và cảm hứng làm việc cho bạn nhất? :: [Môi trường làm việc lý tưởng với cá nhân mình có những yếu tố sau:
 - Yếu tố tích cực: Con người làm việc với tinh thần tích cực, không khí tích cực sẽ dễ hô trợ nhau hơn và hạn chế xảy ra xung đột, căng thẳng.
 - Yếu tố xây dựng: Mọi sự phản bác nên đi kèm lý do và phương án dự phòng để xây dựng chứ không phải chỉ trích / đạp đổ / phá bỏ tiến trình hiện tại.
-- Yếu tố sáng tạo: Không giới hạn về hình thức hoạt động nhưng vẫn đảm bảo được tiến độ, kết quả mong muốn công việc tập thể chung.
+- Yếu tố sáng tạo: Không giới hạn về hình thức hoạt động nhưng vẫn đảm bảo được tiến độ, Thành quả cần có công việc tập thể chung.
 - Yếu tố rõ ràng: Tầm nhìn, chiến lược và kế hoạch hoạt động cụ thể là xương sống của 1 dự án / tổ chức, mọi sự mơ hồ đều dễ dấn đến con số 0. (không sản phẩm, không kết quả).
 - Yếu tố kết nối: Sự kết nối con người là thứ cực kỳ quan trọng để giữ các cá nhân trong 1 tập thể cũng như kết nối các điểm thành những đường khác nhau. Mình tin rằng Quả Cầu cũng cần sự kết nối của rất nhiều điểm chấm để tạo nên 1 hình hài như vậy. Muốn đi nhanh thì đi một mình, muốn đi xa thì đi với đồng minh.]
 
@@ -79,7 +79,7 @@ Giữa việc đặt con người làm trung tâm và đặt tập thể và s�
 
 Hãy chọn tất cả những ý bạn thấy đúng với mình:: 
 - Tôi hứng thú với việc hiểu được kế hoạch chiến lược, kế hoạch hành động hoặc những khía cạnh khác nhau của tổ chức
-- Tôi hứng thú với việc tạo sản phẩm/hoàn thành kết quả mong muốn
+- Tôi hứng thú với việc tạo sản phẩm/hoàn thành Thành quả cần có
 - Tôi hứng thú với việc ra quyết định đường hướng/làm kế hoạch chiến lược
 - Tôi hứng thú với việc tìm hiểu các tinh thần, văn hoá, triết lý của tổ chức, ý tưởng của người đứng đầu
 - Tôi hứng thú với việc thảo luận với mọi người để tìm ra công việc mình hứng thú làm nhất
@@ -95,7 +95,7 @@ Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gi
 Và Quả Cầu khá là giống Quả Bóng Cười, khá giải trí.
 Tuy nhiên nó sẽ sớm thành hình hài rõ ràng và có sản phẩm cụ thể vì đây là 1 tập thể khá đa dạng và nhiều tiềm năng.]
 
-Trong năm nay bạn đang có những kết quả mong muốn gì? 	Giả sử sau khi đạt được những kết quả mong muốn này rồi thì bạn sẽ làm gì tiếp theo?	Giả sử sau khi đạt được những kết quả mong muốn này rồi thì bạn sẽ làm gì tiếp theo?:: [Năm nay cần tốt nghiệp đã, và sau Tết 2023 sẽ bán thân cho tư bản.]
+Trong năm nay bạn đang có những Thành quả cần có gì? 	Giả sử sau khi đạt được những Thành quả cần có này rồi thì bạn sẽ làm gì tiếp theo?	Giả sử sau khi đạt được những Thành quả cần có này rồi thì bạn sẽ làm gì tiếp theo?:: [Năm nay cần tốt nghiệp đã, và sau Tết 2023 sẽ bán thân cho tư bản.]
 
 Điều gì khiến bạn lựa chọn ngành nghề bạn đang làm?:: [Vì mình mắc nợ cuộc đời, chắc vậy, rất nhiều thứ mình không làm ngơ được. Sinh ra trong cái nghèo khó và muốn thay đổi điều đó không chỉ cho bản thân mà còn cho những người khác.]
 

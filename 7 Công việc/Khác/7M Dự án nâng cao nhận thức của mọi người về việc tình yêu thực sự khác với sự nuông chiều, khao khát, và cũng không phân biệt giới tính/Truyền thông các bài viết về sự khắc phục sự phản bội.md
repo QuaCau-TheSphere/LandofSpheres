@@ -3,7 +3,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
 Người chơi::
 Kỹ năng:: [[Truyền thông (kỹ năng)]]
-Phục vụ cho kết quả mong muốn:
+Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(hoạt-động, [[]])
 ```
@@ -20,7 +20,7 @@ Phục vụ cho những nhu cầu này của đối tượng:
 list where contains(row["Cách đáp ứng nhu cầu này"],[[]])
 ```
 
-##### Kết quả mong muốn
+##### Thành quả cần có
 - [ ] 
 next::
 Công việc thành phần:: [[Làm khảo sát về chung thủy]] 

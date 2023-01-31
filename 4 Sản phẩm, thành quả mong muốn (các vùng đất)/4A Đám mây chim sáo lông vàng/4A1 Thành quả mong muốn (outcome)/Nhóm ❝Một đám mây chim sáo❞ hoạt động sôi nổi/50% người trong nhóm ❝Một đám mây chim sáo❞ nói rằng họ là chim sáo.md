@@ -6,9 +6,9 @@ Phục vụ cho những nhu cầu này của mình:
 ```dataview
 list where contains(tương-ứng-với-kết-quả-mong-muốn,[[]])
 ```
-- [ ] 2023-01-17: 50%
+- [ ] 2023-01-17: 50% người
 
-Kết quả mong muốn::
+Kết quả mong muốn:: 75 
 Hướng đến thời gian::
 Yếu tố hỗ trợ::
 Ý tưởng tốt hơn::

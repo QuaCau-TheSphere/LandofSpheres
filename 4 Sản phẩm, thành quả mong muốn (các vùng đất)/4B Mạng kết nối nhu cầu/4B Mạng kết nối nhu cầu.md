@@ -6,7 +6,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra một thứ không ai có thể cưỡng lại được]]
 Có cách để ghi lại nhu cầu mà không quá mất công
-# Thực thể khi được nhìn như là kết quả mong muốn
+# Thực thể khi được nhìn như là Thành quả cần có
 Thành quả cần có:: [[50 người đóng góp trên 10 lần vào mạng kết nối nhu cầu]]
 Thành quả cần có:: [[Có cách để đi tới nhóm nào cũng có thể khiến họ muốn tham gia]]
 Thành quả hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
@@ -101,7 +101,7 @@ Quy định 2: Về vấn đề thống nhât trong trao đổi
 Hoạt động:: [[Tìm hiểu về các nỗ lực xây dựng trước đây]]
 
 ## dfsdfsdf
-Đây là một thử nghiệm của Quả Cầu để mọi người tìm được bạn đồng hành cho những kết quả mong muốn của mình. Luật chơi: Bạn hãy nêu ra tối đa 5 điều bạn muốn tìm được người cùng tham gia với mình nhất. Bạn cũng có thể đính kèm thêm những link giúp tăng khả năng nhận được sự trợ giúp. VD: giới thiệu về bản thân, CV của bạn, lý do bạn muốn đạt được những kết quả mong muốn này, những thứ bạn có thể giúp lại người khác, v.v. 
+Đây là một thử nghiệm của Quả Cầu để mọi người tìm được bạn đồng hành cho những Thành quả cần có của mình. Luật chơi: Bạn hãy nêu ra tối đa 5 điều bạn muốn tìm được người cùng tham gia với mình nhất. Bạn cũng có thể đính kèm thêm những link giúp tăng khả năng nhận được sự trợ giúp. VD: giới thiệu về bản thân, CV của bạn, lý do bạn muốn đạt được những Thành quả cần có này, những thứ bạn có thể giúp lại người khác, v.v. 
 
 Mỗi một lần một người cảm ơn bạn vì đã tham gia cùng với họ, bạn sẽ được nhận 1 điểm Cảm ơn. Số điểm càng cao thì sẽ càng nhiều người quan tâm đến việc giúp lại bạn. Số điểm này cũng sẽ được quy đổi sang những quyền lợi khác trong tương lai. 
 
