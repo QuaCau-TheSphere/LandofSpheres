@@ -26,7 +26,7 @@ Kỹ năng::
 === end-multi-column
 
 Tài liệu:: <% tp.file.cursor() %>
-##### Kết quả mong muốn
+##### thành quả cần có
 - [ ] 
 ##### Chỉ số trước
 

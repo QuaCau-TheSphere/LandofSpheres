@@ -1,7 +1,7 @@
 ---
 Alias: tài liệu đặc tả yêu cầu
 ---
-[[Vault LOS]]
+[[Bộ cài vault]]
 [[Xây dựng tính năng cho vault]]
 # Cấp độ tổ chức
 # Cấp độ người dùng

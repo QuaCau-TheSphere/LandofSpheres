@@ -3,9 +3,9 @@ Mô tả:: Thao tác được tốt Obsidian
 # Thử thách
 - [ ] Cài plugin
 - [ ] Dùng template
-- [ ] Chỉnh phím tắt
+- [ ] [[Dùng phím tắt]]
+- [ ] Đọc [[Triết lý của Obsidian]]
 - [ ] Mở dòng lệnh
-- [ ] Dùng canvas
 - [ ] Lưu chuyển dữ liệu
 - [ ] Đồng bộ với điện thoại: Syncthing
 # Khu trưng bày

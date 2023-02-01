@@ -1,4 +1,4 @@
-Kết quả mong muốn::
+Thành quả cần có::
 
 Hoạt động:: [[Tổ chức những buổi nói chuyện về vật lý]]
 

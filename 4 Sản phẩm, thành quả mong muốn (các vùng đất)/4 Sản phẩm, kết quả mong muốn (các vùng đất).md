@@ -25,7 +25,7 @@ Tuy nhiên, việc tác động thay đổi người khác là một điều c�
 - Có được sự quan tâm và đóng góp của những người không có nhu cầu tác động
 
 Thành quả cần có chính của QC là tạo môi trường để những người thù ghét với người khác muốn trò chuyện với người họ thù ghét, và để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình. Đồng thời mong muốn chia sẻ những sự thú vị của sự tò mò, thoải mái, thong thả, khoáng đạt, biến hóa, tối ưu. Điều đó khiến QC có hai sản phẩm chủ đạo:
-- [[4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
+- [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực/4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
 - [[4A Đám mây chim sáo lông vàng]]
 
 Các sản phẩm còn lại là cách để đạt được những sản phẩm đó. 

@@ -31,9 +31,6 @@ Cảm ơn bạn đã có hứng thú đồng hành cùng bọn mình. Chúc bạ
 # Dữ liệu Quả Cầu 
 Kho dữ liệu của Quả Cầu dành cho những ai muốn:
 
--   Tìm gợi ý, hướng dẫn và người hỗ trợ để rèn luyện kỹ năng mới
--   Củng cố, đào sâu kiến thức học trong trường hoặc tìm gợi ý để tư duy của mình có tính liên ngành hơn
--   Liên thông dữ liệu, Thành quả cần có và công việc giữa các dự án khác nhau. Tham khảo cách quản lý dự án trên Obsidian và Git
--   Quan sát hoặc đóng góp cho Quả Cầu
+![[Bộ cài vault#Kho dữ liệu của Quả Cầu dành cho những ai muốn:]]
 
 Xin cảm ơn các bạn Diệu Quỳnh, Đặng Linh, Kiều Khanh, Tuyết Nhi, Nhật Khánh, Lan Vy, Thu Uyên, The Aces, Như Kiễn, Phương Vi, Thảo Nguyên đã đồng hành cùng dự án.

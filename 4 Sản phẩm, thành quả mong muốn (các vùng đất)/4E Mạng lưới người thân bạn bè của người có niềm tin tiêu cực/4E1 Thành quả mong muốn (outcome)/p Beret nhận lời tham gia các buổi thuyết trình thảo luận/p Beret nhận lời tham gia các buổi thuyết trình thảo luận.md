@@ -2,7 +2,7 @@
 
 Điểm mạnh::
 Điểm yếu::
-Kết quả mong muốn:: [[p.1 Beret cảm thấy hợp lý về hướng đi của mình]]
+Thành quả cần có:: [[p.1 Beret cảm thấy hợp lý về hướng đi của mình]]
 
 Hoạt động:: [[7 Công việc/null/Untitled 1]]
 Hoạt động:: [[Tổ chức những buổi nói chuyện về nét họ hàng giống nhau của Wittgenstein]]

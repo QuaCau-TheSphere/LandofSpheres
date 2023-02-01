@@ -10,7 +10,7 @@ Thành quả hỗ trợ:: [[n Megan, Danish hoặc Beret đối thoại với nh
 Thành quả hỗ trợ:: [[o Megan hoặc Danish tham gia những buổi chia sẻ vòng tròn]]
 Thành quả hỗ trợ:: [[p Beret nhận lời tham gia các buổi thuyết trình thảo luận]]
 Thành quả hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng cho Megan hoặc Danish]]
-Thành quả hỗ trợ:: [[4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
+Thành quả hỗ trợ:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực/4E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực]]
 Thành quả hỗ trợ:: [[s Megan xử lý được sự xấu hổ của mình khi phải thừa nhận mình sai]]
 
 Tham khảo:: [[Cảm giác nhẹ nhõm khi nhận ra mình sai nhưng được tự tiêu hóa và không phải xin lỗi]], [[Quyền được lãng quên]], [[Cảm giác khó chịu khi phải thừa nhận mình mâu thuẫn]]

@@ -1,7 +1,7 @@
 
 
 Mục tiêu:: 
-Yếu tố hỗ trợ:: 
+Thành quả hỗ trợ:: 
 Ý tưởng tốt hơn:: 
 Hoạt động:: 
 

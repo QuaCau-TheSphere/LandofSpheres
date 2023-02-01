@@ -17,8 +17,7 @@
 
 ^d910c3
 
-^4d8846
-![[Bộ cài#^ac5e20]]
+
 core-plugins-migration.json
 core-plugins.json          
 file-recovery.json         

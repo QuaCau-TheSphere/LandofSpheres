@@ -47,46 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": true,
   "selectionHistoryTree": {
-    "cungchude": {
-      "Các note cũng nói về chủ đề này:\n```dataview \nList\nWhere contains(file.name,split(this.file.name,\" \\(\")[0]) and file.path!=this.file.path\n```": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672503782674
-        }
-      }
-    },
-    "Lý do::": {
-      "Lý do::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672504936512
-        }
-      }
-    },
-    "PNM,dct1": {
-      "(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672590970504
-        }
-      }
-    },
-    "cc,dct2": {
-      "#đct-🍃/sớmphảilàm or #đct-🍃/đợingườinhậnlàm": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672590980109
-        }
-      }
-    },
-    "tt": {
-      "Tiếp theo:: ": {
-        "customDictionary": {
-          "count": 10,
-          "lastUpdated": 1672591895645
-        }
-      }
-    },
     "dtv": {
       "```dataview\nLIST\nFROM |\nWHERE\n```": {
         "customDictionary": {
@@ -158,8 +118,8 @@
     "kkk, tqmm": {
       "Thành quả cần có::": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1675195937027
+          "count": 5,
+          "lastUpdated": 1675228383418
         }
       }
     }

@@ -1,5 +1,8 @@
 ---
 banner: "![[Chào mừng đến với LOS (hanoi).png]]"
+---
+---
+banner: "![[Chào mừng đến với LOS (hanoi).png]]"
 banner_y: 0.932
 Alias: chào mừng, truy cập nhanh, hướng dẫn cho người mới
 ---

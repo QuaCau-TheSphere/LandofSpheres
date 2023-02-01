@@ -1,4 +1,4 @@
-Có [[Bộ cài]] để chạy một nhát
+Có [[Bộ cài vault]] để chạy một nhát
 
 
 | Cấp độ               | Nhu cầu                                               | Dữ liệu chính       | app.json                     | appearance.json              | workspace                    | data.json | .gitignore | communityplugins.json | plugins | Giải pháp                       |

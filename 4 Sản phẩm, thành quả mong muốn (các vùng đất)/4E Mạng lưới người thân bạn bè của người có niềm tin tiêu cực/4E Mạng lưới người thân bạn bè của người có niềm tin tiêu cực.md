@@ -1,3 +1,4 @@
+Thành quả cần có:: [[kj]]
 # Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Xoá bỏ sự mỉa mai, thù ghét]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét]]
@@ -25,6 +26,7 @@ Thành quả hỗ trợ:: [[q Cuộc sống không tạo nhiều căng thẳng c
 Hoạt động:: [[Tập huấn các kỹ năng CTXH cho bạn bè người thân của người có niềm tin tiêu cực]]
 Hoạt động:: [[Tổ chức các buổi bình luận phim]]
 Hoạt động:: [[Khảo sát sâu người thụ hưởng mạng lưới ntbb]]
+
 
 Thành quả hỗ trợ::
 Ý tưởng tốt hơn::
