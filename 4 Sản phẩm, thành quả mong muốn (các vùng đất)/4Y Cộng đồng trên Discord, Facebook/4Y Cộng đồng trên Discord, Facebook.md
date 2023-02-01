@@ -1,4 +1,4 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng sự gắn kết giữa những người quan tâm]]
 Đáp ứng cho nhu cầu của mình:: [[4A Đám mây chim sáo lông vàng]]
@@ -6,7 +6,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Giảm gánh nặng lên cho Nhật]]
 Đáp ứng cho nhu cầu của mình:: [[Tự động hóa việc tương tác]]
 
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có:: [[5% thành viên đăng bài]]
 Thành quả hỗ trợ:: [[10 người cần học thêm kỹ năng tin tưởng có thể kiếm được người hướng dẫn họ học thông qua vault]]
 Thành quả hỗ trợ:: [[10 người làm dự án thấy tin tưởng rằng có thể tham khảo vault để xây dựng bộ dữ liệu của họ hoặc sử dụng tài nguyên]]
@@ -21,7 +21,7 @@ Người ta bị ngộp bởi lượng thông tin khổng lồ
 
 Hoạt động:: [[Đặt các câu hỏi lên trên Fb, Discord]]
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 Tham gia Discord của Quả Cầu nếu bạn cần:
 • Hỗ trợ hỏi đáp cho những bạn tự học quản lý dự án hoặc lập trình (Obsidian, WordPress, git, LaTeX, JavaScript, regex, Neo4j, v.v.) 
 • Thảo luận kiến thức liên ngành (vật lý, toán, khoa học học, triết học, v.v.) 

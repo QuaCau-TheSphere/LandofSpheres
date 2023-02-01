@@ -1,4 +1,4 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Xoá bỏ sự mỉa mai, thù ghét]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo môi trường để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình]]
@@ -7,7 +7,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
 Đáp ứng cho nhu cầu của mình:: [[Chứng minh tính khả thi của sự dũng cảm]]
 
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có:: [[Người có niềm tin tiêu cực sẽ thay đổi]]
 Thành quả cần có:: [[r.1 Các thành viên dành thời gian đóng góp cho mạng lưới]]
 Thành quả cần có:: [[r.2 Sự lo lắng về những rủi ro khi mạng lưới phát triển không còn nữa]]
@@ -33,7 +33,7 @@ Thành quả hỗ trợ::
 Điểm yếu::
 Đối tượng thụ hưởng::
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 ## FAQ
 <iframe src="https://trello.com/b/SR0XCsvv"> </iframe>
 Một trong những nguyên nhân dẫn đến phân biệt đối xử là từ định kiến. Như vậy, một trong những giải pháp để xoá bỏ sự phân biệt đối xử là giải quyết định kiến. Chúng tôi muốn thử cách tiếp cận này.

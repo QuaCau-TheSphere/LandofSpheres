@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": true,
   "selectionHistoryTree": {
-    "tccv": {
-      "Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến": {
-        "customDictionary": {
-          "count": 6,
-          "lastUpdated": 1672317132147
-        }
-      }
-    },
     "cungchude": {
       "Các note cũng nói về chủ đề này:\n```dataview \nList\nWhere contains(file.name,split(this.file.name,\" \\(\")[0]) and file.path!=this.file.path\n```": {
         "customDictionary": {
@@ -166,8 +158,8 @@
     "kkk, tqmm": {
       "Thành quả cần có::": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1674622090150
+          "count": 2,
+          "lastUpdated": 1675195937027
         }
       }
     }

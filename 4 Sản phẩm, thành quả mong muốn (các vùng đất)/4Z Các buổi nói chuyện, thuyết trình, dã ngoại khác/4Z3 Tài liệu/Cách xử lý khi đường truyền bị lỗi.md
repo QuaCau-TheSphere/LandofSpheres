@@ -1,6 +1,6 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình::
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có::
 Thành quả hỗ trợ::
 Ý tưởng tốt hơn::
@@ -9,5 +9,5 @@ Thành quả hỗ trợ::
 Điểm yếu::
 Đối tượng thụ hưởng::
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 ## FAQ

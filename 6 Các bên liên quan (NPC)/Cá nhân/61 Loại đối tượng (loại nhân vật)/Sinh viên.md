@@ -11,6 +11,6 @@ Nhu cầu của loại đối tượng:: [[Tìm nghiệm thể hoặc dữ liệ
 Nhu cầu của mình về loại đối tượng:: [[Trở thành TNV]]
 Hoạt động dành cho họ:: [[Tuyển thêm TNV]]
 Hoạt động dành cho họ:: [[2G Trang hỏi đáp liên lĩnh vực]]
-Hoạt động dành cho họ:: [[Kết nối nhu cầu làm luận của sinh viên]]
+Hoạt động dành cho họ:: [[10 sinh viên thấy được nơi này giúp làm khoá luận của họ]]
 Họ tham gia vào bước nào trong dự án:: 
 Ghi chú::

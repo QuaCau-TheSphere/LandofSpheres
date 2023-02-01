@@ -1,4 +1,4 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Vá lại các lỗ hổng trong kiến thức của mình]]
 Đáp ứng cho nhu cầu của mình:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]] 
 Đáp ứng cho nhu cầu của mình:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
@@ -9,7 +9,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Giảm sự lo sợ của nhà hoạt động xã hội khi được đặt câu hỏi có xu hướng gây hại]]
 Đáp ứng cho nhu cầu của mình:: [[Lan tỏa tinh thần tò mò với điều mình cho là sai, tinh thần đi tìm bằng chứng để phủ định niềm tin của mình. Tạo thói quen vét cạn lập luận, đặt câu hỏi cho mọi người]]
 
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có::
 Thành quả hỗ trợ::
 Ý tưởng tốt hơn::
@@ -24,7 +24,7 @@ Hoạt động:: [[Dịch xong bài thao túng]]
 
 
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 Dự án Quả Cầu hướng đến việc thay đổi niềm tin của người có niềm tin tiêu cực, bao gồm người gây bạo hành hoặc người có [sự bất lực học được](https://Quảcầu.com/su-bat-luc-hoc-duoc?utm_source=F%20%C2%BB%20Equali-tea%20%C2%BB%20d%E1%BB%8Bch%20t%E1%BB%B1%20ch%E1%BB%A7&utm_medium=S%E1%BB%B1%20b%E1%BA%A5t%20l%E1%BB%B1c%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0%20g%C3%AC%3F&utm_campaign=Gi%E1%BB%9Bi%20thi%E1%BB%87u). Điều này đòi hỏi sự can thiệp mạnh mẽ từ bên ngoài, và nếu không cẩn thận sẽ dễ can thiệp sâu vào sự tự trị (autonomy) của họ. Tuy nhiên tự trị cũng có tự trị this tự trị that. Có những lúc nếu chúng ta không vi phạm sự tự trị cục bộ (local autonomy) của họ thì sẽ làm hại sự tự trị tổng thể (global autonomy) của họ. Điều đó đòi hỏi những người hỗ trợ cần phải có kiến thức thật chắc về bản chất của tự trị cũng như những vấn đề liên quan. Dự án dịch này cũng chỉ mong muốn phổ biến những kiến thức đó cho mọi người. Chúng cũng là trọng tâm của các tranh luận về nhân quyền, pháp luật, triết học, xã hội học, tâm lý học, công tác xã hội, y tế...
 
 Theo quan sát của chúng tôi, có vẻ như từ "autonomy" sẽ được dịch là "tự chủ" trong giáo dục và tâm lý học, "tự trị" trong triết học, "tự quyết" trong y tế và pháp luật.

@@ -6,12 +6,11 @@ Phục vụ cho những nhu cầu này của mình:
 ```dataview
 list where contains(tương-ứng-với-thành-quả-cần-có,[[]])
 ```
-- [ ] 2023-01-24: <% tp.file.cursor() %> (tỉ lệ x
 
 Thành quả cần có::
 Thành quả hỗ trợ::
 Ý tưởng tốt hơn::
-Thành phẩm::
+Hoạt động::
 
 Điểm mạnh::
 Điểm yếu::

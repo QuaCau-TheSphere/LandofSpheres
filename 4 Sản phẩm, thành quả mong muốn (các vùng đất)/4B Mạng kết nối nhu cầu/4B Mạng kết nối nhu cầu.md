@@ -1,4 +1,4 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Giảm gánh nặng công việc cho những người tham gia để họ có thể dành toàn thời gian cho QC]]
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV lập trình]]
@@ -6,7 +6,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo ra một thứ không ai có thể cưỡng lại được]]
 Có cách để ghi lại nhu cầu mà không quá mất công
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có:: [[50 người đóng góp trên 10 lần vào mạng kết nối nhu cầu]]
 Thành quả cần có:: [[Có cách để đi tới nhóm nào cũng có thể khiến họ muốn tham gia]]
 Thành quả hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]]
@@ -23,7 +23,7 @@ Thành quả hỗ trợ:: [[2C Nhóm hỗ trợ cho người tự học quản l
 Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 Mô tả ý tưởng sàn trao đổi nhu cầu:
 Sàn trao đổi nhu cầu là một nền tảng online để cộng đồng người dùng có thể đăng ký thông tin cá nhân (bản thân họ có nhu cầu gì và có gì để trao đổi) và tìm đối tượng / đội nhóm để trao đổi. Thứ dùng để trao đổi là nhu cầu cá nhân (học ngoại ngữ, cải thiện kỹ năng, vv) hoặc đồ vật, vân vân.  
 Sàn nhu cầu có giao diện là một trang website trên Quacau.cc để người dùng có thể làm những điều sau:

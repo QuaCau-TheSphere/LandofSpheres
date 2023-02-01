@@ -1,6 +1,6 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Thử nghiệm ý tưởng một tổ chức không cần hạn chót và trách nhiệm. Chứng minh sự bền vững của sự thong thả]] ^835d21
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có:: [[5 người thường xuyên đóng góp vào vault]]
 Thành quả cần có:: [[3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm]]
 Thành quả cần có:: [[20 người trong nhóm ❝Một đám mây chim sáo❞ hoạt động sôi nổi]]

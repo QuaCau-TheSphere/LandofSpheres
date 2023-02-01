@@ -1,7 +1,7 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
 
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có:: [[Người cho rằng mình có phát kiến mới đặt câu hỏi về...]]
 Thành quả cần có:: [[Người cho rằng tâm linh ưu việt hơn khoa học đặt câu hỏi về...]]
 Thành quả cần có:: [[Người sử dụng khoa học để làm cơ sở cho niềm tin tâm linh đặt câu hỏi về...]]
@@ -17,7 +17,7 @@ Thành quả cần có:: [[4 Sản phẩm, Thành quả cần có (các vùng đ
 - Người có niềm tin phản khoa học, phê phán khoa học nhưng không vào trọng tâm
 - Người đơn thuần chỉ là có đam mê nghiên cứu nhưng không có nhiều thời gian hoặc được đào tạo chuyên nghiệp
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 
 Các lĩnh vực thường gặp: vật lý, toán học, tâm lý học, lịch sử, ngôn ngữ học
 

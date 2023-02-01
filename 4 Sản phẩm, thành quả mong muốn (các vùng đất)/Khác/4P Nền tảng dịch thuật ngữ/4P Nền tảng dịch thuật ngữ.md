@@ -1,11 +1,11 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
 Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
 Đáp ứng cho nhu cầu của mình:: [[Trở thành đề tài nghiên cứu cho sinh viên]]
 Đáp ứng cho nhu cầu của mình:: [[Có thêm uy tín]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Phục vụ cho Thành quả cần có:
 ```dataview
 list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
@@ -29,16 +29,16 @@ Hoạt động::
 
 
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
 Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
 Đáp ứng cho nhu cầu của mình:: [[Trở thành các đề tài cho các bài luận của sinh viên]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo uy tín]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có::
 
 Hoạt động::
@@ -47,7 +47,7 @@ Hoạt động::
 Điểm yếu::
 Đối tượng thụ hưởng::
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 Bài thứ 100 của blog là một ý tưởng cũ của mình về dịch thuật ngữ, ra đời sau khi thấy các thảo luận về thuật ngữ cứ bỉ tản mác. Có lẽ mình sẽ không bao giờ có thời gian để làm chuyện này, nhưng bỏ xó thì phí quá. Ai thấy ý tưởng hay cứ lấy tự nhiên. Nếu lập nhóm thì mình cũng sẽ tham gia góp ý.
 
 ## Lý do dự án

@@ -1,7 +1,7 @@
 ---
 Alias: mạng lưới câu hỏi liên ngành
 ---
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Vá lại các lỗ hổng trong kiến thức của mình]]
 Đáp ứng cho nhu cầu của mình:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
 Đáp ứng cho nhu cầu của mình:: [[Thấy được giới hạn của lập luận của mình]]
@@ -12,7 +12,7 @@ Alias: mạng lưới câu hỏi liên ngành
 Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
 Đáp ứng cho nhu cầu của mình:: [[Giảm sự lo sợ của nhà hoạt động xã hội khi được đặt câu hỏi có xu hướng gây hại]]
 Đáp ứng cho nhu cầu của mình:: [[Lan tỏa tinh thần tò mò với điều mình cho là sai, tinh thần đi tìm bằng chứng để phủ định niềm tin của mình. Tạo thói quen vét cạn lập luận, đặt câu hỏi cho mọi người]]
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có::
 	
 Hoạt động::
@@ -27,7 +27,7 @@ Hoạt động:: [[Liên lạc với từng người để phỏng vấn về su
 Hoạt động:: [[Tìm hiểu công cụ phù hợp để đăng lên web]]
 Hoạt động:: [[Code mạng lưới câu hỏi liên ngành]]
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 
 Khai thác kiến thức của nhau
 

@@ -1,4 +1,4 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Vá lại các lỗ hổng trong kiến thức của mình]]
 Đáp ứng cho nhu cầu của mình:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
 Đáp ứng cho nhu cầu của mình:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
@@ -15,7 +15,7 @@
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 Đáp ứng cho nhu cầu của mình:: [[Tăng sự gắn kết giữa những người quan tâm]]
 Đáp ứng cho nhu cầu của mình:: [[1 Nhu cầu/11 Nhu cầu của Quả Cầu/112 Nhu cầu muốn mọi người làm/Ủng hộ tiền]]
-# Thực thể khi được nhìn như là Thành quả cần có
+# Thành quả cần có
 Thành quả cần có::
 
 Hoạt động:: [[Truyền thông về mạng lưới niềm tin và mạng lưới câu hỏi liên ngành]]
@@ -26,5 +26,5 @@ Hoạt động:: [[Tổ chức các buổi nói chuyện chia sẻ về suy ngh�
 Điểm yếu::
 Đối tượng thụ hưởng::
 
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 ![[14 Tổ chức sự kiện]]

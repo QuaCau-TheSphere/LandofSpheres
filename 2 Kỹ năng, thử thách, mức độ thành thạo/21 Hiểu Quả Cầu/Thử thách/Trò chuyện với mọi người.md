@@ -6,6 +6,6 @@
 	- [ ] Những suy tư về cuộc sống của mình
 - [ ] Tạo một hồ sơ của mình trong folder 62 
 - [ ] Tham gia vault kết nối nhu cầu
-- [ ] [[Thảo luận về những quan điểm với nhau]]
+- [ ] [[Hiểu được nguồn gốc của quan điểm khác biệt và thấy được giá trị của nó cũng như giới hạn của quan điểm của mình]]
 - [ ] Bật cam khi gọi 👁️
 <iframe src="https://discord.com/widget?id=898550123007709204&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

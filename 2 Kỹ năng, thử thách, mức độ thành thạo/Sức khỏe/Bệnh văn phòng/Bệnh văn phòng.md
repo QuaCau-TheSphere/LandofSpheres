@@ -1,0 +1,4 @@
+- [[Ghế ngồi]]
+- [[Gù lưng do nhìn điện thoại quá nhiều]]
+- [[Viêm loét dạ dày do giờ ăn không đảm bảo]]
+- [[Rối loạn giấc ngủ do thức khuya nhiều]]

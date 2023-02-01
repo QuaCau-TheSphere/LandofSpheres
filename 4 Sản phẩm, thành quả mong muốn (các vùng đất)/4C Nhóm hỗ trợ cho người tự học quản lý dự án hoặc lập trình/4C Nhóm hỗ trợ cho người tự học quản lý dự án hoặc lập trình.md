@@ -1,11 +1,11 @@
-# Thực thể khi được nhìn như là nhu cầu
+# Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV lập trình]]
 Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
 Đáp ứng cho nhu cầu của mình:: [[1 Nhu cầu/11 Nhu cầu của Quả Cầu/112 Nhu cầu muốn mọi người làm/Ủng hộ tiền]]
 Đáp ứng cho nhu cầu của mình:: [[Cho mọi người thấy QC có những sản phẩm thú vị, cần thiết, rõ ràng, dễ làm]]
 Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
 
-# Thực thể khi được nhìn như là mục tiêu
+# Mục tiêu
 Thành quả cần có:: [[5 người chủ động chia sẻ kỹ năng cho người mới]]
 Thành quả cần có:: [[10 người làm dự án thấy tin tưởng rằng có thể tham khảo vault để xây dựng bộ dữ liệu của họ hoặc sử dụng tài nguyên]]
 Thành quả cần có:: [[10 người tự nhận mình mù công nghệ tin tưởng rằng vault sẽ cho lộ trình để rành hơn]]
@@ -30,7 +30,7 @@ Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
 Hoạt động:: [[Làm chuỗi video hướng dẫn sử dụng vault]]
 Hoạt động:: [[Làm video cho Obsidian]]
-# Thực thể khi được nhìn như là sản phẩm
+# Sản phẩm
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
 You can't think about thinking if you don't think about something

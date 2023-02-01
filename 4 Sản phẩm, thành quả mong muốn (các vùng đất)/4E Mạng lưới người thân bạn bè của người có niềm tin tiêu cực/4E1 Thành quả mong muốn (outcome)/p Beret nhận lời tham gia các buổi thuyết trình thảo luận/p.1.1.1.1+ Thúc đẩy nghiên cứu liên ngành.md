@@ -8,4 +8,4 @@ Hoạt động::
 Điểm yếu::
 Đối tượng thụ hưởng::
 Hoạt động:: [[2G Trang hỏi đáp liên lĩnh vực]] 
-Hoạt động:: [[Kết nối nhu cầu làm luận của sinh viên]]
+Hoạt động:: [[10 sinh viên thấy được nơi này giúp làm khoá luận của họ]]
