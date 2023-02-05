@@ -6,6 +6,7 @@
 Thành quả cần có:: [[30 người làm khảo sát về sự nuông chiều và bản chất của hạnh phúc]]
 Thành quả cần có:: [[30 người làm khảo sát về sự tác động]]
 Thành quả cần có:: [[30 người làm khảo sát về sự tác động]]
+Thành quả cần có:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/4H Đồ thị mạng lưới 100+ niềm tin trong xã hội/30 người sử dụng đồ thị]]
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng::

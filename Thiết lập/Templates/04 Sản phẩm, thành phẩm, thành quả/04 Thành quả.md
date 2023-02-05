@@ -1,4 +1,4 @@
-<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
+<sub>Ngày tạo: `=this.file.cday` •  Ngày sửa lần cuối: `=this.file.mday`</sub>
 
 Trạng thái::
 Độ cấp thiết:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('đct')))) %>
@@ -28,7 +28,6 @@ pathToMove = "/" + folderChứaThànhQuảĐầuRa + "/" + chỉMục | "1 Thàn
 } else {
 pathToMove = "/" + folderChứaThànhQuảĐầuRa + "/"
 } 
-tR+=folderChứaThànhQuảĐầuRa+"\n"+chỉMục+"\n"+pathToMove
 
 tp.file.move(pathToMove + tp.file.title) 
 %>

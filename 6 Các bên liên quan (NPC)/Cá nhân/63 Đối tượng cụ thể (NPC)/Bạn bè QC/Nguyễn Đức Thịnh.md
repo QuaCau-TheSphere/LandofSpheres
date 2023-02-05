@@ -18,7 +18,7 @@ Email:: thinhnguyen2137@gmail.com
 Giới:: Nam
 Nơi ở hiện tại:: TP.HCM
 SĐT:: (091) 836-8652
-Đánh giá chung:: 1
+Đánh giá chung:: ❌
 Ngành nghề hiện tại/dự tính sẽ làm:: Freelancer
 Link:: https://www.facebook.com/dyingfishinthebackyard/
 Thành quả cần có năm nay:: Kiếm được việc ổn định

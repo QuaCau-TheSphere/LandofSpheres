@@ -55,50 +55,6 @@
         }
       }
     },
-    "mermaid": {
-      "```mermaid\\ngantt\\n\\tdateFormat  YYYY-MM-DD\\n\\ttitle\\t   Adding GANTT diagram functionality to mermaid\\n\\texcludes\\tweekends\\n\\t%% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week (\"sunday\") or \"weekends\", but not the word \"weekdays\".)\\n\\n\\tsection A section\\n\\tCompleted task\\t\\t\\t:done,\\tdes1, 2014-01-06,2014-01-08\\n\\tActive task\\t\\t\\t   :active,  des2, 2014-01-09, 3d\\n\\tFuture task\\t\\t\\t   :\\t\\t des3, after des2, 5d\\n\\tFuture task2\\t\\t\\t  :\\t\\t des4, after des3, 5d\\n\\n\\tsection Critical tasks\\n\\tCompleted task in the critical line :crit, done, 2014-01-06,24h\\n\\tImplement parser and jison\\t\\t  :crit, done, after des1, 2d\\n\\tCreate tests for parser\\t\\t\\t :crit, active, 3d\\n\\tFuture task in critical line\\t\\t:crit, 5d\\n\\tCreate tests for renderer\\t\\t   :2d\\n\\tAdd to mermaid\\t\\t\\t\\t\\t  :1d\\n\\tFunctionality added\\t\\t\\t\\t :milestone, 2014-01-25, 0d\\n\\n\\tsection Documentation\\n\\tDescribe gantt syntax\\t\\t\\t   :active, a1, after des1, 3d\\n\\tAdd gantt diagram to demo page\\t  :after a1  , 20h\\n\\tAdd another diagram to demo page\\t:doc1, after a1  , 48h\\n\\n\\tsection Last section\\n\\tDescribe gantt syntax\\t\\t\\t   :after doc1, 3d\\n\\tAdd gantt diagram to demo page\\t  :20h\\n\\tAdd another diagram to demo page\\t:48h\\n```": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672660668542
-        }
-      },
-      "```mermaid\ngantt\n\tdateFormat  YYYY-MM-DD\n\ttitle\t   Adding GANTT diagram functionality to mermaid\n\texcludes\tweekends\n\t%% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week (\"sunday\") or \"weekends\", but not the word \"weekdays\".)\n\n\tsection A section\n\tCompleted task\t\t\t:done,\tdes1, 2014-01-06,2014-01-08\n\tActive task\t\t\t   :active,  des2, 2014-01-09, 3d\n\tFuture task\t\t\t   :\t\t des3, after des2, 5d\n\tFuture task2\t\t\t  :\t\t des4, after des3, 5d\n\n\tsection Critical tasks\n\tCompleted task in the critical line :crit, done, 2014-01-06,24h\n\tImplement parser and jison\t\t  :crit, done, after des1, 2d\n\tCreate tests for parser\t\t\t :crit, active, 3d\n\tFuture task in critical line\t\t:crit, 5d\n\tCreate tests for renderer\t\t   :2d\n\tAdd to mermaid\t\t\t\t\t  :1d\n\tFunctionality added\t\t\t\t :milestone, 2014-01-25, 0d\n\n\tsection Documentation\n\tDescribe gantt syntax\t\t\t   :active, a1, after des1, 3d\n\tAdd gantt diagram to demo page\t  :after a1  , 20h\n\tAdd another diagram to demo page\t:doc1, after a1  , 48h\n\n\tsection Last section\n\tDescribe gantt syntax\t\t\t   :after doc1, 3d\n\tAdd gantt diagram to demo page\t  :20h\n\tAdd another diagram to demo page\t:48h\n```": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672660729156
-        }
-      },
-      "```mermaid\ngantt\n    dateFormat  YYYY-MM-DD\n    title       Adding GANTT diagram functionality to mermaid\n    excludes    weekends\n    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week (\"sunday\") or \"weekends\", but not the word \"weekdays\".)\n\n    section A section\n    Completed task            :done,    des1, 2014-01-06,2014-01-08\n    Active task               :active,  des2, 2014-01-09, 3d\n    Future task               :         des3, after des2, 5d\n    Future task2              :         des4, after des3, 5d\n\n    section Critical tasks\n    Completed task in the critical line :crit, done, 2014-01-06,24h\n    Implement parser and jison          :crit, done, after des1, 2d\n    Create tests for parser             :crit, active, 3d\n    Future task in critical line        :crit, 5d\n    Create tests for renderer           :2d\n    Add to mermaid                      :1d\n    Functionality added                 :milestone, 2014-01-25, 0d\n\n    section Documentation\n    Describe gantt syntax               :active, a1, after des1, 3d\n    Add gantt diagram to demo page      :after a1  , 20h\n    Add another diagram to demo page    :doc1, after a1  , 48h\n\n    section Last section\n    Describe gantt syntax               :after doc1, 3d\n    Add gantt diagram to demo page      :20h\n    Add another diagram to demo page    :48h\n```": {
-        "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1672674566717
-        }
-      }
-    },
-    "## Mermaid": {
-      "## Mermaid": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672681129205
-        }
-      }
-    },
-    "mmm": {
-      "Thành quả cần có::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672822403619
-        }
-      }
-    },
-    "nc": {
-      "Đáp ứng cho nhu cầu của mình::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1672901391530
-        }
-      }
-    },
     "vvl": {
       "Lý do::": {
         "customDictionary": {
@@ -118,8 +74,16 @@
     "kkk, tqmm": {
       "Thành quả cần có::": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1675228383418
+          "count": 10,
+          "lastUpdated": 1675574438637
+        }
+      }
+    },
+    "ttq, ch, cauhoi": {
+      "❓::": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675526689644
         }
       }
     }

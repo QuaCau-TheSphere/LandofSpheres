@@ -31,6 +31,7 @@ List from "3 Kiến thức, câu hỏi/31 Khái niệm" where contains(chủ-đ�
 ❓:: [[So với các hình thức trị liệu tâm lý khác, việc tu tập có hiệu quả như thế nào trong việc chữa lành？]]
 ❓:: [[Nếu như việc sử dụng triết học phương Đông cũng tuỳ vào sự phù hợp thời điểm, thì thời điểm nào là nó không phù hợp？]]
 ❓:: [[Các tôn giáo khác như Công giáo học tập Phật giáo như thế nào？]]
+❓:: [[ Từ bi với platonic love có gì khác nhau？]]
 
 
 Chủ đề:: [[Đạo đức]]

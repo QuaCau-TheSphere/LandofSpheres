@@ -1,4 +1,4 @@
-# Tạo query dql từ danh sách các key
+# Tạo query DQL từ danh sách các key
 Do that in several steps. 
 1) `^.*$` ⇒ `$& as "$&"`
 2) `(?:\G|^\S*)\K\h+(?=.* as ".*"$)` ⇒ `-,`

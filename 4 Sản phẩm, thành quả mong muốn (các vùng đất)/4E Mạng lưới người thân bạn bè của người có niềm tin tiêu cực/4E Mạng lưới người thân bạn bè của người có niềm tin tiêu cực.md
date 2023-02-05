@@ -1,4 +1,3 @@
-Thành quả cần có:: [[kj]]
 # Nhu cầu
 Đáp ứng cho nhu cầu của mình:: [[Xoá bỏ sự mỉa mai, thù ghét]]
 Đáp ứng cho nhu cầu của mình:: [[Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét]]

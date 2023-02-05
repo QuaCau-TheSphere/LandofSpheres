@@ -1,4 +1,4 @@
-Mô tả::
+Mô tả:: Người chưa đủ tự tin để tự vọc. Xong mức độ này sẽ thấy thú vị và có thể tự vọc
 # Mức độ thành thạo
 # Thử thách
 - [ ] Tạo vault mới

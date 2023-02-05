@@ -1,11 +1,14 @@
-Phục vụ cho Thành quả cần có:
+<sub>Ngày tạo: `=this.file.cday` •  Ngày sửa lần cuối: `=this.file.mday`</sub>
+
+Trạng thái::
+Độ cấp thiết:: #đct-🔥/muốnlàmngay
+Người chơi::
+
+Phục vụ cho thành quả mong muốn:
 ```dataview
 list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
 ```
-Phục vụ cho những nhu cầu này của mình:
-```dataview
-list where contains(tương-ứng-với-thành-quả-cần-có,[[]])
-```
+
 - [ ] 2023-01-17: 5 người
 
 Thành quả cần có:: [[15 người thấy không thể không giúp vault phát triển]]

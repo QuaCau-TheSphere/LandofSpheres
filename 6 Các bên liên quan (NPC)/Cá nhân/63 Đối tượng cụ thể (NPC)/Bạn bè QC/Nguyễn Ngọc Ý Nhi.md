@@ -3,7 +3,7 @@ Loại đối tượng:: [[Người theo dõi QC]]
 Nhu cầu của đối tượng:: [[Truy cầu tri thức]]
 Điều đối tượng thấy ở QC:: [[Nên học văn bằng 2 tâm lý]], [[Đường lối phát triển không rõ ràng]], [[Người đứng đầu thiếu sự cởi mở cho những cách thức xử lý vấn đề]]
 Hoạt động nhận làm trong tổ chức:: [[Tổ chức các buổi nói chuyện thân mật để chia sẻ về cuộc sống của nhau]]
-Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: 1
+Các hoạt động của QC đã đáp ứng kỳ vọng của bạn thế nào?:: ❌
 Ngành nghề hiện tại/dự tính sẽ làm:: Người chữa lành, Coach, nhà tâm lý học trị liệu
 Trong năm nay bạn đang có những Thành quả cần có gì?:: Hoàn tất các khoá huấn luyện về tâm thức, phát triển bản thân Xây dựng thương hiệu cá nhân
 Dự định tương lai trong 5 năm tới:: Thạc sỹ tâm lý học Trung tâm ứng dụng tâm lý và chữa lành

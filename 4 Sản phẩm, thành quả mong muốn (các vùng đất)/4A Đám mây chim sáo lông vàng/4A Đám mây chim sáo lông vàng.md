@@ -4,7 +4,6 @@
 Thành quả cần có:: [[5 người thường xuyên đóng góp vào vault]]
 Thành quả cần có:: [[3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm]]
 Thành quả cần có:: [[20 người trong nhóm ❝Một đám mây chim sáo❞ hoạt động sôi nổi]]
-tỉ lệ quay lại
 Điểm mạnh::
 Điểm yếu::
 Đối tượng thụ hưởng:: [[Người thân, bạn bè của người có niềm tin tiêu cực (Danish)]], [[Tình nguyện viên QC]], [[Người tham gia các buổi họp]], [[Người muốn xây dựng QC, lan toả tinh thần QC]]

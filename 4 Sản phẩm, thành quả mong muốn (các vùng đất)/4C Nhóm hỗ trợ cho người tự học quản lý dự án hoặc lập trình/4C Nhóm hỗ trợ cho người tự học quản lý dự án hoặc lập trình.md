@@ -9,6 +9,7 @@
 Thành quả cần có:: [[5 người chủ động chia sẻ kỹ năng cho người mới]]
 Thành quả cần có:: [[10 người làm dự án thấy tin tưởng rằng có thể tham khảo vault để xây dựng bộ dữ liệu của họ hoặc sử dụng tài nguyên]]
 Thành quả cần có:: [[10 người tự nhận mình mù công nghệ tin tưởng rằng vault sẽ cho lộ trình để rành hơn]]
+Thành quả cần có:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/10 người trong nhóm Obsidian tiếng Việt tải vault về]]
 - Công thái học, bệnh văn phòng
 - Quản lý cuộc sống, hiểu bản thân
 - Ứng dụng của khoa học nhận thức trong việc học hoặc quản lý dự án:
@@ -34,7 +35,6 @@ Hoạt động:: [[Làm video cho Obsidian]]
 Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
 You can't think about thinking if you don't think about something
-Know enough to be dangerous, nhưng đồng thời cũng giúp bạn thấy được những lĩnh vực nào để tìm người hỗ trợ. Vì nhiều khi những người đủ khả năng và sẵn sàng hỗ trợ bạn tồn tại ở đâu đó, nhưng bạn lại không biết tìm họ ở đâu
 
 Phù hợp cho các bạn đã từng thử cài website Wordpress 
 Thường là ít tiền, nhân sự, phải kiêm nhiệm nhiều nhiệm vụ. Khi cần làm thì lại trongcown nảy ý tưởng 
