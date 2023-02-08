@@ -1,4 +1,4 @@
-#đct-❄️Khôngquantrọng
+#đct-❄️/chưaquantrọng
 Trạng thái:: #tt-⚪/chưabắtđầubàn
 Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
 Người chơi::

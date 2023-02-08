@@ -1,10 +1,10 @@
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Giảm gánh nặng công việc cho những người tham gia để họ có thể dành toàn thời gian cho QC]]
-Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
-Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV lập trình]]
-Đáp ứng cho nhu cầu của mình: [[Tăng sự gắn kết giữa các thành viên]]
-Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
-Đáp ứng cho nhu cầu của mình:: [[Tạo ra một thứ không ai có thể cưỡng lại được]]
+Nhu cầu dẫn tới:: [[Giảm gánh nặng công việc cho những người tham gia để họ có thể dành toàn thời gian cho QC]]
+Nhu cầu dẫn tới:: [[Có được sự chú ý của cộng đồng]]
+Nhu cầu dẫn tới:: [[Có thêm TNV lập trình]]
+Nhu cầu dẫn tới: [[Tăng sự gắn kết giữa các thành viên]]
+Nhu cầu dẫn tới:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
+Nhu cầu dẫn tới:: [[Tạo ra một thứ không ai có thể cưỡng lại được]]
 Có cách để ghi lại nhu cầu mà không quá mất công
 # Thành quả cần có
 Thành quả cần có:: [[50 người đóng góp trên 10 lần vào mạng kết nối nhu cầu]]

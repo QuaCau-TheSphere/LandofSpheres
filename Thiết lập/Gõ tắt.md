@@ -1,21 +1,25 @@
 # 1 Nhu cầu
-Đáp ứng cho nhu cầu của mình::		nc
+Nhu cầu dẫn tới::		nc
+Nhu cầu phát sinh::		nc
 
 # 3 Kiến thức, câu hỏi
-❓::		ttq, ch, cauhoi
-Chủ đề::		ttw, cd
-Trả lời:: 		tte, tl
+❓::		ktq, ch, cauhoi
+Chủ đề::		ktw, cd, chude
+Trả lời:: 		kte, tl
 
-# 4 Thành quả mong muốn
+# 4 Sản phẩm, thành quả mong muốn
 Thành quả cần có::		kkk, tqmm
 Thành quả hỗ trợ::		kkk
+Thành phẩm:: 
+Thành phẩm nhỏ hơn:: 
+
 Hướng đến thời gian::		kkh
 Đi chung::		kkd
 Đối tượng thụ hưởng::		kkd
 Ý tưởng tốt hơn::		kky
 Hoạt động::		kkh
 
-# 5 Vấn đề
+# 5 SWOT, giá trị cốt lõi
 Lý do::		vvl, ld
 Là vấn đề cho hoạt động::		vvh
 
@@ -35,6 +39,7 @@ Mô hình::		bbm
 Loại sứ mệnh:: 		bbll
 
 Tiếp theo:: 		tt
+
 # 7 Công việc 
 Công việc thành phần::		cvt
 next::		cvn
@@ -51,7 +56,7 @@ Tóc đen:: 		td
 
 
 Tài liệu::		xt
-Mâu thuẫn		kt
+Mâu thuẫn::		mt
 
 # Code nhanh
 ## Dataview

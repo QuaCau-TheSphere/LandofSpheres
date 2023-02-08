@@ -8,7 +8,7 @@ border: off
 ```
 
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-#đct-❄️/khôngquantrọng
+#đct-❄️/chưaquantrọng
 Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến 
 
 === end-column ===

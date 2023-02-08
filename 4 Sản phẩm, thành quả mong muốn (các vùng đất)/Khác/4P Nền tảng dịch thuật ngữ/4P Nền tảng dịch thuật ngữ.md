@@ -1,14 +1,14 @@
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
-Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
-Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
-Đáp ứng cho nhu cầu của mình:: [[Trở thành đề tài nghiên cứu cho sinh viên]]
-Đáp ứng cho nhu cầu của mình:: [[Có thêm uy tín]]
-Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
+Nhu cầu dẫn tới:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
+Nhu cầu dẫn tới:: [[Có thêm TNV nghiên cứu]]
+Nhu cầu dẫn tới:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
+Nhu cầu dẫn tới:: [[Trở thành đề tài nghiên cứu cho sinh viên]]
+Nhu cầu dẫn tới:: [[Có thêm uy tín]]
+Nhu cầu dẫn tới:: [[Tăng SEO]]
 # Thành quả cần có
-Phục vụ cho Thành quả cần có:
+Phục vụ cho thành quả mong muốn:
 ```dataview
-list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
+list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]])
 ```
 Phục vụ cho những nhu cầu này của mình:
 ```dataview
@@ -32,12 +32,12 @@ Hoạt động::
 # Sản phẩm
 
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
-Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
-Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
-Đáp ứng cho nhu cầu của mình:: [[Trở thành các đề tài cho các bài luận của sinh viên]]
-Đáp ứng cho nhu cầu của mình:: [[Tạo uy tín]]
-Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
+Nhu cầu dẫn tới:: [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
+Nhu cầu dẫn tới:: [[Có thêm TNV nghiên cứu]]
+Nhu cầu dẫn tới:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
+Nhu cầu dẫn tới:: [[Trở thành các đề tài cho các bài luận của sinh viên]]
+Nhu cầu dẫn tới:: [[Tạo uy tín]]
+Nhu cầu dẫn tới:: [[Tăng SEO]]
 # Thành quả cần có
 Thành quả cần có::
 

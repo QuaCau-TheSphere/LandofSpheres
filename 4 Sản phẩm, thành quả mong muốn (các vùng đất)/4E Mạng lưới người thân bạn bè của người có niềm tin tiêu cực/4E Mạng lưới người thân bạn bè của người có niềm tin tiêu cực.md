@@ -1,11 +1,11 @@
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Xoá bỏ sự mỉa mai, thù ghét]]
-Đáp ứng cho nhu cầu của mình:: [[Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét]]
-Đáp ứng cho nhu cầu của mình:: [[Tạo môi trường để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình]]
-Đáp ứng cho nhu cầu của mình:: [[Tạo động lực đối thoại đến cùng của những người có quan điểm khác nhau]]
-Đáp ứng cho nhu cầu của mình:: [[Giúp những người muốn tác động bạn mình có thêm thời gian rảnh rỗi]]
-Đáp ứng cho nhu cầu của mình:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
-Đáp ứng cho nhu cầu của mình:: [[Chứng minh tính khả thi của sự dũng cảm]]
+Nhu cầu dẫn tới:: [[Xoá bỏ sự mỉa mai, thù ghét]]
+Nhu cầu dẫn tới:: [[Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét]]
+Nhu cầu dẫn tới:: [[Tạo môi trường để mỗi người có thể thấy được những giới hạn trong những niềm tin của mình]]
+Nhu cầu dẫn tới:: [[Tạo động lực đối thoại đến cùng của những người có quan điểm khác nhau]]
+Nhu cầu dẫn tới:: [[Giúp những người muốn tác động bạn mình có thêm thời gian rảnh rỗi]]
+Nhu cầu dẫn tới:: [[Tạo ra sự trong trong và yên ả ở mỗi thành viên. Đáp ứng những nhu cầu họ đã phải chôn vùi]]
+Nhu cầu dẫn tới:: [[Chứng minh tính khả thi của sự dũng cảm]]
 
 # Thành quả cần có
 Thành quả cần có:: [[Người có niềm tin tiêu cực sẽ thay đổi]]

@@ -1,17 +1,18 @@
-Phục vụ cho Thành quả cần có:
-```dataview
-list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
-```
-Phục vụ cho những nhu cầu này của mình:
-```dataview
-list where contains(tương-ứng-với-thành-quả-cần-có,[[]])
-```
-- [ ] 2023-01-24:  (tỉ lệ x
+# Mô tả
+Mô tả::
+Description::
+
+# Nhu cầu
+Nhu cầu dẫn tới:: [[Có được sự chú ý của cộng đồng]]
+Nhu cầu phát sinh::
+
+# Vận hành
+Người chơi::
 
 Thành quả cần có::
 Thành quả hỗ trợ::
-Ý tưởng tốt hơn::
-Thành phẩm::
+
+Thành phẩm nhỏ hơn::
 
 Điểm mạnh::
 Điểm yếu::

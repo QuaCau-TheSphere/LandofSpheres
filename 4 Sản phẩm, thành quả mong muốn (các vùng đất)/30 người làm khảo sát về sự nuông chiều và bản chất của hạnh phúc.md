@@ -1,7 +1,7 @@
 <sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
 
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-Độ cấp thiết:: #đct-❄️/khôngquantrọng
+Độ cấp thiết:: #đct-❄️/chưaquantrọng
 Người chơi::
 
 Phục vụ cho thành quả mong muốn:

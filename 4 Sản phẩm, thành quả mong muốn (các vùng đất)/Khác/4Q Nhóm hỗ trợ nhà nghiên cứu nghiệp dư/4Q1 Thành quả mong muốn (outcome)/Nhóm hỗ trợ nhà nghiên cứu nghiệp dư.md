@@ -1,5 +1,5 @@
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
+Nhu cầu dẫn tới:: [[Có thêm TNV nghiên cứu]]
 
 # Thành quả cần có
 Thành quả cần có:: [[Người cho rằng mình có phát kiến mới đặt câu hỏi về...]]

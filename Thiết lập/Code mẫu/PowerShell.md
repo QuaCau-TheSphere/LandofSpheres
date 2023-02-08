@@ -17,7 +17,7 @@ $list|ForEach-Object {"`"$_`"," } |clip
 ```
 # Đổi tên hàng loạt
 ```PowerShell
-Get-ChildItem *.md -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
+Get-ChildItem -recurse -exclude git | get-childitem -recurse -exclude *.js | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
 ```
 - `-cmatch`: match có case sensitive
 # Tìm và thay chuỗi hàng loạt

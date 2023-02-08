@@ -1,10 +1,10 @@
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Có được sự chú ý của cộng đồng]]
-Đáp ứng cho nhu cầu của mình:: [[Tăng sự gắn kết giữa những người quan tâm]]
-Đáp ứng cho nhu cầu của mình:: [[4A Đám mây chim sáo lông vàng]]
-Đáp ứng cho nhu cầu của mình:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
-Đáp ứng cho nhu cầu của mình:: [[Giảm gánh nặng lên cho Nhật]]
-Đáp ứng cho nhu cầu của mình:: [[Tự động hóa việc tương tác]]
+Nhu cầu dẫn tới:: [[Có được sự chú ý của cộng đồng]]
+Nhu cầu dẫn tới:: [[Tăng sự gắn kết giữa những người quan tâm]]
+Nhu cầu dẫn tới:: [[4A Đám mây chim sáo lông vàng]]
+Nhu cầu dẫn tới:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
+Nhu cầu dẫn tới:: [[Giảm gánh nặng lên cho Nhật]]
+Nhu cầu dẫn tới:: [[Tự động hóa việc tương tác]]
 
 # Thành quả cần có
 Thành quả cần có:: [[5% thành viên đăng bài]]

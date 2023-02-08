@@ -1,6 +1,6 @@
 Hỏi trong nhóm: Đã hỏi xong
 Trạng thái:: #tt-🟢/xong50٪
-#đct-❄️/khôngquantrọng
+#đct-❄️/chưaquantrọng
 Giai đoạn trong tư duy thiết kế:: [Thu thập thông tin/thấu cảm]
 Người chơi::
 Kỹ năng:: [[Phát triển cộng đồng (kỹ năng)]]

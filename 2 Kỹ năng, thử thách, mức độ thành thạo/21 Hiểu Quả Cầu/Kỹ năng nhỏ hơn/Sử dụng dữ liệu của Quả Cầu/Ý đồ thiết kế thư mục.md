@@ -27,6 +27,8 @@ Từ 5 trở đi là cách để biến những thứ ở 4 trở thành hiện 
 Tổ chức nằm ở 8 vì tới lúc này nhu cầu có một tổ chức mới trở nên rõ ràng hơn
 Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi thì để vào 9
 # Phân tích từng thư mục
+## Trang chủ
+Nút bấm nhắc nhở mình nhìn nhận về nhu cầu của mình. Nó cũng tao cảm giác với mỗi một nhu cầu khác nhau QC sẽ biến hình để đáp ứng nhu cầu đó. 
 ## 1 Nhu cầu
 Dẫn tới mạng lưới nhu cầu 
 Phân loại theo lĩnh vực, và phân loại theo MoSCoW

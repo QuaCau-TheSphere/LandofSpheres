@@ -1,5 +1,5 @@
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-#đct-❄️/khôngquantrọng
+#đct-❄️/chưaquantrọng
 Người chơi::
 Kỹ năng:: [[Tổ chức sự kiện (kỹ năng)]], [[Nghiên cứu (kỹ năng)]]
 Phục vụ cho Thành quả cần có:

@@ -18,11 +18,10 @@ Kỹ năng:: [[23 Dùng Git|Dùng Git]]: [[4 Nhà du hành thời gian]], [[22 D
 
 === multi-column-end
 
-# Kỹ năng hoặc chủ đề quan tâm
-# Công việc tôi nhận làm
+# Sản phẩm tôi đang làm
 ```dataview
 list filter(file.etags, (tags) => startswith(tags, "#đct") or startswith(tags, "#tt"))
-from "7 Công việc" and !#đct-✅✅Đãxong
+from "4 Sản phẩm, thành quả mong muốn (các vùng đất)" and !#đct-✅✅Đãxong
 where contains(người-chơi,[[]])
 ```
 

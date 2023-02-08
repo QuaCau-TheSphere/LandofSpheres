@@ -1,10 +1,18 @@
+# Mô tả
+Mô tả::
+Description::
+
 # Nhu cầu
-Nhu cầu đáp ứng được::
-Nhu cầu chưa đáp ứng được::
+Nhu cầu dẫn tới::
+Nhu cầu phát sinh::
+
+# Vận hành
+Người chơi::
 
 Thành quả cần có::
 Thành quả hỗ trợ::
-Ý tưởng tốt hơn::
+
+Thành phẩm nhỏ hơn::
 
 Điểm mạnh::
 Điểm yếu::

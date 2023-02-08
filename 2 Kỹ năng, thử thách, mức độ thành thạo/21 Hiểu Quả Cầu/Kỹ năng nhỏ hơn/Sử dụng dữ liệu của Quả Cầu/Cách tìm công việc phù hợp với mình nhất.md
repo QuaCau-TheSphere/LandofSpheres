@@ -1,7 +1,7 @@
 # Hướng dẫn sử dụng
 **<font style="font-size: 2em" >C</font>ó 3 cách phân loại công việc:** theo trạng thái, độ cấp thiết hoặc tính chất. Mỗi trạng thái, độ cấp thiết hoặc tính chất đều bắt đầu bằng một tag (`#`). Ví dụ:
 - Trạng thái: #tt-⚪/chưabắtđầubàn, #tt-🟢/xong50٪, #tt-✅/cầnđánhgiálại 
-- Độ cấp thiết: #đct-🔥🔥Phảilàmngay, #đct-🍃/đợingườinhậnlàm, #đct-❄️/khôngquantrọng 
+- Độ cấp thiết: #đct-🔥🔥Phảilàmngay, #đct-🍃/đợingườinhậnlàm, #đct-❄️/chưaquantrọng 
 - Tính chất: #tc-🧍Cóthểlàmmộtmình, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-📱Cóthểlàmtrênđiệnthoại 
 
 **<font style="font-size: 2em" >Ở</font> cuối bài viết này có một đoạn Dataview liệt kê danh sách các công việc.** Trong đó có một dòng bắt đầu bằng chữ `FROM`. Đây chính là dòng mà bạn cần phải sửa để tìm ra công việc phù hợp với bạn nhất. Ví dụ, để tìm tất cả những công việc #tc-🔓Làmlúcnàocũngđược, hãy sửa dòng đó thành:

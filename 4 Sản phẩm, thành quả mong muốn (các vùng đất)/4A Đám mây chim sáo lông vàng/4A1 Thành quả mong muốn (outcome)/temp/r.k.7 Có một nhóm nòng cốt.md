@@ -1,5 +1,5 @@
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình::
+Nhu cầu dẫn tới::
 # Thành quả cần có
 Thành quả cần có::
 Thành quả hỗ trợ::

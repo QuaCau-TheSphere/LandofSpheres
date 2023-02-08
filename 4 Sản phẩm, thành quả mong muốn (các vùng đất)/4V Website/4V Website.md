@@ -1,6 +1,6 @@
 # Nhu cầu
-Nhu cầu đáp ứng được::
-Nhu cầu chưa đáp ứng được::
+Nhu cầu dẫn tới::
+Nhu cầu phát sinh::
 
 Thành quả cần có:: [[Không hacker nào xâm nhập được]]
 Thành quả cần có:: [[50% người truy cập tìm đến được thứ họ muốn]]

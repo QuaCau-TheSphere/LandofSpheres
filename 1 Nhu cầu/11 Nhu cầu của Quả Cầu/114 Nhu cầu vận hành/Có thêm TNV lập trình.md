@@ -1,9 +1,9 @@
 ---
 Alias: Có người code cho mình, có TNV kỹ thuật
 ---
-Phục vụ cho Thành quả cần có:
+Phục vụ cho thành quả mong muốn:
 ```dataview
-list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]]) or contains(ý-tưởng-tốt-hơn, [[]]) 
+list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]])
 ```
 Phục vụ cho những nhu cầu này của mình:
 ```dataview

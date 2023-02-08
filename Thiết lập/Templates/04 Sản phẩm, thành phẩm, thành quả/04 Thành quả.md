@@ -13,7 +13,6 @@ list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-
 
 Thành quả cần có::
 Thành quả hỗ trợ::
-Ý tưởng tốt hơn::
 Thành phẩm::
 
 Điểm mạnh::

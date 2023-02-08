@@ -1,5 +1,5 @@
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
+Nhu cầu dẫn tới:: [[Có thêm TNV nghiên cứu]]
 
 # Mục tiêu
 Mục tiêu:: [[Người cho rằng mình có phát kiến mới đặt câu hỏi về...]]

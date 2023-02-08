@@ -17,12 +17,6 @@ cssClass: wide-page
 ║        điều kỳ diệu       ║
 ╚═══════════════════╝
 %%%%%%%%%%%%
-# Thành quả mong muốn
-```dataview
-LIST thành-quả-cần-có
-FROM "4 Sản phẩm, thành quả mong muốn (các vùng đất)"
-where startswith(file.name,"4A") or startswith(file.name,"4B") or startswith(file.name,"4C") or startswith(file.name,"4Y")
-```
 # Nơi cư ngụ của những con sáo
 ```leaflet 
 id: leaflet-map 
@@ -36,7 +30,7 @@ defaultZoom: 6.5
 unit: meters
 scale: 1
 ```
-
+![[82 Thành viên (Người chơi)]]
 Xem thêm: [[Đến 6-2023]]
 # Tình hình hiện tại các công việc 
 ## Tất cả các công việc

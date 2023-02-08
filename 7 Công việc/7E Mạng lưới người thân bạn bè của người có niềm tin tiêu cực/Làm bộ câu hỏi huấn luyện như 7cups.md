@@ -1,5 +1,5 @@
 Trạng thái:: #tt-⚪/chưabắtđầubàn
-#đct-❄️/khôngquantrọng
+#đct-❄️/chưaquantrọng
 Giai đoạn trong tư duy thiết kế:: [Tạo mẫu thử]
 Người chơi::
 Kỹ năng:: [[Nghiên cứu (kỹ năng)]]

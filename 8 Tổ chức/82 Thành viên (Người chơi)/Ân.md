@@ -18,16 +18,18 @@ Kỹ năng:: [[Lập kế hoạch]], [[Nhân sự (kỹ năng)]], [[Hậu cần 
 Facebook:: [Lê Ân](https://www.facebook.com/lean042001/)
 
 === multi-column-end
-# Công việc tôi nhận làm
-
-> [!NOTE] Mức độ ưu tiên khi chọn việc
-> Liệt kê các tính chất công việc trong [[Các yếu tố trong công việc#Tính chất công việc]] theo thứ tự ưu tiên giảm dần ở đây
-
+# Sản phẩm tôi đang làm
 ```dataview
 list filter(file.etags, (tags) => startswith(tags, "#đct") or startswith(tags, "#tt"))
-from "7 Công việc" and !#đct-✅✅Đãxong
+from "4 Sản phẩm, thành quả mong muốn (các vùng đất)" and !#đct-✅✅Đãxong
 where contains(người-chơi,[[]])
 ```
+
+> [!NOTE] Mức độ ưu tiên khi chọn việc của tôi
+> 1. (Ví dụ, xem đầy đủ trong [[Các yếu tố trong công việc#Tính chất công việc]])
+> 4. #tc-🧠Tưduynhiều 
+> 3. #tc-🌳Tiếpxúcvớiđộngvậtthiênnhiên 
+> 2. #tc-📱Cóthểlàmtrênđiệnthoại
 
 > [!info]- Công việc tôi đã làm xong
 > ```dataview

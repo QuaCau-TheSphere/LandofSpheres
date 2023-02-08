@@ -45,4 +45,4 @@ Mỹ Linh tạo ra sự nổi tiếng.
 
 
 
-[Black metal](https://vi.wikipedia.org/wiki/Black metal "Black metal – Wikipedia tiếng Việt")
+[Black metal](https://vi.wikipedia.org/wiki/Black_metal)

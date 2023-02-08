@@ -1,6 +1,6 @@
 
 Trạng thái:: #tt-⚪/chưađếnlúclàm
-#đct-❄️/khôngquantrọng
+#đct-❄️/chưaquantrọng
 Giai đoạn trong tư duy thiết kế:: Tạo mẫu thử
 Người chơi::
 Kỹ năng:: [[2 Công nghệ thông tin]]

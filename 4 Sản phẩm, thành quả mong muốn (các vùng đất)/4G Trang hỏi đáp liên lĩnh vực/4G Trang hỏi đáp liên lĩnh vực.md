@@ -2,16 +2,16 @@
 Alias: mạng lưới câu hỏi liên ngành
 ---
 # Nhu cầu
-Đáp ứng cho nhu cầu của mình:: [[Vá lại các lỗ hổng trong kiến thức của mình]]
-Đáp ứng cho nhu cầu của mình:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
-Đáp ứng cho nhu cầu của mình:: [[Thấy được giới hạn của lập luận của mình]]
-Đáp ứng cho nhu cầu của mình:: [[Có thêm TNV nghiên cứu]]
-Đáp ứng cho nhu cầu của mình:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
-Đáp ứng cho nhu cầu của mình:: [[Trở thành đề tài nghiên cứu cho sinh viên]]
-Đáp ứng cho nhu cầu của mình:: [[Có thêm uy tín]]
-Đáp ứng cho nhu cầu của mình:: [[Tăng SEO]]
-Đáp ứng cho nhu cầu của mình:: [[Giảm sự lo sợ của nhà hoạt động xã hội khi được đặt câu hỏi có xu hướng gây hại]]
-Đáp ứng cho nhu cầu của mình:: [[Lan tỏa tinh thần tò mò với điều mình cho là sai, tinh thần đi tìm bằng chứng để phủ định niềm tin của mình. Tạo thói quen vét cạn lập luận, đặt câu hỏi cho mọi người]]
+Nhu cầu dẫn tới:: [[Vá lại các lỗ hổng trong kiến thức của mình]]
+Nhu cầu dẫn tới:: [[Có thể vét cạn được các thắc mắc, lập luận của mình]]
+Nhu cầu dẫn tới:: [[Thấy được giới hạn của lập luận của mình]]
+Nhu cầu dẫn tới:: [[Có thêm TNV nghiên cứu]]
+Nhu cầu dẫn tới:: [[Thể hiện vai trò liên ngành của QC rõ ràng hơn]]
+Nhu cầu dẫn tới:: [[Trở thành đề tài nghiên cứu cho sinh viên]]
+Nhu cầu dẫn tới:: [[Có thêm uy tín]]
+Nhu cầu dẫn tới:: [[Tăng SEO]]
+Nhu cầu dẫn tới:: [[Giảm sự lo sợ của nhà hoạt động xã hội khi được đặt câu hỏi có xu hướng gây hại]]
+Nhu cầu dẫn tới:: [[Lan tỏa tinh thần tò mò với điều mình cho là sai, tinh thần đi tìm bằng chứng để phủ định niềm tin của mình. Tạo thói quen vét cạn lập luận, đặt câu hỏi cho mọi người]]
 # Thành quả cần có
 Thành quả cần có::
 	
