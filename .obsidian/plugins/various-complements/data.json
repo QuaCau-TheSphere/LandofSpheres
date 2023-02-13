@@ -50,8 +50,8 @@
     "dtv": {
       "```dataview\nLIST\nFROM |\nWHERE\n```": {
         "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1674144288671
+          "count": 4,
+          "lastUpdated": 1675925774968
         }
       }
     },
@@ -90,8 +90,8 @@
     "Thành phẩm:: ": {
       "Thành phẩm:: ": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1675841288083
+          "count": 3,
+          "lastUpdated": 1676106185278
         }
       }
     },
@@ -106,8 +106,76 @@
     "Thành phẩm nhỏ hơn:: ": {
       "Thành phẩm nhỏ hơn:: ": {
         "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1675925729272
+        }
+      }
+    },
+    "Thành quả cần có::": {
+      "Thành quả cần có::": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1676035716821
+        }
+      }
+    },
+    "Thành quả hỗ trợ::": {
+      "Thành quả hỗ trợ::": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1676033291934
+        }
+      }
+    },
+    "nc": {
+      "Nhu cầu dẫn tới::": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1676277269138
+        }
+      },
+      "Nhu cầu của loại đối tượng:: ": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1676277670402
+        }
+      },
+      "Nhu cầu của mình về loại đối tượng:: ": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1676277959030
+        }
+      }
+    },
+    "tpnh": {
+      "Thành phẩm nhỏ hơn:: ": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1676275978013
+        }
+      }
+    },
+    "vvl, ld": {
+      "Lý do::": {
+        "customDictionary": {
           "count": 1,
-          "lastUpdated": 1675847381984
+          "lastUpdated": 1676129766430
+        }
+      }
+    },
+    "tqcc": {
+      "Thành quả cần có:: ": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1676134082934
+        }
+      }
+    },
+    "Lý do:: ": {
+      "Lý do:: ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676276847024
         }
       }
     }

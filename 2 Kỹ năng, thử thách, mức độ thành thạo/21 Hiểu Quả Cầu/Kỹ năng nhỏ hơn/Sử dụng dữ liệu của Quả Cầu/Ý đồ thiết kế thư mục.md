@@ -112,6 +112,7 @@ Trước đây cảm thấy rất rối, vì cùng một c â nốt vừa là nh
 Có những công việc dài thì để vào gantt, có những công việc ngắn
 Tách ra thì sẽ lắt nhắt. Tạo nhiều note sẽ rối rắm không cần thiết
 
+Thực chất, việc ta tư duy bằng output là vì ta tư duy bằng object
 ## 5 SWOT, giá trị cốt lõi
 Giá trị là cấp độ từ. Triết lý là cấp độ câu. Cả hai đều là những định hướng, la bàn, là cách đểchonj cách để ưu tiên 
 

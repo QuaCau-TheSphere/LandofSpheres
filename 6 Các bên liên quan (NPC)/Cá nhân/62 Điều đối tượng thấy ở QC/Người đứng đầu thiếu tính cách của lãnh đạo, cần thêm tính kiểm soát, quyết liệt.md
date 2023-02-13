@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Người đứng đầu
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 Lý do khiến điều này hiện diện trong mắt họ:: Lý tưởng của Nhật khi đề ra QC
 
-Tương ứng với Thành quả cần có:: 
+Tương ứng với thành quả mong muốn:: 

@@ -7,7 +7,7 @@ Nhu cầu của loại đối tượng:: [[Có thêm sự tự tin khi đối di
 Điều loại đối tượng thấy ở QC:: [[Việc thay đổi người khác là vi phạm sự tự quyết]], [[Dự án dịch các bài viết về tự trị rất quan trọng]], [[Nên học văn bằng 2 tâm lý]], [[Không hiểu rõ QC làm những gì]], [[Thành quả cần có của QC không giúp ích gì cho công việc hiện tại]], [[Có tiềm năng rất lớn. Hãy kiên trì]]
 Nhu cầu của mình về đối tượng:: [[Hợp tác nghiên cứu, giúp trả lời câu hỏi]], [[Đọc các bài viết khác]], [[Nhận làm phản biện, giám sát, cố vấn]], [[Đọc các khái niệm về tự trị]]
 
-Họ được gì khi tham gia:: [[Sự tự tin khi đối diện với các vấn đề nhạy cảm. Sự rõ ràng trong các vấn đề đạo đức]], [[Các công cụ mạnh để hệ thống hoá quan sát của mình và tư duy hiệu quả]], [[Thấy được mình ở đâu trong một rừng các nghiên cứu]], [[Các phân tích xoay quanh các chủ đề về niềm tin]], [[Là người tạo ra sự rõ ràng cho những gì mình đang cảm thấy mơ hồ]], [[Thấy đại chúng có được kiến thức đúng đắn]], 
+Họ được gì khi tham gia:: [[Sự tự tin khi đối diện với các vấn đề nhạy cảm. Sự rõ ràng trong các vấn đề đạo đức]], [[Các công cụ mạnh để hệ thống hoá quan sát của mình và tư duy hiệu quả]], [[Thấy được mình ở đâu trong một rừng các nghiên cứu]], [[Các phân tích xoay quanh các chủ đề về niềm tin]], [[Là người tạo ra sự rõ ràng cho những gì mình đang cảm thấy mơ hồ]], [[Lan toả kiến thức đúng đắn cho đại chúng]], 
 
 Hoạt động dành cho họ:: [[Làm nội dung]], [[Tìm người cố vấn]], [[Xây dựng bản khảo sát đối tượng. Mời từng người làm khảo sát]], [[4A Đám mây chim sáo lông vàng]], [[Truyền thông về sự hiệu quả của Obsidian]]
 

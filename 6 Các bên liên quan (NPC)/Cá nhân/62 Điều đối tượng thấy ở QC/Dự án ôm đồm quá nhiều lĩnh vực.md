@@ -10,5 +10,5 @@ Thứ đang được đánh giá:: Triết lý của dự án
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 
 
-Tương ứng với Thành quả cần có:: 
+Tương ứng với thành quả mong muốn:: 
 Lý do:: [[Nhật cảm thấy việc được nghiên cứu tự do đem lại lợi thế vô cùng lớn mà đi làm hay đi học không thể đáp ứng được]]

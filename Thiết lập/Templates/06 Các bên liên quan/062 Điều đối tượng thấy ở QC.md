@@ -10,4 +10,4 @@ list where contains(điều-đối-tượng-thấy-ở-qc,[[]])
 Đánh giá tích cực hay tiêu cực::
 Lý do khiến điều này hiện diện trong mắt họ:: 
 Nhu cầu ẩn đằng sau nhận định này::
-Tương ứng với Thành quả cần có:: 
+Tương ứng với thành quả mong muốn:: 

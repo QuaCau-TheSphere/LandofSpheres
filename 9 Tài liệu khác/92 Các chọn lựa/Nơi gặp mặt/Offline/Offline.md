@@ -13,4 +13,5 @@ Table giá-rẻ,
 	không-gian-tạo-cảm-hứng, 
 	có-loa-mic
 FROM "9 Tài liệu khác/92 Các chọn lựa/Nơi gặp mặt/Offline"
+Where file.name=split(file.folder, "/")[4]
 ```

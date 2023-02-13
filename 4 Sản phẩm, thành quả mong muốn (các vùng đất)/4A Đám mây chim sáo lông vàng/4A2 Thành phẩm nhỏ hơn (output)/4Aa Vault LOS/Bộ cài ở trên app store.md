@@ -1,2 +1,0 @@
-[Site Unreachable](https://developer.microsoft.com/en-us/microsoft-store/desktop-apps)
-[Upload app packages - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/publish/publish-your-app/upload-app-packages?pivots=store-installer-msi-exe)

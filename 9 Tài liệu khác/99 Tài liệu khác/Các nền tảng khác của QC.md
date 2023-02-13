@@ -4,6 +4,7 @@
 
 - [Quản trị website](https://xn--qucu-hr5aza.cc/wp-login.php)
 - [Đăng ký TNV](https://xn--qucu-hr5aza.cc/wp-admin/admin.php?page=formidable-entries&frm-full=1&frm_action=list&form=19 "Formidable | Entries - Quả Cầu")
+- [Thu chi](https://airtable.com/invite/l?inviteId=invA96UZocKaeqlVm&inviteToken=f9985f7d4b1dbc9abc798dffd5df4281f181d1b9166b04453e97d32fcb1f229b&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 ## Các công cụ chuyên môn
 - Làm slide: [AhaSlides](https://ahaslides.com)
 ### Sale & marketing

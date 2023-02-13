@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Chiến lược
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 `=this`
 
-Tương ứng với Thành quả cần có:: 
+Tương ứng với thành quả mong muốn:: 

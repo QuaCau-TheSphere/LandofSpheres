@@ -5,16 +5,26 @@ Description:: The Sphere aims to be an organization without hierarchy whose part
 
 # Nhu cầu
 Nhu cầu dẫn tới:: [[Thử nghiệm ý tưởng một tổ chức không cần hạn chót và trách nhiệm. Chứng minh sự bền vững của sự thong thả]] 
+Nhu cầu dẫn tới:: [[Có được sự chú ý của cộng đồng]]
 Nhu cầu phát sinh::
+Thành phẩm nhỏ hơn:: [[4Aa Hệ thống quản lý tổ chức]]
+Thành phẩm nhỏ hơn:: [[4Ab Quỹ hoạt động]]
+Thành phẩm nhỏ hơn:: [[4Ac Thu thập dữ liệu]]
 
 # Vận hành
 Người chơi:: [[Nhật]], [[Thịnh]]
 
 Thành quả cần có:: [[5 người thường xuyên đóng góp vào vault]]
-Thành quả cần có:: [[3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm]]
+Thành quả cần có:: [[3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâ. m]]
 Thành quả cần có:: [[20 người trong nhóm ❝Một đám mây chim sáo❞ hoạt động sôi nổi]]
 
-Thành phẩm nhỏ hơn:: [[Vault LOS]]
+Thành phẩm nhỏ hơn:: [[3 thử nghiệm thành công trên các sản phẩm mà mỗi thành viên đang làm]]
+Thành phẩm nhỏ hơn:: [[50% buổi họp diễn ra theo kiểu chim sáo]]
+```dataview
+LIST
+FROM "4 Sản phẩm, thành quả mong muốn (các vùng đất)/4A Đám mây chim sáo lông vàng/4A2 Thành phẩm nhỏ hơn (output)" 
+WHERE startswith(file.name, "4" )
+```
 
 Điểm mạnh::
 Điểm yếu::

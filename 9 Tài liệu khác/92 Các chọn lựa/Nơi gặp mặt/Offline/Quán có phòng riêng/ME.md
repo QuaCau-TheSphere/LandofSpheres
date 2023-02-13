@@ -1,5 +1,5 @@
 Loại:: [[Quán có phòng riêng]], [[Quán không có phòng riêng]]
-Địa chỉ:: 
+Địa chỉ:: [5 Cao Thắng, Q1]  
 Giá nước:: 
 Máy chiếu:: ✔
 Số người tối thiểu:: 5

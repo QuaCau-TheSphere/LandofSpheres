@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Website
 Lý do khiến điều này hiện diện trong mắt họ:: Không có thời gian sắp xếp
 Lý do khiến điều này hiện diện trong mắt họ:: [[Độc giả chín người mười ý]]
 
-Tương ứng với Thành quả cần có:: 
+Tương ứng với thành quả mong muốn:: 

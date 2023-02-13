@@ -1,6 +1,8 @@
 # 1 Nhu cầu
-Nhu cầu dẫn tới::		nc
-Nhu cầu phát sinh::		nc
+Nhu cầu của loại đối tượng:: 		nc
+Nhu cầu của mình về loại đối tượng:: 		nc
+Nhu cầu dẫn tới::		ncdt
+Nhu cầu phát sinh::		ncps
 
 # 3 Kiến thức, câu hỏi
 ❓::		ktq, ch, cauhoi
@@ -8,19 +10,18 @@ Chủ đề::		ktw, cd, chude
 Trả lời:: 		kte, tl
 
 # 4 Sản phẩm, thành quả mong muốn
-Thành quả cần có::		kkk, tqmm
-Thành quả hỗ trợ::		kkk
-Thành phẩm:: 
-Thành phẩm nhỏ hơn:: 
+Thành quả cần có:: 		tqcc
+Thành quả hỗ trợ:: 		tqht
+Thành phẩm:: 		tp
+Thành phẩm nhỏ hơn:: 		tpnh
 
 Hướng đến thời gian::		kkh
-Đi chung::		kkd
-Đối tượng thụ hưởng::		kkd
-Ý tưởng tốt hơn::		kky
+Đi chung::		dc
+Đối tượng thụ hưởng::		dtth
 Hoạt động::		kkh
 
 # 5 SWOT, giá trị cốt lõi
-Lý do::		vvl, ld
+Lý do:: 		vvl, ld
 Là vấn đề cho hoạt động::		vvh
 
 # 6 Các bên liên quan (NPC)

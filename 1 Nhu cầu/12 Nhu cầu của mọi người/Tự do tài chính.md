@@ -3,7 +3,7 @@ Thuộc nhóm nhu cầu nào:: không bao giờ chấm dứt, vấn đề lớn
 - [ ] 
 Cách đáp ứng nhu cầu này:: 
 Họ được gì khi tham gia:: 
-Nỗi đau phía sau:: 
+Lý do:: 
 Nhu cầu liên quan:: 
 Nhu cầu này khiến cho họ thấy dự án thế nào:: 
 

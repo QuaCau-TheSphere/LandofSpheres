@@ -11,4 +11,4 @@ Thứ đang được đánh giá:: Tài chính
 Đánh giá tích cực hay tiêu cực:: Tiêu cực
 
 
-Tương ứng với Thành quả cần có:: 
+Tương ứng với thành quả mong muốn:: 
