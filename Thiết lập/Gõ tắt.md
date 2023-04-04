@@ -23,7 +23,8 @@ Hoạt động::		kkh
 # 5 SWOT, giá trị cốt lõi
 Lý do:: 		vvl, ld
 Là vấn đề cho hoạt động::		vvh
-
+Điểm yếu::		dy
+Điểm mạnh::		dm
 # 6 Các bên liên quan (NPC)
 Loại đối tượng::		bbl
 Nhu cầu của đối tượng::		bbn

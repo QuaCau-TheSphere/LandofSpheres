@@ -1,8 +1,9 @@
-<sub>Ngày tạo: `=this.file.cday` •  Ngày sửa lần cuối: `=this.file.mday`</sub>
+<sub>Ngày tạo: <% tp.date.now() %> •  Ngày sửa lần cuối: `=this.file.mday`</sub>
 
-Trạng thái::
+Trạng thái:: #tt-⚪/chưabắtđầubàn
 Độ cấp thiết:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('đct')))) %>
 Người chơi::
+Những lần muốn có:: <% tp.date.now() %>
 
 Phục vụ cho thành quả mong muốn:
 ```dataview

@@ -59,12 +59,16 @@ Chỉ là page cá nhân, cũng chẳng kinh doanh gì, nên cũng không sợ s
 ### Không biết tại sao mình add
 Vâng. Thật ra mình ko biết nhau. Fb này mình lập ra để chia sẻ các bài viết của mình trên Quảcầu.com. Mình mạo muội add bạn vì mình nghĩ có thể bạn thấy nó thú vị. Chủ đề của nó là dành cho những ai luôn muốn đặt mình vào vị trí của người khác, và dám làm những điều vô cùng đúng và vô cùng khó. Bạn có thể đọc bài này để hiểu thêm facebook.com/phôt.php?fbid=146764679947318&set=a.102823827674737&type=3test
 ###  Có lĩnh vực mình quan tâm
-Em xin chào anh Phong
-Cám ơn anh đã hỏi nhé
-Thật ra thì mình cũng không biết nhau. Em gửi lời mời kết bạn vì anh có làm trong ngành thời trang, và em thì muốn tìm hiểu thêm về ngành này
-Đây là một phần trong một dự án xã hội, với Thành quả cần có khơi gợi lòng dũng cảm, dám làm những điều vô cùng đúng và vô cùng khó. Nếu có hứng thú anh có thể xem thêm ở đây: [https://quảcầu.com](https://quảcầu.com)
+Em xin chào anh ______. Cám ơn anh đã dành thời gian hỏi em.
+Em tên là Lý Minh Nhật, hiện đang làm một dự án tên là Quả Cầu
+
+Thật ra thì mình cũng không biết nhau. Em có mong muốn được tham gia ABG nên mạo muội gửi lời mời kết bạn vì thấy anh có tham gia ABG, để được theo dõi và học hỏi thêm từ anh.
+
+Đây là bản tự giới thiệu về em, hy vọng là anh sẽ thấy thú vị
+
 Em hi vọng được học hỏi thêm gì đó từ anh
-Rất xin lỗi nếu điều này làm phiền anh ạ
+
+Em không biết là lúc thấy lời mời kết bạn của em anh cảm thấy thế nào? Nếu anh thấy phiền thì cho em xin lỗi nhé
 
 ### Được giới thiệu
 Em xin chào chị Phương. Em xin cảm ơn chị đã dành thời gian quan tâm và hỏi em nhé. Em xin tự giới thiệu, em là Lý Minh Nhật, sinh năm 1992. Thật ra thì mình cũng không biết nhau. Em gửi lời mời kết bạn vì có một bạn trong mạng lưới Tròn Lành của chị cũng giới thiệu em kết nối với chị. Bạn ấy bảo rằng dự án của em với của chị rất tương tự nhau, nên việc không kết hợp được với nhau thì cũng phí. Chính vì như vậy nên em mới mạo muội gửi lời mời kết bạn với chị, để chúng ta có thêm nhiều dịp để hiểu nhau hơn ^^

@@ -8,3 +8,4 @@ Wikipedia
 Social construction
 Google artwork
 [[The Ladder]] 
+[How can we develop transformative tools for thought?](https://numinous.productions/ttft/)

@@ -21,6 +21,7 @@ Kỹ năng:: [[Lập kế hoạch]], [[Phát triển cộng đồng (kỹ năng)
 === multi-column-end
 
 ![](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/322726234_3265955646954233_8823142280753284143_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=3AljtCqrXLAAX-rw-XL&_nc_ht=scontent.fsgn2-4.fna&oh=03_AdShIN3cu__qWFDVG7PBDvVMdc9Tm5qPKkefOpJQttyD1w&oe=63D61B0E&dl=1)
+
 Cái số 1 để bắt đầu thì cần suy nghĩ cách để có khoảng 250tr trước. vì đó là chi phí tương ứng với việc làm ra 1 bản mẫu máy đầu tiên để đăng ký bản quyền chất xám
 Cái 2 muốn làm thì phải có gọi vốn tầm 150tr trở lên, doanh nghiệp xã hội. Vì cần tổ chức sự kiện, làm về giáo dục. Và cần mặt bằng nữa
 # Công việc tôi nhận làm

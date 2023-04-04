@@ -2,19 +2,7 @@
 Mô tả::
 Description::
 
-- Công thái học, bệnh văn phòng
-- Quản lý cuộc sống, hiểu bản thân
-- Ứng dụng của khoa học nhận thức trong việc học hoặc quản lý dự án:
-	- Học theo khoảng lặp, giáo dục học
-	- Hệ thống thông tin, UX
-	- Evergreen, concept map, semantic triplestore, labeling, typography, bản thể luận
-	- Các hiệu ứng tâm lý liên quan đến việc làm việc hoặc lên kế hoạch
-	- Outcome vs output
-- Xử lý ngôn ngữ tự nhiên, AI, Wikipedia
-- Cơ bản về công nghệ thông tin: làm việc với hệ điều hành, lập trình hướng đối tượng, git, cơ sở dữ liệu, lập trình web, AutoHotKey 
-- Những quan niệm đến từ nền kinh tế dùng tiền và chủ nghĩa tân tự do
-- Những quan niệm liên quan đến việc đặt câu hỏi
-[[Mô tả chi tiết C]]
+[[Mô tả chi tiết ❝Nhóm hỗ trợ người tự học❞]]
 # Nhu cầu
 Nhu cầu dẫn tới::
 Nhu cầu phát sinh::
@@ -49,3 +37,4 @@ Hoạt động:: [[Truyền thông về sự hiệu quả của Obsidian]]
 Hoạt động:: [[Tư vấn cho người cần xây dựng vault trên Obsidian]]
 Hoạt động:: [[Làm chuỗi video hướng dẫn sử dụng vault]]
 Hoạt động:: [[Làm video cho Obsidian]]
+

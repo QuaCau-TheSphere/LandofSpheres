@@ -13,26 +13,29 @@ Các thư mục ở trên sẽ quyết định các thư mục ở dưới
 - 2 sẽ cho bạn biết phải làm thế nào
 - 3 sẽ cho bạn biết tại sao  
 
+| Thư mục                                 | Mục tiêu                                          | Dự án phát sinh        |
+| --------------------------------------- | ------------------------------------------------- | ---------------------- |
+| 1 Nhu cầu                               | Cho bạn biết bạn muốn gì (what)                   | B Mạng kết nối nhu cầu |
+| 2 Kỹ năng, thử thách, mức độ thành thạo | Cho bạn biết cách để đạt được điều bạn muốn (how) | C Hỗ trợ người tự học  |
+| 3 Kiến thức, câu hỏi                    | Cho biết tại sao mình lại phải làm điều đó (why)  | Các sản phẩm khác                       |
 - 1 sẽ là mạng kết nối nhu cầu
 - 2 là hỗ trợ người tự học
 - 3 sẽ là các sản phẩm khác
 
-Từ 1 đến 4 là nơi mọi người sống cho bản thân. 4 là các vùng đất, nơi các dòng nhu cầu hội tụ đủ mạnh để bồi đắp tạo thành những vùng đất. Từ 4 trở đi là hướng về QC. 4 là nơi giao nhau. Thấy được giá trị của 4 thì họ mới tham gia sâu hơn
-
-1,2,3 là hướng về cá nhân, là nơi mọi người phát triển bản thân mình. 5,6,7,8,9 là hướng về tập thể, là những thứ được thống nhất và sử dụng chung. 4 là nơi giao nhau,và cũng có thể xem là nơi chuyển giao giữa việc đặt cá nhân làm trọng tâm và đặt tập thể làm trọng tâm. 
-
-  
-Từ 5 trở đi là cách để biến những thứ ở 4 trở thành hiện thực. Một người khi cảm thấy rằng mình muốn có 4 sẽ di chuyển xuống các thư mục ở dưới
+Từ 1 đến 3 là hướng về cá nhân, là nơi mọi người phát triển bản thân mình, là nơi họ sống cho bản thân. Từ 5 trở đi là hướng về tập thể, là những thứ được thống nhất và sử dụng chung. 4 là nơi giao nhau, và cũng có thể xem là nơi chuyển giao giữa việc đặt cá nhân làm trọng tâm và đặt tập thể làm trọng tâm. Đó là các vùng đất, nơi các dòng nhu cầu hội tụ đủ mạnh để bồi đắp tạo thành. Một người mới vào phải thấy được giá trị của 4 thì họ mới tham gia sâu hơn. Một người khi cảm thấy rằng mình muốn có 4 sẽ di chuyển xuống các thư mục ở dưới, để biến những thứ ở 4 trở thành hiện thực. 
 
 Tổ chức nằm ở 8 vì tới lúc này nhu cầu có một tổ chức mới trở nên rõ ràng hơn
 Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi thì để vào 9
+
 # Phân tích từng thư mục
 ## Trang chủ
 Nút bấm nhắc nhở mình nhìn nhận về nhu cầu của mình. Nó cũng tao cảm giác với mỗi một nhu cầu khác nhau QC sẽ biến hình để đáp ứng nhu cầu đó. 
+
 ## 1 Nhu cầu
 Dẫn tới mạng lưới nhu cầu 
 Phân loại theo lĩnh vực, và phân loại theo MoSCoW
 
+Vấn đề, điểm đau
 Xứ hướng làm sản phẩm hiện nay là không tập trung xây dựng chân dung khách hàng. Cái này vẫn cần thiết khi làm tiếp thị, nhưng với đội làm sản phẩm thì thiên về chân dung nỗi đau, và segment theo nhu cầu. 
 ## 2 Kỹ năng 
 Game hóa.Nhưng nó vẫn chỉ tạo cảm giác bọc đường, là một cách để đặt mong muốn của mình lên trên. Chỉ sử dụng huy hiệu chứ không dùng tới yếu tố tuyệt vời nhất của game: bản đồ. 
@@ -51,7 +54,7 @@ Trong doanh nghiệp, mục thử thách này gọi là đào tạo nội bộ, 
 
 Chia sẻ đam mê
 Sự sẵn sàng chia sẻ thường chỉ khi họ vẫn còn đang cần. Khi hiểu rành rẽ rồi thì sự hứng thú đó cũng giảm
-[[Trò chơi và vùng đất]]
+[[Bản đồ là yếu tố tuyệt vời nhất của game mà các dự án có sử dụng game hoá chưa sử dụng triệt để]]
 
 Các file trong đây file nào cũng có thể là tài liệu 
 
@@ -92,7 +95,7 @@ Các bài viết liên quan trực tiếp tới sự bất lực học được 
 - Nhóm 3: Vòng tròn gần ngoài cùng, liên quan đến những vấn đề về nhận thức [Đạo, ngữ dụng, tâm lý học nhận thức](https://xn--qucu-hr5aza.cc/category/bai-viet-sau/dao-ngu-dung-tam-ly-hoc-nhan-thuc/)
 NLP, Wikipedia 
 
-## 4 Sản phẩm, Thành quả cần có
+## 4 Sản phẩm, thành quả mong muốn
 Những thứ này tự nó sẽ có thể cần một vault riêng. Chúng cũng cần một trang chủ riêng 
 Các sản phẩm từ dưới đếm lên là những cái bổ trợ, cần phải đi kèm với một sản phẩm cụ thể nào đó, chứ tự bản thân nó là không đủ. Và nó cũng thường đi kèm với những sản phẩm khác. 
 - Tìm nguyên nhân gốc rễ: Cây vấn đề
@@ -103,16 +106,35 @@ dùng khi tương tác với sản phẩm đã được cải tiến (hoặc s�
 Output là sản phẩm nhỏ hơn
 Sự kiện là một loại output
 
-Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức, trong khi sản phẩm nhỏ hơn là output. Nó là lý do khiến mọi người bu vào
-
-Trước đây cảm thấy rất rối, vì cùng một c â nốt vừa là nhu cầu, vừa là mục tiêu, vừa là sản phẩm. Tách ra thì rời rạc mà để chung
-
+Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức, trong khi sản phẩm nhỏ hơn là output. Nó là lý do khiến mọi người bu vào. Sản phẩm = dự án = nhóm các output. Những outcome nào liên quan đến nhau thì sẽ là để phục vụ cho một outcome lớn hơn
+Thường là để các cấp trong tổ chức nói chuyện với nhau
+Tầm nhìn chắc là outcome tổng
+Nhu cầu = impact = problem = why start = pain point = động lực
 ![](https://miro.medium.com/max/1200/1*pNf5d7h2c-N-BrbM8cVDIA.png) 
+
+```mermaid
+flowchart LR
+	nc[Nhu cầu]
+	sp[Sản phẩm]
+	tq[Thành quả]
+	tp[Thành phẩm]
+    cv[Công việc]
+	nc-->sp
+	nc-->tq
+	sp-->tq
+	sp-->tp
+	tq-->tp
+
+	tp-->cv
+```
 ### Sự kiện
 Có những công việc dài thì để vào gantt, có những công việc ngắn
 Tách ra thì sẽ lắt nhắt. Tạo nhiều note sẽ rối rắm không cần thiết
 
 Thực chất, việc ta tư duy bằng output là vì ta tư duy bằng object
+
+Trước đây cảm thấy rất rối, vì cùng một cái ghi chú vừa là nhu cầu, vừa là mục tiêu, vừa là sản phẩm. Tách ra thì rời rạc mà để chung thì loạn
+
 ## 5 SWOT, giá trị cốt lõi
 Giá trị là cấp độ từ. Triết lý là cấp độ câu. Cả hai đều là những định hướng, la bàn, là cách đểchonj cách để ưu tiên 
 

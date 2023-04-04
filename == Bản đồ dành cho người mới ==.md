@@ -1,5 +1,4 @@
-%%%%%%%%%%%%
-╭━┳━╭━╭━╮╮
+__╭━┳━╭━╭━╮╮
 ┃┈┈┈┣▅╋▅┫┃
 ┃┈┃┈╰━╰━━━━━━╮
 ╰┳╯┈┈┈┈┈┈┈┈┈◢▉◣
@@ -7,7 +6,6 @@
 ╲┃┈┈┈┈┈┈┈┈┈◥▉◤
 ╲┃┈┈┈┈╭━┳━━━━╯
 ╲┣━━━━━━┫
-╔═══════════════════╗
 ║  Nếu bạn đọc được   ║
 ║  dòng này, hãy bấm  ║
 ║ **Ctrl + E** để thấy  ║
@@ -28,7 +26,7 @@ color blue
 ```button
 name Hiểu chính bản thân mình
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=2%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20th%C3%A0nh%20th%E1%BA%A1o%2F21%20Hi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FK%E1%BB%B9%20n%C4%83ng%20nh%E1%BB%8F%20h%C6%A1n%2FHi%E1%BB%83u%20ch%C3%ADnh%20b%E1%BA%A3n%20th%C3%A2n%20m%C3%ACnh
+Actiong vgg g v gg fv ffgfvgfggggg ff fg f fg f v f. Fg v.  Ffg fffffff gg v vfg fgffv g ggg vfgfgf fg fff f cffg g v f v. F g fg ffffvg. Gf gg gg fg gg gg v f fg. Gf g gff f f2f v gfgg vvg f2f fgg. Gfg fv cf v. Ggv v g gv g gg. Gvv ggg vgf ggffg. Gfg fg vgfg g fvg. Vg fg.  obsidian://open?vault=Land%20of%20Spheres&file=2%20K%E1%BB%B9%20n%C4%83ng%2C%20th%E1%BB%AD%20th%C3%A1ch%2C%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20th%C3%A0nh%20th%E1%BA%A1o%2F21%20Hi%E1%BB%83u%20Qu%E1%BA%A3%20C%E1%BA%A7u%2FK%E1%BB%B9%20n%C4%83ng%20nh%E1%BB%8F%20h%C6%A1n%2FHi%E1%BB%83u%20ch%C3%ADnh%20b%E1%BA%A3n%20th%C3%A2n%20m%C3%ACnh
 id hieutrietlytochuc
 ```
 ^button-hieuchinhbanthanminh
@@ -44,7 +42,7 @@ id hieutrietlytochuc
 ```button
 name Rèn luyện kỹ năng mới, củng cố kiến thức đã học
 type link
-Action obsidian://open?vault=Land%20of%20Spheres&file=9%20T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c%2F93%20B%E1%BA%A3n%20%C4%91%E1%BB%93%2FR%C3%A8n%20luy%E1%BB%87n%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%2C%20c%E1%BB%A7ng%20c%E1%BB%91%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%C3%A3%20h%E1%BB%8Dc
+Actiong vgg v v g gvvv v fv. Ggv g f f vff fg  obsidian://open?vault=Land%20of%20Spheres&file=9%20T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c%2F93%20B%E1%BA%A3n%20%C4%91%E1%BB%93%2FR%C3%A8n%20luy%E1%BB%87n%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%2C%20c%E1%BB%A7ng%20c%E1%BB%91%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%C3%A3%20h%E1%BB%8Dc
 id hieutrietlytochuc
 ```
 ^button-renluyenkynang

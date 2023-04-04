@@ -34,12 +34,14 @@ Group by tags
 | 1. #đct-🔥🔥Phảilàmngay    |                                                                                                                                                                                                                                                                                      |
 | 2. #đct-🔥/muốnlàmngay     | Thiên về công việc quan trọng trong dài hạn. Những thứ mình có hứng thú và chỉ muốn được làm nó hoài, hoặc nếu không làm cảm thấy nhức đầu                                                                                                                                           |
 | 3. #đct-🔥/nênlàmngay      | Thiên về công việc quan trọng trong ngắn hạn. Chưa làm ngay do phải ưu tiên nguồn lực cho những thứ phải làm ngay hay muốn làm ngay khác. Hoặc là phải làm ngay nhưng do đang làm rồi nên cũng không cần phải ép mình. Những thứ mình cần phải ép bản thân để đạt được thứ mình muốn |
+| 4. #đct-🍃/lâulâulạicần    |                                                                                                                                                                                                                                                                                      |
 | 4. #đct-🍃/sớmphảilàm      | Chưa cần làm ngay nhưng sẽ sớm phải làm. Đang chờ các điều kiện hội đủ                                                                                                                                                                                                               |
 | 5. #đct-🍃/đợingườinhậnlàm | Chưa cần làm ngay nhưng nếu có người làm giúp thì cũng đỡ được nhiều thứ                                                                                                                                                                                                             |
 | 6. #đct-❄️/chưaquantrọng   | Hãy để sự ngẫu nhiên dẫn dắt hành động                                                                                                                                                                                                                                               |
-| 6. #đct-❄️/hếtquantrọng   | Hãy để sự ngẫu nhiên dẫn dắt hành động                                                                                                                                                                                                                                               |
-| 7. #đct-✅✅Đãxong           |                                                                                                                                                                                                                                                                                      |
+| 6. #đct-❄️/hếtquantrọng    | Hãy để sự ngẫu nhiên dẫn dắt hành động                                                                                                                                                                                                                                               |
+| 7. #đct-✅✅Đãxong         |                                                                                                                                                                                                                                                                                      |
 |                            |                                                                                                                                                                                                                                                                                      |
+
 
 # Tính chất công việc
 
@@ -51,6 +53,8 @@ Group by tags
 #tc-🔁Kếtquảthayđổithườngxuyên
 #tc-🧠Khôngphảisuynghĩnhiều
 #tc-💬Làmxongkhôngcầnhỏiýkiến
+
+#tc-📎Thấmđẫmtrongnhữngviệckhác 
 
 #tc-🔁Kếtquảthayđổithườngxuyên 
 #tc-🔁Côngviệclặplại
@@ -90,25 +94,6 @@ List from "2 Kỹ năng, thử thách, mức độ thành thạo"
 Where startswith(file.name,"2 ")=false and (file.folder="2 Kỹ năng, thử thách, mức độ thành thạo" or file.name=split(file.folder,"/")[2])
 Sort file.name
 ```
-# Sản phẩm
-A Đám mây chim sáo lông vàng
-B Sàn giao dịch nhu cầu
-C Nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình
-D Cộng đồng trên Discord
-E Mạng lưới người thân bạn bè của người có niềm tin tiêu cực
-F Các buổi nói chuyện, thuyết trình, dã ngoại
-G Trang hỏi đáp liên lĩnh vực
-H Nhóm nghiên cứu liên ngành
-I Cầu nối cho các sáng kiến quốc tế
-J Đồ thị mạng lưới 100+ niềm tin trong xã hội
-K Các bài dịch về tự trị, riêng tư, đồng thuận, thao túng, v.v
-L Dự án nâng cao hiểu biết ở các nhà hoạt động xã hội về các quá trình nhận thức và ngôn ngữ
-M Dự án nâng cao nhận thức của mọi người về việc tình yêu thực sự khác với sự nuông chiều, khao khát, và cũng không phân biệt giới tính
-N Dự án nâng cao hiểu biết của người có niềm tin Phật pháp về những xung đột trong những cách hiểu của Phật giáo về trí tuệ
-O Dự án nâng cao mối quan tâm của nghệ sĩ và người làm trong ngành giải trí và văn hóa đại chúng về những tác hại dù không muốn nhưng không thể tránh khỏi mà ngành của mình tạo ra
-P Nền tảng dịch thuật ngữ
-Q Nhóm hỗ trợ nhà nghiên cứu nghiệp dư
-
 
 # Công việc khai phá và công việc khai thác (exploration vs exploitation) 
 | Khía cạnh                                                                                                | Công việc khai phá                                                                                                                                            | Công việc khai thác                                                                                                                                                                                                                  |

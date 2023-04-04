@@ -33,6 +33,12 @@ list where contains(field,[[]])`
 ```
 ## Inline
 `=filter(this.file.inlinks, (f) => contains(f.thuộc-tổ-chức, this.file.link))`
+
+# Lấy các note folder và file trực tiếp trong một folder
+```
+Where file.name!="3 Thành phẩm" and (file.name=split(file.folder, "/")[length(split(file.folder, "/"))-1] or split(file.folder, "/")[length(split(file.folder, "/"))-1]="3 Thành phẩm") 
+```
+
 # Các công việc có trong nhiều công việc khác nhất
 ```dataview
 LIST WITHOUT ID K + ": " + length(rows)

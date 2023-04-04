@@ -19,7 +19,7 @@ cssClass: wide-page
 %%%%%%%%%%%%
 # Nơi cư ngụ của những con sáo
 ```leaflet 
-id: leaflet-map 
+id: lea flet-map 
 image: [[Các sản phẩm chính.png]]
 height: 500px 
 lat: 50 

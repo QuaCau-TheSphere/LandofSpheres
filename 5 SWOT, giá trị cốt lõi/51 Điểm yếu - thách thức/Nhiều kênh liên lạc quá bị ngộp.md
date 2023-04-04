@@ -1,4 +1,4 @@
-Lý do:: <% tp.file.cursor() %>
+Lý do:: [[Đa số người chỉ quen xài Facebook]]
 
 Hệ quả của vấn đề này:
 ```dataview

@@ -15,7 +15,7 @@ Người chơi:: [[Tuyên]]
 Thành quả cần có:: 
 Thành quả hỗ trợ:: [[Ban tổ chức làm theo kiểu chim sáo]]
 
-Thành phẩm nhỏ hơn:: [[2305 Bước Chân – Tà Nôi]]
+Thành phẩm nhỏ hơn:: [[2305 Bước Chân – Phước Bình]]
 Thành phẩm nhỏ hơn:: [[2310 Bước Chân – Phước Bình]]
 
 Điểm mạnh::

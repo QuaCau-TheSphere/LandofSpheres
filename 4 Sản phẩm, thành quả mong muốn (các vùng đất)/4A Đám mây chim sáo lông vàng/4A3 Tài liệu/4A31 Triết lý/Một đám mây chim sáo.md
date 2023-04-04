@@ -147,12 +147,16 @@ Qc: tất cả những người cần sẽ cùng nhau tìm giải pháp với nh
 Không phải là trao đổi hàng hóa, mà là trao đổi đối tượng của sự tập trung trọn vẹn, để sự tập trung của nhau ít bị ngắt quãng nhất có thể
 
 
-Nền kinhtees chim dáo khác với nền kinh tế trao đổi hàng hoá ở chỗ bạn không có nghĩa vụ trả lại cho khi được người kháclafm cho bạn, tất cả các bên đều làm điều mình muốn. Nếu phải phân loại, thì nền kinh tế chim sáo sẽ là sự kết hợp giữa nền kinh tế nền tảng với nền kinh tế biếu tặng 
+Nền kinhtees chim dáo khác với nền kinh tế trao đổi hàng hoá ở chỗ bạn không có nghĩa vụ trả lại cho khi được người khác làm cho bạn, tất cả các bên đều làm điều mình muốn. Nếu phải phân loại, thì nền kinh tế chim sáo sẽ là sự kết hợp giữa nền kinh tế nền tảng (platform economy) với nền kinh tế biếu tặng (gift economy).
 
 Có những thứ không muốn làm nhưng phải làm. Con người ưa thích nếp sống cũ. Động vật xã hội. Động vật, nghĩa là nó phải có sự kết nối với thiên nhiên, còn xã hội nghĩa Nhưng đó không phải là, mà là do thiếu kết nối với cộng đồng và tự nhiên. Chính vì ta không thấy ý nghĩa của việc mình đang làm, ên ta mới phải sống một cách kỷ luật
 
 
 Các lập luận dựa trên thị trường sẽ không có chỗ đứng trong đây
+
+Nền kinh tế chăm sóc cần được nhận diện và đại diện (recognized and represented) 
+Không được coi trọng, ít được bảo vệ
+Các công việc chăm sóc, hỗ trợ người thân, bạn bè
 
 Sản xuất đồng đẳng dựa trên nguồn lực chung [Commons-based peer production - Wikipedia](https://en.wikipedia.org/wiki/Commons-based_peer_production "Commons-based peer production - Wikipedia")
 Tổ chức tình thế [Adhocracy - Wikipedia](https://en.wikipedia.org/wiki/Adhocracy "Adhocracy - Wikipedia")

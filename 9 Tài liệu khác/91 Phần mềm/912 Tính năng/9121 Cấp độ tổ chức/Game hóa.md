@@ -1,6 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/2/21/Octalysis_Framework.png)
-[Mô hình phân tích Game hoá Octalysis - by Hùng Vũ](https://www.gamehoa.org/p/mo-hinh-octalysis)
-
+[[Game hoá]]
 | Thực thể                                    | Trò chơi                                              |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Nhu cầu                                     | Hải lưu, cơn gió                                      |
@@ -20,4 +18,4 @@
 |                                             | Loại sát thương: đập, tê, bỏng, giựt, đâm, chém, độc, |
 |                                             | Xúc xắc                                               |
 |                                             | Thẻ bài                                               |
-[[Trò chơi và vùng đất]]
+[[Bản đồ là yếu tố tuyệt vời nhất của game mà các dự án có sử dụng game hoá chưa sử dụng triệt để]]

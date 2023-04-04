@@ -1,17 +1,15 @@
-Loại:: [[Quán có phòng riêng]], [[Quán không có phòng riêng]]
+Loại:: [[Quán có phòng riêng]]
 Địa chỉ:: [5 Cao Thắng, Q1]  
 Giá nước:: 
-Máy chiếu:: ✔
+Giá thuê:: 50k/giờ
 Số người tối thiểu:: 5
-Số người tối đa::
+Số người tối đa:: 10
 Giá giữ xe:: 5k
-Không gian tạo cảm hứng:: ✔
 Liên hệ:: 
-Tiện ích khác:: 
-Số lần đặt phòng tối đa trong tháng:: Không giới hạn
-
+Tiện ích khác:: nhạc cụ
 Nước ngon:: ❌
 Giờ đóng cửa:: 22h
+Máy chiếu:: ✔
 Có loa mic:: ✔
 
-Lưu ý::
+Lưu ý:: cần đặt phòng trước

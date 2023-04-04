@@ -24,3 +24,7 @@ Get-ChildItem -recurse -exclude git | get-childitem -recurse -exclude *.js | Whe
 ```PowerShell
 Get-ChildItem *.md -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả mong muốn::','Thành quả cần có::') | Set-Content $_ } 
 ```
+# Xoá tất cả desktop.ini 
+```PowerShell
+Get-ChildItem -Force -Recurse -File -Filter "desktop.ini" | Remove-Item -force
+```

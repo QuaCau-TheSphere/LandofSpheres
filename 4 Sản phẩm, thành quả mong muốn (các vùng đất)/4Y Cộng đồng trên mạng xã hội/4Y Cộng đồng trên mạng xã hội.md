@@ -13,7 +13,7 @@ Thành quả hỗ trợ:: [[10 người làm dự án thấy tin tưởng rằng
 Thành quả hỗ trợ:: [[10 người trong nhóm Obsidian tiếng Việt tải vault về]]
 Thành quả hỗ trợ:: [[10 người làm nghiên cứu tin tưởng vault là nơi họ có thêm những gợi ý liên ngành]]
 Điểm mạnh:: [[Có 100 người tham gia Discord QC]]
-Điểm yếu:: [[Đã số người chỉ quen xài fb]], [[Nhiều kênh liên lạc quá bị ngộp]]
+Điểm yếu:: [[Đa số người chỉ quen xài Facebook]], [[Nhiều kênh liên lạc quá bị ngộp]]
 Đối tượng thụ hưởng::
 Ưu tiên cho Facebook trước, sau đó thói quen của người VN ko ở Discord
 Nhiều channel quá, 

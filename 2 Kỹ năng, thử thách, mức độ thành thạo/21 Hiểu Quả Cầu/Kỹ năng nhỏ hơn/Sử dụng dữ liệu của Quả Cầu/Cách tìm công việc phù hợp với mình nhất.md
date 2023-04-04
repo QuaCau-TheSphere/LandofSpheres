@@ -31,7 +31,7 @@ Xem thêm:
 Bấm <kbd>Ctrl + E</kbd> để vào chế độ sửa.
 ```dataview 
 LIST 
-FROM #tc-🔓Làmlúcnàocũngđược
-WHERE contains(file.path, "7 Công việc")
+FROM #tc-🔓Làmlúcnàocũngđược and #tc-🚴Đilạinhiềunơi 
+WHERE contains(file.path, "7 Công việc") and file.name!="07 Công việc" 
 ```
 Xem thêm: [[Viết truy vấn Dataview]]

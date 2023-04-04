@@ -1,8 +1,8 @@
-có nhiều hướng tiếp cận quyền riêng tư. Trong triết học, chính trị, pháp luật sẽ bàn theo những cách khác nhau. Nó sẽ liên quan đến những chủ đề như sự kiểm soát thông tin, nhân phẩm, sự thân mật/tin tưởng, sự sợ hãi/rủi ro, sự minh bạch thông tin, v.v. Một số lý thuyết gia thì chỉ trích nó vì cho rằng bất kỳ quyền lợi nào được bảo vệ trên danh nghĩa là riêng tư đều có thể được giải thích và bảo vệ bằng các quyền lợi hoặc các quyền khác, hoặc  nó được sử dụng như một cái cớ để thống trị và kiểm soát người khác, buộc nạn nhân và nhân chứng phải im lặng và che đậy bạo hành.
+có nhiều hướng tiếp cận quyền riêng tư. Triết học, chính trị, pháp luật sẽ bàn về nó theo những cách khác nhau. Nó sẽ liên quan đến những chủ đề như sự kiểm soát thông tin, nhân phẩm, sự thân mật/tin tưởng, sự sợ hãi/rủi ro, sự minh bạch thông tin, v.v. Một số lý thuyết gia thì phê phán nó vì cho rằng nó không có một định nghĩa nhất quán, hoặc vì bất kỳ quyền lợi nào được bảo vệ trên danh nghĩa là riêng tư đều có thể được giải thích và bảo vệ bằng các quyền lợi hoặc các quyền khác, hoặc vì nó được sử dụng như một cái cớ để thống trị và kiểm soát người khác, buộc nạn nhân và nhân chứng phải im lặng và che đậy bạo hành. Nhưng nhìn chung, hầu hết các nhà lý thuyết đều biện hộ cho giá trị của việc bảo vệ quyền riêng tư bất chấp những vấn đề như vậy.
 
-Nhóm của mình có dịch bài về sự riêng tư trên trang Bách khoa toàn thư Triết học Stanford, có thể bạn sẽ hứng thú https://quacau.space/doo0
+Nhóm em có dịch bài về privacy trên trang Stanford Encyclopedia of Philosophy, hiện đang cần tìm người biên tập. Nếu ai có hứng thú xin ghé qua https://quacau.space/fo77
 
-
+_____________________
 
 Thuật ngữ “sự riêng tư” được sử dụng thường xuyên trong ngôn ngữ thông thường cũng như trong các cuộc thảo luận triết học, chính trị và pháp lý, nhưng thuật ngữ này không có định nghĩa hoặc phân tích hoặc ý nghĩa duy nhất. Khái niệm về sự riêng tư có nguồn gốc lịch sử trải khắp trong những thảo luận xã hội học và nhân học về việc sự riêng tư được coi trọng và được duy trì tới mức độ nào trong các nền văn hóa khác nhau. Hơn nữa, khái niệm này có nguồn gốc lịch sử trong các cuộc thảo luận triết học trứ danh, đáng chú ý nhất là sự phân biệt của Aristotle giữa không gian công cộng của các hoạt động chính trị và không gian riêng tư gắn liền với gia đình và cuộc sống gia đình. Tuy nhiên, việc sử dụng thuật ngữ này trong quá khứ không thống nhất và vẫn gây hiểu lầm về ý nghĩa, giá trị và phạm vi của khái niệm sự riêng tư.
 
@@ -36,3 +36,6 @@ Nội dung:
   4. Sự riêng tư và Công nghệ
     4.1 Các khía cạnh xã hội của sự riêng tư
     4.2 Sự riêng tư và các xung đột giá trị khác
+
+
+#file/truyềnthông
