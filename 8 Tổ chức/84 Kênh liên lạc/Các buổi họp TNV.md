@@ -4,3 +4,4 @@ Người được thông báo lịch:: [[Bạn bè QC (mức độ 1)]]
 Nội dung thảo luận:: 
 Thời điểm chọn lịch:: 
 Người được tham gia nhóm chat:: Nhiều người tham gia được nhất
+[[Ưu tiên việc ăn hơn việch họp]] 

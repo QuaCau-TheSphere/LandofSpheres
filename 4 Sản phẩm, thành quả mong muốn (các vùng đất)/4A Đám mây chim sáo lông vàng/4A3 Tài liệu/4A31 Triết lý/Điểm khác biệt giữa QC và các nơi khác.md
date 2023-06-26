@@ -2,7 +2,7 @@
 ```dataview
 table filter(file.inlinks, (i) => i.mô-hình) as "Ví dụ", ví-dụ, 
 	điểm-giống as "Điểm giống",
-	điểm-học-hỏi as "Điểm học học", 
+	điểm-học-hỏi as "Điểm học hỏi", 
 	điểm-khác-của-qc as "Điểm khác của QC" 
 from "6 Các bên liên quan (NPC)/Tổ chức/66 Mô hình" 
 ```
@@ -10,7 +10,7 @@ from "6 Các bên liên quan (NPC)/Tổ chức/66 Mô hình"
 ```dataview
 table filter(file.inlinks, (i) => i.loại-sứ-mệnh) as "Ví dụ", 
 	điểm-giống as "Điểm giống",
-	điểm-học-hỏi as "Điểm học học", 
+	điểm-học-hỏi as "Điểm học hỏi", 
 	điểm-khác-của-qc as "Điểm khác của QC" 
 from "6 Các bên liên quan (NPC)/Tổ chức/67 Loại sứ mệnh, nội dung chủ đạo" 
 ```

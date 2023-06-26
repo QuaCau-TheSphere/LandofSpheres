@@ -24,6 +24,8 @@ Các thư mục ở trên sẽ quyết định các thư mục ở dưới
 
 Từ 1 đến 3 là hướng về cá nhân, là nơi mọi người phát triển bản thân mình, là nơi họ sống cho bản thân. Từ 5 trở đi là hướng về tập thể, là những thứ được thống nhất và sử dụng chung. 4 là nơi giao nhau, và cũng có thể xem là nơi chuyển giao giữa việc đặt cá nhân làm trọng tâm và đặt tập thể làm trọng tâm. Đó là các vùng đất, nơi các dòng nhu cầu hội tụ đủ mạnh để bồi đắp tạo thành. Một người mới vào phải thấy được giá trị của 4 thì họ mới tham gia sâu hơn. Một người khi cảm thấy rằng mình muốn có 4 sẽ di chuyển xuống các thư mục ở dưới, để biến những thứ ở 4 trở thành hiện thực. 
 
+Những người chưa có hứng thú với một vùng đất nào đó thì sẽ thấy nhức đầu bởi những chi tiết bên trong nó.
+
 Tổ chức nằm ở 8 vì tới lúc này nhu cầu có một tổ chức mới trở nên rõ ràng hơn
 Cái này là tài liệu thô mình chưa qua xử lý. Xử lý xong rồi thì để vào 9
 

@@ -4,11 +4,15 @@ Lý do:: [[Nhật cảm thấy việc được nghiên cứu tự do đem lại 
 Lý do:: [[Nhật cảm thấy việc tạo động lực giúp đỡ từ những người đang theo dõi sẵn hiệu quả hơn là từ người không biết gì về mình]]
 Lý do:: [[Nhật cảm thấy việc chăm tham gia hội thảo, khóa học ngắn hạn, mạng lưới, hiệp hội là đủ trong việc kết nối mà đi làm hoặc đi học có thể đem lại]]
 Lý do:: [[Công việc phát triển cộng đồng chỉ cần đọc tài liệu và thực hành là đủ chứ không cần phải học chuyên sâu gì]]
+Lý do:: [[Nhật thấy mình phải có ý thức bảo vệ sự trong sáng của mình]]
+
 Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])
 ```
 Tài liệu:: [[Nhật không học văn bằng 2 các ngành liên quan]]
+
+Câu hỏi:: chuyện này có giống việc kêu gọi người khác không hút thuốc nhưng mình cũng hút thuốc, với lý do là hút thì sẽ hiểu họ không? 
 
 # 👀 [[Nhật nên tạm ngưng làm QC một thời gian để thấy được bế tắc của mình]] 
 ## 🤔 Lý do để vẫn tiếp tục làm QC dù biết nó gây ra hệ quả trên

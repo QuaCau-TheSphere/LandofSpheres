@@ -60,9 +60,9 @@ Có những nhóm cộng đồng/sở thích nào bạn thường xuyên tham gi
 
 Về sở thích thì em thích tìm hiểu và nghiên cứu những vấn đề em có quan tâm và thích các hoạt động thể chất. Vì vậy em sẽ có xu hướng tham gia vào các nhóm cộng đồng học thuật và các CLB thể dục thể thao, đặc biệt là các CLB võ thuật. Về học thuật thì chủ yếu em tự tìm hiểu, còn về các CLB em tham gia thì chủ yếu em sẽ ở lại với CLB nào mà em cảm thấy em có thể hòa nhập bản thân vào được, và CLB võ thuật đó phải nhất thiết dạy "võ thuật" theo đúng ý nghĩa của nó chứ ko phải là thứ võ thuật đại chúng đương đại.
 
-Trong năm nay bạn đang có những Thành quả cần có gì? Giả sử sau khi đạt được những Thành quả cần có này rồi thì bạn sẽ làm gì tiếp theo? Giả sử sau khi đạt được những Thành quả cần có này rồi thì bạn sẽ làm gì tiếp theo?
+Trong năm nay bạn đang có những mục tiêu gì? Giả sử sau khi đạt được những mục tiêu này rồi thì bạn sẽ làm gì tiếp theo? Giả sử sau khi đạt được những mục tiêu này rồi thì bạn sẽ làm gì tiếp theo?
 
-Năm nay thì em cũng chưa có Thành quả cần có gì quá cụ thể.
+Năm nay thì em cũng chưa có mục tiêu gì quá cụ thể.
 
 Điều gì khiến bạn lựa chọn ngành nghề bạn đang làm?
 
@@ -85,7 +85,7 @@ Các giá trị cá nhân quan trọng nhất với bạn là gì? Tại sao b�
 Danh dự, kỷ luật, bền bỉ.  
 Danh dự: con người ta có thể vất bỏ danh dự để sống nhưng bản thân em thì thấy ngược lại dù em không chắc là em khi đối mặt với cái chết em có vứt bỏ danh dự hay không.  
   
-Kỷ luật: con người cần phải có sự kỷ luật để có thể đạt được bất kỳ Thành quả cần có gì.  
+Kỷ luật: con người cần phải có sự kỷ luật để có thể đạt được bất kỳ mục tiêu gì.  
   
 Bền bỉ: con người cần phải có sự bền bỉ để vượt qua các trở ngại trong cuộc sống.
 

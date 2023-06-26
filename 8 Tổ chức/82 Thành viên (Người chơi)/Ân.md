@@ -16,6 +16,7 @@ Kỹ năng:: [[Lập kế hoạch]], [[Nhân sự (kỹ năng)]], [[Hậu cần 
 🏠:: Q5, TPHCM
 ✉:: lebaoan042001@gmail.com
 Facebook:: [Lê Ân](https://www.facebook.com/lean042001/)
+Tài khoản ngân hàng:: 9021157587461, Bản Việt
 
 === multi-column-end
 # Sản phẩm tôi đang làm

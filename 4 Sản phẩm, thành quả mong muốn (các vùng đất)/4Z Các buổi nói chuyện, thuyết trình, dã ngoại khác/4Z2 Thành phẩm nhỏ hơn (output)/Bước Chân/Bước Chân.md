@@ -1,3 +1,10 @@
+```button
+name Mở vault
+type link
+action obsidian://open?vault=Z%20B%C6%B0%E1%BB%9Bc%20Ch%C3%A2n&file=K%E1%BA%BF%20ho%E1%BA%A1ch
+color blue
+```
+^button-76xb
 # Mô tả
 Mô tả::
 Description::

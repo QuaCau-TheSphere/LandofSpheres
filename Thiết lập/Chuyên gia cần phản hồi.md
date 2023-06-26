@@ -1,0 +1,1 @@
+Tình trạng thiếu sự phản hồi xảy ra thường xuyên, đến nỗi nhiều người không còn kỳ vọng vào việc mình sẽ nhận được sự phản hồi nữa
