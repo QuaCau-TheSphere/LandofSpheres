@@ -1,7 +1,15 @@
 # Mô tả
-Mô tả:: Quả Cầu hướng đến việc trở thành một tổ chức không có sự phân cấp và người tham gia không làm vì trách nhiệm, lấy nhu cầu của thành viên (vốn nhiều vô kể và thay đổi liên tục) làm mục tiêu của tổ chức, để họ trở thành những người có kỹ năng đa dạng và tư duy liên ngành, dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, game phiêu lưu nhập vai, nền kinh tế không dùng tiền, và hai phần mềm Obsidian và Git
+Mô tả:: Quả Cầu hướng đến việc trở thành một tổ chức không có sự phân cấp và người tham gia không làm vì trách nhiệm, lấy nhu cầu của thành viên (vốn nhiều vô kể và thay đổi liên tục) làm mục tiêu của tổ chức, để họ trở thành những người có kỹ năng đa dạng, tư duy liên ngành, và sự khoẻ mạnh và hạnh phúc toàn diện, dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, game phiêu lưu nhập vai, nền kinh tế không dùng tiền, và các công cụ lưu dữ liệu tại máy người dùng
 
-Description:: The Sphere aims to be an non-hierarchical organization, whose participants join with no responsibility, and whose goals are formed by the needs of its members (which are innumerable and constantly changing), in order for them to acquire diverse skills and interdisciplinary thinking, based on the philosophy of Deleuze and Guattari, complexity science, role-playing adventure games, the moneyless economy, and the two software Obsidian and Git 
+Tầm nhìn:: trở thành một tổ chức không có sự phân cấp và người tham gia không làm vì trách nhiệm, lấy nhu cầu của thành viên (vốn nhiều vô kể và thay đổi liên tục) làm mục tiêu của tổ chức, để họ trở thành những người có kỹ năng đa dạng, tư duy liên ngành, và sự khoẻ mạnh và hạnh phúc toàn diện, dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, game phiêu lưu nhập vai, nền kinh tế không dùng tiền, và các công cụ lưu dữ liệu tại máy người dùng
+
+Sứ mệnh:: xây dựng các hệ thống quản lý và xử lý dữ liệu, quản trị nhóm và chia sẻ tri thức theo hướng xoá bỏ các đảo thông tin, liên thông dữ liệu giữa các nhóm dự án và đáp ứng các nhu cầu đa dạng của cộng đồng, dựa trên các công cụ lưu dữ liệu tại máy người dùng như Obsidian và Git
+
+Lĩnh vực hoạt động:: công nghệ thông tin, hợp tác làm việc và xây dựng mạng lưới (SDG 17) 
+
+
+
+Description:: The Sphere aims to be an non-hierarchical organization, whose participants join with no responsibility, and whose goals are formed by the needs of its members (which are innumerable and constantly changing), in order for them to acquire diverse skills, interdisciplinary thinking, and well-being, based on the philosophy of Deleuze and Guattari, complexity science, role-playing adventure games, the moneyless economy, and the two software Obsidian and Git 
 
 # Nhu cầu
 Nhu cầu dẫn tới:: [[Thử nghiệm ý tưởng một tổ chức không cần hạn chót và trách nhiệm. Chứng minh sự bền vững của sự thong thả]] 

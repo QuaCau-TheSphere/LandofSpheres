@@ -1,7 +1,7 @@
 - [ ] [[Hiểu chính bản thân mình]]
 	- [ ] Hiểu được những dòng chảy nhu cầu nào đang chảy qua mình
 	- [ ] [[Tạo một vault cho riêng mình]]
-- [ ] [[Hiểu được nguồn gốc của quan điểm khác biệt và thấy được giá trị của nó cũng như giới hạn của quan điểm của mình]]
+- [ ] [[Tìm hiểu về cách niềm tin được hình thành]]
 - [ ] [[Lắng nghe, quan sát, đặt câu hỏi]] mà không phán xét gì cả
 	- [ ] Đặt ra những câu hỏi cho những câu trả lời
 - [ ] thong thả, không có áp lực gì cả, các nhu cầu đều được đáp ứng

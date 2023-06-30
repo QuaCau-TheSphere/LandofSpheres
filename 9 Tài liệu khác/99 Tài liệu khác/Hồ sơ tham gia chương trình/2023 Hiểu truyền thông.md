@@ -20,9 +20,11 @@ Email:
 
 Mô tả ngắn gọn về hội nhóm (tối đa 0.5 trang, kèm danh sách, vai trò và năng lực tóm tắt của từng cá nhân trong dự án): Cần nêu rõ sứ mệnh, tầm nhìn, lĩnh vực hoạt động của hội nhóm và một số hoạt động nổi bật từng thực hiện.
 
-|   |
-|---|
-||
+Tầm nhìn: `=[[4A Đám mây chim sáo lông vàng]].tầm-nhìn`
+
+Sứ mệnh: `=[[4A Đám mây chim sáo lông vàng]].sứ-mệnh`
+
+Lĩnh vực hoạt động: `=[[4A Đám mây chim sáo lông vàng]].lĩnh-vực-hoạt-động`
 
 Người tham chiếu (từ tổ chức,hội nhóm khác):
 
