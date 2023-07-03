@@ -3,9 +3,9 @@ Mô tả:: Quả Cầu hướng đến việc trở thành một tổ chức kh�
 
 Tầm nhìn:: trở thành một tổ chức không có sự phân cấp và người tham gia không làm vì trách nhiệm, lấy nhu cầu của thành viên (vốn nhiều vô kể và thay đổi liên tục) làm mục tiêu của tổ chức, để họ trở thành những người có kỹ năng đa dạng, tư duy liên ngành, và sự khoẻ mạnh và hạnh phúc toàn diện, dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, game phiêu lưu nhập vai, nền kinh tế không dùng tiền, và các công cụ lưu dữ liệu tại máy người dùng
 
-Sứ mệnh:: xây dựng các hệ thống quản lý và xử lý dữ liệu, quản trị nhóm và chia sẻ tri thức theo hướng xoá bỏ các đảo thông tin, liên thông dữ liệu giữa các nhóm dự án và đáp ứng các nhu cầu đa dạng của cộng đồng, dựa trên các công cụ lưu dữ liệu tại máy người dùng như Obsidian và Git
+Sứ mệnh:: trở thành một không gian để mọi người có thể đáp ứng nhu cầu lẫn nhau, đồng thời xây dựng các hệ thống quản trị và chia sẻ thông tin, tri thức, nhu cầu để những nhu cầu đó được đáp ứng một cách hiệu quả và thông suốt
 
-Lĩnh vực hoạt động:: công nghệ thông tin, hợp tác làm việc và xây dựng mạng lưới (SDG 17) 
+Lĩnh vực hoạt động:: công nghệ thông tin, xây dựng cộng đồng, hợp tác làm việc và xây dựng mạng lưới (SDG 17) 
 
 
 

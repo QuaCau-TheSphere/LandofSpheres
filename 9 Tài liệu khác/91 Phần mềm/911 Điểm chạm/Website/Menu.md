@@ -31,17 +31,16 @@
 - Các phần mềm hữu ích
 - Nghiên cứu khoa học phong cách truyện tranh
 
-# Meta
-- Giới thiệu dự án
-- Kế hoạch chiến lược
-- Kế hoạch hành động
-- Thông điệp truyền thông
-- Tuyển tình nguyện viên
-- Độc giả của blog này là ai?
+# Bên trong Quả Cầu có gì?
+- Một đám mây chim sáo
+- Bộ cài đặt Vùng đất Quả Cầu
 - Độc giả dự án Quả Cầu nói gì?
-- Lời mời phản biện và hợp tác nghiên cứu
-- CV tác giả
-- Khảo sát
-- Giải đáp chất vấn
+- Về người sáng lập
+	- Giới thiệu người sáng lập
+	- CV người sáng lập
+- Vấn đề Quả Cầu
+- Bạn nghĩ gì về Quả Cầu?
+- Giới thiệu dự án (cũ) 
 
-# Liên hệ và ủng hộ
+# Hỗ trợ Quả Cầu 
+# Liên hệ 
