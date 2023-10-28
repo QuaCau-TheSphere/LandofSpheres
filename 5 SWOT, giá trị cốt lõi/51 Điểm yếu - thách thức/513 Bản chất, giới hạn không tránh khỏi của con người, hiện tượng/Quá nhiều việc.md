@@ -11,7 +11,7 @@ Lý do:: [[Có rất nhiều kiến thức liên quan cần phải tìm hiểu]]
 Lý do:: [[Định luật Hofstadter]]
 Lý do:: [[Làm được một lúc thì não lại nhớ ra công việc khác mình chưa làm mặc dù cũng tự hiểu là có nhớ ra thì cũng chưa tới lúc làm]]
 Lý do:: [[Sự sáng tạo luôn cho ta thêm những công việc mới mà ta thấy cần phải làm]]
-
+Lý do:: [[Những người muốn nhờ Nhật không nói chuyện với nhau]]
 Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])

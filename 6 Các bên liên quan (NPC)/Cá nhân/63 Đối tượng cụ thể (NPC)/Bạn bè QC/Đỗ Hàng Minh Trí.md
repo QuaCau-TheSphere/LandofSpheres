@@ -26,3 +26,7 @@ Giới:: Nam
 Nơi ở hiện tại:: HCM
 SĐT:: (037) 830-3123
 Link website/blog/Facebook/CV để mọi người hiểu thêm về bạn:: https://www.facebook.com/dohangminhtri511/
+
+do hang minh tri 
+tp bank
+0622 3854 901

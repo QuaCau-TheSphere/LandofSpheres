@@ -1,5 +1,49 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "lea flet-map",
+      "lastAccessed": 1689758738340,
+      "markers": [
+        {
+          "id": "ID_3be96909f8d8",
+          "type": "default",
+          "loc": [
+            -2.4398367773528613,
+            7.4096412983257665
+          ],
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bf9d978d9bb",
+          "type": "default",
+          "loc": [
+            -2.377336773538164,
+            7.784531715701784
+          ],
+          "layer": "%5B%5BC%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "== Tổng quan tình hình hiện tại ==.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
