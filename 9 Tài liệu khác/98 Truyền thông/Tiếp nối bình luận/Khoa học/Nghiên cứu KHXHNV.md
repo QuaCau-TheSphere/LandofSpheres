@@ -14,3 +14,5 @@ HEURIST is flexible. It can **effectively store, analyse and publish a wide vari
 Want to see how others use Heurist? See our [Featured Projects →](https://heuristnetwork.org/featured-projects)
 
 HEURIST gets results. You can **perform sophisticated filtering**, then **save, organise and publish the results** as interactive maps, timelines, network visualisations, cross-tabulations, lists, custom reports, and a range of export formats, all of which can easily be embedded live in a website created in Heurist’s internal CMS, or in a personal or institutional website.
+
+<a href="https://area51.stackexchange.com/proposals/128069/anthropology-and-sociology?referrer=ZGQyMTk5MzJmY2YxZmI3YTU1MTIzYTRiMjg5YjVhN2U1ZmY1MWUxNzI5MDUzZjg0M2Y2YjVjOGM5MDUxNWFkZD603-pCTU-s3_yU_oNXWAZX7Vet-WLtzHMDnLlePKqf0"><img src="https://area51.stackexchange.com/ads/proposal/128069.png" width="300" height="250" alt="Stack Exchange Q&A site proposal: Anthropology and Sociology" /></a>

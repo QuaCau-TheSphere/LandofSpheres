@@ -1,3 +1,27 @@
+# 2024-02-20
+Dear Ms.Nhi,  
+
+Thank you for reaching out to me for referene.
+It is my pleasure to provide details regarding my experience working with Tuyen at The Sphere.
+
+I am the founder and general director of The Sphere company.
+Tuyen was a Project and Content Coordinator.
+Here, Tuyen was our highest-performance staff due to his great management skills and professional attitude at work (result-oriented and meticulous in details).
+Handling a large amount of work made him struggle to stabilize his emotions at the workplace in the first 3 months (not to mention his distressing family issues), but eventually, he managed to overcome with splendid performance. 
+With such achievement, Tuyen has never received any warning letter or negative comments during his working period at The Sphere.
+He started work on 6th June 2021.
+His last working date was 30th December 2023.
+He has accomplished all relevant projects and desires to explore further opportunities regarding content, thus I support him in developing his career.
+If Tuyen is willing to work in Vietnam, I would definitely like to rehire him for further projects.
+According to his recent payroll, his gross salary received was 18.5 million VND. 
+As far as I know, he also has a 2 million bonus monthly as top-performance staff, side commission (average 1.5 million each month), plus transportation allowance (1 million monthly).
+I am happy to see that Tuyen is making progress in finding new working opportunities at your company. Should you have any questions regarding his working reference or suitability, please contact me.
+
+Warm regards,
+
+Ly Minh Nhat.
+
+# Cũ
 Dear Organizing Committee of UPG Sustainability Leadership,  
 
 It is my pleasure to recommend Tuyên Đăng Nguyễn Phạm (Phạm Nguyễn Đăng Tuyên) for inclusion in ______.
@@ -32,3 +56,5 @@ Founder of The Sphere
 LeadNext
 [UPG Sustainability Leadership | United People Global](https://unitedpeople.global/nominations/upgsustainabilityleaders/?fbclid=IwAR3LbOO5yPmgP3HcMTa35yOUgZk5qaomrB36pT7Qk6HqfeVXz8u5jCvYMBo)
 Hansen
+
+
