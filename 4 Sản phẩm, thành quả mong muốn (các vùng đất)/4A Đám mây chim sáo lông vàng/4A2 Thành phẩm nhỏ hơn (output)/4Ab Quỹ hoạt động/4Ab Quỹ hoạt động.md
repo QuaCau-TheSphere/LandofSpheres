@@ -11,7 +11,7 @@ Người chơi:: [[Tuyên]]
 
 Thành quả cần có:: [[3 thành viên có thể dành 1 tháng chỉ để làm những gì mình quan tâm]]
 Thành quả hỗ trợ:: [[3 nhà tài trợ đóng góp mỗi tháng tổng cộng 15 tr]]
-Thành quả hỗ trợ:: [[30 người ghé thăm web quyên góp mỗi người 100k]]
+Thành quả hỗ trợ:: [[4 Sản phẩm, thành quả mong muốn (các vùng đất)/4A Đám mây chim sáo lông vàng/4A2 Thành phẩm nhỏ hơn (output)/4Ab Quỹ hoạt động/30 người ghé thăm web quyên góp mỗi người 100k]]
 Thành phẩm nhỏ hơn::
 
 Điểm mạnh::

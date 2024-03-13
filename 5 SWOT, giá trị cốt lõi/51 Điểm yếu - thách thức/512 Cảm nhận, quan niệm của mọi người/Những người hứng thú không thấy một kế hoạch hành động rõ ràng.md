@@ -7,6 +7,7 @@ Lý do:: [[Bản thân kế hoạch này nói rằng nên ưu tiên đáp ứng 
 Quá phức tạp
 Lý do:: [[Những người hứng thú chờ đợi để được nói hơn là chủ động hỏi sâu]]
 
+giống như là một dự án nghệ thuật ở chỗ mỗi người nhìn nó sẽ có một suy nghĩ khác nhau, cũng như cách 
 Hệ quả của vấn đề này:
 ```dataview
 List where contains(lý-do,[[]])

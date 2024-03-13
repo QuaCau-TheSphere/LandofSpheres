@@ -19,3 +19,5 @@ Hoạt động::
 
 # Sản phẩm
 Những câu hỏi không được trả lời một cách thoả mãn không có thời gian để theo đuổi
+
+<a href="https://area51.stackexchange.com/proposals/128069/anthropology-and-sociology?referrer=ZGQyMTk5MzJmY2YxZmI3YTU1MTIzYTRiMjg5YjVhN2U1ZmY1MWUxNzI5MDUzZjg0M2Y2YjVjOGM5MDUxNWFkZD603-pCTU-s3_yU_oNXWAZX7Vet-WLtzHMDnLlePKqf0"><img src="https://area51.stackexchange.com/ads/proposal/128069.png" width="300" height="250" alt="Stack Exchange Q&A site proposal: Anthropology and Sociology" /></a>
