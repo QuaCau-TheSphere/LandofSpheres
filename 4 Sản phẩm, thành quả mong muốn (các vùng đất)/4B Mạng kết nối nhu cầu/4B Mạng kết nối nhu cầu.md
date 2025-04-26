@@ -1,3 +1,7 @@
+---
+created: 2023-10-28T14:49
+updated: 2024-08-20T16:21
+---
 Mô tả:: Mạng kết nối nhu cầu là một vault Obsidian để cộng đồng người dùng có thể đăng ký thông tin cá nhân (bản thân họ có nhu cầu gì và có gì để trao đổi) và tìm đối tượng/đội nhóm để trao đổi. Thứ dùng để trao đổi là nhu cầu cá nhân (học ngoại ngữ, cải thiện kỹ năng, v.v.) hoặc đồ vật, vân vân.  
 Sàn nhu cầu có giao diện là một trang website trên Quacau.cc để người dùng có thể làm những điều sau:
 - đăng ký / đăng nhập tài khoản.

@@ -41,4 +41,5 @@ desktop.ini
 !/.obsidian/plugins/templater-obsidian
 !/.obsidian/plugins/various-complements
 
-!/.obsidian/snippets/
+!/.obsidian/snippets/.obsidian/plugins/obsidian-mkdocs-publisher/logs.txt
+.obsidian/workspace.json

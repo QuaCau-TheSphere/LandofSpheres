@@ -1,3 +1,7 @@
+---
+created: 2023-10-28T14:49
+updated: 2024-08-22T15:05
+---
 # Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between
 
 A key problem for developing [Tools for thought](https://notes.andymatuschak.org/z5YhNc8HVKxjg9a3h3SeCyKqnNDFgiY6WGrM) is that [Mental states of deep software development and deep research thinking are mutually exclusive](https://notes.andymatuschak.org/zQCSSBGrBJazfq3tuJehkf81MsYj6du38Dof), and [Switching costs are high between software development and research thinking](https://notes.andymatuschak.org/z78pmtn8LMt6npZyHciSjVZJdp3u7sin61PzG). A natural response is to hire help—designers, engineers, project managers, etc. But a challenge I’ve noticed here is that because [Insight through making prefers bricolage to big design up front](https://notes.andymatuschak.org/z7Ldzn94FibghJBEG9hAebu8LMNV7NVBFvsfg), it’s very difficult to externalize a long runway of legible work which can be accomplished by a typical contractor or intern. Most of the time I can only see a short distance ahead of myself. I’m sure I could get better at looking around corners, but I suspect there’s some immutable component of this too.

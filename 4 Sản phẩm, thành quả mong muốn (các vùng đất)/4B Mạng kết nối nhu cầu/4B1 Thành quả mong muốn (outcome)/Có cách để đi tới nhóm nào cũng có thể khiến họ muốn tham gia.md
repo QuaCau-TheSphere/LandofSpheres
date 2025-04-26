@@ -1,3 +1,7 @@
+---
+created: 2023-10-28T14:49
+updated: 2024-08-20T16:20
+---
 Phục vụ cho thành quả mong muốn:
 ```dataview
 list where contains(thành-quả-cần-có, [[]]) or contains(thành-quả-hỗ-trợ, [[]])

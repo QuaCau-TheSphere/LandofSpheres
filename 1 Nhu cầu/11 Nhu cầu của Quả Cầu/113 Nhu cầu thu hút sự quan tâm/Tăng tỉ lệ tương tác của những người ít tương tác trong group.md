@@ -1,5 +1,7 @@
 ---
 Alias: Tạo động lực nội sinh mạnh mẽ cho thành viên
+created: 2023-10-28T14:48
+updated: 2024-08-20T13:11
 ---
 <sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
 

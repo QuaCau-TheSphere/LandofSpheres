@@ -2,9 +2,12 @@
   "strategy": "default",
   "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "prefix",
-  "fuzzyMatch": true,
-  "maxNumberOfSuggestions": 255,
-  "maxNumberOfWordsAsPhrase": 1,
+  "fuzzyMatch": false,
+  "minFuzzyMatchScore": 0.5,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 2,
   "minNumberOfWordsTriggeredPhrase": 1,
   "complementAutomatically": true,
@@ -12,19 +15,48 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
-  "useCommonPrefixCompletionOfSuggestion": false,
   "patternsToSuppressTrigger": [
     "^~~~.*",
     "^```.*"
   ],
-  "showMatchStrategy": false,
-  "showComplementAutomatically": false,
-  "showIndexingStatus": false,
+  "phrasePatternsToSuppressTrigger": [],
+  "noAutoFocusUntilCycle": false,
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Enter",
-  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
-  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
-  "openSourceFileKey": "None",
+  "hotkeys": {
+    "select": [
+      {
+        "modifiers": [],
+        "key": "Enter"
+      }
+    ],
+    "up": [
+      {
+        "modifiers": [],
+        "key": "ArrowUp"
+      }
+    ],
+    "down": [
+      {
+        "modifiers": [],
+        "key": "ArrowDown"
+      }
+    ],
+    "select 1st": [],
+    "select 2nd": [],
+    "select 3rd": [],
+    "select 4th": [],
+    "select 5th": [],
+    "select 6th": [],
+    "select 7th": [],
+    "select 8th": [],
+    "select 9th": [],
+    "open": [],
+    "completion": [],
+    "insert as text": []
+  },
   "propagateEsc": false,
   "enableCurrentFileComplement": false,
   "currentFileMinNumberOfCharacters": 0,
@@ -35,12 +67,12 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "Thiết lập/Gõ tắt.md",
+  "customDictionaryPaths": "Ξ Thiết lập/Gõ tắt.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
   "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
-  "caretLocationSymbolAfterComplement": "|",
+  "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": false,
   "suggestInternalLinkWithAlias": false,
@@ -51,54 +83,17 @@
     "beforeRegExp": "",
     "after": ""
   },
+  "frontMatterKeyForExclusionInternalLink": "",
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
-  "insertCommaAfterFrontMatterCompletion": true,
+  "insertCommaAfterFrontMatterCompletion": false,
   "intelligentSuggestionPrioritization": {
+    "enabled": false,
+    "historyFilePath": "",
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
+  "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": true,
-  "selectionHistoryTree": {
-    "Chủ đề::": {
-      "Chủ đề::": {
-        "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1677992146002
-        }
-      }
-    },
-    "Đi chung::": {
-      "Đi chung::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679128273571
-        }
-      }
-    },
-    "```dataview\nLIST\nFROM |\nWHERE\n```": {
-      "```dataview\nLIST\nFROM |\nWHERE\n```": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1680591770808
-        }
-      }
-    },
-    "kte, tl": {
-      "Trả lời:: ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679807467252
-        }
-      }
-    },
-    "Cách đáp ứng nhu cầu này:": {
-      "Cách đáp ứng nhu cầu này:": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1680060710543
-        }
-      }
-    }
-  }
+  "selectionHistoryTree": {}
 }

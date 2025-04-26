@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Thiết lập/Templates",
+  "templates_folder": "Ξ Thiết lập/Templates",
   "templates_pairs": [
     [
       "",
@@ -11,63 +11,32 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "Thiết lập/Templates",
+  "user_scripts_folder": "Ξ Thiết lập/Templates",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "1 Nhu cầu/12 Nhu cầu của mọi người",
-      "template": "Thiết lập/Templates/012 Nhu cầu của đối tượng.md"
+      "folder": "/",
+      "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
     },
     {
-      "folder": "1 Nhu cầu/11 Nhu cầu của Quả Cầu/Nhu cầu của Quả Cầu về mọi người",
-      "template": "Thiết lập/Templates/011 Nhu cầu của mình về đối tượng.md"
+      "folder": "📜Tài nguyên/Nhu cầu công việc",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu công việc.md"
     },
     {
-      "folder": "3 Kiến thức, câu hỏi/31 Khái niệm, chủ đề",
-      "template": "Thiết lập/Templates/031 Khái niệm, chủ đề.md"
+      "folder": "📜Tài nguyên/Nhu cầu công nghệ",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu công nghệ (template).md"
     },
     {
-      "folder": "4 Sản phẩm, thành quả mong muốn (các vùng đất)",
-      "template": "Thiết lập/Templates/04 Sản phẩm, thành phẩm, thành quả/04 Thành quả.md"
+      "folder": "⚡Hiểu biết sâu/Ξ Khái niệm",
+      "template": "Ξ Thiết lập/Templates/Khái niệm.md"
     },
     {
-      "folder": "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức",
-      "template": "Thiết lập/Templates/051 Điểm yếu.md"
-    },
-    {
-      "folder": "6 Các bên liên quan (NPC)/Cá nhân/61 Loại đối tượng (loại nhân vật) (loại nhân vật)",
-      "template": "Thiết lập/Templates/06 Các bên liên quan/061 Loại đối tượng.md"
-    },
-    {
-      "folder": "6 Các bên liên quan (NPC)/Cá nhân/62 Điều đối tượng thấy ở QC",
-      "template": "Thiết lập/Templates/06 Các bên liên quan/062 Điều đối tượng thấy ở QC.md"
-    },
-    {
-      "folder": "6 Các bên liên quan (NPC)/Tổ chức/66 Mô hình",
-      "template": "Thiết lập/Templates/06 Các bên liên quan/066 Mô hình.md"
-    },
-    {
-      "folder": "6 Các bên liên quan (NPC)/Tổ chức/67 Loại sứ mệnh, nội dung chủ đạo",
-      "template": "Thiết lập/Templates/06 Các bên liên quan/067 Loại sứ mệnh, nội dung chủ đạo.md"
-    },
-    {
-      "folder": "6 Các bên liên quan (NPC)/Tổ chức/68 Loại sản phẩm",
-      "template": "Thiết lập/Templates/06 Các bên liên quan/068 Loại sản phẩm.md"
-    },
-    {
-      "folder": "7 Công việc",
-      "template": "Thiết lập/Templates/07 Công việc/07 Công việc.md"
-    },
-    {
-      "folder": "8 Tổ chức/82 Thành viên (Người chơi)",
-      "template": "Thiết lập/Templates/082 Thành viên.md"
-    },
-    {
-      "folder": "9 Tài liệu khác/91 Phần mềm/912 Theo tính năng",
-      "template": "Thiết lập/Templates/0912 Tính năng phần mềm.md"
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],
