@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Những người ở vòng ngoài 
 người muốn tìm hiểu chuyên sâu
 Tại sao việc chỉ cho trailer thì sẽ giúp mình lọc

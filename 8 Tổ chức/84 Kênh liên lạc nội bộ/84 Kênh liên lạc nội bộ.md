@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 ```dataview
 table người-tham-gia-chính as "Người tham gia chính",
 	đặc-điểm-buổi-họp as "Đặc điểm buổi họp",

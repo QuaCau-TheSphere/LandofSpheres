@@ -1,6 +1,6 @@
 ---
 created: 2023-11-07T16:01
-updated: 2023-11-07T16:02
+updated: 2025-04-26T22:48
 ---
 # Tóm tắt
 # Vấn đề: Sự hợp tác giữa các nhóm dự án chưa đạt được hiệu quả tối ưu

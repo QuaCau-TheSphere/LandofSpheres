@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # 
 Thật ra cũng khó, vì một cuộc tranh luận thành công còn phụ thuộc vào nhiều yếu tố chứ không phải là tránh công kích cá nhân. Cho dù cả hai bên không công kích cá nhân thì nhầm lẫn ý người khác vẫn có thể xảy ra. Kiểu như thầy bói xem voi, dù tất cả các ông thầy bói đều chỉ tập trung vào fact chứ không phải là cá nhân người kia. Em có một bài viết sâu về vấn đề này, mời chị đọc:
 

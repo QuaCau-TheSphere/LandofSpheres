@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 - Sự nội tâm hoá (internalization) mà mình được học hôm qua em nghĩ rất liên quan đến một khái niệm khác bên tâm lý học là sự bất lực học được (learned helplessness).
 - Con mèo này có lẽ đang có sự bất lực học được (learned helplessness). 
 Đây là một hiện tượng do Martin Seligman, cha đẻ của bộ môn tâm lý học tích cực, phát hiện ra. Thí nghiệm gốc của Seligman như sau: người ta nhốt một con chó và cho nó bị giựt điện nhẹ. Ban đầu nó tìm mọi cách để thoát, nhưng vì bị nhốt nên nó đành chấp nhận. Sau đó, người ta để nó ra ngoài cùng với những con chó khác và làm lại thí nghiệm. Mặc dù lần này nó không khó khăn gì để thoát cả, và nó thấy rõ ràng là những con khác có thể thoát khỏi sự khó chịu đó, nó vẫn chấp nhận chịu đựng. Người ta phải tự tay đưa nó ra khỏi nơi bị giựt hai ba lần nó mới nhận ra là có thể thoát ra được thật. Con chó đã học được rằng nó sẽ luôn bất lực, nên nó từ chối tin vào khả năng giải thoát của nó.  

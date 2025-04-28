@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Chủ yếu là để mình hiểu nhau hơn. Trao đổi mở
 # Xác nhận đăng đăng ký làm tình nguyện viên cho Quả Cầu
 Xin chào bạn Trang, 

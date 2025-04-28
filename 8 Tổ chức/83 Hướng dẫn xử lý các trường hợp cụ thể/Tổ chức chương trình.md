@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Tóc vàng:: Thoải mái dời lịch mà không sợ thiếu chuyên nghiệp
 Tóc đen:: Phải làm cho đúng hạn để không bị họ thấy là mình thiếu chuyên nghiệp
 

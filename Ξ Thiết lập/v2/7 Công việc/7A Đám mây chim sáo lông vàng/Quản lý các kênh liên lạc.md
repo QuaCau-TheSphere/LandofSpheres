@@ -1,0 +1,84 @@
+---
+Alias: Phê duyệt người mới vào group, Nhắn hỏi người vào group, Đăng các note trong vault lên group, Đăng thông báo họp lên group
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:45
+---
+<sub>Ngày tạo: `=this.file.cday` • Ngày sửa lần cuối: `=this.file.mday`</sub>
+
+=== start-multi-column: headingData
+```column-settings  
+number of columns: 2
+largest column: left
+border: off
+```
+
+Trạng thái:: #tt-⚪/chưaainhậnlàm, #tt-🟡/đangbịviệckháccuốn/khôngliênquan 
+Độ cấp thiết:: #đct-🔥/nênlàmngay , #đct-🔥/muốnlàmngay, #đct-🍃/đợingườinhậnlàm
+Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến, #tc-🥳Tươngtácnhiềuvớiloàingười 
+
+=== end-column ===
+
+Người chơi::
+Kỹ năng:: [[Hậu cần – logistics]], [[Lập kế hoạch]], [[Phát triển cộng đồng (kỹ năng)]], [[Xây dựng tổ chức]]
+
+=== end-multi-column
+
+Tài liệu:: [[Nhóm Facebook mở ❝Vùng đất Quả Cầu❞]], [[Nhóm Facebook kín ❝Một đám mây chim sáo❞]], [[Kênh mở Discord]]
+##### Thành quả cần có
+- [ ] Phê duyệt người mới vào group
+	- [ ] Nhắn hỏi người vào group mà không trả lời các câu hỏi đầu vào
+- [ ] Đăng các note trong vault lên group
+- [ ] Đăng thông báo họp lên group
+##### Chỉ số trước
+
+
+Công việc thành phần:: 
+
+=== multi-column-start: extraInfo
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+Phục vụ cho Thành quả cần có:
+```dataview
+list where contains(hoạt-động, [[]])
+```
+Nằm trong công việc lớn hơn:
+```dataview
+list where contains(công-việc-thành-phần, [[]])
+```
+Khi làm thì có thể gặp những vấn đề này
+```dataview
+list from "5 SWOT, giá trị cốt lõi/51 Điểm yếu - thách thức" where contains(là-vấn-đề-cho-hoạt-động,[[]])
+```
+
+=== end-column ===
+
+Hướng tới loại đối tượng::
+```dataview
+list where contains(hoạt-động-dành-cho-họ,[[]])
+```
+Phục vụ cho những nhu cầu này của đối tượng:
+```dataview
+list where contains(row["Cách đáp ứng nhu cầu này"],[[]])
+```
+Người sẵn sàng làm cùng:
+```dataview
+list from "6 Các bên liên quan (NPC)/Cá nhân/63 Đối tượng cụ thể" where contains(sẵn-sàng-tham-gia-hoạt-động,[[]])
+```
+
+=== multi-column-end
+
+prev:
+```breadcrumbs
+type: tree
+dir: prev
+title: false
+```
+
+Tương quan với các công việc khác:
+```dataview 
+list map(công-việc-thành-phần, (t) => choice(t = [[]], "**" + t + "**", t))
+WHERE contains(công-việc-thành-phần, [[]])
+```

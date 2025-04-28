@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 [[3 Kiến thức, câu hỏi/33 Ghi chép/339 Xây dựng dự án/Game hoá/Game hoá]]
 
 | Thực thể                                    | Trò chơi                                              |

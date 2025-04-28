@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 
 ![[Excel is not a good tool.png]]
 https://www.integrify.com/blog/posts/5-things-you-should-stop-doing-with-microsoft-excel/

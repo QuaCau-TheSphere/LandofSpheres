@@ -1,5 +1,7 @@
 ---
-Alias : Bảng tóc vàng tóc đen, xử lý mâu thuẫn
+Alias: Bảng tóc vàng tóc đen, xử lý mâu thuẫn
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
 ---
 
 > [!important] Bài chi tiết: [[Truyện Ngụ Ngôn về Người Nhật – Phần Một (chưa chắc có Phần Hai)]]

@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 LẬP KẾ HOẠCH SƠ BỘ
 Xác định làm thế nào một quan hệ đối tác có thể nâng cao trải nghiệm của sinh viên.
 Xác định nhu cầu chưa được đáp ứng / thiếu kinh phí của học sinh và trường học.

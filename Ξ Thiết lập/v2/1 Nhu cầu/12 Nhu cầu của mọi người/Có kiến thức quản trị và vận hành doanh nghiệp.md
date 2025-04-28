@@ -1,0 +1,1 @@
+Lý do:: Có thể đọc code Odoo dễ hơn

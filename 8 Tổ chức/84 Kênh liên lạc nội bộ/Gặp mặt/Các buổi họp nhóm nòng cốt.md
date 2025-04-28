@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Người tham gia chính:: [[63.01 Thành viên nòng cốt|Thành viên nòng cốt]] và người đặc cách
 Đặc điểm buổi họp:: Không gian để đánh giá các thành viên khác. Ưu tiên cho sự cảm thấy hiệu quả của thành viên nòng cốt
 Nội dung thảo luận:: 

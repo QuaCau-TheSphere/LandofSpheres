@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # BUSINESS SUMMARY GUIDELINES
 
 3.  You may attach a one-page business summary, picture, charts, or other data to your business plan as appendices at the back of the document after the Business Model Canvas (BMC).

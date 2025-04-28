@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Về vấn đề này, đặc biệt là ở ý 4 của chú khi nói là những người chống và ủng hộ việc để môn sử là môn tự chọn không nhận ra là họ đồng tình với nhau nhiều hơn họ nghĩ, con cho rằng việc tìm hiểu về vai trò của trí nhớ ngắn hạn và sự chú ý trong việc xử lý sự mâu thuẫn trong niềm tin sẽ giúp ích chuyện này. (Mạng lưới niềm tin cũng sử dụng mô hình Ising trong chất rắn để chạy mô phỏng, nếu ta giả định một người chỉ có 2 trạng thái cho một mệnh đề — tin hoặc không tin, và niềm tin của những người xung quanh sẽ giúp ta cập nhật niềm tin của mình). Con có một nghiên cứu cá nhân về vấn đề này, xin gửi chú nếu chú hứng thú: https://quacau.space/f5nf
 
 Trích phần liên quan tới ý chú nói:

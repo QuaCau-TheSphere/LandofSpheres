@@ -1,0 +1,9 @@
+
+
+
+Cách đáp ứng nhu cầu này:: [[Truyền thông các bài viết về tự trị]], [[Giới thiệu các bài viết về sự tác động]]
+Họ được gì khi tham gia:: [[Sự tự tin khi đối diện với các vấn đề nhạy cảm. Sự rõ ràng trong các vấn đề đạo đức]]
+Lý do:: 
+Nhu cầu liên quan:: 
+Nhu cầu này khiến cho họ thấy dự án thế nào:: 
+Thuộc nhóm nhu cầu nào:: [[Sự toàn vẹn]], [[Sự tương trợ lẫn nhau]]

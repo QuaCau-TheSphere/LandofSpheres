@@ -1,5 +1,7 @@
 ---
 Thuộc hoạt động: Họp
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
 ---
 
 Tóc vàng:: Thảo luận cho đến khi nào tất cả các bên cảm thấy thuyết phục thì thôi. Để các thành viên tự bàn luận để đến thống nhất chung, người đứng đầu không can thiệp hoặc chỉ gợi mở cho hai bên

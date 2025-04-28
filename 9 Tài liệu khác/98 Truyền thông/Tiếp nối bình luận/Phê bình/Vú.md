@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Có cuốn "Lịch sử vú" này em nghĩ khá là liên quan, nên chia sẻ cho mọi người tham khảo :D
 
 ❝Đọc xong _Lịch sử vú,_ chợt nhận ra rằng: cao hay thấp, to hay nhỏ, rắn chắc hay lõng thõng, nguyên bản hay can thiệp, mặc nịt vú hay thả rông, vén vú cho con bú ở nơi công cộng hay không... tất cả không chỉ là thị hiếu thẩm mỹ mang tính nhục thể mà đều là những diễn ngôn tinh thần về vú.

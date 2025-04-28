@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Quả Cầu sẽ biến đổi theo nhu cầu của bạn
 Quả Cầu là một thứ mà mỗi lần bạn chạm vào nó nó sẽ hiện ra theo một cách khác nhau. Điều gì đưa bạn đến với Quả Cầu ngày hôm nay? Hãy chọn một nhu cầu bạn đang có và xem xem nó đáp ứng được nhu cầu của bạn tới đâu:
 

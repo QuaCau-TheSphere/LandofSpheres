@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Tổ chức Khoa học Công nghệ (thuộc Bộ/Sở KHCN)
 
 Quỹ từ thiện hay Quỹ xã hội (thuộc Bộ/Sở Nội Vụ)

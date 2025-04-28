@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Đừng quên lấy những bài học trong quá khứ
 Bài viết này nói về việc đừng quên lấy những bài học trong quá khứ. Chúng ta đã trải qua quá nhiều thiên tai, từ dịch bệnh, động đất, sóng thần, nhưng đến mùa dịch covid này thì đâu lại hoàn đấy. Tác giả mong muốn văn chương phải chia sẻ trách nhiệm trong việc lưu trữ ký ức. Tác giả khẳng định: "Ký ức cá nhân không thể thay đổi thế giới, nhưng nó có thể khiến chúng ta có được một nội tâm chân thực." Tác giả đau đáu: "Trí nhớ của chúng ta đã bị ai xóa đi, moi đi mất rồi?!" Tác giả tha thiết: "tôi hi vọng các bạn, hi vọng chúng ta - những người đã trải qua kiếp nạn dịch bệnh viêm phổi do virút corona chủng mới, từ việc trải qua kiếp nạn này đều có thể trở thành những người luôn có trí nhớ, những người có thể khiến trí nhớ sản sinh ra ký ức."
 

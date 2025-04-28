@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Nên làm gì khi mình sợ?
 Mình nghĩ thật ra không cần phải nói lại những thứ bạn đã biết rồi. Thứ duy nhất cản trở bạn làm điều cần thiết là nỗi sợ. Bạn đã tự thấy điều đó, nhưng mãi mà không bước ra được.
 

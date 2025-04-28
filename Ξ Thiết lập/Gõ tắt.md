@@ -1,75 +1,53 @@
-# 1 Nhu cầu
-Nhu cầu của loại đối tượng:: 		nc
-Nhu cầu của mình về loại đối tượng:: 		nc
-Nhu cầu dẫn tới::		ncdt
-Nhu cầu phát sinh::		ncps
+---
+updated: 2024-08-20T12:45
+created: 2024-08-20T12:44
+---
+Nhu cầu:: 		nc, dy, tl
+Nhu cầu dẫn tới:: 		ncdt, ch, mt
+Điểm mạnh:: 		đm, dm
 
-# 3 Kiến thức, câu hỏi
-❓::		ktq, ch, cauhoi
-Chủ đề::		ktw, cd, chude
-Trả lời:: 		kte, tl
-
-# 4 Sản phẩm, thành quả mong muốn
 Thành quả cần có:: 		tqcc
 Thành quả hỗ trợ:: 		tqht
-Thành phẩm:: 		tp
-Thành phẩm nhỏ hơn:: 		tpnh
+Thành phẩm:: 		tp, kn, xt
+Giải pháp gợi ý:: 		gp
 
-Hướng đến thời gian::		kkh
-Đi chung::		dc
-Đối tượng thụ hưởng::		dtth
-Hoạt động::		kkh
+Thách thức:: 		tt, kk
 
-# 5 SWOT, giá trị cốt lõi
-Lý do:: 		vvl, ld
-Là vấn đề cho hoạt động::		vvh
-Điểm yếu::		dy
-Điểm mạnh::		dm
-# 6 Các bên liên quan (NPC)
-Loại đối tượng::		bbl
-Nhu cầu của đối tượng::		bbn
-Điều đối tượng thấy ở QC::		bbd
-Hoạt động đã làm trong tổ chức::		bbs
-Hoạt động nhận làm trong tổ chức::		bbs
-Đánh giá chung:: [[|]]		bbd
-Nhu cầu ẩn đằng sau nhận định này::
-Cách đáp ứng nhu cầu này:		nnc
-Lý do khiến điều này hiện diện trong mắt họ:: [[|]]		bbv
+Khái niệm:: 		kn
+Lý do:: 		ld
+Liên quan:: 		lq
+Câu hỏi:: 		ch
+Mâu thuẫn với:: 		mtv
+Xem thêm:: 		xt
 
-Mô hình::		bbm
-Đối tượng thụ hưởng::		bbdd
-Loại sứ mệnh:: 		bbll
+Nguồn:: 		ng
+Trích từ:: 		tt
+Tham khảo:: 		tk
 
-Tiếp theo:: 		tt
-
-# 7 Công việc 
-Công việc thành phần::		cvt
-next::		cvn
-
-Tính chất công việc:: #tc-🧍Cóthểlàmmộtmình, #tc-🌐Cóthểlàmquamạng, #tc-📱Cóthểlàmtrênđiệnthoại, #tc-🔓Làmlúcnàocũngđược, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🧠Khôngphảisuynghĩnhiều, #tc-💬Làmxongkhôngcầnhỏiýkiến		tccv1
-Tính chất công việc:: #tc-☕Chỉnênlàmkhigặpmặttrựctiếp, #tc-🥳Tươngtácnhiềuvớiloàingười, #tc-💬Họpthườngxuyên, #tc-🔁Côngviệclặplại, #tc-🔁Kếtquảthayđổithườngxuyên, #tc-🗣️Nóinhiều, #tc-💻Khôngphảicắmmặtvàomáytính		tccv2
-
-# 8 Tổ chức
-Công việc:: 		cv
-
-# 9 Tài liệu
-Tóc vàng:: 		tv
-Tóc đen:: 		td
-
-
-Tài liệu::		xt
-Mâu thuẫn::		mt
+Nhu cầu công việc:: 		nccv
+Nhu cầu công nghệ:: 		nccn
+Lĩnh vực:: 		lv
+Giải pháp kỹ thuật:: 		gpkt
 
 # Code nhanh
+## Bảng
+| Thành quả mong muốn | Giả thiết | Công việc |\n| ------------------- | --------- | --------- |		tqmm
+|Công việc| Thành quả mong muốn | Giả thiết |\n| ------------------- | --------- | --------- |		cv
+| Giải pháp gợi ý | Hành vi cần đạt được | Giả thiết | Công việc |\n| --------------- | -------------------- | --------- | --------- |		gp
+
 ## Dataview
 ```dataview\nLIST\nFROM |\nWHERE\n```		dtv
 Các note cũng nói về chủ đề này:\n```dataview \nList\nWhere contains(file.name,split(this.file.name," \(")[0]) and file.path!=this.file.path\n```		cungchude
 
-(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM	dct1
-#đct-🍃/sớmphảilàm or #đct-🍃/đợingườinhậnlàm		cc	dct2
+(#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM, dct1
+#đct-🍃/sớmphảilàm or #đct-🍃/đợingườinhậnlàm		cc, dct2
 
 ## Mermaid
-```mermaid\ngantt\n    dateFormat  D/M H:m\n	axisFormat  %d/%m\n    title       Biểu đồ mẫu\n\n    section Phần A\n    Việc 1                 : 5/5 4:30, 3d\n    Việc 2                 : 5d \n    \n    section Phần B\n    Milestone            : milestone, 4/5 04:30\n```		mmgantt
-```mermaid\nflowchart TB\n    c1-->a2\n    subgraph one\n    a1-->a2\n    end\n    subgraph two\n    b1-->b2\n    end\n    subgraph three\n    c1-->c2\n    end\n```		mmflowchart
+```mermaid\ngantt\ndateFormat  D/M H:m\naxisFormat  %d/%m\ntitle       Biểu đồ mẫu\n\nsection Phần A\nViệc 1                 : 5/5 4:30, 3d\nViệc 2                 : 5d \n\nsection Phần B\nMilestone            : milestone, 4/5 04:30\n```		mmgantt
+```mermaid\nflowchart TB\nc1["This ❤ Unicode"]-->a2\nsubgraph one\na1-->a2\nend\n\nsubgraph two\nb1-->b2\nend\n\nsubgraph three\nc1-->c2\nend\n```	 		mmflowchart
 
 [label="|"]		ll
+
+> [!Tip] Phím tắt\n> <kbd>|</kbd>		pt
+
+> [!Tip] Terminal\n> <kbd>|</kbd>		tm

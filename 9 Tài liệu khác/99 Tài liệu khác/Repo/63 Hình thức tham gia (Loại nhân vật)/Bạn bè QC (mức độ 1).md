@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Đặc điểm
 - Thể hiện sự hứng thú với QC, có thể là nói trực tiếp, có thể là hay tham gia các buổi workshop, hoặc mới đăng ký làm TNV
 - Chỉ biết một người trong nhóm

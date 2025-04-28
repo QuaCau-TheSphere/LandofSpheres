@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 BridgeFest là lễ hội âm nhạc và kết nối cộng đồng do Oxfam, Đại sứ quán Hoa Kỳ, Đại sứ quán Thụy Sĩ, Bộ Văn hóa, Thể thao & Du lịch tổ chức. Sự kiện có sự tham gia triển khai bởi Trung tâm REACH, Doanh nghiệp xã hội ECUE và công ty Hexagon. Năm 2023, BridgeFest dự kiến được tổ chức vào ngày 09 tháng 12 năm 2023 tại Phố đi bộ Nguyễn Huệ, Quận 1, TP Hồ Chí Minh.  
   
 Nếu bạn là tổ chức phi chính phủ, tổ chức xã hội, các nhóm thanh niên/sinh viên, doanh nghiệp đổi mới sáng tạo vì mục đích nhân văn hay tổ chức cộng đồng quan tâm đến sự kiện và muốn tham gia, có gian trưng bày, giới thiệu tới hàng chục nghìn người tại sự kiện thì hãy đăng ký với Ban tổ chức bằng cách điền form đăng ký dưới đây nhé.  

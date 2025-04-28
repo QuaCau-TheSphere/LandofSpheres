@@ -1,5 +1,7 @@
 ---
 Alias: 66.01
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
 ---
 Tóc vàng:: [[Công khai tất cả mọi thứ cho tất cả mọi người]]
 Tóc đen:: Tuỳ từng cấp độ mới được truy cập

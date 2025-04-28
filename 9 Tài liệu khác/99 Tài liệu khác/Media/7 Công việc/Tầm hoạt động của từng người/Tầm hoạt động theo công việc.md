@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 digraph "masterGraph"{
 overlap=false
 T [ label="Tầm hoạt động\ncủa từng người" fontsize = 100 fontname="SVN-Avo" shape="plaintext" ]	// Không dùng label mà dùng plain note cho tiêu đề sơ đồ vì như thế tiêu đề sẽ luôn ở trên đầu mà không ở vùng giữa trang, vừa tốn chỗ mà cũng không đẹp bằng (đặc biệt là ở neato) 

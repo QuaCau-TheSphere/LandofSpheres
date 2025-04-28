@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Fuller was influenced by [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski)'s idea of [general semantics](https://en.wikipedia.org/wiki/General_semantics). In the 1950s, Fuller attended seminars and workshops organized by the [Institute of General Semantics](https://en.wikipedia.org/wiki/Institute_of_General_Semantics), and he delivered the annual [Alfred Korzybski Memorial Lecture](https://en.wikipedia.org/wiki/Alfred_Korzybski_Memorial_Lecture) in 1955.[[49]](https://en.wikipedia.org/wiki/Buckminster_Fuller#cite_note-49) Korzybski is mentioned in the Introduction of his book [Synergetics](https://en.wikipedia.org/wiki/Synergetics_(Fuller)). The two shared a remarkable amount of similarity in their formulations of general semantics.[[50]](https://en.wikipedia.org/wiki/Buckminster_Fuller#cite_note-50)
 
 In his 1970 book I Seem To Be a Verb, he wrote: "I live on Earth at present, and I don't know what I am. I know that I am not a category. I am not a thing—a noun. I seem to be a verb, an evolutionary process—an integral function of the universe."

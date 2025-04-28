@@ -1,0 +1,1 @@
+Người hưởng lợi ở tương lai, còn người bất lợi thì ở ngay hiện tại

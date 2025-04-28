@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 [Christopher Alexander - Patterns in Architecture - YouTube](https://youtu.be/98LdFA-_zfA)
 this is a pretty strange situation. i'm addressing a room, a whole football field, full of people, and i don't know hardly anything about what all of you do.  my uh association with you if i can call it that began
 must have been two or three years ago somebody called me uh a computer scientist called me and said um

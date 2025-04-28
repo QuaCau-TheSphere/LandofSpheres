@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Nên nếu bạn bấm vào bài này để tìm hiểu về tính toán lượng tử hay nghịch lý Simpson, thì rất tiếc, tôi sẽ không giải thích chúng là gì. Để biết chúng là gì thì bạn hãy đọc bài gốc đi :))
 
 Các tác giả của _Quantum Country_ xem nó là một *phòng thí nghiệm trí nhớ*. That is, it’s a system which can be used both to better understand how memory works, and also to develop new kinds of memory system. We’d like to answer questions such as:

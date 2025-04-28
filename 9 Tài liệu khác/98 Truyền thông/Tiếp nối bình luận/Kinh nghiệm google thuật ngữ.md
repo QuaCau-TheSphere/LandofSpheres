@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Cách tìm ra thuật ngữ tiếng Việt
 
 Đặt mình vào tư thế của người thầy dạy sinh viên, của người có kiến thức nhưng chỉ tạm thời quên

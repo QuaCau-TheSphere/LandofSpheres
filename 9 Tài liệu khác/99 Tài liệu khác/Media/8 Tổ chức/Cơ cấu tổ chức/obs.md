@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 digraph {
 	edge [len=1]
 	T [ label="Cơ cấu tổ chức" fontsize = 30 fontname="SVN-Avo" shape="plaintext" ]	// Không dùng label mà dùng plain note cho tiêu đề sơ đồ vì vị trị của label không có ở vùng giữa trang cho đẹp được

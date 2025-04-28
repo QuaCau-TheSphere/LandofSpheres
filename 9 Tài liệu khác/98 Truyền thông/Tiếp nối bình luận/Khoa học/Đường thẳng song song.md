@@ -1,1 +1,5 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Trong toán học, cái vấn đề đường song song gặp lại nhau tại vô cực nằm trong bộ môn hình học xạ ảnh. Nếu ta tưởng tượng ra có một quả cầu ở trên thế giới thực (hay mặt phẳng mà ta đang sống), với một điểm sáng chiếu từ đỉnh quả cầu xuống thế giới thực, thì đường thẳng sẽ là một đường tròn đi qua đỉnh quả cầu, và điểm ở vô cực ở thế giới thực sẽ là đỉnh của quả cầu. Tất cả các đường thẳng sẽ đều cắt nhau tại vô cực, và điểm ở vô cực thực chất cũng chỉ là một điểm như bao điểm khác trong mặt phẳng.

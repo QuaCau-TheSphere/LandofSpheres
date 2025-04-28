@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Sách cho bố mẹ, từ chuyện bầu bí cho đến chuyện con dậy thì chắc các mọi người đã đọc nát hết rồi. Sách cho con, từ Doraemon cho đến sách giáo khoa cũng đã có rất nhiều, em không cần phải giới thiệu thêm gì nữa. Nhưng cuốn sách em muốn giới thiệu có thể khiến cho người lớn được trở thành trẻ con, bố mẹ các cháu đọc vào cũng không thể nào ngừng ôm bụng cười được =))
 
 Đó là cuốn What If?, tiếng Việt là Chuyện gì sẽ xảy ra nếu? Tác giả của nó trước có làm cho NASA, sau nghỉ để mở một trang web truyện tranh mini. Nhờ có trang này mà anh nổi tiếng như cồn, được xếp cùng danh sách với Bill Gates hay Zuckerberg về tầm ảnh hưởng văn hóa (tất nhiên cùng danh sách không có nghĩa là ngang bằng).

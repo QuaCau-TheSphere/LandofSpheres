@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Giới thiệu về QC cho người ngoài
 Giới thiệu chung thì có thể dựa vào [[4 Sản phẩm, Thành quả cần có (các vùng đất)]], hoặc có thể điều chỉnh tuỳ vào [[61 Loại đối tượng|từng loại đối tượng cụ thể]]
 # Gửi link

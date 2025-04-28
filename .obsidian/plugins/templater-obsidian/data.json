@@ -15,23 +15,14 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "/",
-      "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
-    },
+      "folder": "1 Nhu cầu",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
     {
-      "folder": "📜Tài nguyên/Nhu cầu công việc",
-      "template": "Ξ Thiết lập/Templates/Nhu cầu công việc.md"
-    },
-    {
-      "folder": "📜Tài nguyên/Nhu cầu công nghệ",
-      "template": "Ξ Thiết lập/Templates/Nhu cầu công nghệ (template).md"
-    },
-    {
-      "folder": "⚡Hiểu biết sâu/Ξ Khái niệm",
-      "template": "Ξ Thiết lập/Templates/Khái niệm.md"
-    },
-    {
-      "folder": "",
+      "regex": ".*",
       "template": ""
     }
   ],
@@ -43,5 +34,6 @@
   "startup_templates": [
     ""
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }

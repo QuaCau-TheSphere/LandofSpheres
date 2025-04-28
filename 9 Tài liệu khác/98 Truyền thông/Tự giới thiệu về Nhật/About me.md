@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Hi! Welcome to my profile. My work can be divided into two projects: *The Sphere* and *A theory of perspective*
 ## Project 1: The Sphere
 The mission of *The Sphere* is to promote self-refection, the respect to others, the curiosity to what causes fear, and the courage to cut harmful things. The targets are people who are suffering (or creating suffering to others), yet resist others' supports to maintain status quo. This includes abusers and people who developed a worldview to justify their learned helplessness. The method is to equip their friends and loved ones the skills and knowledge to help them change their mind. For starter, read about [social work case management](https://www2.slideshare.net/esahakyan/integrated-social-services-reaching-the-most-vulnerable-training-package-for-case-managers-16096590) and [consequentialism](https://plato.stanford.edu/entries/consequentialism).

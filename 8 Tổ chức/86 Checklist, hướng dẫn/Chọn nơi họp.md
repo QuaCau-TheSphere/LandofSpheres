@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # <7 người
 ## Tiêu chí quan trọng
 | Tiêu chí                     | Online | Nhà Ân | Phòng sinh hoạt chung cư nhà Nhật (lầu 5) | Viễn Đông | Cà phê thường | Cà phê phòng riêng | Công viên |

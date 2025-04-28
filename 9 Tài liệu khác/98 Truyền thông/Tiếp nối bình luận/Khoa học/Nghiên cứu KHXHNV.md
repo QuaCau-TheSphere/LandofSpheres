@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # [Heurist Network](https://heuristnetwork.org/): quản lý cơ sở dữ liệu mã nguồn mở dành riêng cho nghiên cứu nhân văn
 Hình 1: các tính năng. Hình 2: giao diện sử dụng. [Video](https://www.youtube.com/watch?v=wuh9SRtE8eE&width=640&height=480)
 ![](https://raw.githubusercontent.com/HeuristNetwork/heurist/h6dev/documentation_and_templates/assets/model%20and%20build.jpg) 

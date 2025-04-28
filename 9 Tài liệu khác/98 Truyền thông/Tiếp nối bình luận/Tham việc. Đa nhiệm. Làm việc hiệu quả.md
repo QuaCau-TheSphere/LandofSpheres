@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Mình thấy có một bài viết và một quyển sách có vẻ liên quan đến chủ đề này, nên chia sẻ với chủ thớt:
 
 • Bài viết trên WIRED *Hundreds of Ways to Get S#!+ Done—and We Still Don’t*: kể về hiệu ứng Zeigarnik khi bạn không thể dừng lại những suy nghĩ khi một công việc chưa hoàn thành, về việc những người viết những app quản lý công việc cũng cảm thấy là việc phần mềm của họ không thể giúp quản lý công việc một cách hiệu quả được, và về mối quan hệ của chúng ta với thời gian 

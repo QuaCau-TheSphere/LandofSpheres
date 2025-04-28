@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Đăng link
 ## Hỏi trước
 Chào bạn, mình có một bài phản biện sách, nhưng phải dẫn link vì bài cực kỳ dài, chia ra mấy phần cũng ko đủ. Chỉ nội phần mở đầu đã dài hơn một số bài review rồi. Hơn nữa, bài cần dùng nhiều format mà fb ko hỗ trợ, kể cả dùng note cũng thiếu. Không biết mình có thể đưa link thôi được ko? Cám ơn bạn

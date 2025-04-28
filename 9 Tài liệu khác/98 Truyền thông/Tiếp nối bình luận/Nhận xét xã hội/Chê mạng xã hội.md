@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 # Thất vọng khi không có tương tác
 cảm giác thất vọng khi không có được tương tác là một cái gì đó khá instinctive, vì thường như vậy có nghĩa là sản phẩm của mình kém chất lượng. Trong khi trên mạng xã hội điều đó hoàn toàn ko đúng. Clip này khá hay, em xem nhiều lần vì nó giải thích cặn kẽ tại sao các công ty lại thiết kế những thuật toán bóp reach. Tuy nó là dành cho YouTube nhưng chắc cũng đúng phần nào trên Facebook. Có thể anh sẽ hứng thú [https://www.youtube.com/watch?v=fHsa9DqmId8](https://www.youtube.com/watch?v=fHsa9DqmId8)
 

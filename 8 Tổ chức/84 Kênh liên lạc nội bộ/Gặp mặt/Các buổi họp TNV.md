@@ -1,3 +1,7 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-04-26T22:48
+---
 Người tham gia chính:: [[63.02 Tình nguyện viên]] 
 Người được thông báo lịch:: [[Bạn bè QC (mức độ 1)]]
 Đặc điểm buổi họp:: Là nơi để người mới đặt câu hỏi, thoả mãn nhu cầu giao tiếp xã hội
